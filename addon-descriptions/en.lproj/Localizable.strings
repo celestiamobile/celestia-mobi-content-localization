@@ -553,6 +553,9 @@
 // English: This add-on adds 2600 stars and 214 globular clusters to the Andromeda Galaxy. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.
 "280A2002-C66A-11B0-B9AE-865EC164DA2C" = "This add-on adds 2600 stars and 214 globular clusters to the Andromeda Galaxy. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.";
 
+// English: HAT-P-13, also known as TOI-5374, is a G-type subgiant star about 810.71 light-years away in the constellation Ursa Major. Two gas giants were discovered orbiting this star via radial velocity and transit methods, in addition to a third planet that is yet to be confirmed
+"280B462A-BE81-43CD-9B38-EB346C183B99" = "HAT-P-13, also known as TOI-5374, is a G-type subgiant star about 810.71 light-years away in the constellation Ursa Major. Two gas giants were discovered orbiting this star via radial velocity and transit methods, in addition to a third planet that is yet to be confirmed";
+
 // English: 3D/Biela was a periodic comet of the Jupiter family which had an orbital period of 6.62 years. Was first observed in 1772 by Montaigne and Messier, and identified as periodic in 1826 by Wilhelm von Biela. In 1852, the comet was observed to split into two parts. After that, parts of the comet's nucleus were never seen again. Therefore, Biela is considered a lost comet.\nNOTE: For you to see the comet, you need to change the time on Celestia to any time before 1852-Sept-29
 "28233FB4-ED07-EB26-B49A-3DFA8D3F9694" = "3D/Biela was a periodic comet of the Jupiter family which had an orbital period of 6.62 years. Was first observed in 1772 by Montaigne and Messier, and identified as periodic in 1826 by Wilhelm von Biela. In 1852, the comet was observed to split into two parts. After that, parts of the comet's nucleus were never seen again. Therefore, Biela is considered a lost comet.\nNOTE: For you to see the comet, you need to change the time on Celestia to any time before 1852-Sept-29";
 
@@ -2379,6 +2382,9 @@
 
 // English: K2-236, also known as TOI-5065, is an F-type main sequence star about 589.68 light-years away in the constellation Cancer. In 2018, a super-neptunian planet was discovered by six scientists from India through analysis of Kepler-K2 data. This is the country's first exoplanet discovery ever conducted
 "A3C5078C-339F-4C62-A275-7EE047FA124A" = "K2-236, also known as TOI-5065, is an F-type main sequence star about 589.68 light-years away in the constellation Cancer. In 2018, a super-neptunian planet was discovered by six scientists from India through analysis of Kepler-K2 data. This is the country's first exoplanet discovery ever conducted";
+
+// English: Kepler-103, also known as KOI-108, is a large Sun-like star about 1,637 light-years away in the constellation Cygnus. It has two gas giants, both neptunian, with orbits ranging from 0.1 to 0.7 AU from their star
+"A436A8D4-D372-474B-BDE9-DC644DDC233B" = "Kepler-103, also known as KOI-108, is a large Sun-like star about 1,637 light-years away in the constellation Cygnus. It has two gas giants, both neptunian, with orbits ranging from 0.1 to 0.7 AU from their star";
 
 // English: Kepler-41, also known as KOI-196, is an Sun-like star about 3,679 light-years away in the constellation Cygnus. A gas giant planet about the size of Saturn was discovered, completing one orbit every 1.86 days at a distance of 4.06 million km from its host star
 "A4511B44-0F14-46D9-81D3-AFF406B2D718" = "Kepler-41, also known as KOI-196, is an Sun-like star about 3,679 light-years away in the constellation Cygnus. A gas giant planet about the size of Saturn was discovered, completing one orbit every 1.86 days at a distance of 4.06 million km from its host star";
