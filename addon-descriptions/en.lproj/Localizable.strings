@@ -3577,6 +3577,9 @@
 // English: This add-on places the Venator Class Star Destroyer in an orbit around Earth.
 "F7CAC7DB-1005-E6CD-AC82-683EB2814E71" = "This add-on places the Venator Class Star Destroyer in an orbit around Earth.";
 
+// English: GJ 1252, also known as TOI-1708, is a red dwarf star about 66.49 light-years away in the constellation Telescopium. A large rocky superterran planet was discovered by TESS in 2020, where observations from Spitzer show that its proximity to its star meant that it has no atmosphere. A neptune-like planet was detected, but its existence is yet to be confirmed by follow-up studies
+"F7EAB149-39D6-40F3-B75D-FBC1D2CBD0BE" = "GJ 1252, also known as TOI-1708, is a red dwarf star about 66.49 light-years away in the constellation Telescopium. A large rocky superterran planet was discovered by TESS in 2020, where observations from Spitzer show that its proximity to its star meant that it has no atmosphere. A neptune-like planet was detected, but its existence is yet to be confirmed by follow-up studies";
+
 // English: Landsat 7 is a NASA/USGS satellite dedicated in imaging the Earth's surface. It was launched in 1999 and is planned to be decommissioned following the successful launch of Landsat 9 in 2021
 "F7F60BA2-F2A8-CD21-0719-868BC55688C4" = "Landsat 7 is a NASA/USGS satellite dedicated in imaging the Earth's surface. It was launched in 1999 and is planned to be decommissioned following the successful launch of Landsat 9 in 2021";
 
