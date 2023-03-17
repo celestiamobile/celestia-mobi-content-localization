@@ -1,11 +1,11 @@
 // English: Confirmed (O)
-"00AF3056-5512-42F3-A6CC-3B66CF6203EC" = "Confirmados (O)";
+//"00AF3056-5512-42F3-A6CC-3B66CF6203EC" = "Confirmed (O)";
 
 // English: Scripts
-"09877309-D214-43E2-AE37-C9F716D5EF78" = "Scripts";
+//"09877309-D214-43E2-AE37-C9F716D5EF78" = "Scripts";
 
 // English: Confirmed (K)
-"0EEF518F-C9C8-E27D-AA9C-8747FF2094B7" = "Confirmados (K)";
+//"0EEF518F-C9C8-E27D-AA9C-8747FF2094B7" = "Confirmed (K)";
 
 // English: Hypothetical & Disproven
 "105D3A34-2DBB-25F3-6E22-706D64C88128" = "Hipotético e Refutado";
@@ -17,28 +17,28 @@
 "1B0E1953-C21C-D628-7FA6-33A3ABBD1B40" = "Exoplanetas";
 
 // English: Babylon 5
-"1F8B3C2C-AA6B-FC61-7AC0-12C0F75F7691" = "Babylon 5";
+//"1F8B3C2C-AA6B-FC61-7AC0-12C0F75F7691" = "Babylon 5";
 
 // English: 2001: A Space Odyssey
 "208B64C6-5396-FF0B-7BAC-9C0EC38415AF" = "2001: Uma Odisseia no Espaço";
 
 // English: Spacecraft
-"22FD36EF-8F97-5C31-30FE-A76257FC2DE1" = "Naves Espaciais";
+"22FD36EF-8F97-5C31-30FE-A76257FC2DE1" = "Nave Espacial";
 
 // English: Space Debris
 "2ED63227-97AC-8F3E-5800-7350F19A086A" = "Detritos Espaciais";
 
 // English: Asteroids, Comets and TNOs
-"31CD307B-BE26-F0FE-7A12-DCA429A50F6C" = "Asteroides, Cometas and TNOs";
+//"31CD307B-BE26-F0FE-7A12-DCA429A50F6C" = "Asteroids, Comets and TNOs";
 
 // English: Confirmed (G)
-"340AA62C-1E60-40B2-8E86-9F04AD5153AE" = "Confirmados (G)";
+//"340AA62C-1E60-40B2-8E86-9F04AD5153AE" = "Confirmed (G)";
 
 // English: Confirmed (P)
-"35D8CF1B-95AD-439C-BED9-7F64E704F606" = "Confirmados (P)";
+//"35D8CF1B-95AD-439C-BED9-7F64E704F606" = "Confirmed (P)";
 
 // English: Space Stations
-"37187B7E-717A-8E70-5454-FD1A589C2B21" = "Estações Espaciais";
+//"37187B7E-717A-8E70-5454-FD1A589C2B21" = "Space Stations";
 
 // English: Jupiter
 "3D88462A-9D49-0816-CF79-B8E1A14CAE0A" = "Júpiter";
@@ -47,16 +47,16 @@
 "3F7546F9-D225-5194-A228-C63281B5C6FD" = "Nebulosas";
 
 // English: Mars
-"413228EC-051A-D8EE-5E6D-F883A4953F26" = "Marte";
+//"413228EC-051A-D8EE-5E6D-F883A4953F26" = "Mars";
 
 // English: Space Telescopes
-"442E0194-4D40-85C1-4227-F1D8C61811FA" = "Telescópios Espaciais";
+//"442E0194-4D40-85C1-4227-F1D8C61811FA" = "Space Telescopes";
 
 // English: Demos
-"44F231CF-D5E2-5815-19AF-110660E76778" = "Demos";
+//"44F231CF-D5E2-5815-19AF-110660E76778" = "Demos";
 
 // English: Crewed/Resupply Missions
-"4C984847-1232-385B-793B-0E0700ED883E" = "Missões Tripuladas/Resuplentes";
+//"4C984847-1232-385B-793B-0E0700ED883E" = "Crewed/Resupply Missions";
 
 // English: Comets
 "4F4D674A-6BBE-EC82-3F1A-9CBA4E91044D" = "Cometas";
@@ -68,10 +68,10 @@
 "5A6E1D18-F280-CB5D-5622-C925B6E9B6E1" = "Outros";
 
 // English: Dwarf Planets
-"5BEC4659-837F-43DA-BEC6-E838B369293E" = "Planetas Anões";
+//"5BEC4659-837F-43DA-BEC6-E838B369293E" = "Dwarf Planets";
 
 // English: Confirmed (X, Y and Z)
-"5D824B5F-B5B5-4EE9-A6E2-6C331B5BCD2B" = "Confirmados (X, Y and Z)";
+//"5D824B5F-B5B5-4EE9-A6E2-6C331B5BCD2B" = "Confirmed (X, Y and Z)";
 
 // English: Trans-Neptunian Objects (TNOs)
 "5DABA8EB-7105-8592-2DA8-505AC6584A55" = "Objetos Trans-Netunianos (TNOs)";
@@ -83,34 +83,34 @@
 "638E2A3D-7C1D-DAA5-3CFE-4E9B540D775A" = "Vênus";
 
 // English: Confirmed (T, U and V)
-"6455338A-F2B9-5FB3-4CB4-5A00A62C7CEB" = "Confirmados (T, U and V)";
+//"6455338A-F2B9-5FB3-4CB4-5A00A62C7CEB" = "Confirmed (T, U and V)";
 
 // English: Orion's Arm
-"660FAF24-654D-DD65-A97B-21C42D57B1C5" = "Orion's Arm";
+//"660FAF24-654D-DD65-A97B-21C42D57B1C5" = "Orion's Arm";
 
 // English: Confirmed (W)
-"6F6AAA53-C204-4856-963C-E720962FDB3D" = "Confirmados (W)";
+//"6F6AAA53-C204-4856-963C-E720962FDB3D" = "Confirmed (W)";
 
 // English: The Plutonian Empire
-"716EFF91-286D-4C24-A7E5-7CEE57739924" = "The Plutonian Empire";
+//"716EFF91-286D-4C24-A7E5-7CEE57739924" = "The Plutonian Empire";
 
 // English: Planets & Systems
-"79907B53-C287-F6BC-01EB-B7D9B8A02161" = "Planetas & Systemas";
+//"79907B53-C287-F6BC-01EB-B7D9B8A02161" = "Planets & Systems";
 
 // English: Confirmed (L)
-"7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "Confirmados (L)";
+//"7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "Confirmed (L)";
 
 // English: Star Wars
-"8237336C-8075-19CF-C43E-61EC0E3E86DF" = "Star Wars";
+//"8237336C-8075-19CF-C43E-61EC0E3E86DF" = "Star Wars";
 
 // English: Jupiter Trojans
-"8516FF81-C4EF-4F8B-91BC-44509E9E3970" = "Troianos de Júpiter";
+//"8516FF81-C4EF-4F8B-91BC-44509E9E3970" = "Jupiter Trojans";
 
 // English: Conceptual
-"8548C3A2-4D2F-B2F1-6F4B-B1B74C65A462" = "Conceituais";
+"8548C3A2-4D2F-B2F1-6F4B-B1B74C65A462" = "Conceitual";
 
 // English: Fictional
-"86DD8B26-0AB4-791A-B0EC-ADE2338BCFE3" = "Fictícios";
+"86DD8B26-0AB4-791A-B0EC-ADE2338BCFE3" = "Fictício";
 
 // English: Mars
 "892F00EE-A686-9E47-15E4-2266C5DD09B4" = "Marte";
@@ -119,88 +119,88 @@
 "8EE9BAD9-CB8A-6FD8-FDBD-F1703F7C85D3" = "Netuno";
 
 // English: Unconfirmed
-"903EF64A-7C11-23A1-902A-E2F52001BED7" = "Não confirmados";
+"903EF64A-7C11-23A1-902A-E2F52001BED7" = "Não confirmado";
 
 // English: Technology Demonstrators
-"90EF148E-E45C-1F1E-0323-E2C324337DB3" = "Demonstratores de Tecnologia";
+//"90EF148E-E45C-1F1E-0323-E2C324337DB3" = "Technology Demonstrators";
 
 // English: Star Trek
-"921B4105-3E3F-C282-28C9-D40BCF6E7271" = "Star Trek";
+//"921B4105-3E3F-C282-28C9-D40BCF6E7271" = "Star Trek";
 
 // English: Mercury and Venus
-"94DF97E6-83F4-5EE0-0039-3AB8EEE71C78" = "Mercúrio and Vênus";
+//"94DF97E6-83F4-5EE0-0039-3AB8EEE71C78" = "Mercury and Venus";
 
 // English: Saturn
 "97E555B1-0369-4A3F-42F9-105C24ADC3EC" = "Saturno";
 
 // English: Outer Solar System
-"9D674E32-9DA3-913E-2EB8-A06862A33604" = "Sistema Solar Externo";
+//"9D674E32-9DA3-913E-2EB8-A06862A33604" = "Outer Solar System";
 
 // English: Main Belt
-"9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "Cinturão";
+//"9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "Main Belt";
 
 // English: Confirmed (H, I and J)
-"B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "Confirmados (H, I and J)";
+//"B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "Confirmed (H, I and J)";
 
 // English: Solar System
-"B2E44BE0-9DF7-FAB9-92D4-F8D323D31250" = "Sistema Solares";
+//"B2E44BE0-9DF7-FAB9-92D4-F8D323D31250" = "Solar System";
 
 // English: Others
-"B4C85857-9E1E-427F-B307-95F98C6C1579" = "Outros";
+//"B4C85857-9E1E-427F-B307-95F98C6C1579" = "Others";
 
 // English: Crafts & Stations
-"B6F9835B-4A2F-AFFE-29BF-9B0A857933CF" = "Crafts & Stations";
+//"B6F9835B-4A2F-AFFE-29BF-9B0A857933CF" = "Crafts & Stations";
 
 // English: Confirmed (0 to 9)
-"B9B2FE1F-15BD-894B-EDA6-4BB12035625A" = "Confirmados (0 to 9)";
+//"B9B2FE1F-15BD-894B-EDA6-4BB12035625A" = "Confirmed (0 to 9)";
 
 // English: Communications Satellites
-"BA86839E-9CA6-B4E6-EBEA-1845AAC307EC" = "Satélites de Comunicação";
+//"BA86839E-9CA6-B4E6-EBEA-1845AAC307EC" = "Communications Satellites";
 
 // English: Rogue Planets
-"BAE0F719-A734-400B-B19D-D2626B3D186B" = "Planetas Órfãos";
+//"BAE0F719-A734-400B-B19D-D2626B3D186B" = "Rogue Planets";
 
 // English: Confirmed (Q, R and S)
-"BFD9A6FE-6799-467A-AFE0-7152E5AA2C8A" = "Confirmados (Q, R and S)";
+//"BFD9A6FE-6799-467A-AFE0-7152E5AA2C8A" = "Confirmed (Q, R and S)";
 
 // English: Earth and the Moon
 "BFFEC5E4-B6C3-BABA-C56B-D756D5DA08FE" = "Terra e a Lua";
 
 // English: Earth Science
-"C2C12342-EBE2-BDEA-791F-F087404B16E2" = "Ciência Terrestre";
+//"C2C12342-EBE2-BDEA-791F-F087404B16E2" = "Earth Science";
 
 // English: Mercury
-"C48E8C2F-AF4D-4970-89B1-146D163727EF" = "Mercúrio";
+//"C48E8C2F-AF4D-4970-89B1-146D163727EF" = "Mercury";
 
 // English: Moon
-"C4E8882D-ACC5-C27C-05EB-440F6994D7EA" = "Lua";
+//"C4E8882D-ACC5-C27C-05EB-440F6994D7EA" = "Moon";
 
 // English: Confirmed (M and N)
-"C5681CE6-249A-4210-8FCB-490EB953B175" = "Confirmados (M and N)";
+//"C5681CE6-249A-4210-8FCB-490EB953B175" = "Confirmed (M and N)";
 
 // English: Asteroids & NEOs
 "C789D7FC-F80E-EBDA-94BA-79FBE31FF9C1" = "Asteroides e NEOs";
 
 // English: Sun
-"C864BC9C-0DDE-B046-2ACA-996D4E870329" = "Sol";
+//"C864BC9C-0DDE-B046-2ACA-996D4E870329" = "Sun";
 
 // English: Confirmed (A, B and C)
-"CA784631-C85E-42AF-840C-82DA22C449FF" = "Confirmados (A, B and C)";
+//"CA784631-C85E-42AF-840C-82DA22C449FF" = "Confirmed (A, B and C)";
 
 // English: Earth Impactors
-"D0D46DCA-E587-4884-86CB-BDD43483B111" = "Impactores da Terra";
+//"D0D46DCA-E587-4884-86CB-BDD43483B111" = "Earth Impactors";
 
 // English: Black Holes
 "DEAF9C38-7E4B-7DFB-CA72-B496B1652550" = "Buracos Negros";
 
 // English: Confirmed (D, E and F)
-"DFD5BBCD-3A98-48AF-8E08-B2EC3FAA0AAE" = "Confirmados (D, E and F)";
+//"DFD5BBCD-3A98-48AF-8E08-B2EC3FAA0AAE" = "Confirmed (D, E and F)";
 
 // English: ArcBuilder Universe
 "E6E0C8D7-8F9E-EE24-1C54-D6F57B0EEF6F" = "Universo ArcBuilder";
 
 // English: Stargate
-"F3536B74-5564-4BD4-874A-95B26833D0C1" = "Stargate";
+//"F3536B74-5564-4BD4-874A-95B26833D0C1" = "Stargate";
 
 // English: Near-Earth Objects
-"FF1B03B8-4A0D-49D7-89AA-4DCF74FF95FB" = "Objetos Próximos da Terra";
+//"FF1B03B8-4A0D-49D7-89AA-4DCF74FF95FB" = "Near-Earth Objects";
