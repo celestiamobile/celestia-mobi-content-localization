@@ -1258,6 +1258,9 @@
 // English: (208996) 2003 AZ₈₄ is an elongated 940-km trans-Neptunian object that crosses the orbit of Neptune (plutino). It is the third largest plutino after Pluto itself and Orcus. One unconfirmed satellite might be orbiting 2003 AZ₈₄
 "556141CD-2B4A-BDD4-2970-B696676760E7" = "(208996) 2003 AZ₈₄ is an elongated 940-km trans-Neptunian object that crosses the orbit of Neptune (plutino). It is the third largest plutino after Pluto itself and Orcus. One unconfirmed satellite might be orbiting 2003 AZ₈₄";
 
+// English: PSR J1939+2134 is one of the fastest millisecond pulsars ever discovered, located about 11,415 light-years away in the constellation Vulpecula. In 2020, possible signals of a Moon-sized planetary companion were detected, but its existence is not yet fully confirmed (as of 2023)
+"5573B16A-3B58-41D3-83C9-8B058D752969" = "PSR J1939+2134 is one of the fastest millisecond pulsars ever discovered, located about 11,415 light-years away in the constellation Vulpecula. In 2020, possible signals of a Moon-sized planetary companion were detected, but its existence is not yet fully confirmed (as of 2023)";
+
 // English: This addon adds a new high quality texture to planet Mercury. Taken directly from Celestia Origin.
 "55D37C62-DC85-852F-9772-5F99EB99CD6D" = "This addon adds a new high quality texture to planet Mercury. Taken directly from Celestia Origin.";
 
