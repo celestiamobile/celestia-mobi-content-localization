@@ -1246,6 +1246,9 @@
 // English: 90 Antiope
 "5490E8E9-48A8-D198-2A61-E839CB886711" = "90 Antiope";
 
+// English: K2-139
+"549B7CFA-2B5E-4B27-9B75-733701E63EFB" = "K2-139";
+
 // English: Kepler-989
 "54BBD610-6369-BF2B-D0D7-F78DDFACD4AE" = "Kepler-989";
 
@@ -1695,6 +1698,9 @@
 
 // English: 2060 Chiron
 "77960B1D-1F2B-7681-508D-1457BE0DE363" = "2060 Chiron";
+
+// English: Kepler-952
+"77AF939A-CB9E-4BE1-80C7-874EB25F14E3" = "Kepler-952";
 
 // English: M 97 (Owl Nebula)
 "77B2AE5B-3333-150A-B679-55188F76E772" = "M 97 (Owl Nebula)";
@@ -3049,6 +3055,9 @@
 // English: S0-2 Solar System comparison
 "CE69DED0-2A46-447D-9986-6069B7697A43" = "S0-2 Solar System comparison";
 
+// English: (529668) 2010 JL₃₃
+"CEC538E5-E6EE-489E-A061-E5D346E20CE2" = "(529668) 2010 JL₃₃";
+
 // English: Gliese 674
 "CEF6C1FA-284A-469D-8C19-238DB00CA4D5" = "Gliese 674";
 
@@ -3591,6 +3600,9 @@
 
 // English: Helios 1 and 2
 "F4DB14FD-5AF0-64BB-747F-096B44C3D60E" = "Helios 1 and 2";
+
+// English: Kepler-493
+"F569F8A4-7E1D-4569-9704-B2B2819749FE" = "Kepler-493";
 
 // English: Luna 2
 "F5C7FE4B-21D4-3ABB-7304-3ABDE7239BEE" = "Luna 2";

@@ -1246,6 +1246,9 @@
 // English: 90 Antiope is a C-type double asteroid in the outer asteroid belt. It was discovered on 1866-Oct-1, by Robert Luther. In 2000, it was found to consist of two almost-equally-sized bodies orbiting each other. At average diameters of about 88 km and 84 km, both components are among the 500 largest asteroids. Antiope is a member of the Themis family of asteroids
 "5490E8E9-48A8-D198-2A61-E839CB886711" = "90 Antiope is a C-type double asteroid in the outer asteroid belt. It was discovered on 1866-Oct-1, by Robert Luther. In 2000, it was found to consist of two almost-equally-sized bodies orbiting each other. At average diameters of about 88 km and 84 km, both components are among the 500 largest asteroids. Antiope is a member of the Themis family of asteroids";
 
+// English: K2-139 is a K-type main sequence star about 498.92 light-years away in the constellation Sagittarius. A planet the size of Saturn is tidally locked in a 28-day orbit around its star
+"549B7CFA-2B5E-4B27-9B75-733701E63EFB" = "K2-139 is a K-type main sequence star about 498.92 light-years away in the constellation Sagittarius. A planet the size of Saturn is tidally locked in a 28-day orbit around its star";
+
 // English: Kepler-989 is a K-type main-sequence star about 1,627.6 light-years away in the constellation Lyra. A single hot Neptunian planet is discovered orbiting very close to its parent star
 "54BBD610-6369-BF2B-D0D7-F78DDFACD4AE" = "Kepler-989 is a K-type main-sequence star about 1,627.6 light-years away in the constellation Lyra. A single hot Neptunian planet is discovered orbiting very close to its parent star";
 
@@ -1695,6 +1698,9 @@
 
 // English: 2060 Chiron is a 200-km small Solar System body in the outer Solar System, orbiting the Sun between Saturn and Uranus. Discovered in 1977 by Charles Kowal, it was the first-identified member of a new class of objects now known as centaurs—bodies orbiting between the asteroid belt and the Kuiper belt
 "77960B1D-1F2B-7681-508D-1457BE0DE363" = "2060 Chiron is a 200-km small Solar System body in the outer Solar System, orbiting the Sun between Saturn and Uranus. Discovered in 1977 by Charles Kowal, it was the first-identified member of a new class of objects now known as centaurs—bodies orbiting between the asteroid belt and the Kuiper belt";
+
+// English: Kepler-952, also known as KOI-1790 is a large Sun-like star about 4,419 light-years away in the constellation Lyra. A warm subjovian planet completes a 130-day orbit around its star
+"77AF939A-CB9E-4BE1-80C7-874EB25F14E3" = "Kepler-952, also known as KOI-1790 is a large Sun-like star about 4,419 light-years away in the constellation Lyra. A warm subjovian planet completes a 130-day orbit around its star";
 
 // English: The Owl Nebula (also known as Messier 97 or NGC 3587) is a starburst (\"planetary\") nebula approximately 2,030 light years away in the northern constellation Ursa Major
 "77B2AE5B-3333-150A-B679-55188F76E772" = "The Owl Nebula (also known as Messier 97 or NGC 3587) is a starburst (\"planetary\") nebula approximately 2,030 light years away in the northern constellation Ursa Major";
@@ -3049,6 +3055,9 @@
 // English: This addon adds a copy of the Solar System (along with the hypothetical Planet 9 and it's fictional moons by Anthony_B_Russo10 and Gurren Lagann) around the star S0-2 orbiting the Sag A*. This addon was updated recently to update the Planet 9 texture and add the Planet 9 ring textureNote: this addon requires the Milky Way Center addon in order to work.
 "CE69DED0-2A46-447D-9986-6069B7697A43" = "This addon adds a copy of the Solar System (along with the hypothetical Planet 9 and it's fictional moons by Anthony_B_Russo10 and Gurren Lagann) around the star S0-2 orbiting the Sag A*. This addon was updated recently to update the Planet 9 texture and add the Planet 9 ring textureNote: this addon requires the Milky Way Center addon in order to work.";
 
+// English: (529668) 2010 JL₃₃ is a large Apollo-group near-Earth asteroid about 1.78 km in diameter. A 2018 study identified this asteroid to be a remnant of the long-lost Lexell's Comet with 99.2% probability! However, due to a number of close approaches with Jupiter and certain non-gravitational parameters, a definite link cannot be made
+"CEC538E5-E6EE-489E-A061-E5D346E20CE2" = "(529668) 2010 JL₃₃ is a large Apollo-group near-Earth asteroid about 1.78 km in diameter. A 2018 study identified this asteroid to be a remnant of the long-lost Lexell's Comet with 99.2% probability! However, due to a number of close approaches with Jupiter and certain non-gravitational parameters, a definite link cannot be made";
+
 // English: Gliese 674 is a nearby red dwarf star about 14.85 light-years away in the constellation Ara. A lone hot neptune completes an orbit around this star once every 3.55 days
 "CEF6C1FA-284A-469D-8C19-238DB00CA4D5" = "Gliese 674 is a nearby red dwarf star about 14.85 light-years away in the constellation Ara. A lone hot neptune completes an orbit around this star once every 3.55 days";
 
@@ -3591,6 +3600,9 @@
 
 // English: Helios 1 and 2 were the twin spacecraft sent by NASA and the German Aerospace Center (DLR) to study the Sun in multiple close flybys between 1974 and 1976. Helios 1 was operational from 1974-1986, while Helios 2 did so from 1976-1980. They were the closest artificial objects to approach our star until the Parker Solar Probe became operational in 2018.
 "F4DB14FD-5AF0-64BB-747F-096B44C3D60E" = "Helios 1 and 2 were the twin spacecraft sent by NASA and the German Aerospace Center (DLR) to study the Sun in multiple close flybys between 1974 and 1976. Helios 1 was operational from 1974-1986, while Helios 2 did so from 1976-1980. They were the closest artificial objects to approach our star until the Parker Solar Probe became operational in 2018.";
+
+// English: Kepler-493, also known as KOI-208 and TOI-6001, is an F-type main sequence star about 5,447 light-years away in the constellation Cygnus. A very hot Jupiter-sized planet was found completing a 3-day orbit at a distance of 6.5 million km from its star
+"F569F8A4-7E1D-4569-9704-B2B2819749FE" = "Kepler-493, also known as KOI-208 and TOI-6001, is an F-type main sequence star about 5,447 light-years away in the constellation Cygnus. A very hot Jupiter-sized planet was found completing a 3-day orbit at a distance of 6.5 million km from its star";
 
 // English: Luna-2 is a soviet space probe launched on September 12, 1959 for the purpose of impacting the Moon. The probe impacted the Moon on September 13, 1959 and became the first man-made artifact to impact another celestial body.
 "F5C7FE4B-21D4-3ABB-7304-3ABDE7239BEE" = "Luna-2 is a soviet space probe launched on September 12, 1959 for the purpose of impacting the Moon. The probe impacted the Moon on September 13, 1959 and became the first man-made artifact to impact another celestial body.";
