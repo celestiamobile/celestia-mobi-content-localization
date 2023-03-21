@@ -256,6 +256,9 @@
 // English: Kepler-1638
 "12364306-2FAD-553A-46E5-2610CC5066A3" = "Kepler-1638";
 
+// English: CoRoT-24
+"1244E49D-17DB-4431-B662-9F45AAD78869" = "CoRoT-24";
+
 // English: Luna 15 to 24
 "12837AFC-1B25-4CA7-9E13-33FFAF0BD469" = "Luna 15 to 24";
 
@@ -462,6 +465,9 @@
 
 // English: Thaicom-4
 "2119CDF9-A263-4C22-9C5E-3FF3BC2E20BA" = "Thaicom-4";
+
+// English: Kepler-88
+"211FCDBD-62A4-4834-8920-0CFD5A0C3761" = "Kepler-88";
 
 // English: K2-288
 "21B10615-ABA4-43FA-B8AD-BEB20483FD0C" = "K2-288";
@@ -1854,6 +1860,9 @@
 
 // English: Event Horizon
 "81C05D03-29EB-463A-846B-9F84FDE3B547" = "Event Horizon";
+
+// English: 101955 Bennu
+"81E525BD-B245-40DC-964F-40808EF5E114" = "101955 Bennu";
 
 // English: Kepler Space Telescope
 "82741A41-3776-8E40-61B2-07F66A6A1563" = "Kepler Space Telescope";
