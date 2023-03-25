@@ -85,6 +85,9 @@
 // English: 51 Pegasi, formally named Helvetios, is a Sun-like star located 50.45 light-years from Earth in the constellation of Pegasus. It was the first main-sequence star found to have an exoplanet (later named Dimidium) orbiting it
 "056CE148-276A-9400-E0EB-4087D6C10CAC" = "51 Pegasi, formally named Helvetios, is a Sun-like star located 50.45 light-years from Earth in the constellation of Pegasus. It was the first main-sequence star found to have an exoplanet (later named Dimidium) orbiting it";
 
+// English: HD 47536 is a K-type giant star about 401 light-years away in the constellation Canis Major. A superjovian planet about four times more massive than Jupiter completes a 1.19-year eccentric orbit which takes it between 0.79 and 1.46 AU from its dying star
+"05822992-5D2F-4F4E-A7A9-F510C4F94BF5" = "HD 47536 is a K-type giant star about 401 light-years away in the constellation Canis Major. A superjovian planet about four times more massive than Jupiter completes a 1.19-year eccentric orbit which takes it between 0.79 and 1.46 AU from its dying star";
+
 // English: This adds the small, young cluster [DBS2003] 75, along with the compact H II region in it, ESO 95-1, located 18,300 light years away in the constellation of Crux.
 "05D89EC0-23FB-6716-FF23-3BE6A4262EFC" = "This adds the small, young cluster [DBS2003] 75, along with the compact H II region in it, ESO 95-1, located 18,300 light years away in the constellation of Crux.";
 
@@ -1633,6 +1636,9 @@
 // English: HD 82943, also known as 164 G. Hydrae, is a yellow dwarf star approximately 89 light-years away in the constellation of Hydra. Two extrasolar planets have been confirmed to be orbiting it, confirmed in 2000 and 2001 respectively, and it is thought that the system had more giant planets that were \"swallowed\" by the parent star. A third planet was proposed in 2004, but to this day it is still unconfirmed.
 "71075B88-F8AC-4E0F-98EC-028E437A7DF4" = "HD 82943, also known as 164 G. Hydrae, is a yellow dwarf star approximately 89 light-years away in the constellation of Hydra. Two extrasolar planets have been confirmed to be orbiting it, confirmed in 2000 and 2001 respectively, and it is thought that the system had more giant planets that were \"swallowed\" by the parent star. A third planet was proposed in 2004, but to this day it is still unconfirmed.";
 
+// English: GJ 4332, also known as L 168-9, is a red dwarf star about 82.09 light-years away in the constellation Tucana. A superterran planet about 4.6 times more massive than Earth was discovered in a 1.4-day orbit around its star. Both objects will receive formal names at the end of the third NameExoWorlds campaign, and will be one of the first exoplanet systems that the JWST will observe and study
+"71361762-3625-4E90-A8C6-2BA14BE3B665" = "GJ 4332, also known as L 168-9, is a red dwarf star about 82.09 light-years away in the constellation Tucana. A superterran planet about 4.6 times more massive than Earth was discovered in a 1.4-day orbit around its star. Both objects will receive formal names at the end of the third NameExoWorlds campaign, and will be one of the first exoplanet systems that the JWST will observe and study";
+
 // English: 20 Massalia is an S-type asteroid found in the inner region of the asteroid belt. It was discovered in September 1852 by Annibale de Gasparis. Massalia is the parent body of the Massalia family of asteroids.
 "716522DA-62BB-4592-B3ED-E4BA1895E29D" = "20 Massalia is an S-type asteroid found in the inner region of the asteroid belt. It was discovered in September 1852 by Annibale de Gasparis. Massalia is the parent body of the Massalia family of asteroids.";
 
@@ -1812,6 +1818,9 @@
 
 // English: A fictional Cassini-type spacecraft launched in February 25, 2019 to explore Jupiter and its four largest moons from 2022-2024 before settling into orbit around Ganymede afterwards, similar to ESA's JUICE mission. It is the third of eight missions as part of the Toutatis Program (2018-2047), although chronologically it was the fourth to launch (after Toutatis-7)
 "7C588BE3-306E-4D6B-AB12-E3F9B04F6ECA" = "A fictional Cassini-type spacecraft launched in February 25, 2019 to explore Jupiter and its four largest moons from 2022-2024 before settling into orbit around Ganymede afterwards, similar to ESA's JUICE mission. It is the third of eight missions as part of the Toutatis Program (2018-2047), although chronologically it was the fourth to launch (after Toutatis-7)";
+
+// English: HD 9446 is a Sun-like star about 164.45 light-years away in the constellation Triangulum. Two planets, both jovians, were discovered around this star in 2010
+"7CA84524-4A19-40BF-9C08-22EA0638B39D" = "HD 9446 is a Sun-like star about 164.45 light-years away in the constellation Triangulum. Two planets, both jovians, were discovered around this star in 2010";
 
 // English: This addon adds a new high quality surface texture for the planet Venus, in false colors.
 "7CB3DA88-F897-411D-907A-E673E9FCB639" = "This addon adds a new high quality surface texture for the planet Venus, in false colors.";
@@ -3421,6 +3430,9 @@
 // English: Kepler-303, also known as KOI-1515, is a K-type main sequence star about 688.24 light-years away in the constellation Lyra. In 2014, a total of two terrestrial planets were discovered, both in extremely close proximity with their host star
 "E46BEBCA-33D9-4BBA-845C-314EF53BB00B" = "Kepler-303, also known as KOI-1515, is a K-type main sequence star about 688.24 light-years away in the constellation Lyra. In 2014, a total of two terrestrial planets were discovered, both in extremely close proximity with their host star";
 
+// English: HD 4113 is a triple star system consisting of a Sun-like star, a red dwarf star and a brown dwarf about 135.98 light-years away in the constellation Sculptor. A superjovian planet about 1.7 times more massive than Jupiter is discovered in a very eccentric orbit about 0.13-2.43 AU around the system's primary star (component A), where it completes one revolution once every 1.44 years
+"E4C01230-2437-4063-9C54-C042C29E3B04" = "HD 4113 is a triple star system consisting of a Sun-like star, a red dwarf star and a brown dwarf about 135.98 light-years away in the constellation Sculptor. A superjovian planet about 1.7 times more massive than Jupiter is discovered in a very eccentric orbit about 0.13-2.43 AU around the system's primary star (component A), where it completes one revolution once every 1.44 years";
+
 // English: (33342) 1998 WT24 is a near-Earth asteroid and potentially hazardous asteroid of the Aten group. It was discovered on November 25, 1998 by the LINEAR project. The 1998 WT24 orbit makes it cross the orbits of Mercury, Venus and Earth, and due to its low orbit inclination, it is capable of approaching all of these planets. This asteroid measures between 350 and 415 meters in diameter, and if it eventually collided with Earth it would cause devastation on a regional scale.
 "E50FDDEF-E97B-4015-8ED4-F1253B751A31" = "(33342) 1998 WT24 is a near-Earth asteroid and potentially hazardous asteroid of the Aten group. It was discovered on November 25, 1998 by the LINEAR project. The 1998 WT24 orbit makes it cross the orbits of Mercury, Venus and Earth, and due to its low orbit inclination, it is capable of approaching all of these planets. This asteroid measures between 350 and 415 meters in diameter, and if it eventually collided with Earth it would cause devastation on a regional scale.";
 
@@ -3486,6 +3498,9 @@
 
 // English: The Dragon 2 is a class of partially reusable spacecraft manufactured by SpaceX, primarily used for flights to and from the ISS in addition to some private missions. It is a successor of the Dragon 1, and was developed along with the Boeing Starliner to replace the crew/cargo functions of the Space Shuttle. It first flew in 2019, and has flown a total of 9 crew and 7 cargo missions in space (as of March 2023)
 "EAE294B1-E335-4D49-8E5A-917067EE1B56" = "The Dragon 2 is a class of partially reusable spacecraft manufactured by SpaceX, primarily used for flights to and from the ISS in addition to some private missions. It is a successor of the Dragon 1, and was developed along with the Boeing Starliner to replace the crew/cargo functions of the Space Shuttle. It first flew in 2019, and has flown a total of 9 crew and 7 cargo missions in space (as of March 2023)";
+
+// English: WASP-121, also known as TOI-495 and Gaia-TROI-121, is an F-type main sequence star about 887.19 light-years away in the constellation Puppis. A very large jovian planet completes a 1.28-day orbit around its star. Both objects will receive formal names along with 20 other systems upon the conclusion of the third NameExoWorlds campaign on April 2023
+"EAE2E44F-CB01-4370-AC16-632E5A5A9D5D" = "WASP-121, also known as TOI-495 and Gaia-TROI-121, is an F-type main sequence star about 887.19 light-years away in the constellation Puppis. A very large jovian planet completes a 1.28-day orbit around its star. Both objects will receive formal names along with 20 other systems upon the conclusion of the third NameExoWorlds campaign on April 2023";
 
 // English: Kepler-97, also known as KOI-292, is a Sun-like star about 1,282 light-years away in the constellation Cygnus. Two planets, one cold jovian and the other a hot superterran or a mini-neptunian were found orbiting this star
 "EB357403-08D8-4E3E-80EB-51D76F430FE1" = "Kepler-97, also known as KOI-292, is a Sun-like star about 1,282 light-years away in the constellation Cygnus. Two planets, one cold jovian and the other a hot superterran or a mini-neptunian were found orbiting this star";
