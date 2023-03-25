@@ -1333,6 +1333,9 @@
 // English: NGC 7635, also known as the Bubble Nebula, is an H II region emission nebula about 7,860 light-years away in the constellation Cassiopeia
 "59EFB251-C2B7-4094-AA6B-2E2A9D8B0FF8" = "NGC 7635, also known as the Bubble Nebula, is an H II region emission nebula about 7,860 light-years away in the constellation Cassiopeia";
 
+// English: HD 23472 is a binary star system of a K-type main sequence star and a red dwarf about 127.46 light-years away in the constellation Reticulum. The primary star (component A) has five planets, three of which are denser than Earth while the other two are comparable to Europa's
+"5A399ED9-85CD-4C9E-B6D3-B16DAF87973F" = "HD 23472 is a binary star system of a K-type main sequence star and a red dwarf about 127.46 light-years away in the constellation Reticulum. The primary star (component A) has five planets, three of which are denser than Earth while the other two are comparable to Europa's";
+
 // English: Space Station Alpha is the name of the selected 1993 design that merged the former Freedom and Mir-2 concepts into the International Space Station. About 70% of the planned Alpha hardware were launched to form the ISS, with some modules being cancelled due to cost overruns and the 2003 Columbia disaster
 "5A92A6D0-5246-99FB-88E5-01C47FE8777B" = "Space Station Alpha is the name of the selected 1993 design that merged the former Freedom and Mir-2 concepts into the International Space Station. About 70% of the planned Alpha hardware were launched to form the ISS, with some modules being cancelled due to cost overruns and the 2003 Columbia disaster";
 
@@ -2511,6 +2514,9 @@
 
 // English: This add-on adds a realistic, fully 3D model of the planetary nebula Abell 39. Abell 39 is one of the simplest planetary nebulae known, and deviates very little from a perfectly spherical shell.
 "A75CCEA3-E1EC-2793-4AEC-508B4D9A7A8B" = "This add-on adds a realistic, fully 3D model of the planetary nebula Abell 39. Abell 39 is one of the simplest planetary nebulae known, and deviates very little from a perfectly spherical shell.";
+
+// English: HD 191939, also known as TOI-1339, is a Sun-like star about 175.12 light-years away in the constellation Draco. Between 2020 and 2021, a total of five planets (two jovians and three neptunians) were discovered by the TESS observatory, with an additional superterran's existence currently awaiting confirmation
+"A77F3B4B-0338-418C-A1AB-15939F0C0787" = "HD 191939, also known as TOI-1339, is a Sun-like star about 175.12 light-years away in the constellation Draco. Between 2020 and 2021, a total of five planets (two jovians and three neptunians) were discovered by the TESS observatory, with an additional superterran's existence currently awaiting confirmation";
 
 // English: CALIPSO is a NASA-CNES satellite launched on April 28, 2006. CALIPSO monitors aerosols and clouds in the Earth's atmosphere 24 hours a day. In 2022, that satellite remains active.
 "A78F0569-FE7C-ED08-B15A-8DA1594B37F2" = "CALIPSO is a NASA-CNES satellite launched on April 28, 2006. CALIPSO monitors aerosols and clouds in the Earth's atmosphere 24 hours a day. In 2022, that satellite remains active.";
