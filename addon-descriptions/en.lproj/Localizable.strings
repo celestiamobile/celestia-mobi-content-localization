@@ -2395,6 +2395,9 @@
 // English: 216 Kleopatra is an M-type asteroid in the asteroid belt. It was discovered in April 1880 by Johann Palisa. Kleopatra is about 120 km in diameter, and a striking feature is its shape of an elongated bone. It has two moons around it, Alexhelios and Cleoselene, both were discovered in September 2008.\nNOTE: This addon updates and modifies the existing version of asteroid Kleopatra in Celestia. It also adds Kleopatra's two moons.
 "A0DC742F-5D04-07E5-A08D-2F74DAA6C33D" = "216 Kleopatra is an M-type asteroid in the asteroid belt. It was discovered in April 1880 by Johann Palisa. Kleopatra is about 120 km in diameter, and a striking feature is its shape of an elongated bone. It has two moons around it, Alexhelios and Cleoselene, both were discovered in September 2008.\nNOTE: This addon updates and modifies the existing version of asteroid Kleopatra in Celestia. It also adds Kleopatra's two moons.";
 
+// English: HD 100546, also known as KR Muscae, is a young B-type main sequence star about 358.84 light-years away in the constellation Musca. Initial observations point out that it may harbor the largest planet ever discovered, around 6.9 times the size of Jupiter. However, it is more likely the measured radius is not of the planet itself but the debris disk that surrounds it.
+"A0FCD1F4-4D2C-42C8-BDF2-2FC54F12AB9B" = "HD 100546, also known as KR Muscae, is a young B-type main sequence star about 358.84 light-years away in the constellation Musca. Initial observations point out that it may harbor the largest planet ever discovered, around 6.9 times the size of Jupiter. However, it is more likely the measured radius is not of the planet itself but the debris disk that surrounds it.";
+
 // English: An alternate surface map depicting Neptune as it was seen by the Hubble Space Telescope in 2020
 "A1325AD2-D38F-F888-DDB9-B6ED1409B97F" = "An alternate surface map depicting Neptune as it was seen by the Hubble Space Telescope in 2020";
 
