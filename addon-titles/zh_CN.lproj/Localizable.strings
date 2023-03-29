@@ -304,8 +304,8 @@
 // English: Interstellar Boundary Explorer
 //"150860B5-2DA9-E0BA-0450-B8E28276D550" = "Interstellar Boundary Explorer";
 
-// English: (185851) 2000 DP107
-//"1625B1BC-331D-5906-80E2-C2BB56B962C1" = "(185851) 2000 DP107";
+// English: 185851 (2000 DP₁₀₇)
+//"1625B1BC-331D-5906-80E2-C2BB56B962C1" = "185851 (2000 DP₁₀₇)";
 
 // English: Stars in the Triangulum Galaxy
 //"162EC742-30C7-B8E4-0309-FB5B6D8DB1F7" = "Stars in the Triangulum Galaxy";
@@ -967,8 +967,8 @@
 // English: Kepler-404
 //"4026A322-68D3-5EF7-D3BD-EBAC3F089291" = "Kepler-404";
 
-// English: 2021 PB₁₃₀
-//"4063151D-1049-4F83-9E3E-EF8FE680226E" = "2021 PB₁₃₀";
+// English: (2021 PB₁₃₀)
+//"4063151D-1049-4F83-9E3E-EF8FE680226E" = "(2021 PB₁₃₀)";
 
 // English: MAVEN
 //"40631F75-BF4C-538E-F272-D815093D5CA3" = "MAVEN";
@@ -1227,6 +1227,9 @@
 
 // English: 75 Ceti (Disproven Planets)
 //"50A090D8-58F3-4EE4-BD76-C0249A6FFF57" = "75 Ceti (Disproven Planets)";
+
+// English: Tycho Site
+//"50BC916C-FF47-46F3-B489-ECBC0527AF96" = "Tycho Site";
 
 // English: Stargen: Solar Neighborhood, 34 Stars
 //"50BD3F92-BE9A-18D9-8B55-2E5F46799CEC" = "Stargen: Solar Neighborhood, 34 Stars";
