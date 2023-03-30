@@ -475,6 +475,9 @@
 // English: 2685 Masursky (1981 JN) is an asteroid located in the central regions of the asteroid belt. It is about 11 km in diameter. It was discovered on May 3, 1981. In January 2000 the Cassini-Huygens spacecraft passed within 1.6 million km of the asteroid.
 "210486A3-9DEC-91E3-3C76-B3AF005D4DD7" = "2685 Masursky (1981 JN) is an asteroid located in the central regions of the asteroid belt. It is about 11 km in diameter. It was discovered on May 3, 1981. In January 2000 the Cassini-Huygens spacecraft passed within 1.6 million km of the asteroid.";
 
+// English: Kepler-366, also known as KOI-2168, is an F-type main sequence star about 6,390 light-years away in the constellation Cygnus. Two planets of unknown composition (either superterran or mini-neptunian) are discovered with orbits lasting 3 and 12 days respectively
+"2112D4B4-9A69-4BA9-884D-D552B067269E" = "Kepler-366, also known as KOI-2168, is an F-type main sequence star about 6,390 light-years away in the constellation Cygnus. Two planets of unknown composition (either superterran or mini-neptunian) are discovered with orbits lasting 3 and 12 days respectively";
+
 // English: Thaicom 4, also known as iPStar-1 and MEASAT 5, is an Asian communications satellite built by Space Systems/Loral. Launched in August 2005, it is one of the heaviest communications satellites ever launched into GEO, and it is still in active operations as of 2022
 "2119CDF9-A263-4C22-9C5E-3FF3BC2E20BA" = "Thaicom 4, also known as iPStar-1 and MEASAT 5, is an Asian communications satellite built by Space Systems/Loral. Launched in August 2005, it is one of the heaviest communications satellites ever launched into GEO, and it is still in active operations as of 2022";
 
@@ -828,6 +831,9 @@
 
 // English: The Fried Egg Galaxy (also known as NGC 7742) is an Sb-type spiral galaxy about 57.8 million light-years away in the constellation Pegasus. A Type-II Seyfert galaxy, it is unusual for having a ring but no bar, a result of a merger with a smaller galaxy in the past, which is indicated by a very active star-formation region surrounding the bright nucleus
 "36E92F8F-3B6E-96C3-41D4-FE84A856964E" = "The Fried Egg Galaxy (also known as NGC 7742) is an Sb-type spiral galaxy about 57.8 million light-years away in the constellation Pegasus. A Type-II Seyfert galaxy, it is unusual for having a ring but no bar, a result of a merger with a smaller galaxy in the past, which is indicated by a very active star-formation region surrounding the bright nucleus";
+
+// English: LTT 9779, also known as TOI-193, is a Sun-like star about 262.96 light-years away in the constellation Sculptor. It has one known subjovian planet, in addition to another unconfirmed candidate of the same composition. Both the star and its first known planet will receive formal names by the end of the third NameExoWorlds campaign on April 2023
+"36EE8D3E-C3D7-433F-9834-CF25A1E7B625" = "LTT 9779, also known as TOI-193, is a Sun-like star about 262.96 light-years away in the constellation Sculptor. It has one known subjovian planet, in addition to another unconfirmed candidate of the same composition. Both the star and its first known planet will receive formal names by the end of the third NameExoWorlds campaign on April 2023";
 
 // English: OGLE-2016-BLG-1195L is an ultracool red dwarf or brown dwarf about 12,752 light-years away in the constellation Sagittarius. A single cold terran planet is detected via gravitational microlensing
 "3720BAC0-0072-F953-371B-D3CC1ED9DB31" = "OGLE-2016-BLG-1195L is an ultracool red dwarf or brown dwarf about 12,752 light-years away in the constellation Sagittarius. A single cold terran planet is detected via gravitational microlensing";
@@ -1326,6 +1332,9 @@
 
 // English: Pi¹ Gruis is a binary star system that consists of a red giant and a Sun-like star about 532 light-years away in the constellation Grux. In 2017, the details of the red giant's photosphere were imaged by the ESO Very Large Telescope in Chile
 "58408074-0EFD-BF10-628A-752CF3F9FA19" = "Pi¹ Gruis is a binary star system that consists of a red giant and a Sun-like star about 532 light-years away in the constellation Grux. In 2017, the details of the red giant's photosphere were imaged by the ESO Very Large Telescope in Chile";
+
+// English: Kepler-65, also known as KOI-85 and TOI-6003, is an F-type main sequence star about 999.31 light-years away in the constellation Lyra. A total of four planets (two superterrans, one neptunian and one jovian) were found orbiting this star
+"587EB02B-0B61-4580-A0B0-2FEB51B0D47F" = "Kepler-65, also known as KOI-85 and TOI-6003, is an F-type main sequence star about 999.31 light-years away in the constellation Lyra. A total of four planets (two superterrans, one neptunian and one jovian) were found orbiting this star";
 
 // English: 2023 DW is a near-Earth asteroid estimated to be 48 m in diameter. Belonging to the Aten group, it is roughly the same size as the object that caused the Tunguska event in 1908. Previously, it had a 1-in-420 chance of colliding with Earth on 2046-Feb-14, but further observations ruled out this possibility and as of 2023-Mar-15, it will only come as close as 2.96 million km from our planet on that date
 "58930A7E-F837-4A7D-876B-A925E2575223" = "2023 DW is a near-Earth asteroid estimated to be 48 m in diameter. Belonging to the Aten group, it is roughly the same size as the object that caused the Tunguska event in 1908. Previously, it had a 1-in-420 chance of colliding with Earth on 2046-Feb-14, but further observations ruled out this possibility and as of 2023-Mar-15, it will only come as close as 2.96 million km from our planet on that date";
@@ -2091,6 +2100,9 @@
 
 // English: MOA-2007-BLG-400L is a K-type main-sequence star about 22,472 light-years away in the constellation Sagittarius. A super-Jovian planet was found orbiting about 4-5 AU from this star
 "8E7A1273-D090-ED00-3165-BDF873AB852B" = "MOA-2007-BLG-400L is a K-type main-sequence star about 22,472 light-years away in the constellation Sagittarius. A super-Jovian planet was found orbiting about 4-5 AU from this star";
+
+// English: Kepler-67, also known as KOI-2115, is a Sun-like star about 3,801 light-years away in the constellation Cygnus. A single neptunian planet about 8.96 times more massive than Earth completes a 15.73-day orbit around its star at a distance of 0.12 AU
+"8EECF37D-AC1E-443B-B6C2-C6013C934C3E" = "Kepler-67, also known as KOI-2115, is a Sun-like star about 3,801 light-years away in the constellation Cygnus. A single neptunian planet about 8.96 times more massive than Earth completes a 15.73-day orbit around its star at a distance of 0.12 AU";
 
 // English: 11 Comae Berenices is a binary star system of two K-type stars (a giant and a main sequence star) about 304.52 light-years away in the constellation Coma Berenices. The larger star of the two (component A) has a planet slightly larger than Jupiter approximately 1.5 AU away from its host star
 "8EF53F73-BCFD-4CEA-BE43-57269B04DD76" = "11 Comae Berenices is a binary star system of two K-type stars (a giant and a main sequence star) about 304.52 light-years away in the constellation Coma Berenices. The larger star of the two (component A) has a planet slightly larger than Jupiter approximately 1.5 AU away from its host star";
