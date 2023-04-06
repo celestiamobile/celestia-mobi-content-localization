@@ -2599,6 +2599,9 @@
 // English: This addon adds a 3D model for Saturn's moon Rhea, based on data from the Cassini spacecraft.
 "A98FD77F-9820-1D18-B530-1A693D95AF2C" = "This addon adds a 3D model for Saturn's moon Rhea, based on data from the Cassini spacecraft.";
 
+// English: TOI-2096 is a red dwarf located about 158.04 lightyears away from the solar system. The star has two slightly eccentric planets orbiting it, a super-Earth (1.2 Earth Radii) and a sub-Neptune (1.9 Earth Radii). the planet's orbits are near a 2:1 MMR (mean-motion resonance), leading to the possibility of measuring the masses of these worlds via Transit Timing Variations. Additionally, the study that confirmed the planets believes it is possible for future atmospheric studies using JWST.
+"AA19FCF9-1AF7-43B0-B79C-CDF28B238E6A" = "TOI-2096 is a red dwarf located about 158.04 lightyears away from the solar system. The star has two slightly eccentric planets orbiting it, a super-Earth (1.2 Earth Radii) and a sub-Neptune (1.9 Earth Radii). the planet's orbits are near a 2:1 MMR (mean-motion resonance), leading to the possibility of measuring the masses of these worlds via Transit Timing Variations. Additionally, the study that confirmed the planets believes it is possible for future atmospheric studies using JWST.";
+
 // English: Vulcanoids is a hypothetical asteroid population that could exist within Mercury's orbit. So, so far none have been found and it is unclear whether they really exist.
 "AA1AA420-A514-5C51-B2B6-32B728E2E00D" = "Vulcanoids is a hypothetical asteroid population that could exist within Mercury's orbit. So, so far none have been found and it is unclear whether they really exist.";
 
