@@ -2,7 +2,7 @@ import Foundation
 import OpenCloudKit
 
 enum CloudKitHandlerError: Error {
-    case cloudKit
+    case cloudKit(error: Error)
     case removalNotAllowed
     case internalError
     case json
@@ -12,8 +12,8 @@ enum CloudKitHandlerError: Error {
 extension CloudKitHandlerError: LocalizedError {
     var errorDescription: String? {
         switch self {
-        case .cloudKit:
-            return "CloudKit error"
+        case .cloudKit(let error):
+            return "CloudKit error: \(error.localizedDescription)"
         case .removalNotAllowed:
             return "Removal is not allowed"
         case .internalError:
@@ -60,7 +60,7 @@ public class CloudKitHandler {
                 }
             }
         } catch {
-            throw CloudKitHandlerError.cloudKit
+            throw CloudKitHandlerError.cloudKit(error: error)
         }
 
         print("Merging record changes...")
@@ -100,7 +100,7 @@ public class CloudKitHandler {
                 }
             }
         } catch {
-            throw CloudKitHandlerError.cloudKit
+            throw CloudKitHandlerError.cloudKit(error: error)
         }
     }
 
@@ -125,7 +125,7 @@ public class CloudKitHandler {
             }
             cursor = newCursor
         } catch {
-            throw CloudKitHandlerError.cloudKit
+            throw CloudKitHandlerError.cloudKit(error: error)
         }
 
         while let currentCursor = cursor {
@@ -142,7 +142,7 @@ public class CloudKitHandler {
                 }
                 cursor = newCursor
             } catch {
-                throw CloudKitHandlerError.cloudKit
+                throw CloudKitHandlerError.cloudKit(error: error)
             }
         }
 
