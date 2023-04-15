@@ -2701,6 +2701,9 @@
 // English: HD 228766 is a distant binary star system of two massive O-type giant stars that were previously thought as Wolf-Rayet stars about 6,748 light-years away in the constellation Cygnus
 "B0804426-4E0E-4735-8F99-5D2BEFF092CC" = "HD 228766 is a distant binary star system of two massive O-type giant stars that were previously thought as Wolf-Rayet stars about 6,748 light-years away in the constellation Cygnus";
 
+// English: TOI-712 is a K-type star located about 191.10 light-years away from the solar system. The star has three planets, all mini-Neptunes orbiting at various distances (b= 2.049 Re, c= 2.701 Re, d= 2.474 Re). The orbits and distances of the planet vary with TOI-712 b having a close and eccentric orbit, though the eccentricity is poorly constrained, and the other two being farther out with TOI-712 d scrapping the edge of its star habitable zone. Additionally, during observations a fourth planet candidate was observed, it measured to be smaller than Earth and also has a close orbit (.05= 0.81 Re). The initial third candidate (TOI-712.03) was proven to be a false positive. There are no mass measurements for any of the planets.
+"B16E2675-E2D4-40CD-8510-6BC10D103548" = "TOI-712 is a K-type star located about 191.10 light-years away from the solar system. The star has three planets, all mini-Neptunes orbiting at various distances (b= 2.049 Re, c= 2.701 Re, d= 2.474 Re). The orbits and distances of the planet vary with TOI-712 b having a close and eccentric orbit, though the eccentricity is poorly constrained, and the other two being farther out with TOI-712 d scrapping the edge of its star habitable zone. Additionally, during observations a fourth planet candidate was observed, it measured to be smaller than Earth and also has a close orbit (.05= 0.81 Re). The initial third candidate (TOI-712.03) was proven to be a false positive. There are no mass measurements for any of the planets.";
+
 // English: NGC 3310 is a SBc-type grand design spiral galaxy about 65.89 million light-years away in the constellation Ursa Major. It is a starburst galaxy as a result of itself colliding with one of its satellite galaxies 100 million years ago
 "B18106C3-260F-D63E-BC42-D2820FCBF955" = "NGC 3310 is a SBc-type grand design spiral galaxy about 65.89 million light-years away in the constellation Ursa Major. It is a starburst galaxy as a result of itself colliding with one of its satellite galaxies 100 million years ago";
 
@@ -2928,6 +2931,9 @@
 
 // English: 2023 BU is a small 8-m wide asteroid that flew about 3,568 km above the Earth's surface on January 27th, 2023. It was only discovered about six days prior to its encounter with Earth, which is the fourth closest on record so far
 "C0E24ADE-22FD-4D92-9100-6B32ADE79767" = "2023 BU is a small 8-m wide asteroid that flew about 3,568 km above the Earth's surface on January 27th, 2023. It was only discovered about six days prior to its encounter with Earth, which is the fourth closest on record so far";
+
+// English: This addon adds the rocky planet candidate for TOI-712. an existing TOI-712 addon must be installed for this to work properly
+"C1134B9E-EFB2-4C71-B533-D9909BCF75FD" = "This addon adds the rocky planet candidate for TOI-712. an existing TOI-712 addon must be installed for this to work properly";
 
 // English: The Cotton Candy Nebula is a reflection/protoplanetary nebula located about 9,784 light-years away in the constellation Scorpius
 "C13A16E6-6E68-6A07-C885-E52E45BC1625" = "The Cotton Candy Nebula is a reflection/protoplanetary nebula located about 9,784 light-years away in the constellation Scorpius";
