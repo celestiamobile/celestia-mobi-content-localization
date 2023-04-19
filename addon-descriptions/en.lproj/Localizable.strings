@@ -1711,6 +1711,9 @@
 // English: A Venus cloud map made from that one iconic image taken by Mariner 10 in 1973.
 "739912BC-C3D8-D8F6-2288-7A003F88777C" = "A Venus cloud map made from that one iconic image taken by Mariner 10 in 1973.";
 
+// English: Sirius is the brightest star in the night sky. With a visual apparent magnitude of −1.46, Sirius is almost twice as bright as Canopus, the next brightest star. It is a binary star system consisting of an A-type main-sequence star and a white dwarf orbiting each other once every 50 years. It is only about 8.61 light-years away in the constellation Canis Major\n\nThis add-on provides custom textures for both stars in this system
+"73C8714E-3A3C-4C1C-AC6C-F160737E9A21" = "Sirius is the brightest star in the night sky. With a visual apparent magnitude of −1.46, Sirius is almost twice as bright as Canopus, the next brightest star. It is a binary star system consisting of an A-type main-sequence star and a white dwarf orbiting each other once every 50 years. It is only about 8.61 light-years away in the constellation Canis Major\n\nThis add-on provides custom textures for both stars in this system";
+
 // English: Kepler-302, also known as KOI-1486, is a Sun-like star about 4,761 light-years away in the constellation Cygnus. Two gas giants, a neptunian and a jovian, were discovered orbiting around this star via transit method in 2014
 "740C7CD1-2E97-48AF-8643-E63EF2541AB2" = "Kepler-302, also known as KOI-1486, is a Sun-like star about 4,761 light-years away in the constellation Cygnus. Two gas giants, a neptunian and a jovian, were discovered orbiting around this star via transit method in 2014";
 
@@ -3510,6 +3513,9 @@
 
 // English: Qatar-4 is a K-type main sequence star about 1,083 light-years away in the constellation Andromeda. A single gas giant planet about 5 times more massive than Jupiter completes an orbit around its star once every 1.8 days
 "E39D5F18-091D-4D90-B4C8-6D7EC87D58DB" = "Qatar-4 is a K-type main sequence star about 1,083 light-years away in the constellation Andromeda. A single gas giant planet about 5 times more massive than Jupiter completes an orbit around its star once every 1.8 days";
+
+// English: HR 4796 is a binary star system of a young A-type main sequence star and a red dwarf about 230.25 light-years away in the constellation Centaurus. In 1991, infrared observations of the system revealed that the larger primary star (component A) is surrounded by a dense protoplanetary disk, which was subsequently been studied using the Hubble and Spitzer observatories from 2007 to 2018
+"E3AC5826-85DD-4523-8E35-A1D88D06CD24" = "HR 4796 is a binary star system of a young A-type main sequence star and a red dwarf about 230.25 light-years away in the constellation Centaurus. In 1991, infrared observations of the system revealed that the larger primary star (component A) is surrounded by a dense protoplanetary disk, which was subsequently been studied using the Hubble and Spitzer observatories from 2007 to 2018";
 
 // English: Kepler-303, also known as KOI-1515, is a K-type main sequence star about 688.24 light-years away in the constellation Lyra. In 2014, a total of two terrestrial planets were discovered, both in extremely close proximity with their host star
 "E46BEBCA-33D9-4BBA-845C-314EF53BB00B" = "Kepler-303, also known as KOI-1515, is a K-type main sequence star about 688.24 light-years away in the constellation Lyra. In 2014, a total of two terrestrial planets were discovered, both in extremely close proximity with their host star";
