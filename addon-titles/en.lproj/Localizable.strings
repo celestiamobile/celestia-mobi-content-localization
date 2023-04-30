@@ -748,6 +748,9 @@
 // English: 2P/Encke
 "3143F5B4-EA57-6123-4491-4EC5A1F867A1" = "2P/Encke";
 
+// English: TOI-2583
+"31765CC3-1CC6-4391-9E80-C07E4C81DCB8" = "TOI-2583";
+
 // English: Enceladus (3D model)
 "318391BE-B70C-EBB7-9456-81A37AABDBC1" = "Enceladus (3D model)";
 
@@ -1020,6 +1023,9 @@
 
 // English: Spektr-R
 "4224F40A-6555-8B37-F263-D5923F108097" = "Spektr-R";
+
+// English: HD 10180 (Unconfirmed Planets)
+"423037A3-930F-4F6A-BA92-E6E551391BE8" = "HD 10180 (Unconfirmed Planets)";
 
 // English: Uranus Infrared
 "42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "Uranus Infrared";
@@ -3762,6 +3768,9 @@
 
 // English: Kepler-105
 "F603277B-8F2B-4E1A-B312-043E4B36428E" = "Kepler-105";
+
+// English: TOI-2587
+"F6142F45-F5A3-43CF-A3DD-1B7D845E4FFF" = "TOI-2587";
 
 // English: Kepler-56
 "F6484870-C694-4423-8849-A7E9F257ED6D" = "Kepler-56";

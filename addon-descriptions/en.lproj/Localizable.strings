@@ -748,6 +748,9 @@
 // English: 2P/Encke is a periodic comet that orbits the Sun every 3.30 years, the second shortest orbital period comet (after 311P PanSTARRS with an orbital period of 3.24 years). The comet was first observed in 1786 by Pierre Méchain, but its orbit was only calculated in 1819 by Johann Franz Encke. Comet Encke is believed to be the originator of several meteor showers known as Taurids. Comet Encke was one of the targets of NASA's CONTOUR spacecraft launched in 2002, but communication with the spacecraft was lost and the mission failed.
 "3143F5B4-EA57-6123-4491-4EC5A1F867A1" = "2P/Encke is a periodic comet that orbits the Sun every 3.30 years, the second shortest orbital period comet (after 311P PanSTARRS with an orbital period of 3.24 years). The comet was first observed in 1786 by Pierre Méchain, but its orbit was only calculated in 1819 by Johann Franz Encke. Comet Encke is believed to be the originator of several meteor showers known as Taurids. Comet Encke was one of the targets of NASA's CONTOUR spacecraft launched in 2002, but communication with the spacecraft was lost and the mission failed.";
 
+// English: TOI-2583 is a binary system consisting of G and M-type stars located about 1,845.75 lightyears away from the solar system. The brighter of the two hosts a hot Jupiter (b= 1.29 Rj) with a really low density (b= 0.144 g/cm^3) orbiting every 4.52 days.
+"31765CC3-1CC6-4391-9E80-C07E4C81DCB8" = "TOI-2583 is a binary system consisting of G and M-type stars located about 1,845.75 lightyears away from the solar system. The brighter of the two hosts a hot Jupiter (b= 1.29 Rj) with a really low density (b= 0.144 g/cm^3) orbiting every 4.52 days.";
+
 // English: This addon adds a 3D model for Saturn's moon Enceladus, based on data from the Cassini spacecraft.
 "318391BE-B70C-EBB7-9456-81A37AABDBC1" = "This addon adds a 3D model for Saturn's moon Enceladus, based on data from the Cassini spacecraft.";
 
@@ -1020,6 +1023,9 @@
 
 // English: Spektr-R was a Russian scientific satellite with a 10-m wide radio telescope on board. It was launched on 2011-Jul-18 on a Zenit-3F rocket from Baikonur Cosmodrome, and was designed to perform research on the structure and dynamics of radio sources within and beyond the Milky Way. It lost contact with Earth on 2019-Jan-11
 "4224F40A-6555-8B37-F263-D5923F108097" = "Spektr-R was a Russian scientific satellite with a 10-m wide radio telescope on board. It was launched on 2011-Jul-18 on a Zenit-3F rocket from Baikonur Cosmodrome, and was designed to perform research on the structure and dynamics of radio sources within and beyond the Milky Way. It lost contact with Earth on 2019-Jan-11";
+
+// English: The three candidate planets of HD 10180, in addition to its six confirmed planets. One of these candidates was identified by the system's discovery paper in 2010 (hence the \"b\" designation), and another two were identified by a 2012 study that proposed a nine-planet model for the system. Other studies since 2014 have not confirmed these candidates, instead finding evidence for a six-planet model. Nevertheless, no refutation of these candidates has been published.
+"423037A3-930F-4F6A-BA92-E6E551391BE8" = "The three candidate planets of HD 10180, in addition to its six confirmed planets. One of these candidates was identified by the system's discovery paper in 2010 (hence the \"b\" designation), and another two were identified by a 2012 study that proposed a nine-planet model for the system. Other studies since 2014 have not confirmed these candidates, instead finding evidence for a six-planet model. Nevertheless, no refutation of these candidates has been published.";
 
 // English: This addon adds an alternative texture of the planet Uranus in infrared.
 "42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "This addon adds an alternative texture of the planet Uranus in infrared.";
@@ -3762,6 +3768,9 @@
 
 // English: Kepler-105, also known as KOI-115, is an F-type subgiant star about 1,518 light-years away in the constellation Lyra. Currently there are a total of two planets confirmed to be orbiting around this star (a neptunian and a superterran), though an additional planet candidate was spotted in the same system awaiting the verification of its existence\n\nNOTE: Its innermost (unconfirmed) planet can be downloaded on the \"Exoplanets: Unconfirmed\" category
 "F603277B-8F2B-4E1A-B312-043E4B36428E" = "Kepler-105, also known as KOI-115, is an F-type subgiant star about 1,518 light-years away in the constellation Lyra. Currently there are a total of two planets confirmed to be orbiting around this star (a neptunian and a superterran), though an additional planet candidate was spotted in the same system awaiting the verification of its existence\n\nNOTE: Its innermost (unconfirmed) planet can be downloaded on the \"Exoplanets: Unconfirmed\" category";
+
+// English: TOI-2587 is a binary system composed of a G-type star and a K-type star located about 1,218.20 lightyears away from the solar system. The primary star hosts a single low-density hot Jupiter (b= 1.07 Rj) that is much less massive than Saturn (b= 0.218 Mj).
+"F6142F45-F5A3-43CF-A3DD-1B7D845E4FFF" = "TOI-2587 is a binary system composed of a G-type star and a K-type star located about 1,218.20 lightyears away from the solar system. The primary star hosts a single low-density hot Jupiter (b= 1.07 Rj) that is much less massive than Saturn (b= 0.218 Mj).";
 
 // English: Kepler-56 is a K-type giant star about 3,056 light-years away in the constellation Cygnus. Three gas giant planets were discovered, of which two of them are orbiting within 0.16 AU from their star
 "F6484870-C694-4423-8849-A7E9F257ED6D" = "Kepler-56 is a K-type giant star about 3,056 light-years away in the constellation Cygnus. Three gas giant planets were discovered, of which two of them are orbiting within 0.16 AU from their star";
