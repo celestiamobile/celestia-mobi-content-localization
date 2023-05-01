@@ -1249,8 +1249,8 @@
 // English: Solar System but with high Eccentricity Values
 //"508D35A9-9E10-1BD4-47B9-707BEE90442D" = "Solar System but with high Eccentricity Values";
 
-// English: 75 Ceti (Disproven Planets)
-//"50A090D8-58F3-4EE4-BD76-C0249A6FFF57" = "75 Ceti (Disproven Planets)";
+// English: 75 Ceti (Unconfirmed Planets)
+//"50A090D8-58F3-4EE4-BD76-C0249A6FFF57" = "75 Ceti (Unconfirmed Planets)";
 
 // English: Tycho Site
 //"50BC916C-FF47-46F3-B489-ECBC0527AF96" = "Tycho Site";
@@ -1326,6 +1326,9 @@
 
 // English: 136617 (1994 CC)
 //"56739FD8-D50B-E6FC-AA54-258E4018079D" = "136617 (1994 CC)";
+
+// English: TOI-2796
+//"56C987B4-7A38-4AB5-9AE6-CDC17A4804F4" = "TOI-2796";
 
 // English: Lucy
 //"570B15DB-AAE1-5BF0-BDD1-4E0639CDEB32" = "Lucy";
@@ -2058,6 +2061,9 @@
 
 // English: Sputnik 3
 //"89DBC264-A141-3C3E-F1EF-F6F266B2C4F2" = "Sputnik 3";
+
+// English: TOI-2803
+//"89E682ED-BD94-4168-BF8B-1698057EAD19" = "TOI-2803";
 
 // English: POTS-1
 //"8A4A96C2-4C32-44D4-9235-3DF207C3013E" = "POTS-1";
