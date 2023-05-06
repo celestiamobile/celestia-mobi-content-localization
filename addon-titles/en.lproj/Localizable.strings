@@ -1270,8 +1270,8 @@
 // English: CoRoT-1
 "51332B83-AA31-4538-52A4-4C48F84EA489" = "CoRoT-1";
 
-// English: Risa
-"51430256-2CC6-451D-9C19-A08EA1EF4B41" = "Risa";
+// English: Risa System
+"51430256-2CC6-451D-9C19-A08EA1EF4B41" = "Risa System";
 
 // English: Gliese 667
 "5148494E-8B00-D97E-FA21-A9BC5D1730CC" = "Gliese 667";
@@ -3411,6 +3411,9 @@
 
 // English: 99942 Apophis (by Greg Frieger)
 "DCA8E002-A134-47F4-AB1D-EECB20114268" = "99942 Apophis (by Greg Frieger)";
+
+// English: USS Excelsior
+"DD6633A2-CA24-4EC1-8627-F86AA2FC04DB" = "USS Excelsior";
 
 // English: Jupiter Star
 "DD6A1744-2C07-272E-402B-9AC5EE730912" = "Jupiter Star";
