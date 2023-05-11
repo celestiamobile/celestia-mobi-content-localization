@@ -3892,6 +3892,9 @@
 // English: 98943 (2001 CC₂₁) is an L-type near-Earth asteroid about 740 m in diameter. A member of the Apollo group, it completes one orbit around the Sun every 383 days. Hayabusa2 is scheduled to visit this asteroid on July 2026
 "FB78582B-13D6-F55E-4862-85EAD1D50E49" = "98943 (2001 CC₂₁) is an L-type near-Earth asteroid about 740 m in diameter. A member of the Apollo group, it completes one orbit around the Sun every 383 days. Hayabusa2 is scheduled to visit this asteroid on July 2026";
 
+// English: TOI-715 is a red dwarf located about 138.42 lightyears from the solar system. A single potentially rocky super-Earth (b= 1.55 Re) orbits well within the star's habitable zone, no mass measurements of this planet have been taken yet. There is also a candidate second planet, which has its own dedicated addon here.
+"FB963CE2-2CD2-4755-A8AD-EFC64120870C" = "TOI-715 is a red dwarf located about 138.42 lightyears from the solar system. A single potentially rocky super-Earth (b= 1.55 Re) orbits well within the star's habitable zone, no mass measurements of this planet have been taken yet. There is also a candidate second planet, which has its own dedicated addon here.";
+
 // English: Ross 508, also known as Gliese 585, is a red dwarf star 36.6 light-years away in the constellation Serpens. It hosts one known planet, a super-Earth on an eccentric orbit near the inner edge of the habitable zone, discovered in 2022. It's depicted here as a volatile-rich ocean world.
 "FBCEEE8D-F02B-41E5-A013-97B6B226D063" = "Ross 508, also known as Gliese 585, is a red dwarf star 36.6 light-years away in the constellation Serpens. It hosts one known planet, a super-Earth on an eccentric orbit near the inner edge of the habitable zone, discovered in 2022. It's depicted here as a volatile-rich ocean world.";
 
