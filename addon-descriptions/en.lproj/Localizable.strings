@@ -2689,6 +2689,9 @@
 // English: 2002 VE₆₈ is an asteroid that is considered a temporary quasi-satellite of Venus. It was discovered on November 11, 2002. It was the first quasi-satellite discovered in the Solar System.
 "AC5146DF-B209-4D71-90F9-02B28567CEE0" = "2002 VE₆₈ is an asteroid that is considered a temporary quasi-satellite of Venus. It was discovered on November 11, 2002. It was the first quasi-satellite discovered in the Solar System.";
 
+// English: The International Sun-Earth Explorers (ISEE) were a series of satellites designed to study the interaction between the Earth's magnetic field and the solar wind. Three were launched between 1977 and 1978, where the last one (also known as the International Cometary Explorer or (ICE) is notable for being the first spacecraft to enter orbit around a Lagrange point and fly by a comet in 1985, in addition to being active until 2014
+"AC634949-E38E-46B7-91C9-8BA79E9B0E4D" = "The International Sun-Earth Explorers (ISEE) were a series of satellites designed to study the interaction between the Earth's magnetic field and the solar wind. Three were launched between 1977 and 1978, where the last one (also known as the International Cometary Explorer or (ICE) is notable for being the first spacecraft to enter orbit around a Lagrange point and fly by a comet in 1985, in addition to being active until 2014";
+
 // English: This addon adds 93 asteroids, all located in the main belt. Most of them with their formats studied through light curve.\nNOTE: Does not include 2 Pallas, 3 Juno, 4 Vesta, 16 Psyche, 21 Lutetia and 90 Antiope, which are available in separate addons.
 "AC7DFD03-B027-4E62-B313-68EB647138BE" = "This addon adds 93 asteroids, all located in the main belt. Most of them with their formats studied through light curve.\nNOTE: Does not include 2 Pallas, 3 Juno, 4 Vesta, 16 Psyche, 21 Lutetia and 90 Antiope, which are available in separate addons.";
 
