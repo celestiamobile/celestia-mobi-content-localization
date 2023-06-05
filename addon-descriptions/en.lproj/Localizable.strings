@@ -817,6 +817,9 @@
 // English: This addon adds an alternative texture of the planet Jupiter in infrared.
 "348330EE-3591-A3E8-7CBD-D57A87CC6A14" = "This addon adds an alternative texture of the planet Jupiter in infrared.";
 
+// English: This addon adds a fictional Earth-like moon to TOI-2257 b\n\nNOTES\n- An add-on for TOI-2257 is recommended to get the full effect, but it's not required
+"351C6C97-7C6A-4193-8243-15449FFA87A9" = "This addon adds a fictional Earth-like moon to TOI-2257 b\n\nNOTES\n- An add-on for TOI-2257 is recommended to get the full effect, but it's not required";
+
 // English: MOA-2007-BLG-192L is a low-mass red dwarf star or brown dwarf about 2,283 light-years away in the constellation Sagittarius. Its mass is only 6% that of the Sun. A planet about 3 times the mass of Earth, either a massive terrestrial planet or a low-mass ice giant (depicted here as the latter), was found orbiting this star in 2008.
 "355F79CE-B8ED-4250-9D1B-E92C9BC8D1F6" = "MOA-2007-BLG-192L is a low-mass red dwarf star or brown dwarf about 2,283 light-years away in the constellation Sagittarius. Its mass is only 6% that of the Sun. A planet about 3 times the mass of Earth, either a massive terrestrial planet or a low-mass ice giant (depicted here as the latter), was found orbiting this star in 2008.";
 
@@ -1207,8 +1210,8 @@
 // English: Gliese 3512 is a nearby red dwarf star only about 30.95 light-years away in the constellation Ursa Major. It has two gas giant planets that are predicted to have low temperatures despite their relative close proximity to their host star
 "4CDD38ED-8668-4C69-9330-C09C99E79A38" = "Gliese 3512 is a nearby red dwarf star only about 30.95 light-years away in the constellation Ursa Major. It has two gas giant planets that are predicted to have low temperatures despite their relative close proximity to their host star";
 
-// English: TOI-1807 is a K-type main sequence star about 139.04 light-years away in the constellation Canes Venatici. In 2021, a superterran planet 2.57 times the mass of Earth were discovered tidally locked on a 13.19 hour-long orbit at a distance of only 1.19 million km from its star, presumably melting its entire surface with a global ocean of magma
-"4CDFBF24-3F0B-49F6-99DE-5855D3B3465E" = "TOI-1807 is a K-type main sequence star about 139.04 light-years away in the constellation Canes Venatici. In 2021, a superterran planet 2.57 times the mass of Earth were discovered tidally locked on a 13.19 hour-long orbit at a distance of only 1.19 million km from its star, presumably melting its entire surface with a global ocean of magma";
+// English: TOI-1807 is a K-type star located about 139.04 lightyears from the solar system. A single hot super-Earth (b= 1.37 Re, 2.57 Me) orbits this star every 13.19 hours.\n\nRemaster Update:\n- New base textures\n- New Atmosphere parameters\n- Original texture included as alternate surface
+"4CDFBF24-3F0B-49F6-99DE-5855D3B3465E" = "TOI-1807 is a K-type star located about 139.04 lightyears from the solar system. A single hot super-Earth (b= 1.37 Re, 2.57 Me) orbits this star every 13.19 hours.\n\nRemaster Update:\n- New base textures\n- New Atmosphere parameters\n- Original texture included as alternate surface";
 
 // English: An addon that has a barycenter with every spectral type of brown dwarf and main sequence star ranging from Y9 to L0 for the brown dwarves and M9V to O0V.
 "4D023002-8F85-44E8-96D2-812D97057DE2" = "An addon that has a barycenter with every spectral type of brown dwarf and main sequence star ranging from Y9 to L0 for the brown dwarves and M9V to O0V.";
@@ -2728,8 +2731,8 @@
 // English: 5 Astraea is a large S-type asteroid in the asteroid belt. It was discovered in December 1845 by Karl Ludwig Hencke.
 "AE5E59AF-D2F0-B8AF-17C2-D516DBD5E17C" = "5 Astraea is a large S-type asteroid in the asteroid belt. It was discovered in December 1845 by Karl Ludwig Hencke.";
 
-// English: TOI-237 is a red dwarf about 124.31 light-years away in the constellation Sculptor. One confirmed superterran planet orbits the star once every 11.16 days
-"AE7529A1-F646-63A9-C8EB-C3BE0BCE60A4" = "TOI-237 is a red dwarf about 124.31 light-years away in the constellation Sculptor. One confirmed superterran planet orbits the star once every 11.16 days";
+// English: TOI-237 is a red dwarf located about 124.31 lightyears from the solar system. The star hosts a single potentially Venus-like super-Earth planet (b= 1.44 Re).\n\nRemaster Update\n- New base textures\n- New atmosphere parameters\n- Original textures included as alternate surface
+"AE7529A1-F646-63A9-C8EB-C3BE0BCE60A4" = "TOI-237 is a red dwarf located about 124.31 lightyears from the solar system. The star hosts a single potentially Venus-like super-Earth planet (b= 1.44 Re).\n\nRemaster Update\n- New base textures\n- New atmosphere parameters\n- Original textures included as alternate surface";
 
 // English: 2006 VW₁₃₉ is an active asteroid binary system. It is also known as periodic comet number 288P. The object was discovered by Spacewatch in November 2006, however the binary nature was only confirmed by the Hubble Space Telescope in September 2016. The two components are estimated to be about 1.8 km in diameter, orbiting each other in a wide separation of 104 km every 135 days.
 "AE908843-21E9-4B2C-B6C7-0F2501499A46" = "2006 VW₁₃₉ is an active asteroid binary system. It is also known as periodic comet number 288P. The object was discovered by Spacewatch in November 2006, however the binary nature was only confirmed by the Hubble Space Telescope in September 2016. The two components are estimated to be about 1.8 km in diameter, orbiting each other in a wide separation of 104 km every 135 days.";
