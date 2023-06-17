@@ -3994,6 +3994,9 @@
 // English: This addon modifies all planets and some moons in the Solar System with textures from Solar System Simulator, made by JPL/Caltech.\nNOTE: These textures are very old and therefore the texture of Mercury as well as Saturn's moons is incomplete. Others textures are in black and white, such as the Galilean moons Europa, Ganymede and Callisto. Some are fictional, such as the texture of Jupiter, Saturn, Uranus, Neptune and Pluto.
 "FD47D604-351B-5E70-8D62-E9474E7F13D0" = "This addon modifies all planets and some moons in the Solar System with textures from Solar System Simulator, made by JPL/Caltech.\nNOTE: These textures are very old and therefore the texture of Mercury as well as Saturn's moons is incomplete. Others textures are in black and white, such as the Galilean moons Europa, Ganymede and Callisto. Some are fictional, such as the texture of Jupiter, Saturn, Uranus, Neptune and Pluto.";
 
+// English: TOI-2525 is a K-type main sequence star located about 1289 lightyears from the solar system. The star has two warm sub-Jupiters close to a 2:1 MMR (b= 8.68 Re, 27 Me | c= 10.1 Re, 209 Me). The innermost planet has an extremely low density and is likely to be a puffy gas giant.
+"FD693680-F6C5-466D-AFB9-F230C3AECB2C" = "TOI-2525 is a K-type main sequence star located about 1289 lightyears from the solar system. The star has two warm sub-Jupiters close to a 2:1 MMR (b= 8.68 Re, 27 Me | c= 10.1 Re, 209 Me). The innermost planet has an extremely low density and is likely to be a puffy gas giant.";
+
 // English: This addon adds, as an alternative surface, a topographic map for the planet Earth.
 "FEB48E74-9F16-4096-AAC1-E056DC3902A1" = "This addon adds, as an alternative surface, a topographic map for the planet Earth.";
 
