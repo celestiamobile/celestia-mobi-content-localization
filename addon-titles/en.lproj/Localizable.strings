@@ -250,6 +250,9 @@
 // English: S-IVB Apollo stages
 "106292B4-8C00-E26E-2AA7-24DE5DB680E3" = "S-IVB Apollo stages";
 
+// English: WASP-28
+"1065C2A3-2DE9-4C37-A7EA-87D991086839" = "WASP-28";
+
 // English: TOI-1246
 "10881EAF-C7D0-4B28-9609-DC394293C901" = "TOI-1246";
 
@@ -1582,6 +1585,9 @@
 // English: Earth Radiation Budget Satellite
 "639C233F-67F3-4392-BA4F-5FD2D02BDF7F" = "Earth Radiation Budget Satellite";
 
+// English: Kepler-1661
+"63C61EA9-6196-44F9-82A2-00D73B5763B9" = "Kepler-1661";
+
 // English: Kepler-63
 "63E8BA60-5100-4DCB-B528-68BB322A8231" = "Kepler-63";
 
@@ -2341,6 +2347,9 @@
 // English: K2-34
 "958AE251-E2A8-4C43-8C37-46B073441509" = "K2-34";
 
+// English: Kepler-1326
+"95970870-6215-4449-9009-F15D78EC125D" = "Kepler-1326";
+
 // English: Kepler-86
 "95AEED68-FC7A-405A-9BBB-7BC5ADD08F5E" = "Kepler-86";
 
@@ -3006,6 +3015,9 @@
 
 // English: M 76 (Little Dumbbell Nebula)
 "BEF16AA2-CB2E-A88C-890C-EE8F5458AC43" = "M 76 (Little Dumbbell Nebula)";
+
+// English: UKIRT-2017-BLG-001L
+"BEF3065E-F55F-4F63-A855-E0BAB4DB9CAB" = "UKIRT-2017-BLG-001L";
 
 // English: K2-32
 "BEF4A4A4-2C05-4B8D-9FEE-ED1E0A110AF1" = "K2-32";
