@@ -2695,6 +2695,9 @@
 // English: This addon adds 404 contact binary stars, also known as W Ursae Majoris variables, to Celestia.
 "A82BD513-2C70-0F57-E99A-7C44E33E8AE1" = "This addon adds 404 contact binary stars, also known as W Ursae Majoris variables, to Celestia.";
 
+// English: TOI-2152 is a tertiary star system composed of an F-type main sequence star and two red dwarfs. the primary star hosts a single hot Jupiter orbiting every 3.38 days (b= 1.281 Rj, 2.83 Mj)
+"A82E5081-DC8F-44B4-8319-07641158E24E" = "TOI-2152 is a tertiary star system composed of an F-type main sequence star and two red dwarfs. the primary star hosts a single hot Jupiter orbiting every 3.38 days (b= 1.281 Rj, 2.83 Mj)";
+
 // English: Adds a 3D model for Arsia Mons, the southernmost of three volcanoes (collectively known as Tharsis Montes) on the Tharsis bulge near the Martian equator
 "A85BFD24-5337-D731-51B9-8D8E5637E0D1" = "Adds a 3D model for Arsia Mons, the southernmost of three volcanoes (collectively known as Tharsis Montes) on the Tharsis bulge near the Martian equator";
 
@@ -3777,6 +3780,9 @@
 
 // English: 52760 (1998 ML₁₄) is a near-Earth asteroid about 1 km in diameter. It was discovered on 1998-Jun-24 by the LINEAR project. Soon after its discovery, it was observed by the Arecibo and Goldstone observatories.
 "ED4F0CE8-E5F8-4DBC-AB52-7EE9BF7B0538" = "52760 (1998 ML₁₄) is a near-Earth asteroid about 1 km in diameter. It was discovered on 1998-Jun-24 by the LINEAR project. Soon after its discovery, it was observed by the Arecibo and Goldstone observatories.";
+
+// English: TOI-1811 is a K-type main sequence star located about 418.03 lightyears from the solar system, a single hot Jupiter orbits this star every 3.71 days (b= 10.98 Re, 309.55 Me)
+"ED56BCC9-55BA-4FB1-A4BA-04F8A91B41ED" = "TOI-1811 is a K-type main sequence star located about 418.03 lightyears from the solar system, a single hot Jupiter orbits this star every 3.71 days (b= 10.98 Re, 309.55 Me)";
 
 // English: Dawn is a NASA spacecraft designed to study two of the three known protoplanets in the asteroid belt, Ceres and Vesta. It is the first spacecraft to orbit two extraterrestrial bodies, which is made possible by its use of ion propulsion. During its nine-year mission (2007-2018), it orbited Vesta from 2011-2012 and then orbited Ceres in 2015, which remains so to this day until its predicted crash sometime in 2044.
 "EDC63D7E-A49B-AEF6-DBBD-2B4CFF684361" = "Dawn is a NASA spacecraft designed to study two of the three known protoplanets in the asteroid belt, Ceres and Vesta. It is the first spacecraft to orbit two extraterrestrial bodies, which is made possible by its use of ion propulsion. During its nine-year mission (2007-2018), it orbited Vesta from 2011-2012 and then orbited Ceres in 2015, which remains so to this day until its predicted crash sometime in 2044.";
