@@ -694,6 +694,9 @@
 // English: DP Leonis is a binary star system consisting of a red dwarf and a white dwarf about 1,304.6 light-years away in the constellation Leo. Both stars are orbited by a super-Jovian that completes one revolution every 28 years
 "2BF2F5A5-D5F8-97AD-21E6-E0F9B97A6015" = "DP Leonis is a binary star system consisting of a red dwarf and a white dwarf about 1,304.6 light-years away in the constellation Leo. Both stars are orbited by a super-Jovian that completes one revolution every 28 years";
 
+// English: TOI-2145 is an F-type subgiant star located about 732.62 lightyears from the solar system. A single dense hot Jupiter completes an orbit every 10.26 days (b= 11.98 Re, 1672 Me)
+"2C0DE67D-1C93-4D75-A212-F7B9AF3580D6" = "TOI-2145 is an F-type subgiant star located about 732.62 lightyears from the solar system. A single dense hot Jupiter completes an orbit every 10.26 days (b= 11.98 Re, 1672 Me)";
+
 // English: WASP-166, aka TOI-576, is an F-type main sequence star located about 372.19 light years from the solar system. A single hot sub-Saturn planet is hosted by the star
 "2C58AD2A-443D-43F8-8344-C519B6223377" = "WASP-166, aka TOI-576, is an F-type main sequence star located about 372.19 light years from the solar system. A single hot sub-Saturn planet is hosted by the star";
 
