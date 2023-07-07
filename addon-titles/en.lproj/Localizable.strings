@@ -3871,6 +3871,9 @@
 // English: K2-3
 "F14BF05A-1CDA-4961-A037-E0E49F3ECEAC" = "K2-3";
 
+// English: Republic Cruiser
+"F151AD79-FCFD-49F2-A49F-E65538DE174B" = "Republic Cruiser";
+
 // English: 229762 Gǃkúnǁʼhòmdímà
 "F181E5E0-7841-1D83-61D0-AA9274637842" = "229762 Gǃkúnǁʼhòmdímà";
 
@@ -3924,6 +3927,9 @@
 
 // English: Helios 1 and 2
 "F4DB14FD-5AF0-64BB-747F-096B44C3D60E" = "Helios 1 and 2";
+
+// English: Coruscant
+"F55E2350-0051-44BA-8471-D7F68B1E1300" = "Coruscant";
 
 // English: Kepler-493
 "F569F8A4-7E1D-4569-9704-B2B2819749FE" = "Kepler-493";

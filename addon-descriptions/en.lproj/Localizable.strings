@@ -3871,6 +3871,9 @@
 // English: K2-3, also known as TOI-5146, is a red dwarf star about 143.93 light-years away in the constellation Leo. It has three superterran planets, of which the outermost planet was once considered a potentially habitable world until it was removed from the catalog in 2021
 "F14BF05A-1CDA-4961-A037-E0E49F3ECEAC" = "K2-3, also known as TOI-5146, is a red dwarf star about 143.93 light-years away in the constellation Leo. It has three superterran planets, of which the outermost planet was once considered a potentially habitable world until it was removed from the catalog in 2021";
 
+// English: The Cruiser is placed into orbit around the planet Tatooine from the Tatooine, Endor and Death Star add-on.
+"F151AD79-FCFD-49F2-A49F-E65538DE174B" = "The Cruiser is placed into orbit around the planet Tatooine from the Tatooine, Endor and Death Star add-on.";
+
 // English: 229762 Gǃkúnǁʼhòmdímà is a candidate dwarf planet in the extended scattered disc about 678 km in diameter. It has a single satellite named Gǃòʼé ǃHú, which is one of the reddest trans-Neptunian objects ever found
 "F181E5E0-7841-1D83-61D0-AA9274637842" = "229762 Gǃkúnǁʼhòmdímà is a candidate dwarf planet in the extended scattered disc about 678 km in diameter. It has a single satellite named Gǃòʼé ǃHú, which is one of the reddest trans-Neptunian objects ever found";
 
@@ -3924,6 +3927,9 @@
 
 // English: Helios 1 and 2 were the twin spacecraft sent by NASA and the German Aerospace Center (DLR) to study the Sun in multiple close flybys between 1974 and 1976. Helios 1 was operational from 1974-1986, while Helios 2 did so from 1976-1980. They were the closest artificial objects to approach our star until the Parker Solar Probe became operational in 2018.
 "F4DB14FD-5AF0-64BB-747F-096B44C3D60E" = "Helios 1 and 2 were the twin spacecraft sent by NASA and the German Aerospace Center (DLR) to study the Sun in multiple close flybys between 1974 and 1976. Helios 1 was operational from 1974-1986, while Helios 2 did so from 1976-1980. They were the closest artificial objects to approach our star until the Parker Solar Probe became operational in 2018.";
+
+// English: This adds the planet Coruscant around Jestr's Star.
+"F55E2350-0051-44BA-8471-D7F68B1E1300" = "This adds the planet Coruscant around Jestr's Star.";
 
 // English: Kepler-493, also known as KOI-208 and TOI-6001, is an F-type main sequence star about 5,447 light-years away in the constellation Cygnus. A very hot Jupiter-sized planet was found completing a 3-day orbit at a distance of 6.5 million km from its star
 "F569F8A4-7E1D-4569-9704-B2B2819749FE" = "Kepler-493, also known as KOI-208 and TOI-6001, is an F-type main sequence star about 5,447 light-years away in the constellation Cygnus. A very hot Jupiter-sized planet was found completing a 3-day orbit at a distance of 6.5 million km from its star";
