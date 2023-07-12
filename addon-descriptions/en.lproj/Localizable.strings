@@ -709,6 +709,9 @@
 // English: MESSENGER was a NASA space probe with the aim of studying the planet Mercury. Launched on August 3, 2004, it passed once by Earth, twice by Venus and three times by Mercury before entering Mercury's orbit in March 18, 2011. MESSENGER studied and photographed Mercury until April 30, 2015, when its fuel ran out and the probe crashed into the planet's surface.
 "2C93C6C4-AA21-D960-E907-41844D7C0128" = "MESSENGER was a NASA space probe with the aim of studying the planet Mercury. Launched on August 3, 2004, it passed once by Earth, twice by Venus and three times by Mercury before entering Mercury's orbit in March 18, 2011. MESSENGER studied and photographed Mercury until April 30, 2015, when its fuel ran out and the probe crashed into the planet's surface.";
 
+// English: Barnard 335, also known as LDN 663, is a small, very dense dark nebula about 536.22 light-years away in the constellation Aquila. It is considered to be a Bok globule, which are extremely dark areas in space that reach temperatures as low as 10 Kelvin
+"2C9DFCE2-63E4-4833-86FF-9E36D1B1854D" = "Barnard 335, also known as LDN 663, is a small, very dense dark nebula about 536.22 light-years away in the constellation Aquila. It is considered to be a Bok globule, which are extremely dark areas in space that reach temperatures as low as 10 Kelvin";
+
 // English: Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory (Curiosity)
 "2D583BD6-AF34-97CD-1242-C605A51B4970" = "Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory (Curiosity)";
 
@@ -2043,6 +2046,9 @@
 
 // English: PSR B1957+20, also known as the Black Widow Pulsar, is a pulsar discovered in 1988 about 4,500 light-years away from Earth. Around it is a former companion star that has been eroded to a substellar mass by the pulsar wind, which was among the first extrasolar substellar objects discovered. Many other similar systems have since been discovered, which are referred to as \"black widow\" pulsars after this system.
 "831BF687-0DC1-B05C-A40A-38869F9CB37F" = "PSR B1957+20, also known as the Black Widow Pulsar, is a pulsar discovered in 1988 about 4,500 light-years away from Earth. Around it is a former companion star that has been eroded to a substellar mass by the pulsar wind, which was among the first extrasolar substellar objects discovered. Many other similar systems have since been discovered, which are referred to as \"black widow\" pulsars after this system.";
+
+// English: HD 44179, also known as the Red Rectangle Nebula, is a protoplanetary nebula about 2,316 light-years away in the constellation Monoceros. Discovered in 1973, it received its name because of its red color and unique rectangular shape
+"8347E0D9-CE2B-4798-930A-C3D113E9B26D" = "HD 44179, also known as the Red Rectangle Nebula, is a protoplanetary nebula about 2,316 light-years away in the constellation Monoceros. Discovered in 1973, it received its name because of its red color and unique rectangular shape";
 
 // English: This addon depicts the unconfirmed neptunian planet around Vega, which the star has been actively searched for since 1983 but first detected in 2021.\n\nNOTE: The debris disk around Vega can be found in a separate addon posted in the \"Stars\" category
 "83869C1A-F009-41FB-9372-3691FE531919" = "This addon depicts the unconfirmed neptunian planet around Vega, which the star has been actively searched for since 1983 but first detected in 2021.\n\nNOTE: The debris disk around Vega can be found in a separate addon posted in the \"Stars\" category";
