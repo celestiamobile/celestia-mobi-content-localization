@@ -81,6 +81,33 @@ jobs:
         .build/debug/SynchronizerApp addon-rich-descriptions ResourceItem localizedHTMLReferences data --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
         git add addon-rich-descriptions
 
+    - name: Synchronize (Guide Titles)
+      if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
+      run: |
+        rm -rf guide-titles
+        .build/debug/SynchronizerApp guide-titles Guide localizedTitles --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git add guide-titles
+
+    - name: Synchronize (Guide Descriptions)
+      if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
+      run: |
+        rm -rf guide-descriptions
+        .build/debug/SynchronizerApp guide-descriptions Guide localizedDescriptions --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git add guide-descriptions
+
+    - name: Synchronize (Guide Content)
+      if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
+      run: |
+        rm -rf guide-content
+        .build/debug/SynchronizerApp guide-content Guide localizedHTMLReferences data --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git add guide-content
+
     - name: Commit
       if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
       run: |
