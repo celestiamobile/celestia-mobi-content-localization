@@ -40,7 +40,7 @@ public class CloudKitHandler {
         CloudKit.shared.configure(with: CKConfig(containers: [config]))
     }
 
-    private func duplicateData(dataInformation: (data: Data, language: String, reference: String, id: String), mainKey: String, dataKey: String) async throws {
+    private func duplicateData(dataInformation: (data: Data, targetId: String, language: String, reference: String, id: String), mainKey: String, dataKey: String) async throws {
         let db = CKContainer.default().publicCloudDatabase
         let referenceRecordID = CKRecord.ID(recordName: dataInformation.reference)
         let referenceRecordResults = try await db.records(for: [referenceRecordID])
@@ -48,7 +48,7 @@ public class CloudKitHandler {
             throw CloudKitHandlerError.dataMissing
         }
         let record = try recordResult.get()
-        var newRecord = CKRecord(recordType: record.recordType)
+        let newRecord = CKRecord(recordType: record.recordType, recordID: CKRecord.ID(recordName: dataInformation.targetId))
         let temporaryDirectory = NSTemporaryDirectory()
         for key in record.allKeys() {
             guard let value = record[key] else {
@@ -98,7 +98,7 @@ public class CloudKitHandler {
             throw CloudKitHandlerError.json
         }
         json[dataInformation.language] = newRecord.recordID.recordName
-        guard var encodedData = try? JSONEncoder().encode(json) else {
+        guard let encodedData = try? JSONEncoder().encode(json) else {
             throw CloudKitHandlerError.json
         }
         guard let str = String(data: encodedData, encoding: .utf8) else {
@@ -116,7 +116,7 @@ public class CloudKitHandler {
         }
     }
 
-    public func duplicateData(dataInformations: [(data: Data, language: String, reference: String, id: String)], mainKey: String, dataKey: String) async throws {
+    public func duplicateData(dataInformations: [(data: Data, targetId: String, language: String, reference: String, id: String)], mainKey: String, dataKey: String) async throws {
         for dataInformation in dataInformations {
             try await duplicateData(dataInformation: dataInformation, mainKey: mainKey, dataKey: dataKey)
         }

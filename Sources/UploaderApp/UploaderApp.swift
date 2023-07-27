@@ -75,10 +75,10 @@ struct UploaderApp: AsyncParsableCommand {
             let oldDataCollection = try parser.parseDataDirectory(at: oldPath)
             let newDataCollection = try parser.parseDataDirectory(at: newPath)
             var dataById = [String: Data]()
-            var dataToDuplicate = [(data: Data, language: String, reference: String, id: String)]()
+            var dataToDuplicate = [(data: Data, targetId: String, language: String, reference: String, id: String)]()
             for (id, newData) in newDataCollection {
-                if !newData.new.isEmpty {
-                    dataToDuplicate.append(contentsOf: newData.new.map { ($0.value, $0.key, newData.reference, id) })
+                guard newData.new.isEmpty else {
+                    throw ActionError.unsupported
                 }
                 guard let oldData = oldDataCollection[id] else {
                     throw ActionError.unsupported
@@ -86,18 +86,16 @@ struct UploaderApp: AsyncParsableCommand {
                 guard oldData.new.isEmpty else {
                     throw ActionError.unsupported
                 }
-                guard oldData.existing.count == newData.existing.count else {
-                    throw ActionError.unsupported
-                }
                 for (language, dataWithId) in newData.existing {
-                    guard let oldDataWithId = oldData.existing[language] else {
-                        throw ActionError.unsupported
-                    }
-                    guard oldDataWithId.id == dataWithId.id else {
-                        throw ActionError.unsupported
-                    }
-                    if dataWithId.data != oldDataWithId.data {
-                        dataById[dataWithId.id] = dataWithId.data
+                    if let oldDataWithId = oldData.existing[language] {
+                        guard oldDataWithId.id == dataWithId.id else {
+                            throw ActionError.unsupported
+                        }
+                        if dataWithId.data != oldDataWithId.data {
+                            dataById[dataWithId.id] = dataWithId.data
+                        }
+                    } else {
+                        dataToDuplicate.append((dataWithId.data, dataWithId.id, language, newData.reference, id))
                     }
                 }
             }
