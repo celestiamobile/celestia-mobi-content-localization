@@ -111,6 +111,7 @@ public class Parser {
             try fileManager.createDirectory(atPath: idDirectory, withIntermediateDirectories: true)
             for (language, languageData) in localizedData {
                 let languageDirectory = (idDirectory as NSString).appendingPathComponent(language)
+                try fileManager.createDirectory(atPath: languageDirectory, withIntermediateDirectories: true)
                 let idFilePath = (languageDirectory as NSString).appendingPathComponent("id.txt")
                 let dataFilePath = (languageDirectory as NSString).appendingPathComponent("data.html")
                 guard let idData = languageData.id.data(using: .utf8) else {

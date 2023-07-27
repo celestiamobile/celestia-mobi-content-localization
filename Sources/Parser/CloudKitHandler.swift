@@ -203,18 +203,32 @@ public class CloudKitHandler {
         }
 
         print("Fetching data...")
-        let dataRecordResults = try await db.records(for: dataIds.map { CKRecord.ID(recordName: $0) }, desiredKeys: [targetDataKey])
+        var currentIds = [String]()
         var dataResults = [String: Data]()
-        for (id, recordResult) in dataRecordResults {
-            switch recordResult {
-            case .success(let record):
-                guard let data = record[targetDataKey] as? Data else {
-                    throw CloudKitHandlerError.dataMissing
+        func getDataRecords() async throws {
+            let dataRecordResults = try await db.records(for: currentIds.map { CKRecord.ID(recordName: $0) }, desiredKeys: [targetDataKey])
+            for (id, recordResult) in dataRecordResults {
+                switch recordResult {
+                case .success(let record):
+                    guard let data = record[targetDataKey] as? Data else {
+                        throw CloudKitHandlerError.dataMissing
+                    }
+                    dataResults[id.recordName] = data
+                case .failure(let error):
+                    throw error
                 }
-                dataResults[id.recordName] = data
-            case .failure(let error):
-                throw error
             }
+        }
+
+        for dataId in dataIds {
+            currentIds.append(dataId)
+            if currentIds.count == 50 {
+                try await getDataRecords()
+                currentIds = []
+            }
+        }
+        if !currentIds.isEmpty {
+            try await getDataRecords()
         }
 
         print("Matching data...")
