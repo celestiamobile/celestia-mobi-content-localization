@@ -11,12 +11,14 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/levinli303/OpenCloudKit.git", from: "0.8.18"),
         .package(url: "https://github.com/apple/swift-argument-parser", from: "1.2.0"),
+        .package(url: "https://github.com/levinli303/mwrequest.git", from: "0.3.5"),
     ],
     targets: [
         .target(
             name: "Parser",
             dependencies: [
                 .product(name: "OpenCloudKit", package: "OpenCloudKit"),
+                .product(name: "MWRequest", package: "MWRequest"),
             ]
         ),
         .executableTarget(

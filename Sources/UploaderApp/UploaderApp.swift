@@ -75,9 +75,10 @@ struct UploaderApp: AsyncParsableCommand {
             let oldDataCollection = try parser.parseDataDirectory(at: oldPath)
             let newDataCollection = try parser.parseDataDirectory(at: newPath)
             var dataById = [String: Data]()
+            var dataToDuplicate = [(data: Data, language: String, reference: String, id: String)]()
             for (id, newData) in newDataCollection {
-                guard newData.new.isEmpty else {
-                    throw ActionError.unsupported
+                if !newData.new.isEmpty {
+                    dataToDuplicate.append(contentsOf: newData.new.map { ($0.value, $0.key, newData.reference, id) })
                 }
                 guard let oldData = oldDataCollection[id] else {
                     throw ActionError.unsupported
@@ -102,6 +103,9 @@ struct UploaderApp: AsyncParsableCommand {
             }
             if !dataById.isEmpty {
                 try await handler.uploadDataChanges(dataById: dataById, dataKey: dataKey)
+            }
+            if !dataToDuplicate.isEmpty {
+                try await handler.duplicateData(dataInformations: dataToDuplicate, mainKey: mainKey, dataKey: dataKey)
             }
         } else {
             let oldStringsByLocales = try parser.parseDirectory(at: oldPath)

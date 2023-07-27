@@ -1,4 +1,5 @@
 import Foundation
+import MWRequest
 import OpenCloudKit
 
 enum CloudKitHandlerError: Error {
@@ -8,6 +9,7 @@ enum CloudKitHandlerError: Error {
     case json
     case englishResourceMissing
     case dataMissing
+    case stringConversion
 }
 
 extension CloudKitHandlerError: LocalizedError {
@@ -25,6 +27,8 @@ extension CloudKitHandlerError: LocalizedError {
             return "English resource missing"
         case .dataMissing:
             return "Data is missing from the record"
+        case .stringConversion:
+            return "Error converting string to data"
         }
     }
 }
@@ -34,6 +38,88 @@ public class CloudKitHandler {
 
     public static func configure(_ config: CKContainerConfig) {
         CloudKit.shared.configure(with: CKConfig(containers: [config]))
+    }
+
+    private func duplicateData(dataInformation: (data: Data, language: String, reference: String, id: String), mainKey: String, dataKey: String) async throws {
+        let db = CKContainer.default().publicCloudDatabase
+        let referenceRecordID = CKRecord.ID(recordName: dataInformation.reference)
+        let referenceRecordResults = try await db.records(for: [referenceRecordID])
+        guard let recordResult = referenceRecordResults[referenceRecordID] else {
+            throw CloudKitHandlerError.dataMissing
+        }
+        let record = try recordResult.get()
+        var newRecord = CKRecord(recordType: record.recordType)
+        let temporaryDirectory = NSTemporaryDirectory()
+        for key in record.allKeys() {
+            guard let value = record[key] else {
+                throw CloudKitHandlerError.dataMissing
+            }
+            if let asset = value as? CKAsset {
+                let data = try await AsyncDataRequestHandler.get(url: asset.fileURL.absoluteString)
+                let tempPath = (temporaryDirectory as NSString).appendingPathComponent(UUID().uuidString)
+                let fileURL = URL(fileURLWithPath: tempPath)
+                try data.write(to: fileURL)
+                newRecord[key] = CKAsset(fileURL: fileURL)
+            } else if let assets = value as? [CKAsset] {
+                var newAssets = [CKAsset]()
+                for asset in assets {
+                    let data = try await AsyncDataRequestHandler.get(url: asset.fileURL.absoluteString)
+                    let tempPath = (temporaryDirectory as NSString).appendingPathComponent(UUID().uuidString)
+                    let fileURL = URL(fileURLWithPath: tempPath)
+                    try data.write(to: fileURL)
+                    newAssets.append(CKAsset(fileURL: fileURL))
+                }
+                newRecord[key] = newAssets
+            } else {
+                newRecord[key] = value
+            }
+        }
+        newRecord[dataKey] = dataInformation.data
+        let recordDuplicateResults = try await db.modifyRecords(saving: [newRecord], deleting: [], savePolicy: .allKeys)
+        guard let recordDuplicateResult = recordDuplicateResults.saveResults[newRecord.recordID] else {
+            throw CloudKitHandlerError.dataMissing
+        }
+        switch recordDuplicateResult {
+        case .success:
+            break
+        case .failure(let error):
+            throw error
+        }
+        let mainRecordID = CKRecord.ID(recordName: dataInformation.id)
+        let mainRecordResults = try await db.records(for: [mainRecordID], desiredKeys: [mainKey])
+        guard let mainRecordResult = mainRecordResults[mainRecordID] else {
+            throw CloudKitHandlerError.dataMissing
+        }
+        let mainRecord = try mainRecordResult.get()
+        guard let value = mainRecord[mainKey] as? String else {
+            throw CloudKitHandlerError.dataMissing
+        }
+        guard var json = try? JSONDecoder().decode([String: String].self, from: value.data(using: .utf8)!) else {
+            throw CloudKitHandlerError.json
+        }
+        json[dataInformation.language] = newRecord.recordID.recordName
+        guard var encodedData = try? JSONEncoder().encode(json) else {
+            throw CloudKitHandlerError.json
+        }
+        guard let str = String(data: encodedData, encoding: .utf8) else {
+            throw CloudKitHandlerError.stringConversion
+        }
+        mainRecord[mainKey] = str
+        guard let modifyResult = try await db.modifyRecords(saving: [mainRecord], deleting: [], savePolicy: .changedKeys).saveResults[mainRecordID] else {
+            throw CloudKitHandlerError.dataMissing
+        }
+        switch modifyResult {
+        case .success:
+            break
+        case .failure(let error):
+            throw error
+        }
+    }
+
+    public func duplicateData(dataInformations: [(data: Data, language: String, reference: String, id: String)], mainKey: String, dataKey: String) async throws {
+        for dataInformation in dataInformations {
+            try await duplicateData(dataInformation: dataInformation, mainKey: mainKey, dataKey: dataKey)
+        }
     }
 
     public func uploadDataChanges(dataById: [String: Data], dataKey: String) async throws {
