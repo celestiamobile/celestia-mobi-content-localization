@@ -61,15 +61,19 @@ public class Parser {
         return (existingResults, newResults)
     }
 
-    public func parseDataDirectory(at path: String) throws -> [String: (existing: [String: (id: String, data: Data)], new: [String: Data])] {
+    public func parseDataDirectory(at path: String) throws -> [String: (existing: [String: (id: String, data: Data)], new: [String: Data], reference: String)] {
         guard let ids = try? FileManager.default.contentsOfDirectory(atPath: path) else {
             throw ParserError.directoryIteration
         }
 
-        var results = [String: (existing: [String: (id: String, data: Data)], new: [String: Data])]()
+        var results = [String: (existing: [String: (id: String, data: Data)], new: [String: Data], reference: String)]()
         for id in ids {
             guard id != ".DS_Store" else { continue }
-            results[id] = try parseLocalizedDataForDataDirectory(at: (path as NSString).appendingPathComponent(id))
+            let result = try parseLocalizedDataForDataDirectory(at: (path as NSString).appendingPathComponent(id))
+            guard let englishResource = result.existing["en"] else {
+                throw ParserError.englishResourceMissing
+            }
+            results[id] = (result.existing, result.new, englishResource.id)
         }
         return results
     }
