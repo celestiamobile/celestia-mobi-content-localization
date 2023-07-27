@@ -192,3 +192,33 @@ jobs:
         git reset --hard HEAD^
         .build/debug/UploaderApp addon-descriptions new-addon-descriptions localizedDescription --english-key description --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
         git reset --hard $CURRENT_COMMIT
+
+    - name: Upload (Guide Titles)
+      if: github.event_name == 'push'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
+      run: |
+        if [ "`git show -s --format='%an'`" == "runner" ]; then
+          echo "Ignore runner commit"
+          exit 0
+        fi
+        cp -r guide-titles new-guide-titles
+        CURRENT_COMMIT=`git show -s --format='%H'`
+        git reset --hard HEAD^
+        .build/debug/UploaderApp guide-titles new-guide-titles localizedTitles --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git reset --hard $CURRENT_COMMIT
+
+    - name: Upload (Guide Descriptions)
+      if: github.event_name == 'push'
+      env:
+        CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
+      run: |
+        if [ "`git show -s --format='%an'`" == "runner" ]; then
+          echo "Ignore runner commit"
+          exit 0
+        fi
+        cp -r guide-descriptions new-guide-descriptions
+        CURRENT_COMMIT=`git show -s --format='%H'`
+        git reset --hard HEAD^
+        .build/debug/UploaderApp guide-descriptions new-guide-descriptions localizedDescriptions --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        git reset --hard $CURRENT_COMMIT
