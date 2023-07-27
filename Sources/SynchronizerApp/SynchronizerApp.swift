@@ -27,6 +27,8 @@ struct SynchronizerApp: AsyncParsableCommand {
     var recordType: String
     @Argument
     var mainKey: String
+    @Argument
+    var dataKey: String?
 
     @Option(help: "The key file path for CloudKit.")
     var keyFilePath: String?
@@ -53,10 +55,16 @@ struct SynchronizerApp: AsyncParsableCommand {
 
         CloudKitHandler.configure(config)
         let handler = CloudKitHandler()
-        let stringsByKeys = try await handler.fetchStrings(recordType: recordType, mainKey: mainKey, englishKey: englishKey)
-
         let parser = Parser()
-        let stringsByLocales = try parser.convertToStringsByLocales(stringsByKeys)
-        try parser.writeStrings(stringsByLocales, to: path)
+
+        if let dataKey {
+            let data = try await handler.fetchData(recordType: recordType, mainKey: mainKey, targetDataKey: dataKey)
+            try parser.writeLocalizedData(dataById: data, to: path)
+        } else {
+            let stringsByKeys = try await handler.fetchStrings(recordType: recordType, mainKey: mainKey, englishKey: englishKey)
+
+            let stringsByLocales = try parser.convertToStringsByLocales(stringsByKeys)
+            try parser.writeStrings(stringsByLocales, to: path)
+        }
     }
 }

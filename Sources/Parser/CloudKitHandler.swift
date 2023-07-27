@@ -7,6 +7,7 @@ enum CloudKitHandlerError: Error {
     case internalError
     case json
     case englishResourceMissing
+    case dataMissing
 }
 
 extension CloudKitHandlerError: LocalizedError {
@@ -22,6 +23,8 @@ extension CloudKitHandlerError: LocalizedError {
             return "JSON error"
         case .englishResourceMissing:
             return "English resource missing"
+        case .dataMissing:
+            return "Data is missing from the record"
         }
     }
 }
@@ -31,6 +34,32 @@ public class CloudKitHandler {
 
     public static func configure(_ config: CKContainerConfig) {
         CloudKit.shared.configure(with: CKConfig(containers: [config]))
+    }
+
+    public func uploadDataChanges(dataById: [String: Data], dataKey: String) async throws {
+        let db = CKContainer.default().publicCloudDatabase
+        let recordResults = try await db.records(for: dataById.keys.map { CKRecord.ID(recordName: $0) }, desiredKeys: [dataKey])
+        let modifiedRecords = [CKRecord]()
+        for (id, recordResult) in recordResults {
+            switch recordResult {
+            case .success(let record):
+                guard let data = dataById[id.recordName] else {
+                    throw CloudKitHandlerError.dataMissing
+                }
+                record[dataKey] = data
+            case .failure(let error):
+                throw error
+            }
+        }
+        let saveResults = try await db.modifyRecords(saving: modifiedRecords, deleting: [], savePolicy: .changedKeys).saveResults
+        for (_, recordResult) in saveResults {
+            switch recordResult {
+            case .success:
+                break
+            case .failure(let error):
+                throw error
+            }
+        }
     }
 
     public func uploadChanges(addedStrings: [String: [String: String]], removedStrings: [String: [String: String]], changedStrings: [String: [String: String]], mainKey: String, englishKey: String?) async throws {
@@ -50,7 +79,7 @@ public class CloudKitHandler {
         let desiredKeys = [mainKey, englishKey].compactMap { $0 }
         var records = [String: CKRecord]()
         do {
-            var recordResults = try await db.records(for: allChanges.keys.map({ CKRecord.ID(recordName: $0) }), desiredKeys: desiredKeys)
+            let recordResults = try await db.records(for: allChanges.keys.map({ CKRecord.ID(recordName: $0) }), desiredKeys: desiredKeys)
             for (_, recordResult) in recordResults {
                 switch recordResult {
                 case .success(let record):
@@ -111,40 +140,7 @@ public class CloudKitHandler {
         let query = CKQuery(recordType: recordType, filters: [])
         let desiredKeys = [mainKey, englishKey].compactMap { $0 }
 
-        var records = [CKRecord]()
-        var cursor: CKQueryOperation.Cursor?
-        do {
-            let (recordResults, newCursor) = try await db.records(matching: query, desiredKeys: desiredKeys)
-            for (_, recordResult) in recordResults {
-                switch recordResult {
-                case .success(let record):
-                    records.append(record)
-                case .failure(let error):
-                    throw error
-                }
-            }
-            cursor = newCursor
-        } catch {
-            throw CloudKitHandlerError.cloudKit(error: error)
-        }
-
-        while let currentCursor = cursor {
-            print("Continue to fetch records...")
-            do {
-                let (recordResults, newCursor) = try await db.records(continuingMatchFrom: currentCursor, desiredKeys: desiredKeys)
-                for (_, recordResult) in recordResults {
-                    switch recordResult {
-                    case .success(let record):
-                        records.append(record)
-                    case .failure(let error):
-                        throw error
-                    }
-                }
-                cursor = newCursor
-            } catch {
-                throw CloudKitHandlerError.cloudKit(error: error)
-            }
-        }
+        let records = try await db.allRecords(query: query, desiredKeys: desiredKeys)
 
         print("Parsing record results...")
         var results = [String: [String: String]]()
@@ -177,5 +173,102 @@ public class CloudKitHandler {
             }
         }
         return results
+    }
+
+    public func fetchData(recordType: String, mainKey: String, targetDataKey: String) async throws -> [String: [String: (id: String, data: Data)]] {
+        let db = CKContainer.default().publicCloudDatabase
+
+        print("Fetch records...")
+        let query = CKQuery(recordType: recordType, filters: [])
+        let desiredKeys = [mainKey]
+
+        let records = try await db.allRecords(query: query, desiredKeys: desiredKeys)
+
+        print("Parsing record results...")
+        var initialResults = [String: [String: String]]()
+        var dataIds = Set<String>()
+        for record in records {
+            guard let resources = record[mainKey] as? String, !resources.isEmpty else {
+                continue
+            }
+            guard let json = try? JSONDecoder().decode([String: String].self, from: resources.data(using: .utf8)!) else {
+                throw CloudKitHandlerError.json
+            }
+            guard json["en"] != nil else {
+                throw CloudKitHandlerError.englishResourceMissing
+            }
+
+            initialResults[record.recordID.recordName] = json
+            dataIds.formUnion(json.values)
+        }
+
+        print("Fetching data...")
+        let dataRecordResults = try await db.records(for: dataIds.map { CKRecord.ID(recordName: $0) }, desiredKeys: [targetDataKey])
+        var dataResults = [String: Data]()
+        for (id, recordResult) in dataRecordResults {
+            switch recordResult {
+            case .success(let record):
+                guard let data = record[targetDataKey] as? Data else {
+                    throw CloudKitHandlerError.dataMissing
+                }
+                dataResults[id.recordName] = data
+            case .failure(let error):
+                throw error
+            }
+        }
+
+        print("Matching data...")
+        var finalResults = [String: [String: (id: String, data: Data)]]()
+        for (id, initialResult) in initialResults {
+            var recordResults = [String: (id: String, data: Data)]()
+            for (language, dataId) in initialResult {
+                guard let data = dataResults[dataId] else {
+                    throw CloudKitHandlerError.internalError
+                }
+                recordResults[language] = (dataId, data)
+            }
+            finalResults[id] = recordResults
+        }
+        return finalResults
+    }
+}
+
+extension CKDatabase {
+    func allRecords(query: CKQuery, desiredKeys: [String]) async throws -> [CKRecord]  {
+        var records = [CKRecord]()
+        var cursor: CKQueryOperation.Cursor?
+        do {
+            let (recordResults, newCursor) = try await self.records(matching: query, desiredKeys: desiredKeys)
+            for (_, recordResult) in recordResults {
+                switch recordResult {
+                case .success(let record):
+                    records.append(record)
+                case .failure(let error):
+                    throw error
+                }
+            }
+            cursor = newCursor
+        } catch {
+            throw CloudKitHandlerError.cloudKit(error: error)
+        }
+
+        while let currentCursor = cursor {
+            print("Continue to fetch records...")
+            do {
+                let (recordResults, newCursor) = try await self.records(continuingMatchFrom: currentCursor, desiredKeys: desiredKeys)
+                for (_, recordResult) in recordResults {
+                    switch recordResult {
+                    case .success(let record):
+                        records.append(record)
+                    case .failure(let error):
+                        throw error
+                    }
+                }
+                cursor = newCursor
+            } catch {
+                throw CloudKitHandlerError.cloudKit(error: error)
+            }
+        }
+        return records
     }
 }

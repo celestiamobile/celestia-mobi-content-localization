@@ -6,6 +6,7 @@ enum ParserError {
     case directoryIteration
     case createDirectory
     case writeFile
+    case stringConversion
 }
 
 extension ParserError: LocalizedError {
@@ -21,6 +22,8 @@ extension ParserError: LocalizedError {
             return "Error creating a directory"
         case .writeFile:
             return "Error writing to file"
+        case .stringConversion:
+            return "Error converting string to data"
         }
     }
 }
@@ -34,6 +37,39 @@ public class Parser {
             throw ParserError.malformed
         }
         return dictionary
+    }
+
+    private func parseLocalizedDataForDataDirectory(at path: String) throws -> (existing: [String: (id: String, data: Data)], new: [String: Data]) {
+        guard let languages = try? FileManager.default.contentsOfDirectory(atPath: path) else {
+            throw ParserError.directoryIteration
+        }
+
+        var existingResults = [String: (id: String, data: Data)]()
+        var newResults = [String: Data]()
+        for language in languages {
+            let languagePath = (path as NSString).appendingPathComponent(language)
+            let idFilePath = (languagePath as NSString).appendingPathComponent("id.txt")
+            let dataFilePath = (languagePath as NSString).appendingPathComponent("data.html")
+            if FileManager.default.fileExists(atPath: idFilePath) {
+                let id = try String(contentsOfFile: idFilePath, encoding: .utf8)
+                existingResults[language] = (id, try Data(contentsOf: URL(fileURLWithPath: dataFilePath)))
+            } else {
+                newResults[language] = try Data(contentsOf: URL(fileURLWithPath: dataFilePath))
+            }
+        }
+        return (existingResults, newResults)
+    }
+
+    public func parseDataDirectory(at path: String) throws -> [String: (existing: [String: (id: String, data: Data)], new: [String: Data])] {
+        guard let ids = try? FileManager.default.contentsOfDirectory(atPath: path) else {
+            throw ParserError.directoryIteration
+        }
+
+        var results = [String: (existing: [String: (id: String, data: Data)], new: [String: Data])]()
+        for id in ids {
+            results[id] = try parseLocalizedDataForDataDirectory(at: (path as NSString).appendingPathComponent(id))
+        }
+        return results
     }
 
     public func parseDirectory(at path: String) throws -> [String: [String: String]] {
@@ -66,6 +102,24 @@ public class Parser {
         }
 
         return clearedStringsByLocale
+    }
+
+    public func writeLocalizedData(dataById: [String: [String: (id: String, data: Data)]], to path: String) throws {
+        let fileManager = FileManager.default
+        for (id, localizedData) in dataById {
+            let idDirectory = (path as NSString).appendingPathComponent(id)
+            try fileManager.createDirectory(atPath: idDirectory, withIntermediateDirectories: true)
+            for (language, languageData) in localizedData {
+                let languageDirectory = (idDirectory as NSString).appendingPathComponent(language)
+                let idFilePath = (languageDirectory as NSString).appendingPathComponent("id.txt")
+                let dataFilePath = (languageDirectory as NSString).appendingPathComponent("data.html")
+                guard let idData = languageData.id.data(using: .utf8) else {
+                    throw ParserError.stringConversion
+                }
+                try languageData.data.write(to: URL(fileURLWithPath: dataFilePath))
+                try idData.write(to: URL(fileURLWithPath: idFilePath))
+            }
+        }
     }
 
     public func writeStrings(_ stringsByLocale: [String: [String: String]], to path: String) throws {
