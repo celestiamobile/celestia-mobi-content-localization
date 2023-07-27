@@ -1,0 +1,60 @@
+<div style="overflow:hidden;display:flex;align-items:center;justify-content:space-between;">
+  <div class="tab">
+    <button id="cel-tab" class="tablinks active" onclick="selectCEL()">CEL</button>
+    <button id="celx-tab" class="tablinks" onclick="selectCELX()">CELX</button>
+  </div>
+  <button onclick="runCurrentCode()" class="button-outline">Run My Code</button>
+</div>
+<p class="editor-box" id="editor1" style="display:block;margin-top:10px;">{
+  select {object "Sol"}
+}</p>
+<p class="editor-box" id="editor2" style="display:none;margin-top:10px;">celestia:select(celestia:find("Sol"))</p>
+<p>Learn about scripting in Celestia <a href="https://en.wikibooks.org/wiki/Celestia/Scripting">here</a>.</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.5/ace.min.js" type="text/javascript" charset="utf-8"></script>
+<script>
+  var editor1 = ace.edit("editor1");
+  var editor2 = ace.edit("editor2");
+  var currentType = "cel";
+</script>
+<script>
+  function selectCEL() {
+    if (currentType == "cel") return;
+    document.getElementById("editor2").style.display = "none";
+    document.getElementById("editor1").style.display = "block";
+    let old = document.getElementById("celx-tab");
+    old.className = old.className.replace(" active", "");
+    document.getElementById("cel-tab").className += " active";
+    currentType = "cel";
+  }
+
+  function selectCELX() {
+    if (currentType == "celx") return;
+    document.getElementById("editor1").style.display = "none";
+    document.getElementById("editor2").style.display = "block";
+    let old = document.getElementById("cel-tab");
+    old.className = old.className.replace(" active", "");
+    document.getElementById("celx-tab").className += " active";
+    currentType = "celx";
+  }
+
+  function runCurrentCode() {
+    let type = currentType == "celx" ? "celx" : "cel";
+    let editor = type == "celx" ? editor2 : editor1;
+    if (!editor) return;
+    let value = editor.getValue();
+    if (!value) return;
+    Celestia.runScript(type, value);
+  }
+</script>
+<style>.editor-box {
+  width:100%;
+  aspect-ratio:1/1;
+}
+
+@supports not (aspect-ratio: auto) {
+.editor-box {
+  position:relative;
+  padding-bottom:100%;
+  height:0;
+}
+}</style>

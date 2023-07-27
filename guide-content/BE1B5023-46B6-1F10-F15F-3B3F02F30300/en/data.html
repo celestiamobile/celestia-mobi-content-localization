@@ -1,0 +1,727 @@
+<h3 id="touch">Touch</h3>
+<p>Mobile Celestia supports touches, it has two modes on the sidebar where 
+you can toggle between.</p>
+<table>
+<thead>
+<tr>
+<th>Mode</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Camera Mode</td>
+<td>Drag to orient camera</td>
+</tr>
+<tr>
+<td></td>
+<td>Pinch to change field of view (FOV)</td>
+</tr>
+<tr>
+<td>Object Mode</td>
+<td>Drag to orbit selected object</td>
+</tr>
+<tr>
+<td></td>
+<td>Pinch to adjust distance to selection</td>
+</tr>
+</tbody>
+</table>
+<h3 id="mouse">Mouse</h3>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Left Drag</td>
+<td>Orient camera</td>
+</tr>
+<tr>
+<td>Right drag</td>
+<td>Orbit selected object [Shift+Arrow keys]</td>
+</tr>
+<tr>
+<td>Left+Right Drag left/right</td>
+<td>Roll view left/right [Left/Right arrows]</td>
+</tr>
+<tr>
+<td>Left+Right Drag up/down</td>
+<td>Adjust distance to selection [Home/End]</td>
+</tr>
+<tr>
+<td>Wheel</td>
+<td>Adjust distance to selection [Home/End]</td>
+</tr>
+<tr>
+<td>Ctrl+Left Drag up/down</td>
+<td>Adjust distance to selection [Home/End]</td>
+</tr>
+<tr>
+<td>Shift+Left Drag</td>
+<td>Change Field of View (FOV) [. / ,]</td>
+</tr>
+<tr>
+<td>Middle Button</td>
+<td>Toggle FOV between 45 degrees and previous setting</td>
+</tr>
+<tr>
+<td>Left Click (on object)</td>
+<td>Select object [Enter key -- by object name]</td>
+</tr>
+<tr>
+<td>Left Click (on no object)</td>
+<td>Cancel selection</td>
+</tr>
+<tr>
+<td>Left Double Click (on object)</td>
+<td>Select and Center object</td>
+</tr>
+<tr>
+<td>Right Click</td>
+<td>Bring up context menu</td>
+</tr>
+</tbody>
+</table>
+<h3 id="keyboard">Keyboard</h3>
+<h4 id="navigation">Navigation</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 - 9</td>
+<td>Select planet around the nearest star</td>
+</tr>
+<tr>
+<td>0 (zero)</td>
+<td>Select parent star of current planet or system</td>
+</tr>
+<tr>
+<td>H</td>
+<td>Select Sol (Home system)</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Center on selected object</td>
+</tr>
+<tr>
+<td>G</td>
+<td>Goto selected object</td>
+</tr>
+<tr>
+<td>F</td>
+<td>Follow selected object</td>
+</tr>
+<tr>
+<td>T</td>
+<td>Track selected object</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>Sync Orbit selected object at a rate synced to its rotation</td>
+</tr>
+<tr>
+<td>:</td>
+<td>Lock on selected object</td>
+</tr>
+<tr>
+<td>&quot;</td>
+<td>Chase selected object</td>
+</tr>
+<tr>
+<td>Shift+C</td>
+<td>Center/orbit --center the selected object without changing the 
+position of the reference object</td>
+</tr>
+<tr>
+<td>Ctrl+G</td>
+<td>Goto surface of selected object</td>
+</tr>
+<tr>
+<td>Ctrl+F</td>
+<td>Toggle Alt-azimuth mode</td>
+</tr>
+<tr>
+<td>Home</td>
+<td>Move closer to object</td>
+</tr>
+<tr>
+<td>End</td>
+<td>Move further away from object</td>
+</tr>
+<tr>
+<td>*</td>
+<td>Look back</td>
+</tr>
+<tr>
+<td>Backspace</td>
+<td>Select parent of current object or clear the selection</td>
+</tr>
+<tr>
+<td>Esc</td>
+<td>Cancel motion or script</td>
+</tr>
+</tbody>
+</table>
+<h4 id="time-control">Time Control</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Spacebar</td>
+<td>Pause/Resume the flow of time and scripts (toggle)</td>
+</tr>
+<tr>
+<td>J</td>
+<td>Reverse/Forward time (toggle)</td>
+</tr>
+<tr>
+<td>\</td>
+<td>Set time rate: 1x forward (norm), cancels faster/slower x factors</td>
+</tr>
+<tr>
+<td>L</td>
+<td>Change time rate: 10x faster</td>
+</tr>
+<tr>
+<td>K</td>
+<td>Change time rate: 10x slower</td>
+</tr>
+<tr>
+<td>Shift+L</td>
+<td>Change time rate: 2x faster</td>
+</tr>
+<tr>
+<td>Shift+K</td>
+<td>Change time rate: 2x slower</td>
+</tr>
+<tr>
+<td>!</td>
+<td>Set time to current system date and time</td>
+</tr>
+<tr>
+<td>?</td>
+<td>Display light-travel delay between observer / selected object</td>
+</tr>
+<tr>
+<td>- (hyphen)</td>
+<td>Subtract light-travel delay from current simulation time</td>
+</tr>
+</tbody>
+</table>
+<h4 id="labels-on-off-toggles-">Labels (on/off Toggles)</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>E</td>
+<td>Galaxies</td>
+</tr>
+<tr>
+<td>Shift+E</td>
+<td>Globulars</td>
+</tr>
+<tr>
+<td>B</td>
+<td>Stars</td>
+</tr>
+<tr>
+<td>P</td>
+<td>Planets</td>
+</tr>
+<tr>
+<td>Shift+P</td>
+<td>Dwarf Planets</td>
+</tr>
+<tr>
+<td>M</td>
+<td>Moons</td>
+</tr>
+<tr>
+<td>Shift+M</td>
+<td>Minor Moons</td>
+</tr>
+<tr>
+<td>W</td>
+<td>Asteroids</td>
+</tr>
+<tr>
+<td>Shift+W</td>
+<td>Comets</td>
+</tr>
+<tr>
+<td>N</td>
+<td>Spacecraft</td>
+</tr>
+<tr>
+<td>=</td>
+<td>Constellations</td>
+</tr>
+<tr>
+<td>&amp;</td>
+<td>Locations</td>
+</tr>
+</tbody>
+</table>
+<h4 id="render-display-on-off-toggles-">Render/Display (on/off 
+Toggles)</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>U</td>
+<td>Galaxies</td>
+</tr>
+<tr>
+<td>Shift+U</td>
+<td>Globulars</td>
+</tr>
+<tr>
+<td>^</td>
+<td>Nebulae</td>
+</tr>
+<tr>
+<td>Ctrl+A</td>
+<td>Atmospheres</td>
+</tr>
+<tr>
+<td>I</td>
+<td>Clouds</td>
+</tr>
+<tr>
+<td>Ctrl+L</td>
+<td>Night side maps</td>
+</tr>
+<tr>
+<td>Ctrl+T</td>
+<td>Comet tails</td>
+</tr>
+<tr>
+<td>Ctrl+E</td>
+<td>Eclipse shadows</td>
+</tr>
+<tr>
+<td>Ctrl+B</td>
+<td>Constellation boundaries</td>
+</tr>
+<tr>
+<td>/</td>
+<td>Constellation diagrams</td>
+</tr>
+<tr>
+<td>;</td>
+<td>Earth-based equatorial coordinate sphere</td>
+</tr>
+<tr>
+<td>Ctrl+K</td>
+<td>Markers (placed on objects)</td>
+</tr>
+<tr>
+<td>O</td>
+<td>Orbits (toggle ALL selected orbits)</td>
+</tr>
+</tbody>
+</table>
+<h4 id="render-options">Render Options</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>{</td>
+<td>Decrease Ambient Light</td>
+</tr>
+<tr>
+<td>}</td>
+<td>Increase Ambient Light</td>
+</tr>
+<tr>
+<td>(</td>
+<td>Decrease Galaxy Light Gain</td>
+</tr>
+<tr>
+<td>)</td>
+<td>Increase Galaxy Light Gain</td>
+</tr>
+<tr>
+<td>[</td>
+<td>Decrease Magnitude Limit: AutoMag OFF: Decrease limiting magnitude 
+(fewer stars), AutoMag ON: Decrease limiting magnitude at 45 deg FOV</td>
+</tr>
+<tr>
+<td>]</td>
+<td>Increase Magnitude: AutoMag OFF: Increase limiting magnitude (more 
+stars), AutoMag ON: Increase limiting magnitude at 45 deg FOV</td>
+</tr>
+<tr>
+<td>Ctrl+Y</td>
+<td>Toggle Auto Magnitude (auto adaptation of star visibility to FOV</td>
+</tr>
+<tr>
+<td>,</td>
+<td>Narrow Field Of View [Shift+Left Drag]</td>
+</tr>
+<tr>
+<td>.</td>
+<td>Widen Field Of View [Shift+Left Drag]</td>
+</tr>
+<tr>
+<td>Ctrl+X</td>
+<td>Toggle Antialias lines</td>
+</tr>
+<tr>
+<td>Alt+Enter</td>
+<td>Toggle Display mode (Full-Screen / Windowed)</td>
+</tr>
+<tr>
+<td>Ctrl+P</td>
+<td>Mark selected object</td>
+</tr>
+<tr>
+<td>Ctrl+V</td>
+<td>Cycle among supported OpenGL render paths</td>
+</tr>
+<tr>
+<td>+</td>
+<td>Toggle Planet Texture type (Artistic / Limit of Knowledge)</td>
+</tr>
+<tr>
+<td>%</td>
+<td>Star color table toggle</td>
+</tr>
+<tr>
+<td>Ctrl+S</td>
+<td>Cycle the Star Style (points / fuzzy discs / scaled discs)</td>
+</tr>
+<tr>
+<td>V</td>
+<td>Cycle the Info text verbosity (None / Terse / Verbose)</td>
+</tr>
+<tr>
+<td>Ctrl+W</td>
+<td>Toggle Wireframe mode</td>
+</tr>
+</tbody>
+</table>
+<h4 id="multiview-options">Multiview Options</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ctrl+U</td>
+<td>Split view horizontally</td>
+</tr>
+<tr>
+<td>Ctrl+R</td>
+<td>Split view vertically</td>
+</tr>
+<tr>
+<td>Tab</td>
+<td>Cycle through all active views</td>
+</tr>
+<tr>
+<td>Del</td>
+<td>Delete active view</td>
+</tr>
+<tr>
+<td>Ctrl+D</td>
+<td>Delete all views except active one (reset to Single view)</td>
+</tr>
+</tbody>
+</table>
+<h4 id="navigation-via-arrow-keys">Navigation via Arrow Keys</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Up/Down Arrow</td>
+<td>Pitch down/up</td>
+</tr>
+<tr>
+<td>Left/Right Arrow</td>
+<td>Roll left/right</td>
+</tr>
+<tr>
+<td>Shift+Left/Right Arrow</td>
+<td>Orbit object: right/left</td>
+</tr>
+<tr>
+<td>Shift+Up/Down Arrow</td>
+<td>Orbit object: down/up</td>
+</tr>
+</tbody>
+</table>
+<h4 id="navigation-via-number-pad-keys-with-numlock-active-">Navigation 
+via number Pad Keys (with NumLock active)</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8</td>
+<td>Pitch down [Down arrow]</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pitch up [Up arrow]</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Roll left  [Left arrow]</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Roll right [Right arrow]</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Stop rotation</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Yaw left</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Yaw right</td>
+</tr>
+</tbody>
+</table>
+<h4 id="motion-spaceflight-">Motion (Spaceflight)</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Z</td>
+<td>Decrease velocity</td>
+</tr>
+<tr>
+<td>A</td>
+<td>Increase velocity</td>
+</tr>
+<tr>
+<td>Q</td>
+<td>Reverse direction</td>
+</tr>
+<tr>
+<td>X</td>
+<td>Set movement direction toward center of screen</td>
+</tr>
+<tr>
+<td>F2</td>
+<td>Set velocity to 1 km/second</td>
+</tr>
+<tr>
+<td>F3</td>
+<td>Set velocity to 1,000 km/second</td>
+</tr>
+<tr>
+<td>F4</td>
+<td>Set velocity to speed of light (1 c)</td>
+</tr>
+<tr>
+<td>F5</td>
+<td>Set velocity to 10x the speed of light (10 c)</td>
+</tr>
+<tr>
+<td>F6</td>
+<td>Set velocity to 1 AU/second</td>
+</tr>
+<tr>
+<td>F7</td>
+<td>Set velocity to 1 light year/second</td>
+</tr>
+<tr>
+<td>F1</td>
+<td>Stop motion</td>
+</tr>
+<tr>
+<td>S</td>
+<td>Stop motion</td>
+</tr>
+</tbody>
+</table>
+<h4 id="other-functions">Other Functions</h4>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ctrl+C</td>
+<td>Copy location URL to clipboard (Cel:// URL)</td>
+</tr>
+<tr>
+<td>Ctrl+Insert</td>
+<td>Copy location URL to clipboard (Cel:// URL)</td>
+</tr>
+<tr>
+<td>F10</td>
+<td>Capture Image to file (screenshot)</td>
+</tr>
+<tr>
+<td>Shift+F10</td>
+<td>Capture Movie to file (video)</td>
+</tr>
+<tr>
+<td>F11</td>
+<td>While in Movie Capture: Start / Pause capture</td>
+</tr>
+<tr>
+<td>F12</td>
+<td>While in Movie Capture: Stop capture</td>
+</tr>
+<tr>
+<td>~</td>
+<td>Toggle debug console (use Up/Down arrow keys to scroll list)</td>
+</tr>
+<tr>
+<td>`</td>
+<td>Toggle display of &quot;frames per second&quot; (FPS) being 
+rendered</td>
+</tr>
+<tr>
+<td>Ctrl+O</td>
+<td>Display &quot;Select Object&quot; dialog box</td>
+</tr>
+<tr>
+<td>@</td>
+<td>Edit Mode toggle (to assist in the placement of objects)</td>
+</tr>
+<tr>
+<td>D</td>
+<td>Run demo script (/celestia/demo.cel)</td>
+</tr>
+<tr>
+<td>Enter</td>
+<td>Toggle Name entry Mode (use Tab / Shift+Tab to highlight an item, Esc 
+to exit)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gamepad-joystick">Gamepad/Joystick</h3>
+<p>You can customize behaviors by following <a href="/help/game-controller">this</a>.</p>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>F8 (Win32 Only)</td>
+<td>Toggle Joystick control</td>
+</tr>
+<tr>
+<td>X axis</td>
+<td>Yaw Left/Right</td>
+</tr>
+<tr>
+<td>Y axis</td>
+<td>Pitch Up/Down</td>
+</tr>
+<tr>
+<td>L trigger</td>
+<td>Roll Left</td>
+</tr>
+<tr>
+<td>R trigger</td>
+<td>Roll Right</td>
+</tr>
+<tr>
+<td>Button 1 (A on Xbox, X on PS4)</td>
+<td>Move slower</td>
+</tr>
+<tr>
+<td>Button 2 (X on Xbox, Square on PS4)</td>
+<td>Move faster</td>
+</tr>
+</tbody>
+</table>
+<h3 id="compatibility">Compatibility</h3>
+<p>Mobile Celestia also supports mouse/keyboard controls when a 
+mouse/keyboard is attached to the device. After switching to <code>Camera 
+Mode</code>, the mouse/keyboard behaviors are very similar to the desktop 
+behaviors.</p>
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>Issue</th>
+<th>Fix</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Android</td>
+<td>Right mouse action (click/drag) not available</td>
+<td>Use left mouse button while holding ALT key</td>
+</tr>
+<tr>
+<td>Chrome OS</td>
+<td>CTRL + drag does not work</td>
+<td>Also hold the ALT key for CTRL + drag</td>
+</tr>
+<tr>
+<td>Android/Chrome OS</td>
+<td>Keyboard does not work sometimes</td>
+<td>Try to press enter key a few times when it happens</td>
+</tr>
+<tr>
+<td>macOS</td>
+<td>Keyboard does not work sometimes</td>
+<td>On 1.5.18 or later, click the menu. Press the Up/Down arrow key so that it displays a focus ring, and then close the menu</td>
+</tr>
+</tbody>
+</table>
+

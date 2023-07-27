@@ -1,0 +1,42 @@
+<p>Celestia for Android/iOS/macOS/Windows(UWP) supports full customization 
+too. You can override the directory for Celestia to read from.</p>
+<p>For all platforms, we need to first download a copy of the data 
+directory of the Celestia release.</p>
+<ol>
+<li>Download the original copy of the data directory with the app version 
+<a href="https://github.com/celestiamobile/Celestia/releases">here</a></li>
+<li>Make modification to the directory, and celestia.cfg file</li>
+</ol>
+<p>Then...</p>
+<h3 id="android-ios-macos-catalyst-">Android/iOS/macOS(Catalyst)</h3>
+<ol>
+<li>Copy the directory to the device, for iOS it can be in an arbitrary 
+directory, for Android it has to be under 
+Android/data/space.celestia.mobilecelestia/files or 
+Android/media/space.celestia.mobilecelestia</li>
+<li>Run Celestia, go to Settings -&gt; Data Location</li>
+<li>Choose Data Directory location (CelestiaResources directory) and 
+Config File location (celestia.cfg)</li>
+<li>Close Celestia and rerun</li>
+</ol>
+<h3 id="macos-legacy-">macOS(Legacy)</h3>
+<ol>
+<li>Copy the directory to any place</li>
+<li>Run Celestia, go to MenuBar -&gt; Celestia -&gt; Change Config 
+File</li>
+<li>Choose Data Directory location (CelestiaResources directory) and 
+Config File location (celestia.cfg)</li>
+<li>Click &quot;Confirm and Relaunch&quot;, note that the relaunching 
+needs to performed by yourself</li>
+</ol>
+<h3 id="windows-uwp-">Windows(UWP)</h3>
+<ol>
+<li>Rename CelestiaResources to Override</li>
+<li>Run Celestia and click File -&gt; Open Custom Folder</li>
+<li>File explorer should be opened, copy the Override directory into 
+it</li>
+<li>Close Celestia and rerun</li>
+</ol>
+<p>If the configuration and data files are correctly set up, you should be 
+able to see Celestia loading your files.</p>
+

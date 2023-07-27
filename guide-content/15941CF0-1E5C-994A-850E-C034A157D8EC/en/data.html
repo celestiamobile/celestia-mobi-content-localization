@@ -1,0 +1,38 @@
+<p style="overflow:hidden;display:flex;align-items:center;justify-content:space-between;">
+  <select id="script-type">
+    <option value="cel">cel</option>
+    <option value="celx">celx</option>
+  </select>
+  <button onclick="runCurrentCode()" class="button-outline">Run My Code</button>
+</p>
+<p class="editor-box" id="editor">{
+  select {object "Sol"}
+}</p>
+<script src="https://pagecdn.io/lib/ace/1.4.13/ace.min.js" type="text/javascript" charset="utf-8"></script>
+<script>
+  var editor = ace.edit("editor");
+</script>
+<script>
+  function runCurrentCode() {
+    let typeElement = document.getElementById("script-type");
+    if (!typeElement || !editor) return;
+    let type = typeElement.value;
+    let value = editor.getValue();
+    if (!type || !value) return;
+    Celestia.runScript(type, value);
+  }
+</script>
+<br>
+<p>Learn about scripting in Celestia <a href="https://en.wikibooks.org/wiki/Celestia/Scripting">here</a>.</p>
+<style>.editor-box {
+  width:100%;
+  aspect-ratio:1/1;
+}
+
+@supports not (aspect-ratio: auto) {
+.editor-box {
+  position:relative;
+  padding-bottom:100%;
+  height:0;
+}
+}</style>

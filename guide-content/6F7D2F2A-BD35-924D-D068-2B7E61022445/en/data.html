@@ -1,0 +1,469 @@
+<p>This page lists new cel/celx commands and changes in existing commands in Mobile Celestia and Celestia UWP. These commands should be available for Mobile Celestia 1.5.11, Celestia UWP 2.0.30 or later. For how to use these commands and a list of other supported commands, please refer to <a
+        href="https://en.wikibooks.org/wiki/Celestia/Scripting">this wiki</a></p>
+<h3>CELX commands</h3>
+<h4>celestia</h4>
+<p class="secondary-text-box">celestia:playaudio ( int [channel], str [filename], float [starttime], float [volume],
+    float [pan], bool [loop], bool [nopause] )</p>
+<p>Play audio.</p>
+<table>
+
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Specifies the channel that'll be affected by this call.</b>
+                <br>If not given, will assume the default value of 0, You can provide any number between 0 and 7.
+                <br>Any number out of this range will cause the script to fail.
+            </td>
+        </tr>
+        <tr>
+            <td>filename</td>
+            <td><b>Required. Path to the file that will be played.<br></b>If it is a relative path, then the subfolder
+                "sounds" is searched.</td>
+        </tr>
+        <tr>
+            <td>starttime</td>
+            <td><b>Specifies the start time of the audio in seconds<br></b>If not given, the default value will be 0
+                (start from beginning).<br>If a negative value is given, 0 will be used instead.</td>
+        </tr>
+        <tr>
+            <td>volume</td>
+            <td><b>Specifies the initial volume of this channel.</b><br>If not given, the volume of the channel will be
+                1.0.<br>If the value given is not between 0.0 and 1.0, it will clamped to this range.</td>
+        </tr>
+        <tr>
+            <td>pan</td>
+            <td><b>Specifies the initial pan for the channel.</b>
+                <br>If not given, the sound will be centered (default value of 0).
+                <br>The level relationship between the left and right channels must be specified in the range from -1.0
+                to 1.0. The value -1.0 is only the left channel, 0.0 is centered, 1.0 is just the right
+                channel.&nbsp;<br>If the value given is not between -1.0 and 1.0, it will clamped to this range.
+            </td>
+        </tr>
+        <tr>
+            <td>loop</td>
+            <td><b>Specifies if the sound file will be played in looping or not.</b>
+                <br>If not given, the looping mode of the channel will false.
+            </td>
+        </tr>
+        <tr>
+            <td>nopause</td>
+            <td><b>Parameter that allows a particular sound channel to be paused or not paused on any channel when the
+                    spacebar is pressed.</b>
+                <br>Value false - allow pause by spacebar, value true - disallow.
+            </td>
+        </tr>
+        <tr>
+            <td>output</td>
+            <td><b>Whether action succeeded or not.</b>
+            </td>
+        </tr>
+
+
+
+
+
+    </tbody>
+</table><br>
+<p class="secondary-text-box">bool celestia:isplayingaudio ( int [channel] )</p>
+<p>Check whether audio is being played on a channel.</p>
+<table>
+
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. The channel for checking.</b></td>
+        </tr>
+        <tr>
+            <td>output</td>
+            <td><b>Whether audio playing succeeded or not.</b>
+            </td>
+        </tr>
+
+
+
+
+
+    </tbody>
+</table><br>
+
+
+<p class="secondary-text-box">bool celestia:resumeaudio ( int [channel] )</p>
+<p>Resume audio on a channel.</p>
+<table>
+
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Channel for this action.</b></td>
+        </tr>
+        <tr>
+            <td>output</td>
+            <td><b>Whether action succeeded or not.</b>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+<p class="secondary-text-box">celestia:pauseaudio ( int [channel] )</p>
+<p>Pause audio on a channel.</p>
+<table>
+
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Channel for this action.</b></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">celestia:stopaudio ( int [channel] )</p>
+<p>Stop audio on a channel.</p>
+<table>
+
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Channel for this action.</b></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">bool celestia:seekaudo ( int [channel] float [time] )</p>
+<p>Seek to a specific time in audio on a channel.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Channel for this action.</b></td>
+        </tr>
+        <tr>
+            <td>time</td>
+            <td><b>Required. Time to seek to in seconds.</b></td>
+        </tr>
+        <tr>
+            <td>output</td>
+            <td><b>Whether action succeeded or not.</b></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+<p class="secondary-text-box">celestia:setaudiovolume ( int [channel] float [volume] )</p>
+<p>Set volume on a channel.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Channel for this action.</b></td>
+        </tr>
+        <tr>
+            <td>volume</td>
+            <td><b>Required. New volume of the channel.</b><br>Will be clamped to between 0.0 and 1.0.<br>See to
+                celestia:playaudio for information on this value.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+<p class="secondary-text-box">celestia:setaudiopan ( int [channel] float [pan] )</p>
+<p>Set pan on a channel.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Channel for this action.</b></td>
+        </tr>
+        <tr>
+            <td>volume</td>
+            <td><b>Required. New pan value of the channel.</b><br>Will be clamped to between -1.0 and 1.0.<br>See to
+                celestia:playaudio for information on this value.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">celestia:setaudioloop ( int [channel] bool [loop] )</p>
+<p>Set loop status on a channel.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Channel for this action.</b></td>
+        </tr>
+        <tr>
+            <td>volume</td>
+            <td><b>Required. New loop value of the channel.</b><br>See to celestia:playaudio for information on this
+                value.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">celestia:setaudionopause ( int [channel] bool [nopause] )</p>
+<p>Set no pause status on a channel.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Channel for this action.</b></td>
+        </tr>
+        <tr>
+            <td>volume</td>
+            <td><b>Required. New nopause value of the channel.</b><br>See to celestia:playaudio for information on this
+                value.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">celestia:play ( int [channel], float [volume], float [pan], int [loop], str [filename],
+    int [nopause] )</p>
+<p>Command for compatibility with Celestia ED for playing audio.</p>
+<table>
+
+    <tbody>
+        <tr>
+            <td>channel</td>
+            <td><b>Required. Same as celestia:playaudio</b></td>
+        </tr>
+        <tr>
+            <td>volume</td>
+            <td><b>Required. Same as celestia:playaudio</b><br>If a negative value is given and filename is not given,
+                the volume will not be updated for this channel.</td>
+        </tr>
+        <tr>
+            <td>pan</td>
+            <td><b>Same as celestia:playaudio</b></td>
+        </tr>
+        <tr>
+            <td>loop</td>
+            <td><b>Same as celestia:playaudio</b><br>Value 1 is true, 0 is false.<br>If not given and filename is not
+                given, loop will not be updated for this channel.</td>
+        </tr>
+        <tr>
+            <td>filename</td>
+            <td><b>Same as celestia:playaudio</b><br>If not given, other information will be used to update this
+                channel.<br>If an empty value is given, the channel will be stopped.</td>
+        </tr>
+        <tr>
+            <td>nopause</td>
+            <td><b>Same as celestia:playaudio</b><br>Value 1 is true, 0 is false.</td>
+        </tr>
+
+
+
+
+
+    </tbody>
+</table>
+
+<br>
+
+
+<p class="secondary-text-box">celestia:printatpixel ( str [text] float [duration] int [x] int [y] )</p>
+<p>Print text at pixel location.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>text</td>
+            <td><b>Required. Text to print.</b></td>
+        </tr>
+        <tr>
+            <td>duration</td>
+            <td><b>Duration for the text to be displayed in seconds.</b><br>Defaults to 1.5.</td>
+        </tr>
+        <tr>
+            <td>x, y</td>
+            <td><b>Pixel location for the text to be printed.</b><br>The bottom left location of the first line of the
+                text will be (x, y).<br>(0, 0) is in bottom left of the window.<br>Both values efault to 0.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+<p class="secondary-text-box">int celestia:getscreendpi ( )</p>
+<p>Get DPI of the window.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>output</td>
+            <td><b>DPI of the window.</b></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">celestia:setscreendpi ( int [dpi] )</p>
+<p>Set DPI for the window.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>dpi</td>
+            <td><b>Required. New DPI value for the window.</b></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">( int, int int, int ) celestia:getsafeareainsets ( )</p>
+<p>Get safe ares insets for the window.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>output</td>
+            <td><b>Safe area insets of the window.</b><br>Left, top, right, bottom.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+<p class="secondary-text-box">celestia:setsafeareainsets ( int [left], int [top], int [right], int [bottom] )</p>
+<p>Set safe ares insets for the window.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>left, top, right, bttom</td>
+            <td><b>Required. New safe area insets value for the window.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">( int, int ) celestia:getwindowdimension ( )</p>
+<p>Get window size.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>output</td>
+            <td><b>Size of the window.</b><br>Width, height.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">float celestia:gettintsaturation ( )</p>
+<p>Get saturation value of tinted illumination. Available on Mobile Celestia 1.5.20, Celestia UWP 2.0.36 and later.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>output</td>
+            <td><b>Saturation value of tinted illumination.</b><br>Valid range: 0 - 1.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">celestia:settintsaturation ( float [tint_saturation] )</p>
+<p>Set saturation value of tinted illumination. Available on Mobile Celestia 1.5.20, Celestia UWP 2.0.36 and later.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>tint_saturation</td>
+            <td><b>The saturation value of tinted illumination to set.</b><br>Valid range: 0 - 1.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">string celestia:getlayoutdirection ( )</p>
+<p>The text layout direction of Celestia. Available on Mobile Celestia 1.5.23, Celestia UWP 2.0.37 and later.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>output</td>
+            <td><b>Text layout direction of Celestia</b><br>Valid values are ltr or rtl.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">celestia:setlayoutdirection ( string [layout_direction] )</p>
+<p>Set the text layout direction of Celestia. Available on Mobile Celestia 1.5.23, Celestia UWP 2.0.37 and later.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>layout_direction</td>
+            <td><b>The text layout direction of Celestia to set.</b><br>Valid values are ltr or rtl.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">object celestia:loadtexture ( string [path], string [addressmode], string [mipmapmode] )</p>
+<p>Load a texture from the filesystem. On earlier version of Celestia, this method only takes one parameter, path.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>path</td>
+            <td><b>Required. Path of the texture relative to the script directory.</b></td>
+        </tr>
+        <tr>
+            <td>addressmode</td>
+            <td><b>Available on Mobile Celestia 1.5.20, Celestia UWP 2.0.36 and later</b><br><b>Address mode of the texture. Available options are wrap, edgeclamp, borderclamp.</b><br>Defaults to edgeclamp.</td>
+        </tr>
+        <tr>
+            <td>mipmapmode</td>
+            <td><b>Available on Mobile Celestia 1.5.20, Celestia UWP 2.0.36 and later</b><br><b>Mipmap mode the texture. Available options are default, none.</b><br>Defaults to default, enabling mipmapping.</td>
+        </tr>
+        <tr>
+            <td>output</td>
+            <td><b>Texture object. Nil if Celestia is unable to load the texture.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<h4>font</h4>
+<p class="secondary-text-box">int font:getmaxascent ( )</p>
+<p>Get max ascent of the font.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>output</td>
+            <td><b>Max ascent of the font.</b></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">int font:getmaxdescent ( )</p>
+<p>Get max descent of the font.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>output</td>
+            <td><b>Max descent of the font.</b></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<p class="secondary-text-box">int font:gettextwidth ( str [text] )</p>
+<p>Get width of a text.</p>
+<table>
+    <tbody>
+        <tr>
+            <td>text</td>
+            <td><b>Required. Text to measure width with.</b></td>
+        </tr>
+        <tr>
+            <td>output</td>
+            <td><b>Measured width of the text.</b></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+<h3>CEL commands</h3>
+<p class="secondary-text-box">play { channel [int] volume [float] pan [float] loop [int] filename [str] nopause [int] }
+</p>
+<p>Commands for playing an audio file, please see to celestia:play in CELX commands</p>

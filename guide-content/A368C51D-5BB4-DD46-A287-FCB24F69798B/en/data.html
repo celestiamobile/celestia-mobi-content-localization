@@ -1,0 +1,37 @@
+<div style="overflow:hidden;display:flex;align-items:center;justify-content:flex-start;">
+  <div class="tab">
+    <button id="youtube-tab" class="tablinks active" onclick="selectYouTube()">YouTube</button>
+    <button id="bilibili-tab" class="tablinks" onclick="selectBilibili()">Bilibili</button>
+  </div>
+</div>
+<p class="video-box" id="youtube-video" style="display:block;margin-top:10px;"><iframe src="https://www.youtube.com/embed/vNKN4huIPKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p class="video-box" id="bilibili-video" style="display:none;margin-top:10px;"><iframe src="//player.bilibili.com/player.html?aid=381630660&bvid=BV1EZ4y1d7EX&cid=512551714&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+<p><a href="https://www.twitter.com/adamandthomas28">AdamIrman2810</a> made this amazing video with the Solar System Tour script. If you want to share videos about how you use Celestia in creative ways, you can submit your content <a href="https://celestia.mobi/resources/submit">here</a>.</p>
+<p><button onclick="runSolarSystemTour()" class="button-outline">Run Solar System Tour script</button></p>
+<p>Note that the script will first compile a list of objects to visit before starting the tour.</p>
+<p>Other news: <a href="celguide://guide?guide=82C0D523-FC9F-B260-497E-F1003375B561">What's new in Celestia 1.5.2</a></p>
+<script>
+  var currentTab = "youtube";
+</script>
+<script>
+  function selectYouTube() {
+    if (currentTab == "youtube") return;
+    document.getElementById("bilibili-video").style.display = "none";
+    document.getElementById("youtube-video").style.display = "block";
+    let old = document.getElementById("bilibili-tab");
+    old.className = old.className.replace(" active", "");
+    document.getElementById("youtube-tab").className += " active";
+    currentTab = "youtube";
+  }
+
+  function selectBilibili() {
+    if (currentTab == "bilibili") return;
+    document.getElementById("youtube-video").style.display = "none";
+    document.getElementById("bilibili-video").style.display = "block";
+    let old = document.getElementById("youtube-tab");
+    old.className = old.className.replace(" active", "");
+    document.getElementById("bilibili-tab").className += " active";
+    currentTab = "bilibili";
+  }
+</script>
+<script src="{0}" type="text/javascript" charset="utf-8"></script>

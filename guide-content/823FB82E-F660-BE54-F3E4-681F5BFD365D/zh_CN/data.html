@@ -1,0 +1,35 @@
+<p></p>
+<table class="mobile-only">
+    <style>.tutorial-icon { width:32px;height:32px } .theme-dark .tutorial-icon { filter:invert(1) }</style>
+    <tr>
+        <td><img class="tutorial-icon" src="{0}"></td>
+        <td>轻按边栏的模式按钮以在相对天体模式和相机模式之间切换。</td>
+    </tr>
+    <tr>
+        <td rowspan="2"><img class="tutorial-icon" src="{1}"></td>
+        <td>在相对天体模式，拖拽以绕天体旋转。</td>
+    </tr>
+    <tr>
+        <td>双指捏合以缩放天体。</td>
+    </tr>
+    <tr>
+        <td rowspan="2"><img class="tutorial-icon" src="{2}"></td>
+        <td>在相机模式，拖拽以移动视野。</td>
+    </tr>
+    <tr>
+        <td>双指捏合以缩放视野。</td>
+    </tr>
+    <script>
+        const iconElements = document.getElementsByClassName('tutorial-icon');
+        for (let i = 0; i < iconElements.length; i++) {
+            iconElements[i].src = iconElements[i].src.replace('$%7Bf%7D', 'icon.svg');
+        }
+    </script>
+</table>
+<p></p>
+<style>.tutorial-button { width:calc(100% - 18px);text-align:center; } @media only screen and (max-width: 1068px) { .tutorial-button { width:calc(100% - 22px); } } .catalyst .mobile-only { display:none } .uwp .mobile-only { display:none } .xbox .mobile-only { display:none }</style>
+<script>function runDemoScript() { Celestia.sendMessage("runDemo", JSON.stringify({}), 4);}</script>
+<p><button onclick="runDemoScript()" class="button-filled tutorial-button">运行演示</button></p>
+<p><button onclick="location.href='celguide://guide?guide=BE1B5023-46B6-1F10-F15F-3B3F02F30300'" class="button-filled tutorial-button">鼠标/键盘/手柄控制</button></p>
+<p><button onclick="location.href='celguide://guide?guide=D1A96BFA-00BB-0089-F361-10DD886C8A4F'" class="button-filled tutorial-button">使用插件和脚本</button></p>
+<p><button onclick="location.href='celguide://guide?guide=A0AB3F01-E616-3C49-0934-0583D803E9D0'" class="button-filled tutorial-button">脚本和URL</button></p>

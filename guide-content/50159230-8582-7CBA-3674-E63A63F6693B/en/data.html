@@ -1,0 +1,443 @@
+<style>
+  .small-button-outline {
+   padding: 3px 8px;
+  } 
+  .addon-submission-text-input {
+    padding: 4px 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .theme-dark .addon-submission-text-input {
+    border: 1px solid #333;
+  }
+  .addon-submission-label {
+    display: inline-block;
+  }
+</style>
+<div id="apple-sign-in-button"></div>
+<div id="addon-submission-area" style="display:none;"><div id="addon-submission-form"></div><br><button id="addon-submit-button" disabled class="button-filled">Submit</button><p id="addon-submission-status" style="display:none;margin-top:0.5em;"></p></div>
+<p id="error-information-text" style="display:none;margin-top:0.5em;"></p>
+<script>"use strict";</script>
+<script>CelestiaCloudKitManager = {};</script>
+<script>
+CelestiaCloudKitManager.page = (function() {
+  var self = {};
+  self.authorCount = 0;
+  self.showErrorText = function(text) {
+    let errorElement = document.getElementById('error-information-text');
+    errorElement.style.display = 'block';
+    errorElement.innerText = text;
+  };
+  self.showError = function(error) {
+    // First log to the console in case anyone needs a stack trace.
+    console.error(error);
+    if (error.ckErrorCode) {
+      let message = error.reason ? `Reason: ${error.reason}` : (error.message || 'An error occurred.');
+      self.showErrorText(message);
+    } else {
+      self.showErrorText(text);
+    }
+  };
+  self.hideError = function() {
+    let errorElement = document.getElementById('error-information-text');
+    errorElement.style.display = 'none';
+  }
+  return self;
+})();
+
+CelestiaCloudKitManager.onLoaded = function() {
+  try {
+    CloudKit.configure({
+      containers: [{
+        containerIdentifier: 'iCloud.space.celestia.Celestia',
+        apiTokenAuth: {
+          apiToken: '5cd9568a75b0c14ffde25fefa29bd3e307f06c66eb65030aeac40e8fe62f2994',
+          persist: true, // Sets a cookie.
+          signInButton: {
+            id: 'apple-sign-in-button',
+            theme: 'black' // Other options: 'white', 'white-with-outline'.
+          }
+        },
+        environment: 'production',
+      }]
+    });
+
+    CelestiaCloudKitManager.container = CloudKit.getDefaultContainer();
+    let event = new Event('cloudkitconfigured');
+    window.dispatchEvent(event);
+  } catch (e) {
+    CelestiaCloudKitManager.page.showError(e);
+  }
+};
+
+CelestiaCloudKitManager.setUpAuth = function() {
+  // Get the container.
+  var container = CelestiaCloudKitManager.container;
+
+  function gotoAuthenticatedState(userInfo) {
+    document.getElementById('addon-submission-area').style.display = 'block';
+    document.getElementById('error-information-text').style.display = 'none';
+    CelestiaCloudKitManager.onAuthenticated();
+    container
+      .whenUserSignsOut()
+      .then(gotoUnauthenticatedState);
+  }
+
+  function gotoUnauthenticatedState(error) {
+    document.getElementById('addon-submission-area').style.display = 'none';
+    document.getElementById('error-information-text').style.display = 'none';
+    document.getElementById('addon-submission-form').disabled = true;
+    container
+      .whenUserSignsIn()
+      .then(gotoAuthenticatedState)
+      .catch(gotoUnauthenticatedState);
+  }
+
+  // Check a user is signed in and render the appropriate button.
+  return container.setUpAuth()
+    .then(function(userInfo) {
+      // Either a sign-in or a sign-out button was added to the DOM.
+      // userInfo is the signed-in user or null.
+      if(userInfo) {
+        gotoAuthenticatedState(userInfo);
+      } else {
+        gotoUnauthenticatedState();
+      }
+  });
+}
+
+CelestiaCloudKitManager.onConfigured = function() {
+  CelestiaCloudKitManager.setUpAuth();
+}
+
+CelestiaCloudKitManager.onAuthenticated = function() {
+  fetch('/api/resource/categories').then(function(response) {
+    if (!response.ok) {
+      CelestiaCloudKitManager.page.showErrorText('Failed to get category info');
+      return null;
+    }
+    return response.json();
+  }).then(function (data) {
+    if (!data || data.status != 0 || !data.info || !data.info.detail) {
+      if (data.info && data.info.reason) {
+        CelestiaCloudKitManager.page.showErrorText(data.info.reason)
+      } else {
+        CelestiaCloudKitManager.page.showErrorText('Unknown error getting category info')
+      }
+      return;
+    }
+    var categories = JSON.parse(data.info.detail);
+    CelestiaCloudKitManager.onDataFetched([{ name: 'None', id: '' }].concat(categories));
+  });
+}
+
+CelestiaCloudKitManager.onDataFetched = function(categories) {
+  let submissionElements = [
+    { key: 'remove', display: 'Remove This Add-on?', elementName: 'submission-remove', type: 'checkbox', hint: 'Mark this add-on for removal' },
+    { key: 'title', display: 'Title', elementName: 'submission-title', type: 'short-text', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'category', display: 'Category', elementName: 'submission-category', type: 'reference-select', values: categories, hint: 'Required for new add-ons. ID of the category', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'id_requirement', display: 'ID Requirement', elementName: 'submission-id-requirement', type: 'short-text', hint: 'Required for updating or removing an existing add-on' },
+    { key: 'authors', display: 'Authors', elementName: 'submission-authors', type: 'short-text-list', hint: 'Required for new add-ons. Authors of the add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'description', display: 'Description', elementName: 'submission-description', type: 'long-text', hint: 'Required for new add-ons. Plain text description of the add-on', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'demo_object_name', display: 'Demo Object Name', elementName: 'submission-demo-object-name', type: 'short-text', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'release_date', display: 'Release Date', elementName: 'submission-release-date', type: 'date', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'last_update_date', display: 'Last Update Date', elementName: 'submission-last-update-date', type: 'date', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'cover_image', display: 'Cover Image', elementName: 'submission-cover-image', type: 'file', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'addon', display: 'Add-on', elementName: 'submission-addon', type: 'file', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'rich_description', display: 'Include Rich Description?', elementName: 'submission-rich-description', type: 'checkbox', ignored: true, targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'rich_description_base', display: 'Rich Description Text', elementName: 'submission-rich-description-base', type: 'long-text', hint: 'HTML supported. If not provided, any of the following will be ignored. Use celaddon://item?item=ADDON_ID for add-on links and celguide://guide?guide=ARTICLE_ID for article links', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+    { key: 'rich_description_notes', display: 'Notes', elementName: 'submission-rich-description-notes', type: 'long-text-list', hint: 'HTML supported', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+    { key: 'rich_description_cover_image', display: 'Cover Image', elementName: 'submission-rich-description-cover-image', type: 'file', hint: 'Required when Rich Description is provided', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+    { key: 'rich_description_cover_image_caption', display: 'Cover Image Caption', elementName: 'submission-rich-description-cover-image-caption', type: 'long-text', hint: 'HTML supported', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+    { key: 'rich_description_detail_images', display: 'Detail Images', elementName: 'submission-rich-description-detail-images', type: 'file-list', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+    { key: 'rich_description_detail_image_captions', display: 'Detail Image Captions', elementName: 'submission-rich-description-detail-image-captions', type: 'long-text-list', hint: 'HTML supported. Captions for the detail images above, make sure that they match the order of detail images. If any of the images does not need caption, leave the field empty', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+    { key: 'rich_description_youtube_ids', display: 'YouTube IDs', elementName: 'submission-rich-description-youtube-ids', type: 'short-text-list', hint: 'IDs for YouTube videos', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+    { key: 'rich_description_additional_leading', display: 'Additional Leading', elementName: 'submission-rich-description-additional-leading', type: 'long-text', hint: 'HTML supported. Will be inserted after cover image', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+    { key: 'rich_description_additional_trailing', display: 'Additional Trailing', elementName: 'submission-rich-description-additional-trailing', type: 'long-text', hint: 'HTML supported. Will be inserted at the end', targetCheckBox: ['submission-remove', 'submission-rich-description'], targetCheckBoxValue: [false, true] },
+  ]
+  let submissionForm = document.getElementById('addon-submission-form');
+  // Clear all children
+  submissionForm.innerHTML = '';
+  let submitButton = document.getElementById('addon-submit-button');
+  let submissionStatus = document.getElementById('addon-submission-status');
+  submitButton.disabled = false;
+  submitButton.onclick = function() {
+    var record = {};
+    record.recordType = 'PendingResourceItem';
+    var fields = {};
+    for (var i = 0; i < submissionElements.length; i++) {
+      let element = submissionElements[i];
+      if (element.ignored) continue;
+      if (document.getElementById(element.elementName).style.display == 'none') continue;
+
+      switch (element.type) {
+      case 'short-text':
+      case 'long-text':
+      case 'reference':
+        var input = document.getElementById(element.elementName);
+        if (input.value.length != 0) {
+          if (element.type == 'reference') {
+            fields[element.key] = { value: { recordName: input.value, action: 'NONE' } };
+          } else {
+            fields[element.key] = { value: input.value };
+          }
+        }
+        break;
+      case 'reference-select':
+        var input = document.getElementById(element.elementName);
+        if (input.selectedIndex >= 0) {
+          var value = input.options[input.selectedIndex].value;
+          if (value.length != 0) {
+            fields[element.key] = { value: { recordName: value, action: 'NONE' } };
+          }
+        }
+        break;
+      case 'file':
+      case 'file-list':
+        var input = document.getElementById(element.elementName);
+        if (input.files.length > 0) {
+          if (element.type == 'file-list') {
+            fields[element.key] = { value: Array.from(input.files) };
+          } else {
+            fields[element.key] = { value: input.files[0] };
+          }
+        }
+        break;
+      case 'date':
+        var input = document.getElementById(element.elementName);
+        if (input.valueAsDate != null)
+          fields[element.key] = { value: input.valueAsNumber };
+        break;
+      case 'checkbox':
+        var input = document.getElementById(element.elementName);
+        fields[element.key] = { value: input.checked ? 1 : 0 };
+        break;
+      case 'short-text-list':
+      case 'long-text-list':
+        var index = 0;
+        var el = document.getElementById(`${element.elementName}${index}`);
+        var array = [];
+        while (el != null) {
+          array.push(el.value);
+          index += 1;
+          el = document.getElementById(`${element.elementName}${index}`);
+        }
+        if (array.length > 0)
+          fields[element.key] = { value: array };
+        break;
+      default:
+        break;
+      }
+    }
+    submitButton.disabled = true;
+    submissionStatus.style.display = 'block';
+    submissionStatus.innerText = 'Uploading...';
+    var db = CelestiaCloudKitManager.container.publicCloudDatabase;
+    record.fields = fields;
+    db.saveRecords(record).then(function(response) {
+      submitButton.disabled = false;
+      if (response.hasErrors) {
+        submissionStatus.style.display = 'none';
+        CelestiaCloudKitManager.page.showError(response.errors[0]);
+      } else {
+        var record = response.records[0];
+        submissionStatus.innerText = `Uploaded ID ${record.recordName}`;
+      }
+    });
+  };
+  for (var i = 0; i < submissionElements.length; i++) {
+    let controls = [];
+    let element = submissionElements[i];
+    let label = document.createElement('label');
+    label.classList.add('addon-submission-label');
+    label.style.marginTop = '0.5em';
+    label.style.marginRight = '0.4em';
+    label.for = element.elementName;
+    let labelContent = document.createTextNode(`${element.display}:`);
+    label.appendChild(labelContent);
+    controls.push(label);
+    switch (element.type) {
+    case 'short-text':
+    case 'reference':
+      var input = document.createElement('input');
+      input.classList.add('addon-submission-text-input');
+      input.type = 'text';
+      input.id = element.elementName;
+      input.name = element.elementName;
+      controls.push(input);
+      break;
+    case 'reference-select':
+      var input = document.createElement('select');
+      input.id = element.elementName;
+      input.name = element.elementName;
+      for (var j = 0; j < element.values.length; j++) {
+        var value = element.values[j];
+        var option = document.createElement('option');
+        option.value = value.id;
+        option.innerText = value.name;
+        input.appendChild(option);
+      }
+      controls.push(input);
+      break;
+    case 'long-text':
+      var input = document.createElement('textarea');
+      input.classList.add('addon-submission-text-input');
+      input.style.resize = 'none';
+      input.style.width = '100%';
+      input.style.marginTop = '0.2em';
+      input.id = element.elementName;
+      input.name = element.elementName;
+      input.rows = '4';
+      controls.push(input);
+      break;
+    case 'short-text-list':
+    case 'long-text-list':
+      let container = document.createElement('div');
+      container.id = element.elementName;
+      container.name = element.elementName;
+      let addButton = document.createElement('button');
+      addButton.classList.add('button-outline', 'small-button-outline');
+      addButton.style.marginTop = '0.2em';
+      addButton.id = `${element.elementName}-plus`;
+      addButton.name = `${element.elementName}-plus`;
+      addButton.appendChild(document.createTextNode('+'));
+      addButton.onclick = function() {
+        var div = document.createElement('div');
+        div.style.width = '100%';
+        div.style.marginTop = '0.2em';
+        if (element.type == 'long-text-list') {
+          div.style.display = 'flex';
+        }
+        var minusButton = document.createElement('button');
+        var baseName = `${element.elementName}${container.children.length - 1}`;
+        minusButton.id = `${baseName}-minus`;
+        minusButton.name = `${baseName}-minus`;
+        minusButton.style.marginLeft = '0.5em';
+        minusButton.classList.add('button-outline', 'small-button-outline');
+        minusButton.appendChild(document.createTextNode('-'));
+        minusButton.onclick = function() {
+          container.removeChild(div);
+          for (var i = 0; i < container.children.length - 1; i++) {
+            let child = container.children[i];
+            var input = element.type == 'long-text-list' ? child.getElementsByTagName('textarea')[0] : child.getElementsByTagName('input')[0];
+            var minusButton = child.getElementsByTagName('button')[0];
+            var newBaseName = `${element.elementName}${i}`;
+            input.id = newBaseName;
+            input.name = newBaseName;
+            minusButton.id = `${newBaseName}-minus`;
+            minusButton.name = `${newBaseName}-minus`;
+          }
+        };
+        if (element.type == 'long-text-list') {
+          var newInput =  document.createElement('textarea')
+          newInput.classList.add('addon-submission-text-input');
+          newInput.style.resize = 'none';
+          newInput.style.flex = '1';
+          newInput.rows = '4';
+          newInput.id = baseName;
+          newInput.name = baseName;
+          div.appendChild(newInput);
+        } else {
+          var newInput = document.createElement('input');
+          newInput.classList.add('addon-submission-text-input');
+          newInput.type = 'text';
+          newInput.id = baseName;
+          newInput.name = baseName;
+          div.appendChild(newInput);
+        }
+        div.appendChild(minusButton);
+        container.insertBefore(div, addButton);
+      };
+      container.appendChild(addButton);
+      controls.push(container);
+      break;
+    case 'date':
+      var input = document.createElement('input');
+      input.type = 'date';
+      input.id = element.elementName;
+      input.name = element.elementName;
+      controls.push(input);
+      break;
+    case 'checkbox':
+      var input = document.createElement('input');
+      input.type = 'checkbox';
+      input.id = element.elementName;
+      input.name = element.elementName;
+      controls.push(input);
+      break;
+    case 'file':
+    case 'file-list':
+      var input = document.createElement('input');
+      input.type = 'file';
+      if (element.type == 'file-list') {
+        input.multiple = true;
+      }
+      input.id = element.elementName;
+      input.name = element.elementName;
+      controls.push(input);
+      break;
+    default:
+      break;
+    }
+    if (element.hint) {
+      let hintElement = document.createElement('i');
+      hintElement.appendChild(document.createTextNode(element.hint));
+      hintElement.classList.add('text-secondary-size', 'text-secondary-color');
+      let p = document.createElement('p');
+      p.appendChild(hintElement);
+      controls.push(p);
+    } else if (!["short-text-list", "long-text-list"].includes(submissionElements[i - 1].type)) {
+      controls.push(document.createElement('br'));
+    }
+
+    for (var j = 0; j < controls.length; j++) {
+      submissionForm.appendChild(controls[j]);
+    }
+
+    if (element.targetCheckBox) {
+      let checkboxes = [];
+      let checkboxValues = []
+      if (Array.isArray(element.targetCheckBox)) {
+        for (var j = 0; j < element.targetCheckBox.length; j++) {
+          checkboxes.push(document.getElementById(element.targetCheckBox[j]));
+          checkboxValues.push(element.targetCheckBoxValue[j]);
+        }
+      } else {
+        checkboxes.push(document.getElementById(element.targetCheckBox));
+        checkboxValues.push(element.targetCheckBoxValue);
+      }
+      let allSatisfy = true;
+      for (var j = 0; j < checkboxes.length; j++) {
+        if (checkboxes[j].checked != checkboxValues[j]) {
+          allSatisfy = false;
+          break;
+        }
+      }
+      if (!allSatisfy) {
+        for (var j = 0; j < controls.length; j++) {
+          controls[j].style.display = 'none';
+        }
+      }
+      for (var j = 0; j < checkboxes.length; j++) {
+        checkboxes[j].addEventListener('change', function() {
+          let allSatisfyAfterChange = true;
+          for (var k = 0; k < checkboxes.length; k++) {
+            if (checkboxes[k].checked != checkboxValues[k]) {
+              allSatisfyAfterChange = false;
+              break;
+            }
+          }
+          for (var k = 0; k < controls.length; k++) {
+            controls[k].style.display = !allSatisfyAfterChange ? 'none' : '';
+          }
+        });
+      }
+    }
+  }
+};
+</script>
+<script>
+  window.addEventListener('cloudkitloaded', CelestiaCloudKitManager.onLoaded);
+  window.addEventListener('cloudkitconfigured', CelestiaCloudKitManager.onConfigured);
+</script>
+<script async="" src="https://cdn.apple-cloudkit.com/ck/2/cloudkit.js"></script>
