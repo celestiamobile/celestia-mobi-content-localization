@@ -47,6 +47,7 @@ public class Parser {
         var existingResults = [String: (id: String, data: Data)]()
         var newResults = [String: Data]()
         for language in languages {
+            guard language != ".DS_Store" else { continue }
             let languagePath = (path as NSString).appendingPathComponent(language)
             let idFilePath = (languagePath as NSString).appendingPathComponent("id.txt")
             let dataFilePath = (languagePath as NSString).appendingPathComponent("data.html")
@@ -67,6 +68,7 @@ public class Parser {
 
         var results = [String: (existing: [String: (id: String, data: Data)], new: [String: Data])]()
         for id in ids {
+            guard id != ".DS_Store" else { continue }
             results[id] = try parseLocalizedDataForDataDirectory(at: (path as NSString).appendingPathComponent(id))
         }
         return results
