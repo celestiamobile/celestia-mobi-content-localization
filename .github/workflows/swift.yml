@@ -78,7 +78,7 @@ jobs:
         CLOUDKIT_KEY_ID: ${{ secrets.CLOUDKIT_KEY_ID }}
       run: |
         rm -rf addon-rich-descriptions
-        .build/debug/SynchronizerApp addon-rich-descriptions ResourceItem localizedHTMLReferences data description --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        .build/debug/SynchronizerApp addon-rich-descriptions ResourceItem localizedHTMLReferences data --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
         git add addon-rich-descriptions
 
     - name: Commit
