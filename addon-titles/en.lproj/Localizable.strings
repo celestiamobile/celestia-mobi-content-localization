@@ -613,6 +613,9 @@
 // English: Gliese 7
 "27876447-2C24-46E1-A6A3-41BCB32A45CF" = "Gliese 7";
 
+// English: TOI-5678
+"27ACF7DB-AB3C-4073-8D74-146B68297A97" = "TOI-5678";
+
 // English: NGTS-16
 "27EEABDB-404C-4777-A87E-CAC6BE9D7E2A" = "NGTS-16";
 
@@ -651,6 +654,9 @@
 
 // English: Landsat 8 and 9
 "29A2623B-A41D-64AB-6465-41E162DF98D9" = "Landsat 8 and 9";
+
+// English: TOI-5293
+"2A0E7434-B9B5-4D86-B23D-36762ABC03BA" = "TOI-5293";
 
 // English: Infrared Space Observatory
 "2A25B09A-94B9-401D-9762-E9ACCF0AE503" = "Infrared Space Observatory";
@@ -714,6 +720,9 @@
 
 // English: Barnard 335
 "2C9DFCE2-63E4-4833-86FF-9E36D1B1854D" = "Barnard 335";
+
+// English: HD 300730
+"2CC6A202-5B96-4B4C-84BF-1605F61A4A3F" = "HD 300730";
 
 // English: Gale Crater
 "2D583BD6-AF34-97CD-1242-C605A51B4970" = "Gale Crater";
@@ -1059,6 +1068,9 @@
 
 // English: Pioneer 6 to 9
 "40CDDB17-BDEB-4E75-2E9F-7D6A9FDDF265" = "Pioneer 6 to 9";
+
+// English: TOI-4562
+"413120D4-E2AF-4DD1-95F2-8255141C81ED" = "TOI-4562";
 
 // English: CoRoT-4
 "4169F2A4-E302-4F25-BB19-925FEFA8236B" = "CoRoT-4";
