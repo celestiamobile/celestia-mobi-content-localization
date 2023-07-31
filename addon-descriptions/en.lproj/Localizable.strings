@@ -184,6 +184,9 @@
 // English: Euclid is a European space observatory that is intended to better understand dark energy and dark matter by accurately measuring the accelerating expansion of the universe. It was launched on top of a Falcon 9 rocket on 2023-Jul-1 and will be placed in Sun-Earth Lagrange-2 point a month later on August 2023 to begin its science mission
 "0B75DE18-1DCC-4765-87BE-06E2FF93056C" = "Euclid is a European space observatory that is intended to better understand dark energy and dark matter by accurately measuring the accelerating expansion of the universe. It was launched on top of a Falcon 9 rocket on 2023-Jul-1 and will be placed in Sun-Earth Lagrange-2 point a month later on August 2023 to begin its science mission";
 
+// English: (84522) 2002 TC₃₀₂ is a 584-km trans-neptunian object with an orbital resonance of 2:5 with Neptune. Its reddish spectra indicates very little ice on its surface. In 2018, it is theorized to harbor at least one satellite, but none so far has been detected in follow-up observations
+"0B89F3C2-0204-4AAF-B42A-D2E9A746A5DA" = "(84522) 2002 TC₃₀₂ is a 584-km trans-neptunian object with an orbital resonance of 2:5 with Neptune. Its reddish spectra indicates very little ice on its surface. In 2018, it is theorized to harbor at least one satellite, but none so far has been detected in follow-up observations";
+
 // English: This addon adds an alternative texture of the planet Jupiter in ultraviolet.
 "0BE0650A-ABDF-44C3-6805-981B18577766" = "This addon adds an alternative texture of the planet Jupiter in ultraviolet.";
 
@@ -238,8 +241,8 @@
 // English: Starlink is a mega constellation of Elon Musk's satellites, with the aim of bringing high-speed internet to anywhere in the world. To date, more than 4,800 satellites of this constellation have been launched, with at least a total of 12,000 satellites planned, with the possibility of later expanding to a total of 42,000 satellites
 "0F2427F6-5205-7625-6937-1EB37A21FE26" = "Starlink is a mega constellation of Elon Musk's satellites, with the aim of bringing high-speed internet to anywhere in the world. To date, more than 4,800 satellites of this constellation have been launched, with at least a total of 12,000 satellites planned, with the possibility of later expanding to a total of 42,000 satellites";
 
-// English: Eris is the most massive and second-largest known dwarf planet in the Solar System. It is a Trans-Neptunian object (TNO) in the scattered diskand has a high-eccentricity orbit. Eris was discovered in January 2005 by a Palomar Observatory-based team led by Mike Brown and verified later that year. In September 2006 it was named after the Greco-Roman goddess of strife and discord. Eris has a moon around her called Dysnomia.
-"0F34A456-C3A1-2D02-D599-06AB5EABFD79" = "Eris is the most massive and second-largest known dwarf planet in the Solar System. It is a Trans-Neptunian object (TNO) in the scattered diskand has a high-eccentricity orbit. Eris was discovered in January 2005 by a Palomar Observatory-based team led by Mike Brown and verified later that year. In September 2006 it was named after the Greco-Roman goddess of strife and discord. Eris has a moon around her called Dysnomia.";
+// English: Eris is the most massive and second-largest known dwarf planet in the Solar System. It is a Trans-Neptunian object (TNO) in the scattered disk and has a high-eccentricity orbit. Eris was discovered in January 2005 by a Palomar Observatory-based team led by Mike Brown and verified later that year. In September 2006 it was named after the Greco-Roman goddess of strife and discord. Eris has a moon around her called Dysnomia.
+"0F34A456-C3A1-2D02-D599-06AB5EABFD79" = "Eris is the most massive and second-largest known dwarf planet in the Solar System. It is a Trans-Neptunian object (TNO) in the scattered disk and has a high-eccentricity orbit. Eris was discovered in January 2005 by a Palomar Observatory-based team led by Mike Brown and verified later that year. In September 2006 it was named after the Greco-Roman goddess of strife and discord. Eris has a moon around her called Dysnomia.";
 
 // English: 11 Parthenope is a large S-type asteroid in the asteroid belt. It was discovered by Annibale de Gasparis in May 1850.
 "0F65A60E-EE80-4CB3-59E1-F74D811F354A" = "11 Parthenope is a large S-type asteroid in the asteroid belt. It was discovered by Annibale de Gasparis in May 1850.";
@@ -1900,6 +1903,9 @@
 // English: The Owl Nebula (also known as Messier 97 or NGC 3587) is a starburst (\"planetary\") nebula approximately 2,030 light years away in the northern constellation Ursa Major
 "77B2AE5B-3333-150A-B679-55188F76E772" = "The Owl Nebula (also known as Messier 97 or NGC 3587) is a starburst (\"planetary\") nebula approximately 2,030 light years away in the northern constellation Ursa Major";
 
+// English: Gliese 221 is either a late K-type or early M-type main sequence star located about 66.15 lightyears from the solar system. It has a single, cool, large planet with a little over half the mass of Saturn that completes a full orbit every 125 days (b= 50.9 Me). Additionally there are two planet candidates which have yet to be confirmed by follow up observations.
+"77B4A84E-B5FB-4BFD-AAEE-E7287AF01FED" = "Gliese 221 is either a late K-type or early M-type main sequence star located about 66.15 lightyears from the solar system. It has a single, cool, large planet with a little over half the mass of Saturn that completes a full orbit every 125 days (b= 50.9 Me). Additionally there are two planet candidates which have yet to be confirmed by follow up observations.";
+
 // English: Comet Churyumov-Gerasimenko is a contact-binary comet about 4.1 km in diameter that orbits the Sun once every 6.44 years. A member of the Jupiter-family comets, it is the primary target of ESA's Rosetta/Philae mission and is the first comet to be orbited and landed by a spacecraft in 2014
 "77C71308-85D7-5095-47B8-AF50E716CB3D" = "Comet Churyumov-Gerasimenko is a contact-binary comet about 4.1 km in diameter that orbits the Sun once every 6.44 years. A member of the Jupiter-family comets, it is the primary target of ESA's Rosetta/Philae mission and is the first comet to be orbited and landed by a spacecraft in 2014";
 
@@ -3363,6 +3369,9 @@
 
 // English: Kepler-1652 is a red dwarf star about 821.9 light-years away in the constellation Cygnus. A rocky planet only slightly larger than Earth was discovered, which as of 2021, is listed as a potentially habitable world
 "CD51444A-7B92-B6AB-6E0C-F7B743D4368A" = "Kepler-1652 is a red dwarf star about 821.9 light-years away in the constellation Cygnus. A rocky planet only slightly larger than Earth was discovered, which as of 2021, is listed as a potentially habitable world";
+
+// English: 2012 VP₁₁₃, also known unofficially as \"Biden\", is a distant 597-km trans-neptunian object and only the second known sednoid discovered so far. Its perihelion of 75 AU is far too distant to be able to be gravitationally perturbed by Neptune, indicating that this object and others like it might be influenced by a hypothetical ninth planet waiting to be discovered
+"CD68E45F-A230-44A2-AE53-EDE2A6B22D9B" = "2012 VP₁₁₃, also known unofficially as \"Biden\", is a distant 597-km trans-neptunian object and only the second known sednoid discovered so far. Its perihelion of 75 AU is far too distant to be able to be gravitationally perturbed by Neptune, indicating that this object and others like it might be influenced by a hypothetical ninth planet waiting to be discovered";
 
 // English: Wolf 1061 is a red dwarf about 14.05 light-years away in the constellation Ophiuchus. A total of three confirmed planets, one terran and two superterrans, were found orbiting the star, one of which was considered as potentially habitable
 "CD7C9BBA-C079-58AD-A618-81BDBF2AA04E" = "Wolf 1061 is a red dwarf about 14.05 light-years away in the constellation Ophiuchus. A total of three confirmed planets, one terran and two superterrans, were found orbiting the star, one of which was considered as potentially habitable";

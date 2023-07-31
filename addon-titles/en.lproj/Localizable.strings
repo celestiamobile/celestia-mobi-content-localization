@@ -184,6 +184,9 @@
 // English: Euclid
 "0B75DE18-1DCC-4765-87BE-06E2FF93056C" = "Euclid";
 
+// English: 84522 (2002 TC₃₀₂)
+"0B89F3C2-0204-4AAF-B42A-D2E9A746A5DA" = "84522 (2002 TC₃₀₂)";
+
 // English: Jupiter Ultraviolet
 "0BE0650A-ABDF-44C3-6805-981B18577766" = "Jupiter Ultraviolet";
 
@@ -772,8 +775,8 @@
 // English: Mariner 9
 "3049F139-7245-3E2E-EDC3-6EAA1E8D303D" = "Mariner 9";
 
-// English: (90568) 2004 GV₉
-"3074E162-1B3F-AC55-EEDF-EE367A381B94" = "(90568) 2004 GV₉";
+// English: 90568 (2004 GV₉)
+"3074E162-1B3F-AC55-EEDF-EE367A381B94" = "90568 (2004 GV₉)";
 
 // English: 81P/Wild
 "30B8A608-C3E4-3E95-0A96-5B73BE3FAA19" = "81P/Wild";
@@ -1899,6 +1902,9 @@
 
 // English: M 97 (Owl Nebula)
 "77B2AE5B-3333-150A-B679-55188F76E772" = "M 97 (Owl Nebula)";
+
+// English: Gliese 221
+"77B4A84E-B5FB-4BFD-AAEE-E7287AF01FED" = "Gliese 221";
 
 // English: 67P/Churyumov-Gerasimenko
 "77C71308-85D7-5095-47B8-AF50E716CB3D" = "67P/Churyumov-Gerasimenko";
@@ -3363,6 +3369,9 @@
 
 // English: Kepler-1652
 "CD51444A-7B92-B6AB-6E0C-F7B743D4368A" = "Kepler-1652";
+
+// English: (2012 VP₁₁₃)
+"CD68E45F-A230-44A2-AE53-EDE2A6B22D9B" = "(2012 VP₁₁₃)";
 
 // English: Wolf 1061
 "CD7C9BBA-C079-58AD-A618-81BDBF2AA04E" = "Wolf 1061";
