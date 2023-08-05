@@ -1069,6 +1069,9 @@
 // English: The Frosty Leo Nebula is a protoplanetary nebula located roughly at 10,044 light-years away in the constellation Leo.
 "40B55DCE-483A-0F65-1DEA-0F1AA3692938" = "The Frosty Leo Nebula is a protoplanetary nebula located roughly at 10,044 light-years away in the constellation Leo.";
 
+// English: KMT-2016-BLG-1397L is a distant red dwarf about 21,526 light-years away in the constellation Sagittarius. A superjovian planet about seven times more massive than Jupiter was discovered orbiting this star through microlensing
+"40CB2794-33A0-418A-975B-8009EA79AA3E" = "KMT-2016-BLG-1397L is a distant red dwarf about 21,526 light-years away in the constellation Sagittarius. A superjovian planet about seven times more massive than Jupiter was discovered orbiting this star through microlensing";
+
 // English: Pioneer 6, 7, 8, and 9 were a series of interplanetary space probes launched between 1965 and 1969, which monitored various solar phenomena from widely separated points in space, much like the twin STEREO probes do today. Designed to last only six months, all the probes managed to operate for decades, with Pioneer 6 lasting until 2000-Dec-8, more than 35 years after its launch!
 "40CDDB17-BDEB-4E75-2E9F-7D6A9FDDF265" = "Pioneer 6, 7, 8, and 9 were a series of interplanetary space probes launched between 1965 and 1969, which monitored various solar phenomena from widely separated points in space, much like the twin STEREO probes do today. Designed to last only six months, all the probes managed to operate for decades, with Pioneer 6 lasting until 2000-Dec-8, more than 35 years after its launch!";
 
@@ -2293,6 +2296,9 @@
 // English: The Northern Trifid Nebula (also known as NGC 1579) is a diffuse nebula about 2,606 light-years away in the constellation Perseus. It is named the \"Northern Trifid\" due to its similar appearance to Messier 20 (Trifid Nebula)
 "8F4E6D5C-C74E-611C-3CED-20283EEA22FD" = "The Northern Trifid Nebula (also known as NGC 1579) is a diffuse nebula about 2,606 light-years away in the constellation Perseus. It is named the \"Northern Trifid\" due to its similar appearance to Messier 20 (Trifid Nebula)";
 
+// English: LOri167 is a brown dwarf about 1,305 light-years away in the constellation Orion. A member of the Collinder 69 open cluster, it is orbited by a massive superjovian planet at a distance of 2,000 AU. It is so far away from its host star that it completes one revolution once every 579,000 years!
+"8F87992C-B2A7-46E2-AB82-1535438D37E6" = "LOri167 is a brown dwarf about 1,305 light-years away in the constellation Orion. A member of the Collinder 69 open cluster, it is orbited by a massive superjovian planet at a distance of 2,000 AU. It is so far away from its host star that it completes one revolution once every 579,000 years!";
+
 // English: 54 Piscium is a nearby binary star system comprising of a K-type main sequence star and a brown dwarf only about 36.32 light-years away in the constellation Pisces. The larger star has a planet the size of Jupiter (but only 1/4 of its mass) that completes an orbit once every 13.79 days
 "8FEA34D5-704D-430D-B2E5-5AEDBA1A76DA" = "54 Piscium is a nearby binary star system comprising of a K-type main sequence star and a brown dwarf only about 36.32 light-years away in the constellation Pisces. The larger star has a planet the size of Jupiter (but only 1/4 of its mass) that completes an orbit once every 13.79 days";
 
@@ -3214,6 +3220,9 @@
 // English: (455502) 2003 UZ413 is a trans-Neptunian object (TNO) in a 2:3 orbital resonance with Neptune, thus it is classified as a plutino. There are indications it may be dense enough to be a dwarf planet\nProposed category: Trans-Neptunian Objects (TNOs)
 "C3C65688-4726-6643-1ACA-C2B8049EADCF" = "(455502) 2003 UZ413 is a trans-Neptunian object (TNO) in a 2:3 orbital resonance with Neptune, thus it is classified as a plutino. There are indications it may be dense enough to be a dwarf planet\nProposed category: Trans-Neptunian Objects (TNOs)";
 
+// English: Kepler-1130, also known as KOI-2169, is a triple star system of a K-type main sequence star and two red dwarf stars about 826 light-years away in the constellation Lyra. As of 2023, the larger star has three confirmed planets, with an additional one awaiting confirmation. All of them are smaller than Earth and are less than 8.5 million km from their star, indicating that all of their surfaces were molten
+"C3EC8DFF-392A-4D76-900A-9268B3164985" = "Kepler-1130, also known as KOI-2169, is a triple star system of a K-type main sequence star and two red dwarf stars about 826 light-years away in the constellation Lyra. As of 2023, the larger star has three confirmed planets, with an additional one awaiting confirmation. All of them are smaller than Earth and are less than 8.5 million km from their star, indicating that all of their surfaces were molten";
+
 // English: Dradgeworld, an Earth-like planet orbiting 61 Virginis, is one of the planets targeted by future mankind for expansion and colonization due to its relative close distance with the Solar System at 27 light-years
 "C40B8D4C-5EFA-81D6-DD7A-EE8360436F4B" = "Dradgeworld, an Earth-like planet orbiting 61 Virginis, is one of the planets targeted by future mankind for expansion and colonization due to its relative close distance with the Solar System at 27 light-years";
 
@@ -4023,6 +4032,9 @@
 
 // English: Kepler-493, also known as KOI-208 and TOI-6001, is an F-type main sequence star about 5,447 light-years away in the constellation Cygnus. A very hot Jupiter-sized planet was found completing a 3-day orbit at a distance of 6.5 million km from its star
 "F569F8A4-7E1D-4569-9704-B2B2819749FE" = "Kepler-493, also known as KOI-208 and TOI-6001, is an F-type main sequence star about 5,447 light-years away in the constellation Cygnus. A very hot Jupiter-sized planet was found completing a 3-day orbit at a distance of 6.5 million km from its star";
+
+// English: Kepler-76, also known as KOI-1658, is a F-type main sequence star about 2,749 light-years away in the constellation Cygnus. A large superjovian planet about 1.96 times the mass of Jupiter completes a 1.54-day orbit around its star at a distance of 4.1 million km
+"F58843F2-748D-4001-9E9B-C5FD5704E777" = "Kepler-76, also known as KOI-1658, is a F-type main sequence star about 2,749 light-years away in the constellation Cygnus. A large superjovian planet about 1.96 times the mass of Jupiter completes a 1.54-day orbit around its star at a distance of 4.1 million km";
 
 // English: Luna-2 is a soviet space probe launched on September 12, 1959 for the purpose of impacting the Moon. The probe impacted the Moon on September 13, 1959 and became the first man-made artifact to impact another celestial body.
 "F5C7FE4B-21D4-3ABB-7304-3ABDE7239BEE" = "Luna-2 is a soviet space probe launched on September 12, 1959 for the purpose of impacting the Moon. The probe impacted the Moon on September 13, 1959 and became the first man-made artifact to impact another celestial body.";
