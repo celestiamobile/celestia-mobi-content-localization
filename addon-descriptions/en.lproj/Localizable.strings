@@ -2998,6 +2998,9 @@
 // English: KOI-7235 is a Sun-like star about 3,713 light-years in the constellation Lyra. In 2015, signatures of an Earth-sized planet orbiting right in the star's habitable zone was detected, however its existence is yet to be confirmed by follow-up studies\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first
 "B7266580-B32B-2DFF-6785-D350E8E76001" = "KOI-7235 is a Sun-like star about 3,713 light-years in the constellation Lyra. In 2015, signatures of an Earth-sized planet orbiting right in the star's habitable zone was detected, however its existence is yet to be confirmed by follow-up studies\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first";
 
+// English: Kepler-454, while hosts two confirmed planets, also has two candidate planets both super-Jupiters that continue the system's trend of spread out planets (Ad= 2.31 Mj | Ae= 5.3 Mj).
+"B7BBEAA0-892C-40EB-84DB-170A3579CC9B" = "Kepler-454, while hosts two confirmed planets, also has two candidate planets both super-Jupiters that continue the system's trend of spread out planets (Ad= 2.31 Mj | Ae= 5.3 Mj).";
+
 // English: Kepler-50, also known as KOI-262, is an F-type main sequence star about 821.63 light-years away in the constellation Cygnus. In 2012, a total of two planets (a superterran and a neptunian) were discovered around this star
 "B7D5832D-956C-435B-8BD8-CE6C5FF5751D" = "Kepler-50, also known as KOI-262, is an F-type main sequence star about 821.63 light-years away in the constellation Cygnus. In 2012, a total of two planets (a superterran and a neptunian) were discovered around this star";
 
@@ -4014,6 +4017,9 @@
 
 // English: LTT 1445 is a triple star system consisting of three red dwarfs, 22.39 light-years away in the constellation Eridanus. The primary star hosts two transiting terrestrial planets, discovered by TESS in 2019 & 2021, and a likely third non-transiting planet discovered in 2022.
 "F366FA3F-858A-6E39-3004-6A41E4696C67" = "LTT 1445 is a triple star system consisting of three red dwarfs, 22.39 light-years away in the constellation Eridanus. The primary star hosts two transiting terrestrial planets, discovered by TESS in 2019 & 2021, and a likely third non-transiting planet discovered in 2022.";
+
+// English: HD 290327 is a Sun-like star about 184.36 light-years away in the constellation Orion. A large superjovian planet about 2.54 times more massive than Jupiter orbits its star at a distance of 3.15 AU completing one revolution once every 6.7 years
+"F37EB4ED-3538-4EE1-BCA3-1DB3553EC767" = "HD 290327 is a Sun-like star about 184.36 light-years away in the constellation Orion. A large superjovian planet about 2.54 times more massive than Jupiter orbits its star at a distance of 3.15 AU completing one revolution once every 6.7 years";
 
 // English: TOI-2076 is a K-type star located about 136.59 lightyears from the solar system. The star has 3 warm Neptune-like planets orbiting within 0.2 AU (b= 2.518 Re, c= 3.497 Re, 3.232 Re). planets b and c exhibit TTVs and are near a 2:1 MMR, However, the model of said TTVs was not accurate enough to derive planet masses, and with no RV measurements, none of the planet's accurate masses are known.
 "F3B3D4C7-655A-4750-8EB1-9EAEB37A53EA" = "TOI-2076 is a K-type star located about 136.59 lightyears from the solar system. The star has 3 warm Neptune-like planets orbiting within 0.2 AU (b= 2.518 Re, c= 3.497 Re, 3.232 Re). planets b and c exhibit TTVs and are near a 2:1 MMR, However, the model of said TTVs was not accurate enough to derive planet masses, and with no RV measurements, none of the planet's accurate masses are known.";
