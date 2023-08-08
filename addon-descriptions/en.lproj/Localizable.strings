@@ -214,6 +214,9 @@
 // English: OGLE-2016-BLG-1266L is a distant Y-type brown dwarf about 10,046 light-years away in the constellation Sagittarius. A  massive superjovian planet or another low-end brown dwarf was spotted accompanying this object through microlensing
 "0CC5432B-2762-4A51-BA37-9CF613973811" = "OGLE-2016-BLG-1266L is a distant Y-type brown dwarf about 10,046 light-years away in the constellation Sagittarius. A  massive superjovian planet or another low-end brown dwarf was spotted accompanying this object through microlensing";
 
+// English: HIP 5158, also known as CD-23 395, is a K-type main sequence star about 168.56 light-years away in the constellation Cetus. It has two confirmed superjovian planets, where one of which might actually be a low-end brown dwarf due to its mass (15 times that of Jupiter)
+"0D4654F7-666C-4E04-AE9B-2A898973F908" = "HIP 5158, also known as CD-23 395, is a K-type main sequence star about 168.56 light-years away in the constellation Cetus. It has two confirmed superjovian planets, where one of which might actually be a low-end brown dwarf due to its mass (15 times that of Jupiter)";
+
 // English: MN 102 is a WC-type star surrounded by a nebula about 11,036 light-years away in the constellation Aquila
 "0DA580D4-03BD-4409-B356-0866472F3301" = "MN 102 is a WC-type star surrounded by a nebula about 11,036 light-years away in the constellation Aquila";
 
