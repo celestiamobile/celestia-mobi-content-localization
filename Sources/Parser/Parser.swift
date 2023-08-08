@@ -49,10 +49,10 @@ public class Parser {
         for language in languages {
             guard language != ".DS_Store" else { continue }
             let languagePath = (path as NSString).appendingPathComponent(language)
-            let idFilePath = (languagePath as NSString).appendingPathComponent("id.txt").trimmingCharacters(in: .whitespacesAndNewlines)
+            let idFilePath = (languagePath as NSString).appendingPathComponent("id.txt")
             let dataFilePath = (languagePath as NSString).appendingPathComponent("data.html")
             if FileManager.default.fileExists(atPath: idFilePath) {
-                let id = try String(contentsOfFile: idFilePath, encoding: .utf8)
+                let id = try String(contentsOfFile: idFilePath, encoding: .utf8).trimmingCharacters(in: .whitespacesAndNewlines).uppercased()
                 existingResults[language] = (id, try Data(contentsOf: URL(fileURLWithPath: dataFilePath)))
             } else {
                 newResults[language] = try Data(contentsOf: URL(fileURLWithPath: dataFilePath))
@@ -118,7 +118,7 @@ public class Parser {
             for (language, languageData) in localizedData {
                 let languageDirectory = (idDirectory as NSString).appendingPathComponent(language)
                 try fileManager.createDirectory(atPath: languageDirectory, withIntermediateDirectories: true)
-                let idFilePath = (languageDirectory as NSString).appendingPathComponent("id.txt").trimmingCharacters(in: .whitespacesAndNewlines)
+                let idFilePath = (languageDirectory as NSString).appendingPathComponent("id.txt")
                 let dataFilePath = (languageDirectory as NSString).appendingPathComponent("data.html")
                 guard let idData = languageData.id.data(using: .utf8) else {
                     throw ParserError.stringConversion
