@@ -125,7 +125,8 @@ public class CloudKitHandler {
     public func uploadDataChanges(dataById: [String: Data], dataKey: String) async throws {
         let db = CKContainer.default().publicCloudDatabase
         let recordResults = try await db.records(for: dataById.keys.map { CKRecord.ID(recordName: $0) }, desiredKeys: [dataKey])
-        let modifiedRecords = [CKRecord]()
+        print("Fetching original records...")
+        var modifiedRecords = [CKRecord]()
         for (id, recordResult) in recordResults {
             switch recordResult {
             case .success(let record):
@@ -133,15 +134,17 @@ public class CloudKitHandler {
                     throw CloudKitHandlerError.dataMissing
                 }
                 record[dataKey] = data
+                modifiedRecords.append(record)
             case .failure(let error):
                 throw error
             }
         }
+        print("Saving records...")
         let saveResults = try await db.modifyRecords(saving: modifiedRecords, deleting: [], savePolicy: .changedKeys).saveResults
         for (_, recordResult) in saveResults {
             switch recordResult {
             case .success:
-                break
+                continue
             case .failure(let error):
                 throw error
             }
@@ -209,7 +212,7 @@ public class CloudKitHandler {
             for (_, recordResult) in saveResults {
                 switch recordResult {
                 case .success:
-                    break
+                    continue
                 case .failure(let error):
                     throw error
                 }
