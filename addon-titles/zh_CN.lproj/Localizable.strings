@@ -1654,6 +1654,9 @@
 // English: TESS
 //"631E3B82-A021-93B1-C4AB-2C7B0427BDC2" = "TESS";
 
+// English: S235 complex
+//"636EE4DE-0435-4F13-B941-99854BE175A5" = "S235 complex";
+
 // English: Gaia
 //"637C7269-05CA-CB05-4ADF-8BC5AD5B72A0" = "Gaia";
 
@@ -2517,6 +2520,9 @@
 
 // English: Epsilon Aurigae
 //"97FFA160-ED1B-CD3E-6FA6-0F81FA3CFB90" = "Epsilon Aurigae";
+
+// English: Ou 2 and Ou 5
+//"9817492A-8739-4CD8-AD45-DE1E2E1B1C99" = "Ou 2 and Ou 5";
 
 // English: Leo P
 //"98206552-0163-4BE2-B431-595F33BD017F" = "Leo P";
@@ -3508,6 +3514,9 @@
 // English: WD 0806-661
 //"D1EB6480-6320-42A7-9842-C1785FB4F41C" = "WD 0806-661";
 
+// English: Tribble Nebulae
+//"D2597E6B-FC82-4F8D-B1C3-9152460EC36E" = "Tribble Nebulae";
+
 // English: Kepler-25
 //"D259A003-79E9-3077-D409-503F75BE6BAA" = "Kepler-25";
 
@@ -4077,6 +4086,9 @@
 
 // English: Helios 1 and 2
 //"F4DB14FD-5AF0-64BB-747F-096B44C3D60E" = "Helios 1 and 2";
+
+// English: ppp-GAMSCHIIR patches
+//"F4ED5A92-3086-48E6-8B70-BA8EC18DA657" = "ppp-GAMSCHIIR patches";
 
 // English: Coruscant
 //"F55E2350-0051-44BA-8471-D7F68B1E1300" = "Coruscant";
