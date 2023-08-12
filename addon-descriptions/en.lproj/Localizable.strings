@@ -466,6 +466,9 @@
 // English: 11P Tempel–Swift–LINEAR is a periodic comet of the Jupiter family. The comet was first seen by Wilhelm Tempel in November 1869, and later by Lewis A. Swift in October 1880. After 1908, it became a lost unobservable comet, but in December 2001 the LINEAR project was able to find it again the comet.
 "1D334C27-F66D-C20E-0115-AE94733A42B9" = "11P Tempel–Swift–LINEAR is a periodic comet of the Jupiter family. The comet was first seen by Wilhelm Tempel in November 1869, and later by Lewis A. Swift in October 1880. After 1908, it became a lost unobservable comet, but in December 2001 the LINEAR project was able to find it again the comet.";
 
+// English: Gliese 49 is a red dwarf located about 32.12 lightyears from the solar system, forming a wide binary with Gliese 51. Gliese 49 is host to a warm mini-Neptune mass planet (b= 5.63 Me) the completes an orbit around every two weeks.
+"1D48B542-CBB4-4E6F-AC06-FB14E046113A" = "Gliese 49 is a red dwarf located about 32.12 lightyears from the solar system, forming a wide binary with Gliese 51. Gliese 49 is host to a warm mini-Neptune mass planet (b= 5.63 Me) the completes an orbit around every two weeks.";
+
 // English: ICESat-2 is a NASA satellite for measuring ice sheet elevation and sea ice thickness, as well as land topography, vegetation characteristics, and clouds. It was launched on September 15, 2018. In 2022, this satellite remains active.
 "1D605F6C-1B15-5B52-4FDD-51B6D182D156" = "ICESat-2 is a NASA satellite for measuring ice sheet elevation and sea ice thickness, as well as land topography, vegetation characteristics, and clouds. It was launched on September 15, 2018. In 2022, this satellite remains active.";
 
@@ -2350,8 +2353,8 @@
 // English: ISA Bluestar. Must have B5-1. Converted from an original Lightwave Model by Kier Darby.
 "90E93749-3A89-4657-BC1E-917A93174CD2" = "ISA Bluestar. Must have B5-1. Converted from an original Lightwave Model by Kier Darby.";
 
-// English: 75 Ceti is a binary star system of a G-type giant star and a K-type main sequence star about 271.2 light-years away in the constellation Cetus. The larger star of the two has a gas giant about 3 times more massive than Jupiter, and at one point there were detected signals for two additional planets that turned out to be false positives
-"90F63D7A-6305-4F9E-BB7A-0F8FF3B9EF8D" = "75 Ceti is a binary star system of a G-type giant star and a K-type main sequence star about 271.2 light-years away in the constellation Cetus. The larger star of the two has a gas giant about 3 times more massive than Jupiter, and at one point there were detected signals for two additional planets that turned out to be false positives";
+// English: 75 Ceti is a binary star system of a G-type giant star and a K-type main sequence star about 271 light-years away in the constellation Cetus. The larger star of the two has two gas giant planets, about 2.5 and 0.9 times the mass of Jupiter respectively. A third detected signal was found to be an alias of planet c.
+"90F63D7A-6305-4F9E-BB7A-0F8FF3B9EF8D" = "75 Ceti is a binary star system of a G-type giant star and a K-type main sequence star about 271 light-years away in the constellation Cetus. The larger star of the two has two gas giant planets, about 2.5 and 0.9 times the mass of Jupiter respectively. A third detected signal was found to be an alias of planet c.";
 
 // English: Gliese 229 is a nearby binary star system of a red dwarf star and a brown dwarf about 18.79 light-years away in the constellation Lepus. Two mini-neptunes are spotted orbiting the primary red dwarf star at a distance of 0.4-0.95 AU away from their host
 "90F7F5A6-258E-4188-A223-C512D8F3EFB5" = "Gliese 229 is a nearby binary star system of a red dwarf star and a brown dwarf about 18.79 light-years away in the constellation Lepus. Two mini-neptunes are spotted orbiting the primary red dwarf star at a distance of 0.4-0.95 AU away from their host";
