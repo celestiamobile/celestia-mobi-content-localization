@@ -4000,8 +4000,8 @@
 // English: The Communications/Navigation Outage Forecasting System (C/NOFS) satellite was an USAF mission to investigate and forecast scintillations in the Earth's ionosphere. It was launched by an Orbital Sciences Corporation Pegasus-XL launch vehicle at 2008-Apr-16 and decayed on 2015-Nov-28
 "F02273ED-CBC2-419F-B68B-0B220E90D0A8" = "The Communications/Navigation Outage Forecasting System (C/NOFS) satellite was an USAF mission to investigate and forecast scintillations in the Earth's ionosphere. It was launched by an Orbital Sciences Corporation Pegasus-XL launch vehicle at 2008-Apr-16 and decayed on 2015-Nov-28";
 
-// English: The Shuttle Tyderium. NOTE: This add-on requires the Tatooine, Endor and Death Star add-on!
-"F051214A-6C9E-620C-F48B-E93B1D0D696F" = "The Shuttle Tyderium. NOTE: This add-on requires the Tatooine, Endor and Death Star add-on!";
+// English: Shuttle Tydirium, a stolen Lambda-class T-4a Imperial shuttle, in orbit above Endor
+"F051214A-6C9E-620C-F48B-E93B1D0D696F" = "Shuttle Tydirium, a stolen Lambda-class T-4a Imperial shuttle, in orbit above Endor";
 
 // English: HATS-72, also known as WASP-191 and TOI-294, is a K-type main sequence star about 417.67 light-years away in the constellation Aquarius. A gas giant planet slightly smaller than Saturn completes an single orbit once every 7.33 days at a distance of 9.87 million km from its parent star
 "F05A8DD6-70C3-49CB-90D8-E79EF01C05A1" = "HATS-72, also known as WASP-191 and TOI-294, is a K-type main sequence star about 417.67 light-years away in the constellation Aquarius. A gas giant planet slightly smaller than Saturn completes an single orbit once every 7.33 days at a distance of 9.87 million km from its parent star";
@@ -4009,8 +4009,8 @@
 // English: TOI-561 is an old Sun-like star about 280.52 light-years away in the constellation Sextans. Estimated to be about 10.5 billion years old, its system of four (or possibly five) planets is one of the oldest planetary systems ever discovered
 "F081BDCE-C053-4244-84FC-89C6C5DFD0DD" = "TOI-561 is an old Sun-like star about 280.52 light-years away in the constellation Sextans. Estimated to be about 10.5 billion years old, its system of four (or possibly five) planets is one of the oldest planetary systems ever discovered";
 
-// English: The X-Wing Fighter is placed into orbit around the first Death Star from the Tatooine, Endor and Death Star add-on.\nNOTE: This add-on requires the Tatooine, Endor and Death Star add-on!
-"F095FCD9-D9D8-4FBA-B2CE-26FDD5CB0568" = "The X-Wing Fighter is placed into orbit around the first Death Star from the Tatooine, Endor and Death Star add-on.\nNOTE: This add-on requires the Tatooine, Endor and Death Star add-on!";
+// English: Luke Skywalker's T-65B (X-Wing) fighter doing a trench run above the first Death Star
+"F095FCD9-D9D8-4FBA-B2CE-26FDD5CB0568" = "Luke Skywalker's T-65B (X-Wing) fighter doing a trench run above the first Death Star";
 
 // English: Kepler-1442, also known as KOI-3220, is an F-type main sequence star about 2,020 light-years away in the constellation Cygnus. A single neptunian planet is orbiting at a distance of 0.37 AU from its parent star, where in 2020 was speculated to harbor a superterran-mass satellite, but since deemed unlikely to exist according to follow-up studies
 "F098C618-1B2E-4EC0-BEB2-D3F3CE9E1AB6" = "Kepler-1442, also known as KOI-3220, is an F-type main sequence star about 2,020 light-years away in the constellation Cygnus. A single neptunian planet is orbiting at a distance of 0.37 AU from its parent star, where in 2020 was speculated to harbor a superterran-mass satellite, but since deemed unlikely to exist according to follow-up studies";
@@ -4024,8 +4024,8 @@
 // English: The Corvette is placed into orbit around the planet Tatooine from the Tatooine, Endor and Death Star add-on.\nNOTE: This add-on requires the Tatooine, Endor and Death Star add-on!
 "F0CCEB03-99A3-C821-8C40-85687C8825EA" = "The Corvette is placed into orbit around the planet Tatooine from the Tatooine, Endor and Death Star add-on.\nNOTE: This add-on requires the Tatooine, Endor and Death Star add-on!";
 
-// English: The Millenium Falcon. NOTE: This add-on requires the Tatooine, Endor and Death Star add-on!
-"F0FF25C4-CD08-51E4-D92E-5A15201E06B9" = "The Millenium Falcon. NOTE: This add-on requires the Tatooine, Endor and Death Star add-on!";
+// English: The Millennium Falcon in orbit above Tatooine
+"F0FF25C4-CD08-51E4-D92E-5A15201E06B9" = "The Millennium Falcon in orbit above Tatooine";
 
 // English: K2-138 is a K-type main sequence star located about 660.44 lightyears from the solar system. the star hosts a series of planets: one super-Earth (b= 1.49 Re, 3.10 Me) and five mini-Neptunes (c= 2.299 Re, 6.31 Me | d= 2.39 Re, 7.92 Me | e= 3.39 Re, 12.97 Me | f= 2.904 Re, 1.63 Me | g= 3.013 Re, 4.32 Me). all of the five inner planets of the system are either in or near a 3:2 resonance with the planet in front of them. K2-138 g breaks this pattern by being further out than its companions
 "F10C2654-5AA1-4563-8826-95915DB0B685" = "K2-138 is a K-type main sequence star located about 660.44 lightyears from the solar system. the star hosts a series of planets: one super-Earth (b= 1.49 Re, 3.10 Me) and five mini-Neptunes (c= 2.299 Re, 6.31 Me | d= 2.39 Re, 7.92 Me | e= 3.39 Re, 12.97 Me | f= 2.904 Re, 1.63 Me | g= 3.013 Re, 4.32 Me). all of the five inner planets of the system are either in or near a 3:2 resonance with the planet in front of them. K2-138 g breaks this pattern by being further out than its companions";
