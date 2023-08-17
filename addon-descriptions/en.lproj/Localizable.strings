@@ -3538,6 +3538,9 @@
 // English: Iota Horologii is a Sun-like star about 56.51 light-years away in the constellation Horologium. Appearing as a fifth-magnitude star as seen from Earth, it has a planet about 6.7 times more massive than Jupiter, completing one orbit once every 307 days. It is one of the first exoplanets ever discovered, having been first confirmed in 1999
 "D2C9D07B-A865-4BF6-8A74-4045DEB34ED7" = "Iota Horologii is a Sun-like star about 56.51 light-years away in the constellation Horologium. Appearing as a fifth-magnitude star as seen from Earth, it has a planet about 6.7 times more massive than Jupiter, completing one orbit once every 307 days. It is one of the first exoplanets ever discovered, having been first confirmed in 1999";
 
+// English: The personal flagship of both Darth Revan and later Meetra Surik, the Ebon Hawk, in orbit around Tatooine
+"D33A6A18-54E2-4CC4-B7F8-DDBB4241F86A" = "The personal flagship of both Darth Revan and later Meetra Surik, the Ebon Hawk, in orbit around Tatooine";
+
 // English: TOI-2095 is an M-type main sequence star located about 136.72 lightyears from the solar system. Two potentially Venus-like super-Earths (b= 1.25 Re | c= 1.32 Re) are hosted by the star, with TOI-2095 c orbiting very close to the habitable zone. the masses of these planets haven't been accurately determined so only upper limits have been placed (b < 4.1 Me | c < 7.4 Me)
 "D3641F02-61F3-4FC9-96E1-6C766C20F186" = "TOI-2095 is an M-type main sequence star located about 136.72 lightyears from the solar system. Two potentially Venus-like super-Earths (b= 1.25 Re | c= 1.32 Re) are hosted by the star, with TOI-2095 c orbiting very close to the habitable zone. the masses of these planets haven't been accurately determined so only upper limits have been placed (b < 4.1 Me | c < 7.4 Me)";
 
@@ -4096,8 +4099,8 @@
 // English: LTT 1445 is a triple star system consisting of three red dwarfs, 22.39 light-years away in the constellation Eridanus. The primary star hosts two transiting terrestrial planets, discovered by TESS in 2019 & 2021, and a likely third non-transiting planet discovered in 2022.
 "F366FA3F-858A-6E39-3004-6A41E4696C67" = "LTT 1445 is a triple star system consisting of three red dwarfs, 22.39 light-years away in the constellation Eridanus. The primary star hosts two transiting terrestrial planets, discovered by TESS in 2019 & 2021, and a likely third non-transiting planet discovered in 2022.";
 
-// English: This addon adds the CIS' Lucrehulk-class battleship, or commonly called the Droid Control Ship. The model was converted from OBJ to CMOD by Anthony_B_Russo10, the model was originally posted to the Models Resource by ggcluk who ripped the model from Star Wars Battlefront 2. This addon requires the Tatooine, Endor, and Death Star addon to work.
-"F379EDB1-D3FC-471E-8755-DC1D1F4F7529" = "This addon adds the CIS' Lucrehulk-class battleship, or commonly called the Droid Control Ship. The model was converted from OBJ to CMOD by Anthony_B_Russo10, the model was originally posted to the Models Resource by ggcluk who ripped the model from Star Wars Battlefront 2. This addon requires the Tatooine, Endor, and Death Star addon to work.";
+// English: Two Lucrehulk-class Droid Control Ships of the Trade Federation, the Vuutun Paala and the Saak-ak, in orbit around Naboo
+"F379EDB1-D3FC-471E-8755-DC1D1F4F7529" = "Two Lucrehulk-class Droid Control Ships of the Trade Federation, the Vuutun Paala and the Saak-ak, in orbit around Naboo";
 
 // English: HD 290327 is a Sun-like star about 184.36 light-years away in the constellation Orion. A large superjovian planet about 2.54 times more massive than Jupiter orbits its star at a distance of 3.15 AU completing one revolution once every 6.7 years
 "F37EB4ED-3538-4EE1-BCA3-1DB3553EC767" = "HD 290327 is a Sun-like star about 184.36 light-years away in the constellation Orion. A large superjovian planet about 2.54 times more massive than Jupiter orbits its star at a distance of 3.15 AU completing one revolution once every 6.7 years";
