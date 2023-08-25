@@ -2860,6 +2860,9 @@
 // English: SpaceX Inspiration4
 "AB5659E6-B8E8-FF5D-709F-E5BF251A4D3D" = "SpaceX Inspiration4";
 
+// English: K2-96
+"AB68D37F-0CDE-4E4A-A5A4-C9B1C16934CD" = "K2-96";
+
 // English: SiriusSat-1 and 2
 "ABFCB733-6B8F-4AA0-9747-EDE666DDB0E5" = "SiriusSat-1 and 2";
 
@@ -3993,6 +3996,9 @@
 
 // English: Gliese 221 (Unconfirmed Planets)
 "EEB74F63-0036-4437-A97C-459BD32EBB3A" = "Gliese 221 (Unconfirmed Planets)";
+
+// English: TIC 279401253
+"EF0E825F-FEEB-4AA1-B5D9-00BB4321E53D" = "TIC 279401253";
 
 // English: Galileo
 "EF2551AE-DAE4-A3CA-8677-D9E978EDB06E" = "Galileo";
