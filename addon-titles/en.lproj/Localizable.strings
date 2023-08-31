@@ -4045,8 +4045,8 @@
 // English: German Orbital Weapon
 "F0C911A9-A64D-3B48-D968-0F5976A43345" = "German Orbital Weapon";
 
-// English: Corvette Frigate
-"F0CCEB03-99A3-C821-8C40-85687C8825EA" = "Corvette Frigate";
+// English: CR90 (Corvette Frigate)
+"F0CCEB03-99A3-C821-8C40-85687C8825EA" = "CR90 (Corvette Frigate)";
 
 // English: Millennium Falcon
 "F0FF25C4-CD08-51E4-D92E-5A15201E06B9" = "Millennium Falcon";
@@ -4078,8 +4078,8 @@
 // English: (2015 TB₁₄₅)
 "F1A9138A-42FC-4F3E-B8F8-70253C2CD148" = "(2015 TB₁₄₅)";
 
-// English: Star Destroyer
-"F1FC5C05-18C9-4DF0-B354-15B37050C954" = "Star Destroyer";
+// English: Star Destroyer (Imperial)
+"F1FC5C05-18C9-4DF0-B354-15B37050C954" = "Star Destroyer (Imperial)";
 
 // English: 2MASS J04414489+2301513
 "F263DB30-1CBB-4FBF-A7B3-EE52C87F3088" = "2MASS J04414489+2301513";
