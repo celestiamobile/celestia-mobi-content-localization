@@ -4135,6 +4135,9 @@
 // English: This adds the planet Coruscant around Jestr's Star.
 "F55E2350-0051-44BA-8471-D7F68B1E1300" = "This adds the planet Coruscant around Jestr's Star.";
 
+// English: Darth Malak's personal flagship, a Sith Interdictor called the Leviathan, in orbit above Coruscant
+"F5630AC4-CC1E-46AD-B731-FA70CAB92185" = "Darth Malak's personal flagship, a Sith Interdictor called the Leviathan, in orbit above Coruscant";
+
 // English: Kepler-493, also known as KOI-208 and TOI-6001, is an F-type main sequence star about 5,447 light-years away in the constellation Cygnus. A very hot Jupiter-sized planet was found completing a 3-day orbit at a distance of 6.5 million km from its star
 "F569F8A4-7E1D-4569-9704-B2B2819749FE" = "Kepler-493, also known as KOI-208 and TOI-6001, is an F-type main sequence star about 5,447 light-years away in the constellation Cygnus. A very hot Jupiter-sized planet was found completing a 3-day orbit at a distance of 6.5 million km from its star";
 
