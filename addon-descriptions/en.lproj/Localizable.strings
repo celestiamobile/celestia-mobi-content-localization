@@ -2464,6 +2464,9 @@
 // English: Dynamic add-on testing 
 "94C88086-0F67-F172-8C14-957BEB20846D" = "Dynamic add-on testing ";
 
+// English: TOI-270, aka L 231-32, is a red dwarf located about 73.2848 lightyears from the solar system, it's orbited by three planets: a low-density super-Earth and two mini-Neptunes. TOI-270's planets have a small series of resonant orbits (b:c = 5:3 | c:d = 2:1). Additionally, TOI-270 d likely has a hydrogen rich atmosphere with it's strongest single light absorber likely being water, as revealed via a transit observation with Hubble.
+"94CB8523-B2D1-476D-990A-36EA0D0B8507" = "TOI-270, aka L 231-32, is a red dwarf located about 73.2848 lightyears from the solar system, it's orbited by three planets: a low-density super-Earth and two mini-Neptunes. TOI-270's planets have a small series of resonant orbits (b:c = 5:3 | c:d = 2:1). Additionally, TOI-270 d likely has a hydrogen rich atmosphere with it's strongest single light absorber likely being water, as revealed via a transit observation with Hubble.";
+
 // English: WASP-41, also known as TOI-780, is a Sun-like star about 533 light-years away in the constellation Centaurus. Two planets larger than Jupiter were discovered, one of which completes an orbit at a distance of 5.8 million km and the other at 1.03 AU (roughly the same distance as Earth to the Sun)
 "95621A22-89FF-4A48-BD35-538B4441435A" = "WASP-41, also known as TOI-780, is a Sun-like star about 533 light-years away in the constellation Centaurus. Two planets larger than Jupiter were discovered, one of which completes an orbit at a distance of 5.8 million km and the other at 1.03 AU (roughly the same distance as Earth to the Sun)";
 
@@ -3258,6 +3261,9 @@
 
 // English: HIP 41378, also known as K2-93, is an F-type star about 346 light-years away in the constellation Cancer. It hosts a system of five transiting planets discovered in 2016, and likely a sixth, non-transiting, planet. The outermost planet, HIP 41378 f, appears unusually large given its mass. While this may just indicate a very low density, it could also be evidence of a ring system, as depicted in this addon.
 "C2DA0105-0C17-42BA-A5AB-AEFBE8735804" = "HIP 41378, also known as K2-93, is an F-type star about 346 light-years away in the constellation Cancer. It hosts a system of five transiting planets discovered in 2016, and likely a sixth, non-transiting, planet. The outermost planet, HIP 41378 f, appears unusually large given its mass. While this may just indicate a very low density, it could also be evidence of a ring system, as depicted in this addon.";
+
+// English: TOI-332 is a K-type main sequence star located about 731.26 lightyears from the solar system. a single, hot, Neptune sized rocky planet with over half the mass of Saturn orbits this star in just under 19 hours
+"C2EA08BF-3C66-4106-A5D4-F9B417D233CE" = "TOI-332 is a K-type main sequence star located about 731.26 lightyears from the solar system. a single, hot, Neptune sized rocky planet with over half the mass of Saturn orbits this star in just under 19 hours";
 
 // English: NGC 1512 is an SBa-type barred spiral galaxy about 30 million light-years away in the constellation Horologium. The galaxy displays a double ring structure, with a (nuclear) ring around the galactic nucleus and an (inner) further out in the main disk. It also hosts an extended UV disc with at least 200 clusters with recent star formation activity
 "C3089E7A-004F-A81D-238D-7C0DE5B13057" = "NGC 1512 is an SBa-type barred spiral galaxy about 30 million light-years away in the constellation Horologium. The galaxy displays a double ring structure, with a (nuclear) ring around the galactic nucleus and an (inner) further out in the main disk. It also hosts an extended UV disc with at least 200 clusters with recent star formation activity";

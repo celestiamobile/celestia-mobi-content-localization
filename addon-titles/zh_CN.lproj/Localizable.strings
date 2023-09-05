@@ -2131,8 +2131,8 @@
 // English: HD 44179 (Red Rectangle Nebula)
 //"8347E0D9-CE2B-4798-930A-C3D113E9B26D" = "HD 44179 (Red Rectangle Nebula)";
 
-// English: Vega (Unconfirmed Planet)
-//"83869C1A-F009-41FB-9372-3691FE531919" = "Vega (Unconfirmed Planet)";
+// English: Vega b
+//"83869C1A-F009-41FB-9372-3691FE531919" = "Vega b";
 
 // English: B5-1: Epsilon Eridani
 //"83968548-846E-E452-60E5-EE8B1A123867" = "B5-1: Epsilon Eridani";
@@ -2464,6 +2464,9 @@
 // English: ISS (Dynamic)
 //"94C88086-0F67-F172-8C14-957BEB20846D" = "ISS (Dynamic)";
 
+// English: TOI-270
+//"94CB8523-B2D1-476D-990A-36EA0D0B8507" = "TOI-270";
+
 // English: WASP-41
 //"95621A22-89FF-4A48-BD35-538B4441435A" = "WASP-41";
 
@@ -2764,8 +2767,8 @@
 // English: TOI-220
 //"A59818FE-D0D0-4FD5-A432-F2CED977D9FC" = "TOI-220";
 
-// English: Kepler-105 (Unconfirmed Planet)
-//"A59C4E2C-7AE8-4A76-B0B9-533187F1B5FA" = "Kepler-105 (Unconfirmed Planet)";
+// English: Kepler-105 d
+//"A59C4E2C-7AE8-4A76-B0B9-533187F1B5FA" = "Kepler-105 d";
 
 // English: Ulysses
 //"A5B9FF27-B8E4-130C-182A-3917EFE3C566" = "Ulysses";
@@ -2983,8 +2986,8 @@
 // English: KELT-8
 //"B2B16D9F-404B-4CFF-BABB-2270C36CC40F" = "KELT-8";
 
-// English: Kepler-371 (Unconfirmed Planet)
-//"B33FC891-B7CD-4F76-9BA7-C87DA3BEAD2F" = "Kepler-371 (Unconfirmed Planet)";
+// English: Kepler-371 d
+//"B33FC891-B7CD-4F76-9BA7-C87DA3BEAD2F" = "Kepler-371 d";
 
 // English: Wind
 //"B382DD0E-213E-D034-ECD3-B613FD9DA0C7" = "Wind";
@@ -3258,6 +3261,9 @@
 
 // English: HIP 41378
 //"C2DA0105-0C17-42BA-A5AB-AEFBE8735804" = "HIP 41378";
+
+// English: TOI-332
+//"C2EA08BF-3C66-4106-A5D4-F9B417D233CE" = "TOI-332";
 
 // English: NGC 1512
 //"C3089E7A-004F-A81D-238D-7C0DE5B13057" = "NGC 1512";
