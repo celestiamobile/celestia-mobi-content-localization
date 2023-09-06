@@ -319,6 +319,9 @@
 // English: Tyche is a gas giant planet that was theorized to exist about 15,000 AU from the Sun, effectively orbiting inside the Oort Cloud. This was first theorized by Dr. John Matese, et. al., of the University of Louisiana at Lafayette in 1999, arguing that its gravitational influence is responsible for long-period comets coming towards the inner Solar System. Observations by the WISE Observatory in 2014 rules out a Jupiter-sized object out to 26,000 AU, thus indicating Tyche does not truly exist\n(NOTE: This is an entirely different object from Planet Nine, which was first proposed by Mike Brown in 2016, a full two years after Tyche was disproven)
 "12A6D98F-EE9E-1872-B282-949A6FCD4359" = "Tyche is a gas giant planet that was theorized to exist about 15,000 AU from the Sun, effectively orbiting inside the Oort Cloud. This was first theorized by Dr. John Matese, et. al., of the University of Louisiana at Lafayette in 1999, arguing that its gravitational influence is responsible for long-period comets coming towards the inner Solar System. Observations by the WISE Observatory in 2014 rules out a Jupiter-sized object out to 26,000 AU, thus indicating Tyche does not truly exist\n(NOTE: This is an entirely different object from Planet Nine, which was first proposed by Mike Brown in 2016, a full two years after Tyche was disproven)";
 
+// English: This adds the planet Hoth around Jestr's Star
+"12DF76D8-7C06-4B0A-9380-2504BC9719D9" = "This adds the planet Hoth around Jestr's Star";
+
 // English: An ultraviolet map of Venus' clouds based on images from the Akatsuki space probe.
 "1310C0AE-150C-5D38-3F15-072A2F5B2098" = "An ultraviolet map of Venus' clouds based on images from the Akatsuki space probe.";
 
@@ -876,6 +879,9 @@
 
 // English: This addon adds an alternative texture of the planet Jupiter in infrared.
 "348330EE-3591-A3E8-7CBD-D57A87CC6A14" = "This addon adds an alternative texture of the planet Jupiter in infrared.";
+
+// English: This adds the planet Kamino around Jestr's Star
+"3505390D-F441-4D72-B539-9381F5184A82" = "This adds the planet Kamino around Jestr's Star";
 
 // English: This addon adds a fictional Earth-like moon to TOI-2257 b\n\nNOTES\n- An add-on for TOI-2257 is recommended to get the full effect, but it's not required
 "351C6C97-7C6A-4193-8243-15449FFA87A9" = "This addon adds a fictional Earth-like moon to TOI-2257 b\n\nNOTES\n- An add-on for TOI-2257 is recommended to get the full effect, but it's not required";
