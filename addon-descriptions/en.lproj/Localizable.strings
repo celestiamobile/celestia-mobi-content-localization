@@ -34,8 +34,8 @@
 // English: Kepler-1746, also known as KOI-1375, is an F-type subgiant star about 3,287 light-years away in the constellation Lyra. A single neptunian planet is orbiting at a distance of 0.88 AU from its parent star
 "023BE6B8-69F3-44D1-88DC-E14968E9A467" = "Kepler-1746, also known as KOI-1375, is an F-type subgiant star about 3,287 light-years away in the constellation Lyra. A single neptunian planet is orbiting at a distance of 0.88 AU from its parent star";
 
-// English: Kepler-29, also known as KOI-738, is an Sun-like star about 2,778 light-years away in the constellation Cygnus. Two neptunian planets were discovered completing 10 and 13-day orbits respectively around this star
-"024C9CC8-8D70-47DD-910F-68EFA76368CE" = "Kepler-29, also known as KOI-738, is an Sun-like star about 2,778 light-years away in the constellation Cygnus. Two neptunian planets were discovered completing 10 and 13-day orbits respectively around this star";
+// English: Kepler-29 is a G-type main sequence star located about 2778.4 lightyears from the solar system. Two low density mini-Neptunes accompany this star.
+"024C9CC8-8D70-47DD-910F-68EFA76368CE" = "Kepler-29 is a G-type main sequence star located about 2778.4 lightyears from the solar system. Two low density mini-Neptunes accompany this star.";
 
 // English: Jones-Emberson 1 (PK 164+31.1), also known as the Headphone Nebula, is a 14th magnitude planetary nebula in the constellation Lynx at a distance of 1,600 light years. The 16.8-magnitude central star is a very blue white dwarf
 "02B1F10B-AA6D-688F-1C35-6D90223E5AC7" = "Jones-Emberson 1 (PK 164+31.1), also known as the Headphone Nebula, is a 14th magnitude planetary nebula in the constellation Lynx at a distance of 1,600 light years. The 16.8-magnitude central star is a very blue white dwarf";
@@ -592,6 +592,9 @@
 // English: This add-on modifies Celestia so that Blue Venus is displayed in place of the actual Venus textures. This addon was also updated in 2022 to feature a MIE defined atmosphere over its original atmosphere.
 "2592FCEC-29C1-4A4B-ADE9-CAD4594EE5AC" = "This add-on modifies Celestia so that Blue Venus is displayed in place of the actual Venus textures. This addon was also updated in 2022 to feature a MIE defined atmosphere over its original atmosphere.";
 
+// English: Romulus was the homeworld of the Romulans located in Sector Z-6 in the Beta Quadrant, alongside its co-orbiting planet, Remus. Both were destroyed when their parent star went supernova in 2387
+"25BDD024-A0EC-4EF3-8294-FA2894CC2978" = "Romulus was the homeworld of the Romulans located in Sector Z-6 in the Beta Quadrant, alongside its co-orbiting planet, Remus. Both were destroyed when their parent star went supernova in 2387";
+
 // English: Gliese 785, also known as HD 192310, is a K-type star about 28.74 light-years away in the constellation Capricornus. It hosts two Neptunian planets, discovered in 2010 & 2011.
 "25CBDACA-495B-425E-93DE-AAB1857C32D3" = "Gliese 785, also known as HD 192310, is a K-type star about 28.74 light-years away in the constellation Capricornus. It hosts two Neptunian planets, discovered in 2010 & 2011.";
 
@@ -1144,8 +1147,8 @@
 // English: This add-on adds over 77300 stars, 29 open clusters, and 38 globular clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.
 "42D26A52-CA95-D59C-06C6-16E653D1196B" = "This add-on adds over 77300 stars, 29 open clusters, and 38 globular clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.";
 
-// English: Kepler-28, also known as KOI-870, is a red dwarf star about 1,448 light-years away in the constellation Cygnus. Two hot neptunians in a compact 2:1 resonant orbits with each other were discovered just less than 0.1 AU from their host star
-"436B3112-B767-4B6A-91F0-4142AE40EE87" = "Kepler-28, also known as KOI-870, is a red dwarf star about 1,448 light-years away in the constellation Cygnus. Two hot neptunians in a compact 2:1 resonant orbits with each other were discovered just less than 0.1 AU from their host star";
+// English: Kepler-28 is an M-type main sequence star located about 1447.85 lightyears from the solar system. Two warm mini-Neptunes orbit this star.
+"436B3112-B767-4B6A-91F0-4142AE40EE87" = "Kepler-28 is an M-type main sequence star located about 1447.85 lightyears from the solar system. Two warm mini-Neptunes orbit this star.";
 
 // English: This add-on adds a realistic, fully 3D model of the planetary nebula Abell 3. Abell 3 is poorly studied, but it is known to be roughly barrel-shaped. Therefore, the model is consistent with available data and astrophotographs.
 "4395B462-5695-DB17-5A27-896F640DB8B7" = "This add-on adds a realistic, fully 3D model of the planetary nebula Abell 3. Abell 3 is poorly studied, but it is known to be roughly barrel-shaped. Therefore, the model is consistent with available data and astrophotographs.";
