@@ -265,8 +265,8 @@
 // English: This add-on places the Borg and the Voyager in orbit around the star Vega. Once there, you can use Celestia's built-in Solar System Browser under the Navigation menu to locate various objects. The Enterprises are located in orbit around the Earth, and the Deep Space 9 objects are located in orbit around the star Alsafi.\nUpdated in 2022 to added updated atmospheres to improve the planets looks due to addon age and replaced Vega 1's texture with a unique textures as opposed to reusing the Neptune texture.
 "0F742A7F-5571-92FF-2D9A-6C0DACD79827" = "This add-on places the Borg and the Voyager in orbit around the star Vega. Once there, you can use Celestia's built-in Solar System Browser under the Navigation menu to locate various objects. The Enterprises are located in orbit around the Earth, and the Deep Space 9 objects are located in orbit around the star Alsafi.\nUpdated in 2022 to added updated atmospheres to improve the planets looks due to addon age and replaced Vega 1's texture with a unique textures as opposed to reusing the Neptune texture.";
 
-// English: Kepler-44, also known as KOI-204, is a G-type subgiant star about 4,009 light-years away in the constellation Cygnus. A superjovian planet completes an orbit once every 3.25 days at a distance of 6.67 million km from its star
-"101AA9DD-4A5E-44F9-999F-7CBDA9F1C95A" = "Kepler-44, also known as KOI-204, is a G-type subgiant star about 4,009 light-years away in the constellation Cygnus. A superjovian planet completes an orbit once every 3.25 days at a distance of 6.67 million km from its star";
+// English: Kepler-44, aka KOI-204, is a G-type subgiant star located about 4008.80 lightyears from the solar system. this old star has a single hot super-Jupiter that revolves around it every 3.25 days.
+"101AA9DD-4A5E-44F9-999F-7CBDA9F1C95A" = "Kepler-44, aka KOI-204, is a G-type subgiant star located about 4008.80 lightyears from the solar system. this old star has a single hot super-Jupiter that revolves around it every 3.25 days.";
 
 // English: This addon adds a new high quality texture to our Moon. Taken directly from Celestia Origin.
 "10214FE4-EC97-F166-B7E8-5376CC2C137A" = "This addon adds a new high quality texture to our Moon. Taken directly from Celestia Origin.";
@@ -1458,6 +1458,9 @@
 
 // English: (208996) 2003 AZ₈₄ is an elongated 940-km trans-Neptunian object that crosses the orbit of Neptune (plutino). It is the third largest plutino after Pluto itself and Orcus. One unconfirmed satellite might be orbiting 2003 AZ₈₄
 "556141CD-2B4A-BDD4-2970-B696676760E7" = "(208996) 2003 AZ₈₄ is an elongated 940-km trans-Neptunian object that crosses the orbit of Neptune (plutino). It is the third largest plutino after Pluto itself and Orcus. One unconfirmed satellite might be orbiting 2003 AZ₈₄";
+
+// English: NGTS-1, also known as TOI-511, is a red dwarf star about 730.59 light-years away in the constellation Columba. A large gas giant but only about 80% the mass of Jupiter was discovered orbiting this star in 2017
+"55658AB3-D207-45C4-8E54-81737558C814" = "NGTS-1, also known as TOI-511, is a red dwarf star about 730.59 light-years away in the constellation Columba. A large gas giant but only about 80% the mass of Jupiter was discovered orbiting this star in 2017";
 
 // English: PSR J1939+2134 is one of the fastest millisecond pulsars ever discovered, located about 11,415 light-years away in the constellation Vulpecula. In 2020, possible signals of a Moon-sized planetary companion were detected, but its existence is not yet fully confirmed (as of 2023)
 "5573B16A-3B58-41D3-83C9-8B058D752969" = "PSR J1939+2134 is one of the fastest millisecond pulsars ever discovered, located about 11,415 light-years away in the constellation Vulpecula. In 2020, possible signals of a Moon-sized planetary companion were detected, but its existence is not yet fully confirmed (as of 2023)";
