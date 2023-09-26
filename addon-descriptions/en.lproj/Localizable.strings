@@ -796,6 +796,9 @@
 // English: TOI-1246 f (TOI-1246.05) is the outmost planet candidate of TOI-1246, the candidate itself was found within the RV data of TOI-1246 and has an estimated mass of 25.6 Me.\n\nNOTE: an existing TOI-1246 addon must be installed in order to have this addon work properly
 "2FD40FAD-8B26-4A61-8354-A0537BD33B79" = "TOI-1246 f (TOI-1246.05) is the outmost planet candidate of TOI-1246, the candidate itself was found within the RV data of TOI-1246 and has an estimated mass of 25.6 Me.\n\nNOTE: an existing TOI-1246 addon must be installed in order to have this addon work properly";
 
+// English: 26P/Grigg-Skjellerup is a periodic comet that was visited by the Giotto spacecraft in July 1992, but was unable to photograph the comet due to its camera destroyed during the Halley encounter in 1986
+"2FD52B47-4FF4-4417-8B3F-6A79ED34C40B" = "26P/Grigg-Skjellerup is a periodic comet that was visited by the Giotto spacecraft in July 1992, but was unable to photograph the comet due to its camera destroyed during the Halley encounter in 1986";
+
 // English: Envisat is a European satellite dedicated in Earth observation, which operated from 2002-2012. A major malfunction in 2012-Apr-9 rendered the spacecraft inoperable and as of 2022 is now a huge piece of space debris in LEO
 "2FD5C65A-5FA8-AA17-E077-0719D8C29CBE" = "Envisat is a European satellite dedicated in Earth observation, which operated from 2002-2012. A major malfunction in 2012-Apr-9 rendered the spacecraft inoperable and as of 2022 is now a huge piece of space debris in LEO";
 
