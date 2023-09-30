@@ -1054,6 +1054,9 @@
 // English: IC 466
 //"3C68812E-8928-427E-8DB1-85438DD306DB" = "IC 466";
 
+// English: NGTS-8
+//"3CB87490-9401-415D-BE97-3E32C4D4C4FF" = "NGTS-8";
+
 // English: Nozomi
 //"3CCCE8B6-A85A-F70B-729F-C0E059BEAF52" = "Nozomi";
 
@@ -3492,6 +3495,9 @@
 
 // English: Kepler-1000
 //"CAE912EF-B1BC-C348-DC94-01190F3F01CC" = "Kepler-1000";
+
+// English: Kepler-87 (Unconfirmed Planets)
+//"CAF1AAA3-434D-4609-999F-CB3D77AAF219" = "Kepler-87 (Unconfirmed Planets)";
 
 // English: 28978 Ixion
 //"CB7416CB-04BC-7497-97AE-FC3EF3EFFB67" = "28978 Ixion";
