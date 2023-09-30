@@ -28,8 +28,8 @@
 // English: NGC 4361 is a planetary nebula about light-years in the constellation Corvus. Its central star is a very young and extremely hot Wolf-Rayet star only about ~1,230 years old and temperatures reaching 270,000 K, one of the hottest non-neutron stars ever known
 "01DDAAC2-D609-8216-1F38-96C33F0328A5" = "NGC 4361 is a planetary nebula about light-years in the constellation Corvus. Its central star is a very young and extremely hot Wolf-Rayet star only about ~1,230 years old and temperatures reaching 270,000 K, one of the hottest non-neutron stars ever known";
 
-// English: Kepler-10 is a Sun-like star about 608±3 light-years away in the constellation Draco. It has two confirmed planets orbiting, with the one closest to its star is the very first rocky planet ever discovered by the Kepler Space Telescope.
-"01F369EF-14D0-B83F-A8FA-313D31AF0262" = "Kepler-10 is a Sun-like star about 608±3 light-years away in the constellation Draco. It has two confirmed planets orbiting, with the one closest to its star is the very first rocky planet ever discovered by the Kepler Space Telescope.";
+// English: Kepler-10, aka KOI-72 and TOI-5988, is a G-type main sequence star located about 608.3 lightyears from the solar system. the star hosts three semi-spread out planets: a hot super-Earth, a dense mini-Neptune (depicted here as a super-Earth) and a Neptune mass planet. Kepler-10 b was the first rocky planet discovered outside of the solar system.
+"01F369EF-14D0-B83F-A8FA-313D31AF0262" = "Kepler-10, aka KOI-72 and TOI-5988, is a G-type main sequence star located about 608.3 lightyears from the solar system. the star hosts three semi-spread out planets: a hot super-Earth, a dense mini-Neptune (depicted here as a super-Earth) and a Neptune mass planet. Kepler-10 b was the first rocky planet discovered outside of the solar system.";
 
 // English: Kepler-1746, also known as KOI-1375, is an F-type subgiant star about 3,287 light-years away in the constellation Lyra. A single neptunian planet is orbiting at a distance of 0.88 AU from its parent star
 "023BE6B8-69F3-44D1-88DC-E14968E9A467" = "Kepler-1746, also known as KOI-1375, is an F-type subgiant star about 3,287 light-years away in the constellation Lyra. A single neptunian planet is orbiting at a distance of 0.88 AU from its parent star";
@@ -724,6 +724,9 @@
 // English: 9 Metis is a large S-type asteroid in the asteroid belt. It was discovered in April 1848 by Andrew Graham.\nNOTE: Not to be confused with Jupiter's moon Metis.
 "2BAB955A-C0D4-6E86-8E8E-29281DCECA55" = "9 Metis is a large S-type asteroid in the asteroid belt. It was discovered in April 1848 by Andrew Graham.\nNOTE: Not to be confused with Jupiter's moon Metis.";
 
+// English: HD 13189 has a spectral classification of K1II-III. The atmosphere of the star displays short period radial velocity variations with a primary period of 4.89 days. This behavior is typical for giant K-type stars such as this and it is not the result of a close-orbit planetary companion. HD 13189 b is an exoplanet or brown dwarf with mass ranges from 8 to 20 Jupiter mass. This object is located at a mean distance of 1.85 AU from the star, taking 472 days to make one elliptical orbit.
+"2BAE8976-567E-488D-B8A6-69BA748A8636" = "HD 13189 has a spectral classification of K1II-III. The atmosphere of the star displays short period radial velocity variations with a primary period of 4.89 days. This behavior is typical for giant K-type stars such as this and it is not the result of a close-orbit planetary companion. HD 13189 b is an exoplanet or brown dwarf with mass ranges from 8 to 20 Jupiter mass. This object is located at a mean distance of 1.85 AU from the star, taking 472 days to make one elliptical orbit.";
+
 // English: Lunar Flashlight is a small 6U-cubesat designed to orbit the Moon around NRHO and study water deposits on its lunar south pole. It was launched alongside Hakuto-R1 on December 11, 2022. However, its engines were severely underperforming to the point it cannot reach the Moon entirely. The mission was abandoned on May 12, 2023 and is now on its way into heliocentric orbit instead
 "2BBE1977-89E9-47EC-B893-93CFD28D8079" = "Lunar Flashlight is a small 6U-cubesat designed to orbit the Moon around NRHO and study water deposits on its lunar south pole. It was launched alongside Hakuto-R1 on December 11, 2022. However, its engines were severely underperforming to the point it cannot reach the Moon entirely. The mission was abandoned on May 12, 2023 and is now on its way into heliocentric orbit instead";
 
@@ -948,6 +951,9 @@
 
 // English: LTT 9779, also known as TOI-193, is a Sun-like star about 262.96 light-years away in the constellation Sculptor. It has one known subjovian planet, in addition to another unconfirmed candidate of the same composition. Both the star and its first known planet will receive formal names by the end of the third NameExoWorlds campaign on April 2023
 "36EE8D3E-C3D7-433F-9834-CF25A1E7B625" = "LTT 9779, also known as TOI-193, is a Sun-like star about 262.96 light-years away in the constellation Sculptor. It has one known subjovian planet, in addition to another unconfirmed candidate of the same composition. Both the star and its first known planet will receive formal names by the end of the third NameExoWorlds campaign on April 2023";
+
+// English: Gliese 463 is a red dwarf star of spectral type M and is known to be orbited by a massive gas giant planet, with a mass 3.6 times that of Jupiter and a semi-major axis of 3.53AU, which takes 9.44 years to complete one orbit.
+"370442BA-EEB7-4B6E-AB55-8B0C972FE619" = "Gliese 463 is a red dwarf star of spectral type M and is known to be orbited by a massive gas giant planet, with a mass 3.6 times that of Jupiter and a semi-major axis of 3.53AU, which takes 9.44 years to complete one orbit.";
 
 // English: OGLE-2016-BLG-1195L is an ultracool red dwarf or brown dwarf about 12,752 light-years away in the constellation Sagittarius. A single cold terran planet is detected via gravitational microlensing
 "3720BAC0-0072-F953-371B-D3CC1ED9DB31" = "OGLE-2016-BLG-1195L is an ultracool red dwarf or brown dwarf about 12,752 light-years away in the constellation Sagittarius. A single cold terran planet is detected via gravitational microlensing";
@@ -1602,6 +1608,9 @@
 
 // English: C/2020 F3 (NEOWISE) is the 15th comet discovered by the NEOWISE mission. It is a long-period comet that completes its orbit once every 6,700 years. Peaking at magnitude +0.5, it is the brightest comet in the northern hemisphere since Hale-Bopp (1997) and remained visible in the naked eye throughout July 2020.
 "5EA9E221-C937-D96C-1016-C501F89E91E2" = "C/2020 F3 (NEOWISE) is the 15th comet discovered by the NEOWISE mission. It is a long-period comet that completes its orbit once every 6,700 years. Peaking at magnitude +0.5, it is the brightest comet in the northern hemisphere since Hale-Bopp (1997) and remained visible in the naked eye throughout July 2020.";
+
+// English: Kepler-418 is a spectral type G2 star located 3,365.55 light-years from Earth, and as of September 2023, two gas giant planets have been detected in its orbit
+"5EC9EED9-90A7-4F91-B3CF-ACF3A6CE40AB" = "Kepler-418 is a spectral type G2 star located 3,365.55 light-years from Earth, and as of September 2023, two gas giant planets have been detected in its orbit";
 
 // English: The Van Allen Probes (VAP), formerly known as the Radiation Belt Storm Probes (RBSP), were two NASA robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth. Understanding the radiation belt environment and its variability has practical applications in the areas of spacecraft operations, spacecraft system design, mission planning and astronaut safety. The probes were launched on a single Atlas V rocket on 2012-Aug-30 and operated for seven years. Both spacecraft were deactivated in 2019 when they ran out of fuel and are are expected to deorbit sometime in the 2030s.
 "5F6DB3D8-E801-2540-08EB-3A35A6A1851D" = "The Van Allen Probes (VAP), formerly known as the Radiation Belt Storm Probes (RBSP), were two NASA robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth. Understanding the radiation belt environment and its variability has practical applications in the areas of spacecraft operations, spacecraft system design, mission planning and astronaut safety. The probes were launched on a single Atlas V rocket on 2012-Aug-30 and operated for seven years. Both spacecraft were deactivated in 2019 when they ran out of fuel and are are expected to deorbit sometime in the 2030s.";
@@ -2626,8 +2635,8 @@
 // English: Kepler-1560, also known as KOI-4160, is a Sun-like star about 1,663 light-years away in the constellation Cygnus. A planet about 96% the size of Venus is only about 5.9 million km away from its star in an orbit lasting 3.02 days, which most likely covered its surface in molten magma
 "9AA03299-A7E3-40AD-A117-69D3A2E35A64" = "Kepler-1560, also known as KOI-4160, is a Sun-like star about 1,663 light-years away in the constellation Cygnus. A planet about 96% the size of Venus is only about 5.9 million km away from its star in an orbit lasting 3.02 days, which most likely covered its surface in molten magma";
 
-// English: Kepler-84, also known as KOI-1589, is a large F-type main sequence star about 4,082 light-years away in the constellation Cygnus. A total of five planets (three superterrans and two neptunians) were found orbiting this star
-"9AA53251-6518-45A4-A0E8-B1E62A14F42E" = "Kepler-84, also known as KOI-1589, is a large F-type main sequence star about 4,082 light-years away in the constellation Cygnus. A total of five planets (three superterrans and two neptunians) were found orbiting this star";
+// English: Kepler-84, aka KOI-1589, is an F-type main sequence star located about 4082.05 lightyears from the solar system. this star possesses a compact system of planets comprised of one super-Earth and four mini-Neptunes.
+"9AA53251-6518-45A4-A0E8-B1E62A14F42E" = "Kepler-84, aka KOI-1589, is an F-type main sequence star located about 4082.05 lightyears from the solar system. this star possesses a compact system of planets comprised of one super-Earth and four mini-Neptunes.";
 
 // English: CWISEP J1935-1546 is a massive rogue planet or low-end brown dwarf that is discovered in 2019 through direct imaging. It is located about light-years away in the constellation 
 "9AACC256-08F8-4CA1-A718-913A940AFDD8" = "CWISEP J1935-1546 is a massive rogue planet or low-end brown dwarf that is discovered in 2019 through direct imaging. It is located about light-years away in the constellation ";
@@ -2926,6 +2935,9 @@
 // English: 4179 Toutatis, is an elongated, near-Earth, stony asteroid of the Apollo/Alinda group approximately 4.26 kilometers in diameter. Discovered in 1989, it was visited by the Chang'e 2 spacecraft on 2012-Dec-13 at a distance of 3.2 km, making it the closest asteroid flyby ever attempted so far
 "AC15579A-55DA-44D4-97CD-5A8C366A5782" = "4179 Toutatis, is an elongated, near-Earth, stony asteroid of the Apollo/Alinda group approximately 4.26 kilometers in diameter. Discovered in 1989, it was visited by the Chang'e 2 spacecraft on 2012-Dec-13 at a distance of 3.2 km, making it the closest asteroid flyby ever attempted so far";
 
+// English: Kepler-58 is 3,213 light-years away and has four planets already discovered around it
+"AC2C5C5C-D271-473E-A0CD-C36AA2188BCA" = "Kepler-58 is 3,213 light-years away and has four planets already discovered around it";
+
 // English: 2002 VE₆₈ is an asteroid that is considered a temporary quasi-satellite of Venus. It was discovered on November 11, 2002. It was the first quasi-satellite discovered in the Solar System.
 "AC5146DF-B209-4D71-90F9-02B28567CEE0" = "2002 VE₆₈ is an asteroid that is considered a temporary quasi-satellite of Venus. It was discovered on November 11, 2002. It was the first quasi-satellite discovered in the Solar System.";
 
@@ -3114,6 +3126,9 @@
 
 // English: Medical Frigate from ESBA. NOTE: This add-on requires the Tatooine, Endor and Death Staradd-on!
 "B89F1A6A-ADCA-755D-9352-8B9D0924FF5F" = "Medical Frigate from ESBA. NOTE: This add-on requires the Tatooine, Endor and Death Staradd-on!";
+
+// English: HD 152843 is a spectral type G0 star about 352 light-years away, with two Neptune-sized objects orbiting it
+"B8E65D48-D667-4DDE-B92A-AD5CF816B974" = "HD 152843 is a spectral type G0 star about 352 light-years away, with two Neptune-sized objects orbiting it";
 
 // English: 612901 (2004 XP₁₄) is a sub-kilometer potentially hazardous asteroid of the Apollo group that made a close encounter with Earth at a distance of 432,000 km on July 3, 2006. Its size is not precisely known, but optical/radar observations put it in a range between 260-800 m in diameter
 "B90148B1-6121-4AB6-B202-76B478FEAD74" = "612901 (2004 XP₁₄) is a sub-kilometer potentially hazardous asteroid of the Apollo group that made a close encounter with Earth at a distance of 432,000 km on July 3, 2006. Its size is not precisely known, but optical/radar observations put it in a range between 260-800 m in diameter";
@@ -3375,6 +3390,9 @@
 
 // English: 13 Puppis, also known as HD 66141, is a K-type giant star about 254 light-years away in the constellation Canis Minor. A planet larger than Jupiter orbits its star at a distance of 1.17 AU, comparable to the distance of the Earth to the Sun
 "C5E24789-9FD2-4F6C-90DE-89196135987C" = "13 Puppis, also known as HD 66141, is a K-type giant star about 254 light-years away in the constellation Canis Minor. A planet larger than Jupiter orbits its star at a distance of 1.17 AU, comparable to the distance of the Earth to the Sun";
+
+// English: L 34-26, also known as COCONUTS-2A and TYC 9381-1809-1, is a M3-type dwarf star located 35 light-years away, in the constellation of Chamaeleon. The star is about one-third the mass of the Sun, with an age between 150 and 800 million years old. With a mass of 6.3 Jupiters, it takes over one million years to complete one orbit around the star, and it is 7,506 AU away from it.
+"C644E444-0598-4308-9D02-9D23671C0157" = "L 34-26, also known as COCONUTS-2A and TYC 9381-1809-1, is a M3-type dwarf star located 35 light-years away, in the constellation of Chamaeleon. The star is about one-third the mass of the Sun, with an age between 150 and 800 million years old. With a mass of 6.3 Jupiters, it takes over one million years to complete one orbit around the star, and it is 7,506 AU away from it.";
 
 // English: Chang'e 3 was the first Chinese spacecraft to land on the Moon. Hours after touch down on 2013-Dec-14, it deployed the Yutu-1 rover, which managed to travel up to 100 m before becoming stationary and ceasing operations on 2016. The lander portion is reportedly still functioning (as of 2020), making it the longest lunar surface mission ever attempted in history
 "C6689586-6B93-A72C-4003-0A3F83141B9C" = "Chang'e 3 was the first Chinese spacecraft to land on the Moon. Hours after touch down on 2013-Dec-14, it deployed the Yutu-1 rover, which managed to travel up to 100 m before becoming stationary and ceasing operations on 2016. The lander portion is reportedly still functioning (as of 2020), making it the longest lunar surface mission ever attempted in history";
