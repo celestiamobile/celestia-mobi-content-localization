@@ -364,6 +364,9 @@
 // English: Sentinel-5P
 "167CEAB7-3115-4783-ADC2-633EA08319A0" = "Sentinel-5P";
 
+// English: Kepler-1321
+"16CBBB19-9E8B-4AE9-AA23-BB89B408F1EB" = "Kepler-1321";
+
 // English: HAT-P-8
 "16F166A5-95EE-476E-A6E8-7E17EC3E7E5C" = "HAT-P-8";
 
@@ -444,6 +447,9 @@
 
 // English: Hinode
 "1B9D1665-6A22-8A82-F0C6-B3CC63F9E213" = "Hinode";
+
+// English: GQ Lupi
+"1BCC44D2-D5C1-4427-8140-65D85BD39D74" = "GQ Lupi";
 
 // English: Buran
 "1BE2453B-69DB-06F7-B2EB-1A3F3E54AB7B" = "Buran";
@@ -1837,6 +1843,9 @@
 // English: James Webb Space Telescope
 "6D100C19-C902-3BCF-E9DC-81621177663D" = "James Webb Space Telescope";
 
+// English: Gliese 163
+"6D246200-3F52-4540-B291-A8DE5862401D" = "Gliese 163";
+
 // English: ExoMars (Rosalind Franklin)
 "6D5753D0-64DE-AFEE-DA54-345FDBA38D19" = "ExoMars (Rosalind Franklin)";
 
@@ -2731,6 +2740,9 @@
 // English: Neptune (2020)
 "A1325AD2-D38F-F888-DDB9-B6ED1409B97F" = "Neptune (2020)";
 
+// English: K2-17
+"A13DDD48-0401-49A2-BB17-61D837D725F5" = "K2-17";
+
 // English: Kepler-438
 "A16CA5CC-2A46-4756-1276-8AC2908193DC" = "Kepler-438";
 
@@ -2850,6 +2862,9 @@
 
 // English: Oberon (3D model)
 "A725A958-875B-6179-DF5C-925683C484A8" = "Oberon (3D model)";
+
+// English: Gliese 143
+"A7415F07-96AE-4A7C-9BF5-78A71E857403" = "Gliese 143";
 
 // English: Abell 39
 "A75CCEA3-E1EC-2793-4AEC-508B4D9A7A8B" = "Abell 39";
