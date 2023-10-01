@@ -3757,6 +3757,9 @@
 // English: 13 Egeria is a large G-type asteroid in the asteroid belt. It was discovered in November 1850 by Annibale de Gasparis. Egeria has about 10.5-11.5% water by mass, which makes it a candidate for future water mining ventures.
 "DA5AD666-E8D1-7166-D103-751BE3BB79C3" = "13 Egeria is a large G-type asteroid in the asteroid belt. It was discovered in November 1850 by Annibale de Gasparis. Egeria has about 10.5-11.5% water by mass, which makes it a candidate for future water mining ventures.";
 
+// English: The Soyuz spacecraft is a Soviet/Russian crewed spacecraft that were in active service since 1967. Originally built as part of the Soviet Manned Lunar Program, it was then redesigned as a shuttlecraft for LEO space stations starting in 1971. This addon covers the earliest Soyuz flights from 1966 to 1970, including test missions assigned with Cosmos designations
+"DA8F49AA-3498-4F09-9EF8-6661035346D0" = "The Soyuz spacecraft is a Soviet/Russian crewed spacecraft that were in active service since 1967. Originally built as part of the Soviet Manned Lunar Program, it was then redesigned as a shuttlecraft for LEO space stations starting in 1971. This addon covers the earliest Soyuz flights from 1966 to 1970, including test missions assigned with Cosmos designations";
+
 // English: Qatar-10, also known as TOI-1864 and Gaia-TROI-215, is an F-type main sequence star about 1,758 light-years away in the constellation Draco. A super-jovian planet with only 3/4 the mass of Jupiter completes an orbit once every 1.64 days at a distance of 4.08 million km from its star
 "DAA324A5-60F8-452E-9DEC-5CD2970996EC" = "Qatar-10, also known as TOI-1864 and Gaia-TROI-215, is an F-type main sequence star about 1,758 light-years away in the constellation Draco. A super-jovian planet with only 3/4 the mass of Jupiter completes an orbit once every 1.64 days at a distance of 4.08 million km from its star";
 
@@ -4047,6 +4050,9 @@
 
 // English: WASP-121, also known as TOI-495 and Gaia-TROI-121, is an F-type main sequence star about 887.19 light-years away in the constellation Puppis. A very large jovian planet completes a 1.28-day orbit around its star. Both objects will receive formal names along with 20 other systems upon the conclusion of the third NameExoWorlds campaign on April 2023
 "EAE2E44F-CB01-4370-AC16-632E5A5A9D5D" = "WASP-121, also known as TOI-495 and Gaia-TROI-121, is an F-type main sequence star about 887.19 light-years away in the constellation Puppis. A very large jovian planet completes a 1.28-day orbit around its star. Both objects will receive formal names along with 20 other systems upon the conclusion of the third NameExoWorlds campaign on April 2023";
+
+// English: Gliese 328 distance from Earth 66.99 light-years. A super Jupiter and a mini Neptune orbit it. The innermost planet Gliese 328 c, Which 21.4 times the size of Earth. Outermost planet Gliese 328 b mass is 3.2 times that of Jupiter
+"EB00A8A3-1299-459C-880C-49B575C43525" = "Gliese 328 distance from Earth 66.99 light-years. A super Jupiter and a mini Neptune orbit it. The innermost planet Gliese 328 c, Which 21.4 times the size of Earth. Outermost planet Gliese 328 b mass is 3.2 times that of Jupiter";
 
 // English: Kepler-97, also known as KOI-292, is a Sun-like star about 1,282 light-years away in the constellation Cygnus. Two planets, one cold jovian and the other a hot superterran or a mini-neptunian were found orbiting this star
 "EB357403-08D8-4E3E-80EB-51D76F430FE1" = "Kepler-97, also known as KOI-292, is a Sun-like star about 1,282 light-years away in the constellation Cygnus. Two planets, one cold jovian and the other a hot superterran or a mini-neptunian were found orbiting this star";
