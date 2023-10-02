@@ -976,6 +976,9 @@
 // English: IC 4406, also known as the Retina Nebula, is a planetary nebula about 7,766 light-years away near the western border of the constellation Lupus
 "37947896-02E1-4DAC-B47D-3EF7E096149C" = "IC 4406, also known as the Retina Nebula, is a planetary nebula about 7,766 light-years away near the western border of the constellation Lupus";
 
+// English: K2-116 is 161.3296 light-years away from Earth,It spectral type is K7V， and a Mars sized planet was discovered around this star in 2017，The orbital period of this star is only 4.65 days
+"37BED4F9-DE49-473A-AF11-13BE0A729197" = "K2-116 is 161.3296 light-years away from Earth,It spectral type is K7V， and a Mars sized planet was discovered around this star in 2017，The orbital period of this star is only 4.65 days";
+
 // English: ICESat is a NASA satellite for measuring ice sheet mass balance, cloud and aerosol heights, as well as land topography. It was launched on January 13, 2010 in a near-polar orbit around the Earth at an altitude of 600 km. The satellite was deactivated in February 2010.
 "37C41F40-9E2E-5715-4A1E-64BA75B49688" = "ICESat is a NASA satellite for measuring ice sheet mass balance, cloud and aerosol heights, as well as land topography. It was launched on January 13, 2010 in a near-polar orbit around the Earth at an altitude of 600 km. The satellite was deactivated in February 2010.";
 
@@ -1389,6 +1392,9 @@
 
 // English: Kepler-421, also known as KOI-1274, is a binary star system of a K-type main-sequence star and a Sun-like star about 1,124 light-years away in the constellation Lyra. The smaller orange star (component A) has a planet slightly larger than Uranus, but orbiting at a distance comparable to Earth's proximity to the Sun
 "4FE4C5F9-7810-4A53-9BBD-CB25DF429E7D" = "Kepler-421, also known as KOI-1274, is a binary star system of a K-type main-sequence star and a Sun-like star about 1,124 light-years away in the constellation Lyra. The smaller orange star (component A) has a planet slightly larger than Uranus, but orbiting at a distance comparable to Earth's proximity to the Sun";
+
+// English: HD 1502 is 626 light-years away from Earth,It spectral type is K0，HD 1502 b takes 428.5 days to complete a orbit， Both volume and mass are larger than Jupiter.
+"50078576-E589-4282-B1AF-103FE242CF0E" = "HD 1502 is 626 light-years away from Earth,It spectral type is K0，HD 1502 b takes 428.5 days to complete a orbit， Both volume and mass are larger than Jupiter.";
 
 // English: Kepler-1708 is an F-type main-sequence star about 5,692 light-years away in the constellation Cygnus. It is home to a super-Jovian planet where in 2021, analyses by David Kipping and his team detected signals of what could be a moon the size of Neptune, thus making it the second known exomoon ever discovered (after the similarly sized exomoon from Kepler-1625 in 2018)
 "5018AB8D-5C3F-C380-895A-EBAEABC6EE9A" = "Kepler-1708 is an F-type main-sequence star about 5,692 light-years away in the constellation Cygnus. It is home to a super-Jovian planet where in 2021, analyses by David Kipping and his team detected signals of what could be a moon the size of Neptune, thus making it the second known exomoon ever discovered (after the similarly sized exomoon from Kepler-1625 in 2018)";
@@ -2805,6 +2811,9 @@
 
 // English: Kepler-385, aka KOI-2433, is an f-type main sequence star located about 4670.31 lightyears from the solar system. the system has a minimum of 3 planets orbiting close to their host (c= 2.974 Re, 12.8 Me | b= 3.154 Re, 13.2 Me | d= 2.619 Re). planet d's mass is unknown currently. Additionally there are 3 other candidate planets still awaiting confirmation: two more mini-Neptunes and a super-Earth.
 "A403B304-9E2B-431D-B1B9-DDBD6C6B98AF" = "Kepler-385, aka KOI-2433, is an f-type main sequence star located about 4670.31 lightyears from the solar system. the system has a minimum of 3 planets orbiting close to their host (c= 2.974 Re, 12.8 Me | b= 3.154 Re, 13.2 Me | d= 2.619 Re). planet d's mass is unknown currently. Additionally there are 3 other candidate planets still awaiting confirmation: two more mini-Neptunes and a super-Earth.";
+
+// English: K2-89 is 281.413 light-years away from Earth, and a Mars sized planet was discovered around this star in 2016.
+"A4272D40-E5F6-430B-B1FD-864A866D2282" = "K2-89 is 281.413 light-years away from Earth, and a Mars sized planet was discovered around this star in 2016.";
 
 // English: Kepler-103, also known as KOI-108, is a large Sun-like star about 1,637 light-years away in the constellation Cygnus. It has two gas giants, both neptunian, with orbits ranging from 0.1 to 0.7 AU from their star
 "A436A8D4-D372-474B-BDE9-DC644DDC233B" = "Kepler-103, also known as KOI-108, is a large Sun-like star about 1,637 light-years away in the constellation Cygnus. It has two gas giants, both neptunian, with orbits ranging from 0.1 to 0.7 AU from their star";
