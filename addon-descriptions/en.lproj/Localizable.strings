@@ -1024,6 +1024,9 @@
 // English: KOI-7179 is a Sun-like star about 1,324 light-years away in the constellation Cygnus. A transit signal indicating the presence of one rocky planet was detected and if confirmed could be listed as a potentially habitable world
 "39CC42A5-DB68-4267-AE56-9EE041238A48" = "KOI-7179 is a Sun-like star about 1,324 light-years away in the constellation Cygnus. A transit signal indicating the presence of one rocky planet was detected and if confirmed could be listed as a potentially habitable world";
 
+// English: This additional component provides planets that have not been confirmed by the TOI-125 system.
+"39CF4B57-EF82-40C7-8F1F-840844AB14AE" = "This additional component provides planets that have not been confirmed by the TOI-125 system.";
+
 // English: q1 Eridani, also known as GJ 3109 and HR 506, is a young F-type main sequence star about 56.57 light-years away in the constellation Eridanus. A super-jovian planet was discovered around this star in 2003, in addition to two circumstellar debris disks that were first detected by the IRAS observatory in 1983
 "39D6FEAD-FBC8-46A6-9680-620AE91345CC" = "q1 Eridani, also known as GJ 3109 and HR 506, is a young F-type main sequence star about 56.57 light-years away in the constellation Eridanus. A super-jovian planet was discovered around this star in 2003, in addition to two circumstellar debris disks that were first detected by the IRAS observatory in 1983";
 
@@ -1287,6 +1290,9 @@
 
 // English: 13P/Olbers is a periodic Halley-type comet with an orbital period of 69.5 years. It was discovered in March 1815 by Heinrich Wilhelm Matthias Olbers. The comet's last perihelion occurred in 1956, and the next is expected to occur in June 2024.
 "49B340B3-A814-916D-27A5-B39AE7B500FA" = "13P/Olbers is a periodic Halley-type comet with an orbital period of 69.5 years. It was discovered in March 1815 by Heinrich Wilhelm Matthias Olbers. The comet's last perihelion occurred in 1956, and the next is expected to occur in June 2024.";
+
+// English: Kepler-97, while known to host a hot super-Earth, had claims of a super-Jupiter on a likely longer orbit that put the planet outside it's hosts outer habitable zone. However, a now withdrawn paper from 2023 claimed the planet did not exist and that it was a false positive.
+"49C90802-0CCB-45B9-9DD7-BCFD643D1B03" = "Kepler-97, while known to host a hot super-Earth, had claims of a super-Jupiter on a likely longer orbit that put the planet outside it's hosts outer habitable zone. However, a now withdrawn paper from 2023 claimed the planet did not exist and that it was a false positive.";
 
 // English: Earth Observing-1 (EO-1) is a NASA satellite created to develop and validate a number of instrument and spacecraft bus breakthrough technologies. It was intended to enable the development of future Earth imaging observatories that will have a significant increase in performance while also having reduced cost and mass. This satellite operated from 2000-2017, and is expected to burn up into the atmosphere sometime in 2056
 "49EDC367-491D-5FD9-390D-9056BED14F41" = "Earth Observing-1 (EO-1) is a NASA satellite created to develop and validate a number of instrument and spacecraft bus breakthrough technologies. It was intended to enable the development of future Earth imaging observatories that will have a significant increase in performance while also having reduced cost and mass. This satellite operated from 2000-2017, and is expected to burn up into the atmosphere sometime in 2056";
@@ -2203,6 +2209,9 @@
 // English: HD 44179, also known as the Red Rectangle Nebula, is a protoplanetary nebula about 2,316 light-years away in the constellation Monoceros. Discovered in 1973, it received its name because of its red color and unique rectangular shape
 "8347E0D9-CE2B-4798-930A-C3D113E9B26D" = "HD 44179, also known as the Red Rectangle Nebula, is a protoplanetary nebula about 2,316 light-years away in the constellation Monoceros. Discovered in 1973, it received its name because of its red color and unique rectangular shape";
 
+// English: TOI-736 is 86.9228 light-years away from Earth and is a star with a spectral type of M, surrounded by a mini Neptune and two super Earths.
+"8359D1B0-4CCC-4818-9D17-A1861879F454" = "TOI-736 is 86.9228 light-years away from Earth and is a star with a spectral type of M, surrounded by a mini Neptune and two super Earths.";
+
 // English: This addon depicts the unconfirmed neptunian planet around Vega, which the star has been actively searched for since 1983 but first detected in 2021.\n\nNOTE: The debris disk around Vega can be found in a separate addon posted in the \"Stars\" category
 "83869C1A-F009-41FB-9372-3691FE531919" = "This addon depicts the unconfirmed neptunian planet around Vega, which the star has been actively searched for since 1983 but first detected in 2021.\n\nNOTE: The debris disk around Vega can be found in a separate addon posted in the \"Stars\" category";
 
@@ -2344,8 +2353,8 @@
 // English: Luna 17 and Luna 21 were the two Soviet lunar landers that delivered the two Lunokhod rovers in 1971 and 1973. Originally designed to support the Soviet human Moon missions, they were repurposed for fully robotic explorations, the first ones to move on the surface of an extraterrestrial body. Although both lost contact with Earth at the end of their missions, the retroreflectors mounted on top of the rovers is still used to this day, primarily to precisely measure the distance of the Moon from the Earth.
 "8B108DA4-C0EC-C960-55D7-92C38381A291" = "Luna 17 and Luna 21 were the two Soviet lunar landers that delivered the two Lunokhod rovers in 1971 and 1973. Originally designed to support the Soviet human Moon missions, they were repurposed for fully robotic explorations, the first ones to move on the surface of an extraterrestrial body. Although both lost contact with Earth at the end of their missions, the retroreflectors mounted on top of the rovers is still used to this day, primarily to precisely measure the distance of the Moon from the Earth.";
 
-// English: Kepler-89, also known as KOI-94 and TOI-4581, is a binary star system of an F-type and K-type main sequence stars about 1,578 light-years away in the constellation Cygnus. The larger star of the two has a total of five large planets (three neptunians and one jovian) all orbiting within 0.3 AU from their host star, equivalent to the average distance of Mercury to the Sun
-"8B1AF3C7-C9E1-4DE8-818D-6E2C00E2E93F" = "Kepler-89, also known as KOI-94 and TOI-4581, is a binary star system of an F-type and K-type main sequence stars about 1,578 light-years away in the constellation Cygnus. The larger star of the two has a total of five large planets (three neptunians and one jovian) all orbiting within 0.3 AU from their host star, equivalent to the average distance of Mercury to the Sun";
+// English: Kepler-89, aka KOI-94 and TOI-4581, is a binary system comprised of an F-type main sequence star and a K-type main sequence star located about 1577.46 lightyears from the solar system. four planets orbit this star: a hot super-Earth, two Neptune sized planets, and a sub-Jupiter, with the outer three planet having low densities.
+"8B1AF3C7-C9E1-4DE8-818D-6E2C00E2E93F" = "Kepler-89, aka KOI-94 and TOI-4581, is a binary system comprised of an F-type main sequence star and a K-type main sequence star located about 1577.46 lightyears from the solar system. four planets orbit this star: a hot super-Earth, two Neptune sized planets, and a sub-Jupiter, with the outer three planet having low densities.";
 
 // English: [MPK2010b] 4450 is a rogue planet candidate discovered in 2010. Estimated to be between 2 or 3 Jupiter masses
 "8BB8B24D-2339-D0D7-3DC5-D7EB4100FD81" = "[MPK2010b] 4450 is a rogue planet candidate discovered in 2010. Estimated to be between 2 or 3 Jupiter masses";
@@ -4069,8 +4078,8 @@
 // English: Gliese 328 distance from Earth 66.99 light-years. A super Jupiter and a mini Neptune orbit it. The innermost planet Gliese 328 c, Which 21.4 times the size of Earth. Outermost planet Gliese 328 b mass is 3.2 times that of Jupiter
 "EB00A8A3-1299-459C-880C-49B575C43525" = "Gliese 328 distance from Earth 66.99 light-years. A super Jupiter and a mini Neptune orbit it. The innermost planet Gliese 328 c, Which 21.4 times the size of Earth. Outermost planet Gliese 328 b mass is 3.2 times that of Jupiter";
 
-// English: Kepler-97, also known as KOI-292, is a Sun-like star about 1,282 light-years away in the constellation Cygnus. Two planets, one cold jovian and the other a hot superterran or a mini-neptunian were found orbiting this star
-"EB357403-08D8-4E3E-80EB-51D76F430FE1" = "Kepler-97, also known as KOI-292, is a Sun-like star about 1,282 light-years away in the constellation Cygnus. Two planets, one cold jovian and the other a hot superterran or a mini-neptunian were found orbiting this star";
+// English: Kepler-97, aka KOI-292, is an G-type main sequence star located about 1322.83 lightyears from the solar system. a single hot super-Earth orbits this star every 2.59 days, one study suggested a long period super-Jupiter existed in this system, though a later paper claimed it was a false positive.
+"EB357403-08D8-4E3E-80EB-51D76F430FE1" = "Kepler-97, aka KOI-292, is an G-type main sequence star located about 1322.83 lightyears from the solar system. a single hot super-Earth orbits this star every 2.59 days, one study suggested a long period super-Jupiter existed in this system, though a later paper claimed it was a false positive.";
 
 // English: 588 Achilles is a large D-type asteroid, and a Jupiter trojan of the Greek camp. It was discovered by Max Wolf in February 1906, making it the first Jupiter Trojan discovered. The asteroid measures about 133 km (83 mi) in diameter.
 "EB82536A-1293-4F03-86BF-15FC07D14192" = "588 Achilles is a large D-type asteroid, and a Jupiter trojan of the Greek camp. It was discovered by Max Wolf in February 1906, making it the first Jupiter Trojan discovered. The asteroid measures about 133 km (83 mi) in diameter.";
@@ -4138,8 +4147,8 @@
 // English: NGC 2438 is a nebula located in the constellation of Puppis. It was discovered by William Herschel in 1786, and is located about 1,370 light-years away from Earth. It is a multi-layered nebula with a bright inner nebula.
 "EFBA33B4-C122-483F-90E6-E1C05FC94CA9" = "NGC 2438 is a nebula located in the constellation of Puppis. It was discovered by William Herschel in 1786, and is located about 1,370 light-years away from Earth. It is a multi-layered nebula with a bright inner nebula.";
 
-// English: Kepler-91 is a K-type subgiant star about 4,386 light-years away in the constellation Lyra. A gas giant larger than Jupiter completes an orbit once every 6.1 days, which is predicted to be destroyed by its dying host star in the next 55 million years
-"F015F6F7-1946-4027-AE39-6E74E2E09A78" = "Kepler-91 is a K-type subgiant star about 4,386 light-years away in the constellation Lyra. A gas giant larger than Jupiter completes an orbit once every 6.1 days, which is predicted to be destroyed by its dying host star in the next 55 million years";
+// English: Kepler-91, aka KOI-2133 and TOI-5995 is a K-type subgiant star located about 4385.59 lightyears from the solar system. a single low density ultra-hot Jupiter orbits this dying star. the planet is going to be consumed by it's host sometime in the next 55 million years
+"F015F6F7-1946-4027-AE39-6E74E2E09A78" = "Kepler-91, aka KOI-2133 and TOI-5995 is a K-type subgiant star located about 4385.59 lightyears from the solar system. a single low density ultra-hot Jupiter orbits this dying star. the planet is going to be consumed by it's host sometime in the next 55 million years";
 
 // English: The NASA X-38 is a lifting body prototype for the planned Crew Return Vehicle portion of the ISS to serve as a contingency escape pod for the station. It was cancelled in 2002 when it was determined that two Soyuz spacecraft docked at all times are enough to evacuate the entire station crew in an emergency
 "F01812BA-DC3D-469F-8798-1F58D579D1D5" = "The NASA X-38 is a lifting body prototype for the planned Crew Return Vehicle portion of the ISS to serve as a contingency escape pod for the station. It was cancelled in 2002 when it was determined that two Soyuz spacecraft docked at all times are enough to evacuate the entire station crew in an emergency";
@@ -4182,6 +4191,9 @@
 
 // English: Comet Hartley 2 is a Jupiter-family comet orbiting the Sun once every 6.46 years. The Deep Impact spacecraft was redirected to visit this comet in 2010 after its initial target, Comet Boethin, is declared lost.
 "F1345D0D-32F2-A5DB-24F1-EE28E33832F0" = "Comet Hartley 2 is a Jupiter-family comet orbiting the Sun once every 6.46 years. The Deep Impact spacecraft was redirected to visit this comet in 2010 after its initial target, Comet Boethin, is declared lost.";
+
+// English: TOI-125 is 363.164 light-years away from Earth. In 2019, three mini Neptune stars were discovered orbiting it, and this star also has an unidentified planet
+"F147BE9B-86FB-4800-8FEB-ECE81A0B1483" = "TOI-125 is 363.164 light-years away from Earth. In 2019, three mini Neptune stars were discovered orbiting it, and this star also has an unidentified planet";
 
 // English: K2-3, also known as TOI-5146, is a red dwarf star about 143.93 light-years away in the constellation Leo. It has three superterran planets, of which the outermost planet was once considered a potentially habitable world until it was removed from the catalog in 2021
 "F14BF05A-1CDA-4961-A037-E0E49F3ECEAC" = "K2-3, also known as TOI-5146, is a red dwarf star about 143.93 light-years away in the constellation Leo. It has three superterran planets, of which the outermost planet was once considered a potentially habitable world until it was removed from the catalog in 2021";

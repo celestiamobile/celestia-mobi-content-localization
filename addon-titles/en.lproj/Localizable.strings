@@ -1024,6 +1024,9 @@
 // English: KOI-7179
 "39CC42A5-DB68-4267-AE56-9EE041238A48" = "KOI-7179";
 
+// English: TOI-125（Unconfirmed planet）
+"39CF4B57-EF82-40C7-8F1F-840844AB14AE" = "TOI-125（Unconfirmed planet）";
+
 // English: q¹ Eridani
 "39D6FEAD-FBC8-46A6-9680-620AE91345CC" = "q¹ Eridani";
 
@@ -1287,6 +1290,9 @@
 
 // English: 13P/Olbers
 "49B340B3-A814-916D-27A5-B39AE7B500FA" = "13P/Olbers";
+
+// English: Kepler-97 (Unconfirmed Planet))
+"49C90802-0CCB-45B9-9DD7-BCFD643D1B03" = "Kepler-97 (Unconfirmed Planet))";
 
 // English: Earth Observing-1
 "49EDC367-491D-5FD9-390D-9056BED14F41" = "Earth Observing-1";
@@ -2202,6 +2208,9 @@
 
 // English: HD 44179 (Red Rectangle Nebula)
 "8347E0D9-CE2B-4798-930A-C3D113E9B26D" = "HD 44179 (Red Rectangle Nebula)";
+
+// English: TOI-736
+"8359D1B0-4CCC-4818-9D17-A1861879F454" = "TOI-736";
 
 // English: Vega b
 "83869C1A-F009-41FB-9372-3691FE531919" = "Vega b";
@@ -4182,6 +4191,9 @@
 
 // English: 103P/Hartley
 "F1345D0D-32F2-A5DB-24F1-EE28E33832F0" = "103P/Hartley";
+
+// English: TOI-125
+"F147BE9B-86FB-4800-8FEB-ECE81A0B1483" = "TOI-125";
 
 // English: K2-3
 "F14BF05A-1CDA-4961-A037-E0E49F3ECEAC" = "K2-3";
