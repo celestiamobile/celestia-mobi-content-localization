@@ -718,6 +718,9 @@
 // English: This addon adds a 2K texture in false color to the surface of Venus, with orange/yellow tones. Texture taken directly from the Solar System Scope website.
 "2B0BEAE8-26E1-4CEC-A82D-76650748F9C8" = "This addon adds a 2K texture in false color to the surface of Venus, with orange/yellow tones. Texture taken directly from the Solar System Scope website.";
 
+// English: PSR J0337+1715 is an unusual triple star system consisting of a pulsar and two white dwarfs about 4,240 light-years away in the constellation Taurus. In 2022, evidence for a small planet around 10% of Earth's mass were detected in a wide orbit surrounding all three stellar remnants of this system. As of 2023, its existence is yet to be confirmed by follow-up studies
+"2B2EE9BD-9173-49F7-A1C1-2928B98D6B71" = "PSR J0337+1715 is an unusual triple star system consisting of a pulsar and two white dwarfs about 4,240 light-years away in the constellation Taurus. In 2022, evidence for a small planet around 10% of Earth's mass were detected in a wide orbit surrounding all three stellar remnants of this system. As of 2023, its existence is yet to be confirmed by follow-up studies";
+
 // English: TOI-2257 is a red dwarf located about 185.9 light-years (57.79 PC) away from the solar system, the star hosts a mini-Neptune about 2.19 times larger than Earth, There are no mass measurements of this planet. The planet has a very high orbital eccentricity, which swings the planet in and out of its star's habitable zone.\n\nUpdate V1.1:\n\n-New Textures
 "2B7340F6-F400-4BD8-8E0A-931F505D6B96" = "TOI-2257 is a red dwarf located about 185.9 light-years (57.79 PC) away from the solar system, the star hosts a mini-Neptune about 2.19 times larger than Earth, There are no mass measurements of this planet. The planet has a very high orbital eccentricity, which swings the planet in and out of its star's habitable zone.\n\nUpdate V1.1:\n\n-New Textures";
 
@@ -2368,6 +2371,9 @@
 // English: KMT-2018-BLG-2119L is a distant red dwarf star about 24,201 light-years away in the constellation Sagittarius. Located within the Galactic Core, it has a superjovian planet about 12 times the mass of Jupiter that was discovered through microlensing
 "8C4008F3-44DA-4722-BBDD-AF543A15D88F" = "KMT-2018-BLG-2119L is a distant red dwarf star about 24,201 light-years away in the constellation Sagittarius. Located within the Galactic Core, it has a superjovian planet about 12 times the mass of Jupiter that was discovered through microlensing";
 
+// English: Kepler-413 is a binary star system of a K-type main sequence star and a red dwarf about 2,832 light-years away in the constellation Cygnus. Both stars are orbited by a warm neptunian planet about 66.74 times more massive than Earth
+"8C487C30-D3A3-41AF-9CDD-07D9EB7E6496" = "Kepler-413 is a binary star system of a K-type main sequence star and a red dwarf about 2,832 light-years away in the constellation Cygnus. Both stars are orbited by a warm neptunian planet about 66.74 times more massive than Earth";
+
 // English: XO-7, also known as TOI-1612, is a large Sun-like star about 754.71 light-years away in the constellation Draco. It has two superjovian planets detected, but only the innermost planet's existence is confirmed as of 2022
 "8C4C64D2-402B-4082-9F16-4922B9D1E1BB" = "XO-7, also known as TOI-1612, is a large Sun-like star about 754.71 light-years away in the constellation Draco. It has two superjovian planets detected, but only the innermost planet's existence is confirmed as of 2022";
 
@@ -3523,6 +3529,9 @@
 // English: Kepler-87, while known to two giants, has two much small candidates, a super-Earth and a mini-Neptune on short period orbits
 "CAF1AAA3-434D-4609-999F-CB3D77AAF219" = "Kepler-87, while known to two giants, has two much small candidates, a super-Earth and a mini-Neptune on short period orbits";
 
+// English: Kepler-93, also known as KOI-69 and TOI-5979, is a Sun-like star about 313.69 light-years away in the constellation Lyra. It has one known superterran planet orbiting very close to its star, likely covered in a global ocean of molten magma
+"CB71763C-8DB9-44FC-BF60-C5E0A1725890" = "Kepler-93, also known as KOI-69 and TOI-5979, is a Sun-like star about 313.69 light-years away in the constellation Lyra. It has one known superterran planet orbiting very close to its star, likely covered in a global ocean of molten magma";
+
 // English: Ixion is a large 2:3 resonant Kuiper Belt object (plutino) about 617 km in diameter. Little is known about this object, as its mass and density are uncertain in part due to a lack of even a single moon
 "CB7416CB-04BC-7497-97AE-FC3EF3EFFB67" = "Ixion is a large 2:3 resonant Kuiper Belt object (plutino) about 617 km in diameter. Little is known about this object, as its mass and density are uncertain in part due to a lack of even a single moon";
 
@@ -3924,6 +3933,9 @@
 
 // English: HD 163607 is a G-type subgiant star about 221.52 light-years away in the constellation Draco. In 2010, two gas giants were discovered via radial velocity, with the outermost planet being twice the mass of Jupiter
 "E1127A46-AF03-4B45-BA50-632431B183FB" = "HD 163607 is a G-type subgiant star about 221.52 light-years away in the constellation Draco. In 2010, two gas giants were discovered via radial velocity, with the outermost planet being twice the mass of Jupiter";
+
+// English: Kepler-395, also known as KOI-2650, is an F-type main sequence star about 1,391 light-years away in the constellation Cygnus. Two rocky planets were found orbiting in close proximity to their star
+"E11CAAF9-33C3-4D11-98B7-3C122F41AAEE" = "Kepler-395, also known as KOI-2650, is an F-type main sequence star about 1,391 light-years away in the constellation Cygnus. Two rocky planets were found orbiting in close proximity to their star";
 
 // English: Gliese 876 is a red dwarf about 15.24 light-years away in the constellation Aquarius. A total of four planets (one superterran, one neptunian, and two super-Jovians) are found orbiting within 0.4 au from this star
 "E13198AE-6428-391C-432A-4998675C9A20" = "Gliese 876 is a red dwarf about 15.24 light-years away in the constellation Aquarius. A total of four planets (one superterran, one neptunian, and two super-Jovians) are found orbiting within 0.4 au from this star";

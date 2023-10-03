@@ -718,6 +718,9 @@
 // English: Venus Surface Map (Solar System Scope)
 //"2B0BEAE8-26E1-4CEC-A82D-76650748F9C8" = "Venus Surface Map (Solar System Scope)";
 
+// English: PSR J0337+1715
+//"2B2EE9BD-9173-49F7-A1C1-2928B98D6B71" = "PSR J0337+1715";
+
 // English: TOI-2257
 //"2B7340F6-F400-4BD8-8E0A-931F505D6B96" = "TOI-2257";
 
@@ -2368,6 +2371,9 @@
 // English: KMT-2018-BLG-2119L
 //"8C4008F3-44DA-4722-BBDD-AF543A15D88F" = "KMT-2018-BLG-2119L";
 
+// English: Kepler-413
+//"8C487C30-D3A3-41AF-9CDD-07D9EB7E6496" = "Kepler-413";
+
 // English: XO-7
 //"8C4C64D2-402B-4082-9F16-4922B9D1E1BB" = "XO-7";
 
@@ -3523,6 +3529,9 @@
 // English: Kepler-87 (Unconfirmed Planets)
 //"CAF1AAA3-434D-4609-999F-CB3D77AAF219" = "Kepler-87 (Unconfirmed Planets)";
 
+// English: Kepler-93
+//"CB71763C-8DB9-44FC-BF60-C5E0A1725890" = "Kepler-93";
+
 // English: 28978 Ixion
 //"CB7416CB-04BC-7497-97AE-FC3EF3EFFB67" = "28978 Ixion";
 
@@ -3924,6 +3933,9 @@
 
 // English: HD 163607
 //"E1127A46-AF03-4B45-BA50-632431B183FB" = "HD 163607";
+
+// English: Kepler-395
+//"E11CAAF9-33C3-4D11-98B7-3C122F41AAEE" = "Kepler-395";
 
 // English: Gliese 876
 //"E13198AE-6428-391C-432A-4998675C9A20" = "Gliese 876";
