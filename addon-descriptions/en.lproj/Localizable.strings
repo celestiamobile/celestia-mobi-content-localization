@@ -1321,6 +1321,9 @@
 // English: Kepler-1656, also known as TOI-4584, is a Sun-like star about 609.51 light-years away in the constellation Lyra. It has two gas giant planets (one neptunian and one saturnian) both circling in wild eccentric orbits
 "4AEA9FC8-FC1F-42A5-A37A-3800E4F5CAAB" = "Kepler-1656, also known as TOI-4584, is a Sun-like star about 609.51 light-years away in the constellation Lyra. It has two gas giant planets (one neptunian and one saturnian) both circling in wild eccentric orbits";
 
+// English: Gliese 265 is 74.538 light-years away from Earth and is surrounded by a gas giant planet. The mass of this planet is only 83% that of Jupiter.
+"4B1D67EF-5968-463B-88EF-A104A787375B" = "Gliese 265 is 74.538 light-years away from Earth and is surrounded by a gas giant planet. The mass of this planet is only 83% that of Jupiter.";
+
 // English: WASP-17, also known as Dìwö, is an F-type main-sequence star about 1,339 light-years away in the constellation Scorpio. Ditsö̀, the large gas giant planet orbiting its parent star once every 3.7 days, is one of the largest known exoplanets ever discovered
 "4B26BAD4-48AE-9B64-11B5-51F029AE254A" = "WASP-17, also known as Dìwö, is an F-type main-sequence star about 1,339 light-years away in the constellation Scorpio. Ditsö̀, the large gas giant planet orbiting its parent star once every 3.7 days, is one of the largest known exoplanets ever discovered";
 
@@ -3019,6 +3022,9 @@
 // English: GJ 1002 is a nearby red dwarf star only 15.81 light-years away in the constellation Cetus. It has two rocky planets, one of which is currently considered as a potentially habitable world (as of 2022)
 "ADCC9FCA-1BB5-458A-B08A-FFDC92F5E580" = "GJ 1002 is a nearby red dwarf star only 15.81 light-years away in the constellation Cetus. It has two rocky planets, one of which is currently considered as a potentially habitable world (as of 2022)";
 
+// English: Gliese 300, also known as LHS 1989, is a star with a spectral type of M located 26.469 light-years away from Earth, surrounded by a mini Neptune.
+"AE222584-8F24-4B41-8EC2-D199F748790F" = "Gliese 300, also known as LHS 1989, is a star with a spectral type of M located 26.469 light-years away from Earth, surrounded by a mini Neptune.";
+
 // English: WASP-120, also known as TOI-415, is a binary star system of an F-type and K-type main sequence stars about 1,473 light-years away in the constellation Horologium. A gas giant planet five times the mass of Jupiter was discovered only 8.03 million km away from the primary host star (component A), completing one orbit once every 3.54 days
 "AE491AAF-2D36-46F3-9297-BCAB5A204E97" = "WASP-120, also known as TOI-415, is a binary star system of an F-type and K-type main sequence stars about 1,473 light-years away in the constellation Horologium. A gas giant planet five times the mass of Jupiter was discovered only 8.03 million km away from the primary host star (component A), completing one orbit once every 3.54 days";
 
@@ -3622,8 +3628,8 @@
 // English: Kepler-1091 is a Sun-like star about 3,061 light-years away in the constellation Cygnus. A likely molten Earth-sized planet was found orbiting close to its parent star, completing one revolution every 1.4 days
 "CF7CF248-D38C-0C65-9FF1-D98D6BEE3D21" = "Kepler-1091 is a Sun-like star about 3,061 light-years away in the constellation Cygnus. A likely molten Earth-sized planet was found orbiting close to its parent star, completing one revolution every 1.4 days";
 
-// English: Kepler-31, also known as KOI-935, is a distant F-type main sequence star about 5,700 light-years away in the constellation Cygnus. Three super-neptunian planets were discovered around this star, with one additional planet awaiting confirmation of its existence
-"CF8E5C2B-4201-4ED9-A1C8-C0C3B5318DB8" = "Kepler-31, also known as KOI-935, is a distant F-type main sequence star about 5,700 light-years away in the constellation Cygnus. Three super-neptunian planets were discovered around this star, with one additional planet awaiting confirmation of its existence";
+// English: Kepler-31, aka KOI-935, is an F-type main sequence star located about 5700.03 lightyears from the solar system. a mildly compact system of three Neptune sized planets were found around this star with an additional short period candidate.
+"CF8E5C2B-4201-4ED9-A1C8-C0C3B5318DB8" = "Kepler-31, aka KOI-935, is an F-type main sequence star located about 5700.03 lightyears from the solar system. a mildly compact system of three Neptune sized planets were found around this star with an additional short period candidate.";
 
 // English: (470599) 2008 OG₁₉ is a 619-km wide trans-Neptunian object located in the scattered disc, discovered on 2008-Jul-30 through the Palomar Observatory. It displays a large light curve amplitude of 0.437±0.011 magnitudes, implying that it is highly elongated in shape, similar to 20000 Varuna
 "D0367862-0E80-B93F-CE51-846BB6E3F01D" = "(470599) 2008 OG₁₉ is a 619-km wide trans-Neptunian object located in the scattered disc, discovered on 2008-Jul-30 through the Palomar Observatory. It displays a large light curve amplitude of 0.437±0.011 magnitudes, implying that it is highly elongated in shape, similar to 20000 Varuna";
