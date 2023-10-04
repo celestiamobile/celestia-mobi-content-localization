@@ -1162,6 +1162,9 @@
 // English: 2014 AA
 "4180AFC2-C5EB-4F78-81C4-81953A786363" = "2014 AA";
 
+// English: CoRoT-9
+"418A4BE2-000E-4D65-84C5-31CC0F2108AA" = "CoRoT-9";
+
 // English: HD 10180
 "418CA3CC-FC93-4F5B-B499-BB3CC649C0EF" = "HD 10180";
 
@@ -1191,6 +1194,9 @@
 
 // English: Kepler-28
 "436B3112-B767-4B6A-91F0-4142AE40EE87" = "Kepler-28";
+
+// English: K2-98
+"437359BC-BFE2-4774-B30E-4A324E4B33A7" = "K2-98";
 
 // English: Abell 3
 "4395B462-5695-DB17-5A27-896F640DB8B7" = "Abell 3";
@@ -1659,6 +1665,9 @@
 
 // English: TOI-1062
 "5FECD1AA-471D-48DE-8097-A97EEF97F47D" = "TOI-1062";
+
+// English: Gliese 317
+"600209AF-94E0-4F26-B289-F12B009F2087" = "Gliese 317";
 
 // English: Kepler-30
 "6037E6B3-44A7-4127-9C13-211182DB57B9" = "Kepler-30";
@@ -4014,6 +4023,9 @@
 
 // English: Space Debris
 "E5BAA778-08E6-5CF4-D248-528DC8A95A45" = "Space Debris";
+
+// English: Kepler-31 (Unconfirmed Planet)
+"E5D5EA67-988D-46B8-A1BC-B0FEA6118FCF" = "Kepler-31 (Unconfirmed Planet)";
 
 // English: NN Serpentis
 "E5DAEDF5-90D1-BD13-2AF4-AA086CC4B4C4" = "NN Serpentis";

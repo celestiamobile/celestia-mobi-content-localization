@@ -1162,6 +1162,9 @@
 // English: 2014 AA is a small Apollo group asteroid discovered on January 1, 2014 by Richard Kowalski at the Mount Lemmon Survey. 21 hours after its discovery, the 2-4 meter asteroid entered Earth's atmosphere over the Atlantic Ocean, far from any landmass.\nNOTE: To see asteroid 2014 AA you must set the time in Celestia before 2014-Jan-02, 05:02 UTC
 "4180AFC2-C5EB-4F78-81C4-81953A786363" = "2014 AA is a small Apollo group asteroid discovered on January 1, 2014 by Richard Kowalski at the Mount Lemmon Survey. 21 hours after its discovery, the 2-4 meter asteroid entered Earth's atmosphere over the Atlantic Ocean, far from any landmass.\nNOTE: To see asteroid 2014 AA you must set the time in Celestia before 2014-Jan-02, 05:02 UTC";
 
+// English: CoRoT-9 is a binary system consisting of a G-type main sequence star and a red dwarf star. A massive gaseous planet orbits Planet A with a orbital period of only 95 Earth days, and this planet is composed of hydrogen and helium, possibly containing over 20 heavier elements from Earth.
+"418A4BE2-000E-4D65-84C5-31CC0F2108AA" = "CoRoT-9 is a binary system consisting of a G-type main sequence star and a red dwarf star. A massive gaseous planet orbits Planet A with a orbital period of only 95 Earth days, and this planet is composed of hydrogen and helium, possibly containing over 20 heavier elements from Earth.";
+
 // English: HD 10180 is a Sun-like star about 127.22 light-years away in the constellation Hydrus. It is notable for having a large system of at least six planets, with one study in 2012 proposing as many as nine, which would be more planets than our own Solar System.\n\nNOTE: This addon only includes textures for the six confirmed planets in this system. The remaining three can be found in the Exoplanets: Unconfirmed category
 "418CA3CC-FC93-4F5B-B499-BB3CC649C0EF" = "HD 10180 is a Sun-like star about 127.22 light-years away in the constellation Hydrus. It is notable for having a large system of at least six planets, with one study in 2012 proposing as many as nine, which would be more planets than our own Solar System.\n\nNOTE: This addon only includes textures for the six confirmed planets in this system. The remaining three can be found in the Exoplanets: Unconfirmed category";
 
@@ -1191,6 +1194,9 @@
 
 // English: Kepler-28 is an M-type main sequence star located about 1447.85 lightyears from the solar system. Two warm mini-Neptunes orbit this star.
 "436B3112-B767-4B6A-91F0-4142AE40EE87" = "Kepler-28 is an M-type main sequence star located about 1447.85 lightyears from the solar system. Two warm mini-Neptunes orbit this star.";
+
+// English: K2-98 is 1705.748 light-years away from Earth, with a spectral type of F8V. Its volume is slightly larger than our sun, and a sub Neptune celestial body orbits it with a period of less than 10 days.
+"437359BC-BFE2-4774-B30E-4A324E4B33A7" = "K2-98 is 1705.748 light-years away from Earth, with a spectral type of F8V. Its volume is slightly larger than our sun, and a sub Neptune celestial body orbits it with a period of less than 10 days.";
 
 // English: This add-on adds a realistic, fully 3D model of the planetary nebula Abell 3. Abell 3 is poorly studied, but it is known to be roughly barrel-shaped. Therefore, the model is consistent with available data and astrophotographs.
 "4395B462-5695-DB17-5A27-896F640DB8B7" = "This add-on adds a realistic, fully 3D model of the planetary nebula Abell 3. Abell 3 is poorly studied, but it is known to be roughly barrel-shaped. Therefore, the model is consistent with available data and astrophotographs.";
@@ -1659,6 +1665,9 @@
 
 // English: TOI-1062 is a G-type star located about 267.87 lightyears from the solar system. The star is accompanied by two planets, a rocky-dominate ocean planet (b= 2.27 Re) and a Neptunian planet (c= 9.78 Me). As mentioned earlier, TOI-1062 b's composition is likely dominated by a rocky core and mantle, with an outer liquid layer followed by an atmosphere, this gives the planet a mass of 10.15 Earth Masses. TOI-1062 c doesn't transit the star from our perspective so all we have is mass and we can't say for certain what its true composition is. Both worlds also have slightly eccentric orbits.
 "5FECD1AA-471D-48DE-8097-A97EEF97F47D" = "TOI-1062 is a G-type star located about 267.87 lightyears from the solar system. The star is accompanied by two planets, a rocky-dominate ocean planet (b= 2.27 Re) and a Neptunian planet (c= 9.78 Me). As mentioned earlier, TOI-1062 b's composition is likely dominated by a rocky core and mantle, with an outer liquid layer followed by an atmosphere, this gives the planet a mass of 10.15 Earth Masses. TOI-1062 c doesn't transit the star from our perspective so all we have is mass and we can't say for certain what its true composition is. Both worlds also have slightly eccentric orbits.";
+
+// English: Gliese 317 is 49.587 light-years away from Earth and is surrounded by two massive gas giants.
+"600209AF-94E0-4F26-B289-F12B009F2087" = "Gliese 317 is 49.587 light-years away from Earth and is surrounded by two massive gas giants.";
 
 // English: Kepler-30, aka KOI-806 is a G-type main sequence star located about 3060.49 light years from the solar system. It hosts three planets: a Neptune sized planet, a super-Jupiter and a very low density sub-Jupiter.
 "6037E6B3-44A7-4127-9C13-211182DB57B9" = "Kepler-30, aka KOI-806 is a G-type main sequence star located about 3060.49 light years from the solar system. It hosts three planets: a Neptune sized planet, a super-Jupiter and a very low density sub-Jupiter.";
@@ -4014,6 +4023,9 @@
 
 // English: Adds 40 space debris objects in Earth orbits. For more information read the Readme file contained in the zip file.
 "E5BAA778-08E6-5CF4-D248-528DC8A95A45" = "Adds 40 space debris objects in Earth orbits. For more information read the Readme file contained in the zip file.";
+
+// English: Kepler-31, while known to host three Neptune sized planets, also has a candidate mini-Neptune on a 9.61 day orbit.
+"E5D5EA67-988D-46B8-A1BC-B0FEA6118FCF" = "Kepler-31, while known to host three Neptune sized planets, also has a candidate mini-Neptune on a 9.61 day orbit.";
 
 // English: NN Serpentis is an eclipsing binary star system comprising of a red dwarf and a white dwarf about 1,702 light-years away in the constellation Serpens Caput. Two super-Jovian planets are found orbiting both stars in the system, however in 2022, subsequent analyses of the system dispute the existence of both planets, thus potentially disproving them
 "E5DAEDF5-90D1-BD13-2AF4-AA086CC4B4C4" = "NN Serpentis is an eclipsing binary star system comprising of a red dwarf and a white dwarf about 1,702 light-years away in the constellation Serpens Caput. Two super-Jovian planets are found orbiting both stars in the system, however in 2022, subsequent analyses of the system dispute the existence of both planets, thus potentially disproving them";
