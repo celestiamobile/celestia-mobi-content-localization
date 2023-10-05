@@ -493,8 +493,8 @@
 // English: ICESat-2
 //"1D605F6C-1B15-5B52-4FDD-51B6D182D156" = "ICESat-2";
 
-// English: Space Shuttles
-//"1D93EA6F-8FC4-A477-7660-B6B343BB8E61" = "Space Shuttles";
+// English: Space Shuttle
+//"1D93EA6F-8FC4-A477-7660-B6B343BB8E61" = "Space Shuttle";
 
 // English: LAGEOS
 //"1E1FBF9B-AA9B-6B48-EBB2-EC77EBD769D3" = "LAGEOS";
@@ -3823,6 +3823,9 @@
 // English: Kepler-444
 //"DAC9D219-1CF1-5FD0-930C-AFAF1920338A" = "Kepler-444";
 
+// English: Nu Octantis
+//"DAE73581-1673-40F5-8F95-B7823952EA8E" = "Nu Octantis";
+
 // English: International Space Station
 "DB2CB6F5-247F-761C-4001-072A6C6BE5FD" = "国际空间站";
 
@@ -4467,6 +4470,9 @@
 
 // English: Soyuz: 1971-1981
 //"FF480AFC-A076-408B-8096-AD24E2DF76C2" = "Soyuz: 1971-1981";
+
+// English: Soyuz: 1980-1986
+//"FF490897-A6E6-4124-86C8-DE48C2D36E33" = "Soyuz: 1980-1986";
 
 // English: HAT-P-21
 //"FF51A034-8A75-431E-A843-DFF8D46A66DD" = "HAT-P-21";
