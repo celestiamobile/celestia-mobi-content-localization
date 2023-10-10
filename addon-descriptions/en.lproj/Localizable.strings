@@ -2953,6 +2953,9 @@
 // English: TOI-2152 is a tertiary star system composed of an F-type main sequence star and two red dwarfs. the primary star hosts a single hot Jupiter orbiting every 3.38 days (b= 1.281 Rj, 2.83 Mj)
 "A82E5081-DC8F-44B4-8319-07641158E24E" = "TOI-2152 is a tertiary star system composed of an F-type main sequence star and two red dwarfs. the primary star hosts a single hot Jupiter orbiting every 3.38 days (b= 1.281 Rj, 2.83 Mj)";
 
+// English: The Arabsat-1 fleet were the first communications satellites operated by Saudi Arabia. Three satellites were launched between 1985 and 1992, one of which was deployed from a Space Shuttle. They continued in operation until 2004 and are gradually replaced by more advanced satellites over the years
+"A83FFCE6-4BC8-44DC-AA8A-B3A07CC82EBE" = "The Arabsat-1 fleet were the first communications satellites operated by Saudi Arabia. Three satellites were launched between 1985 and 1992, one of which was deployed from a Space Shuttle. They continued in operation until 2004 and are gradually replaced by more advanced satellites over the years";
+
 // English: Adds a 3D model for Arsia Mons, the southernmost of three volcanoes (collectively known as Tharsis Montes) on the Tharsis bulge near the Martian equator
 "A85BFD24-5337-D731-51B9-8D8E5637E0D1" = "Adds a 3D model for Arsia Mons, the southernmost of three volcanoes (collectively known as Tharsis Montes) on the Tharsis bulge near the Martian equator";
 
