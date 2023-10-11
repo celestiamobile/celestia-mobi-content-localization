@@ -4252,8 +4252,8 @@
 // English: HD 56414 is an A-type main sequence star located about 887.43 lightyears from the solar system, the star has a single hot Neptune-sized planet on a month-long orbit, its mass is currently unknown (b= 3.71 Re).
 "F114C6BB-893C-492A-B7A0-2E41EE2C1706" = "HD 56414 is an A-type main sequence star located about 887.43 lightyears from the solar system, the star has a single hot Neptune-sized planet on a month-long orbit, its mass is currently unknown (b= 3.71 Re).";
 
-// English: Comet Hartley 2 is a Jupiter-family comet orbiting the Sun once every 6.46 years. The Deep Impact spacecraft was redirected to visit this comet in 2010 after its initial target, Comet Boethin, is declared lost.
-"F1345D0D-32F2-A5DB-24F1-EE28E33832F0" = "Comet Hartley 2 is a Jupiter-family comet orbiting the Sun once every 6.46 years. The Deep Impact spacecraft was redirected to visit this comet in 2010 after its initial target, Comet Boethin, is declared lost.";
+// English: Comet Hartley 2 is a Jupiter-family comet orbiting the Sun once every 6.46 years. At 2.25 km in diameter, it is currently the smallest comet ever visited when the Deep Impact spacecraft flew past it in 2010 after its initial target, Comet Boethin, is declared lost.
+"F1345D0D-32F2-A5DB-24F1-EE28E33832F0" = "Comet Hartley 2 is a Jupiter-family comet orbiting the Sun once every 6.46 years. At 2.25 km in diameter, it is currently the smallest comet ever visited when the Deep Impact spacecraft flew past it in 2010 after its initial target, Comet Boethin, is declared lost.";
 
 // English: TOI-125 is 363.164 light-years away from Earth. In 2019, three mini Neptune stars were discovered orbiting it, and this star also has an unidentified planet
 "F147BE9B-86FB-4800-8FEB-ECE81A0B1483" = "TOI-125 is 363.164 light-years away from Earth. In 2019, three mini Neptune stars were discovered orbiting it, and this star also has an unidentified planet";
