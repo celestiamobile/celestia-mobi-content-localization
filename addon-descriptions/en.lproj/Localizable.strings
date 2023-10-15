@@ -3172,6 +3172,9 @@
 // English: Gliese 687 is a red dwarf about 14.84 light-years away in the constellation Draco. Two planets, all Neptunian, are known orbiting this star
 "B4FD7D0E-4023-6676-B2E2-8BDBE316E873" = "Gliese 687 is a red dwarf about 14.84 light-years away in the constellation Draco. Two planets, all Neptunian, are known orbiting this star";
 
+// English: HD 177830 is 204.62 light-years away from Earth and consists of a binary system consisting of a K-type star and an M-type star. Two larger gas giant planets orbit the K-type star in this system, with an internal planetary rotation period of 110 Earth days and an external planetary rotation period of 410 Earth days
+"B52D808B-CEE0-4BED-8D92-5FF45EEA8BB9" = "HD 177830 is 204.62 light-years away from Earth and consists of a binary system consisting of a K-type star and an M-type star. Two larger gas giant planets orbit the K-type star in this system, with an internal planetary rotation period of 110 Earth days and an external planetary rotation period of 410 Earth days";
+
 // English: This addon adds an alternate texture to Jupiter seen through radio waves.
 "B5302AC0-08D5-9F69-D8CA-67FA10B628B9" = "This addon adds an alternate texture to Jupiter seen through radio waves.";
 
