@@ -778,6 +778,9 @@
 // English: Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory (Curiosity)
 "2D583BD6-AF34-97CD-1242-C605A51B4970" = "Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory (Curiosity)";
 
+// English: HD 147873 is a binary system located 342 ± 35 light-years away, with two massive gas giants orbiting HD 147873A star. The entire system has a history of approximately 4 billion years.
+"2D7FD1B7-DCE8-4595-B799-3AFB4C016F6E" = "HD 147873 is a binary system located 342 ± 35 light-years away, with two massive gas giants orbiting HD 147873A star. The entire system has a history of approximately 4 billion years.";
+
 // English: Kepler-440, also known as KOI-4087, is a K-type main sequence star about 990.39 light-years away in the constellation Lyra. In 2015, a single superterran planet was discovered, which is currently listed as an (optimistic) potentially habitable world as of 2021.
 "2DBB2602-E3C2-471D-BAC2-A241E52E4D5E" = "Kepler-440, also known as KOI-4087, is a K-type main sequence star about 990.39 light-years away in the constellation Lyra. In 2015, a single superterran planet was discovered, which is currently listed as an (optimistic) potentially habitable world as of 2021.";
 
@@ -3624,6 +3627,9 @@
 
 // English: Kepler-1652 is a red dwarf star about 821.9 light-years away in the constellation Cygnus. A rocky planet only slightly larger than Earth was discovered, which as of 2021, is listed as a potentially habitable world
 "CD51444A-7B92-B6AB-6E0C-F7B743D4368A" = "Kepler-1652 is a red dwarf star about 821.9 light-years away in the constellation Cygnus. A rocky planet only slightly larger than Earth was discovered, which as of 2021, is listed as a potentially habitable world";
+
+// English: Psyche is a NASA/JPL mission intended to explore the origin of planetary cores by orbiting and studying the asteroid of the same name by a minimum of two years. It was launched from a Falcon Heavy in October 2023 and is expected to arrive at its target by August 2029
+"CD53DB88-EF1C-4E0E-929D-1C3A39A39DDD" = "Psyche is a NASA/JPL mission intended to explore the origin of planetary cores by orbiting and studying the asteroid of the same name by a minimum of two years. It was launched from a Falcon Heavy in October 2023 and is expected to arrive at its target by August 2029";
 
 // English: 2012 VP₁₁₃, also known unofficially as \"Biden\", is a distant 597-km trans-neptunian object and only the second known sednoid discovered so far. Its perihelion of 75 AU is far too distant to be able to be gravitationally perturbed by Neptune, indicating that this object and others like it might be influenced by a hypothetical ninth planet waiting to be discovered
 "CD68E45F-A230-44A2-AE53-EDE2A6B22D9B" = "2012 VP₁₁₃, also known unofficially as \"Biden\", is a distant 597-km trans-neptunian object and only the second known sednoid discovered so far. Its perihelion of 75 AU is far too distant to be able to be gravitationally perturbed by Neptune, indicating that this object and others like it might be influenced by a hypothetical ninth planet waiting to be discovered";
