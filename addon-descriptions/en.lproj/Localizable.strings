@@ -1198,6 +1198,9 @@
 // English: The three candidate planets of HD 10180, in addition to its six confirmed planets. One of these candidates was identified by the system's discovery paper in 2010 (hence the \"b\" designation), and another two were identified by a 2012 study that proposed a nine-planet model for the system. Other studies since 2014 have not confirmed these candidates, instead finding evidence for a six-planet model. Nevertheless, no refutation of these candidates has been published.
 "423037A3-930F-4F6A-BA92-E6E551391BE8" = "The three candidate planets of HD 10180, in addition to its six confirmed planets. One of these candidates was identified by the system's discovery paper in 2010 (hence the \"b\" designation), and another two were identified by a 2012 study that proposed a nine-planet model for the system. Other studies since 2014 have not confirmed these candidates, instead finding evidence for a six-planet model. Nevertheless, no refutation of these candidates has been published.";
 
+// English: TOI-4860, while known to host a short period gas giant, also has a candidate cold Jupiter on a highly eccentric, year long orbit.\n\nNOTE: an existing TOI-4860 addon is required in order for this addon to work properly
+"428AE825-0CF0-41C6-947D-03EC769403A9" = "TOI-4860, while known to host a short period gas giant, also has a candidate cold Jupiter on a highly eccentric, year long orbit.\n\nNOTE: an existing TOI-4860 addon is required in order for this addon to work properly";
+
 // English: This addon adds an alternative texture of the planet Uranus in infrared.
 "42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "This addon adds an alternative texture of the planet Uranus in infrared.";
 
@@ -2781,6 +2784,9 @@
 
 // English: This addon updates the models and formats of various irregular natural satellites (moons) of Jupiter, Saturn, Uranus and Neptune for a more interesting view.\nNOTE: All models and shapes of this addon (except Saturn's moon Ymir, which had the shape studied through light curve) are fictitious, as their true shapes are not known. Irregular moons with well-known shapes already exist originally on Celestia.
 "9F5D3AD6-1FF3-5FE7-D207-8F57E6323770" = "This addon updates the models and formats of various irregular natural satellites (moons) of Jupiter, Saturn, Uranus and Neptune for a more interesting view.\nNOTE: All models and shapes of this addon (except Saturn's moon Ymir, which had the shape studied through light curve) are fictitious, as their true shapes are not known. Irregular moons with well-known shapes already exist originally on Celestia.";
+
+// English: TOI-4860 is a red dwarf located about 262.3 lightyears from the solar system. A single transiting hot Jupiter with a low density orbits this star every one and a half days.
+"9F9E4423-DE08-49E4-9CF2-0853ED216248" = "TOI-4860 is a red dwarf located about 262.3 lightyears from the solar system. A single transiting hot Jupiter with a low density orbits this star every one and a half days.";
 
 // English: 132524 APL (2002 JF56) is a small asteroid in the intermediate asteroid belt. It is estimated to be 2.5 km in diameter. It was discovered by the LINEAR project on May 9, 2002. In June 2006, New Horizons spacecraft performed a distant incidental flyby at a distance of 102,000 km from the asteroid.
 "9FCC1223-4997-3BC4-2F57-940B638AD270" = "132524 APL (2002 JF56) is a small asteroid in the intermediate asteroid belt. It is estimated to be 2.5 km in diameter. It was discovered by the LINEAR project on May 9, 2002. In June 2006, New Horizons spacecraft performed a distant incidental flyby at a distance of 102,000 km from the asteroid.";

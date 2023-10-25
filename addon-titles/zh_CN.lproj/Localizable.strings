@@ -1198,6 +1198,9 @@
 // English: HD 10180 (Unconfirmed Planets)
 //"423037A3-930F-4F6A-BA92-E6E551391BE8" = "HD 10180 (Unconfirmed Planets)";
 
+// English: TOI-4860 (Unconfirmed Planet)
+//"428AE825-0CF0-41C6-947D-03EC769403A9" = "TOI-4860 (Unconfirmed Planet)";
+
 // English: Uranus Infrared
 //"42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "Uranus Infrared";
 
@@ -2781,6 +2784,9 @@
 
 // English: Irregular Moons
 //"9F5D3AD6-1FF3-5FE7-D207-8F57E6323770" = "Irregular Moons";
+
+// English: TOI-4860
+//"9F9E4423-DE08-49E4-9CF2-0853ED216248" = "TOI-4860";
 
 // English: 132524 APL
 //"9FCC1223-4997-3BC4-2F57-940B638AD270" = "132524 APL";
