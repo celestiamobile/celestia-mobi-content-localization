@@ -949,6 +949,9 @@
 // English: Kepler-1544, also known as KOI-4036, is a K-type main sequence star about 1,104 light-years away in the constellation Cygnus. In 2016, its only planet was previously identified as a potentially habitable superterran planet, however subsequent analysis now considers it to be more like Neptune in composition instead
 "36096ECF-4622-4CEF-BD2B-C247A7C82C0F" = "Kepler-1544, also known as KOI-4036, is a K-type main sequence star about 1,104 light-years away in the constellation Cygnus. In 2016, its only planet was previously identified as a potentially habitable superterran planet, however subsequent analysis now considers it to be more like Neptune in composition instead";
 
+// English: Gliese 880 is a nearby red dwarf star located about 22.4 lightyears form the solar system. in 2019, a possible mini-Neptune mass planet on a month long orbit through it's hosts inner habitable zone was detected, though no further studies have reaffirmed or refuted the planet's existence so far.\n\nThis addon depicts this planet as a habitable oceanic planet though it could be a variety of different compositions.
+"3609FFC4-D07F-42B4-B7CB-F4D53C8D774F" = "Gliese 880 is a nearby red dwarf star located about 22.4 lightyears form the solar system. in 2019, a possible mini-Neptune mass planet on a month long orbit through it's hosts inner habitable zone was detected, though no further studies have reaffirmed or refuted the planet's existence so far.\n\nThis addon depicts this planet as a habitable oceanic planet though it could be a variety of different compositions.";
+
 // English: Kepler-5 is an F-type main-sequence star about 2,934.7 light-years away in the constellation Cygnus. One super-Jovian planet is found orbiting close to its star
 "364A4EFE-620D-79C3-BEB7-BE54F45B5217" = "Kepler-5 is an F-type main-sequence star about 2,934.7 light-years away in the constellation Cygnus. One super-Jovian planet is found orbiting close to its star";
 
@@ -3042,6 +3045,9 @@
 
 // English: Kepler-58 is 3,213 light-years away and has four planets already discovered around it
 "AC2C5C5C-D271-473E-A0CD-C36AA2188BCA" = "Kepler-58 is 3,213 light-years away and has four planets already discovered around it";
+
+// English: TOI-1634 is a binary system comprised of two red dwarfs located about 115.17 lightyears from the solar system. the primary component to the binary hosts two planets of (likely) different compositions but that same mass: a short-period, hot super-Earth and a mini-Neptune mass planet on a 100 day orbit near the outer habitable zone of it's host.
+"AC3D8565-CE29-48A7-827A-40B013712FDF" = "TOI-1634 is a binary system comprised of two red dwarfs located about 115.17 lightyears from the solar system. the primary component to the binary hosts two planets of (likely) different compositions but that same mass: a short-period, hot super-Earth and a mini-Neptune mass planet on a 100 day orbit near the outer habitable zone of it's host.";
 
 // English: 2002 VE₆₈ is an asteroid that is considered a temporary quasi-satellite of Venus. It was discovered on November 11, 2002. It was the first quasi-satellite discovered in the Solar System.
 "AC5146DF-B209-4D71-90F9-02B28567CEE0" = "2002 VE₆₈ is an asteroid that is considered a temporary quasi-satellite of Venus. It was discovered on November 11, 2002. It was the first quasi-satellite discovered in the Solar System.";
