@@ -1570,6 +1570,9 @@
 // English: INSAT-3E is the fourth satellite to be launched in the INSAT-3 series. It is an Indian communications satellite designed for providing high-speed communication, television, VSAT & tele-education services. It was launched in 2003 and it continued operations in GEO until it was decommissioned in April 2014
 "5719C33F-27C4-4E20-B5AC-B1F0F5FAD719" = "INSAT-3E is the fourth satellite to be launched in the INSAT-3 series. It is an Indian communications satellite designed for providing high-speed communication, television, VSAT & tele-education services. It was launched in 2003 and it continued operations in GEO until it was decommissioned in April 2014";
 
+// English: HD 102365, also known as Gliese 442, is a nearby binary star system consisting of a Sun-like star and a red dwarf only about 30.31 light-years away in the constellation Centaurus. The larger star of the two has a mini-neptunian planet that has an orbit comparable to Mercury's distance to the Sun
+"571A9F42-1F1F-4FF9-ABE5-58D843621579" = "HD 102365, also known as Gliese 442, is a nearby binary star system consisting of a Sun-like star and a red dwarf only about 30.31 light-years away in the constellation Centaurus. The larger star of the two has a mini-neptunian planet that has an orbit comparable to Mercury's distance to the Sun";
+
 // English: Gaia-1, also known as Gaia-TROI-1, is a Sun-like star about 1,201 light-years away in the constellation Orion. The first of two planetary systems discovered by the European Gaia observatory, it has a super-Jovian planet that completes an orbit once every 3.05 days
 "571D4A81-9E62-41C4-9A9E-449C8CFC9DB2" = "Gaia-1, also known as Gaia-TROI-1, is a Sun-like star about 1,201 light-years away in the constellation Orion. The first of two planetary systems discovered by the European Gaia observatory, it has a super-Jovian planet that completes an orbit once every 3.05 days";
 
@@ -4104,6 +4107,9 @@
 
 // English: HD 87883 is a K-type main sequence star about 59.69 light-years away in the constellation Leo Minor. A massive superjovian planet about five times the mass of Jupiter completes a 9.06-year orbit around its star at a distance of 2.86 AU
 "E54BA4BF-C4EC-40A2-9ADD-A8EF2C6CFAF1" = "HD 87883 is a K-type main sequence star about 59.69 light-years away in the constellation Leo Minor. A massive superjovian planet about five times the mass of Jupiter completes a 9.06-year orbit around its star at a distance of 2.86 AU";
+
+// English: GJ 3988 is a nearby red dwarf star only about 32.32 light-years away in the constellation Draco. A single mini-neptunian planet about 3.7 times more massive than Earth is discovered orbiting this star in 2023
+"E54FB4B5-E969-49EC-970D-5B1ABD7D7CB6" = "GJ 3988 is a nearby red dwarf star only about 32.32 light-years away in the constellation Draco. A single mini-neptunian planet about 3.7 times more massive than Earth is discovered orbiting this star in 2023";
 
 // English: Adds 40 space debris objects in Earth orbits. For more information read the Readme file contained in the zip file.
 "E5BAA778-08E6-5CF4-D248-528DC8A95A45" = "Adds 40 space debris objects in Earth orbits. For more information read the Readme file contained in the zip file.";
