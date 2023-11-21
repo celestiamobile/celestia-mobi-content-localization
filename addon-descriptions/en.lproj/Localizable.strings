@@ -1966,6 +1966,9 @@
 // English: 14P/Wolf is a periodic comet with an orbital period of 8.74 years. It was discovered in September 1884 by Max Wolf. This comet undergoes several perturbations from Jupiter, so its orbit usually changes.
 "6F8C1E7B-619F-F955-E2CB-000EF979B00E" = "14P/Wolf is a periodic comet with an orbital period of 8.74 years. It was discovered in September 1884 by Max Wolf. This comet undergoes several perturbations from Jupiter, so its orbit usually changes.";
 
+// English: The Gelfling is a small Dyson sphere surrounding and harnessing the energy of the pulsar PSR J1010+15. Located around 81,536 light-years away, it was named and discovered by the crew of Celestia 1 during its return journey back to Earth
+"70C10EB4-85A8-449F-852E-192FCA35A412" = "The Gelfling is a small Dyson sphere surrounding and harnessing the energy of the pulsar PSR J1010+15. Located around 81,536 light-years away, it was named and discovered by the crew of Celestia 1 during its return journey back to Earth";
+
 // English: HD 82943, also known as 164 G. Hydrae, is a yellow dwarf star approximately 89 light-years away in the constellation of Hydra. Two extrasolar planets have been confirmed to be orbiting it, confirmed in 2000 and 2001 respectively, and it is thought that the system had more giant planets that were \"swallowed\" by the parent star. A third planet was proposed in 2004, but to this day it is still unconfirmed.
 "71075B88-F8AC-4E0F-98EC-028E437A7DF4" = "HD 82943, also known as 164 G. Hydrae, is a yellow dwarf star approximately 89 light-years away in the constellation of Hydra. Two extrasolar planets have been confirmed to be orbiting it, confirmed in 2000 and 2001 respectively, and it is thought that the system had more giant planets that were \"swallowed\" by the parent star. A third planet was proposed in 2004, but to this day it is still unconfirmed.";
 
@@ -2949,6 +2952,9 @@
 
 // English: The Plutonian Empire's first artificial star, detonated into existence using a plutonium fusion bomb, in a cluster of rogue planets near the Sol system. Other planets were imported from around the universe at later dates.
 "A5BAA476-3B07-4283-A4E1-7DC77AA83F60" = "The Plutonian Empire's first artificial star, detonated into existence using a plutonium fusion bomb, in a cluster of rogue planets near the Sol system. Other planets were imported from around the universe at later dates.";
+
+// English: Nibiru, the infamous rogue planet first proposed by Nancy Lieder that was supposed to destroy Earth on 2012-Dec-21, depicted as a Jupiter-sized brown dwarf in an eccentric elliptical orbit around the Sun. Take note that this add-on is only for entertainment purposes only, and it does NOT....and WILL NOT....exist....ever!!! \n\nNOTE: This Nibiru is totally different from the Earth-like planet of the same name by Zecharia Sitchin in 1976
+"A5FD601A-5ADD-4B9E-A25B-835B597543FD" = "Nibiru, the infamous rogue planet first proposed by Nancy Lieder that was supposed to destroy Earth on 2012-Dec-21, depicted as a Jupiter-sized brown dwarf in an eccentric elliptical orbit around the Sun. Take note that this add-on is only for entertainment purposes only, and it does NOT....and WILL NOT....exist....ever!!! \n\nNOTE: This Nibiru is totally different from the Earth-like planet of the same name by Zecharia Sitchin in 1976";
 
 // English: NGTS-12b is a gas giant exoplanet discovered in 2020, orbiting the star NGTS-12 about 1456 light-years away from Earth. It is believed that the planet is nearing the end of its existence, as it will be swallowed by its parent star, which is entering a subgiant phase.
 "A64C5352-04ED-9308-E41D-DDF536BE2FFE" = "NGTS-12b is a gas giant exoplanet discovered in 2020, orbiting the star NGTS-12 about 1456 light-years away from Earth. It is believed that the planet is nearing the end of its existence, as it will be swallowed by its parent star, which is entering a subgiant phase.";
