@@ -151,7 +151,7 @@ public class CloudKitHandler {
         }
     }
 
-    public func uploadChanges(addedStrings: [String: [String: String]], removedStrings: [String: [String: String]], changedStrings: [String: [String: String]], mainKey: String, englishKey: String?) async throws {
+    public func uploadChanges(addedStrings: [String: [String: String]], removedStrings: [String: [String: String]], changedStrings: [String: [String: String]], mainKey: String, englishKey: String?, keywordsKey: String?) async throws {
         guard removedStrings.isEmpty else {
             throw CloudKitHandlerError.removalNotAllowed
         }
@@ -165,7 +165,7 @@ public class CloudKitHandler {
         for (key, changed) in changedStrings {
             allChanges[key] = changed
         }
-        let desiredKeys = [mainKey, englishKey].compactMap { $0 }
+        let desiredKeys = [mainKey, englishKey, keywordsKey].compactMap { $0 }
         var records = [String: CKRecord]()
         do {
             let recordResults = try await db.records(for: allChanges.keys.map({ CKRecord.ID(recordName: $0) }), desiredKeys: desiredKeys)
@@ -202,6 +202,12 @@ public class CloudKitHandler {
             } catch {
                 throw CloudKitHandlerError.json
             }
+
+            // Save keywords for searching
+            if let keywordsKey {
+                record[keywordsKey] = [String](stringsToSave.values)
+            }
+
             recordsToSave.append(record)
         }
 

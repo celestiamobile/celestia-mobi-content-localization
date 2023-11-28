@@ -175,7 +175,7 @@ jobs:
         cp -r addon-titles new-addon-titles
         CURRENT_COMMIT=`git show -s --format='%H'`
         git reset --hard HEAD^
-        .build/debug/UploaderApp addon-titles new-addon-titles localizedName --english-key name --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
+        .build/debug/UploaderApp addon-titles new-addon-titles localizedName --english-key name --keywords-key keywords --key-file-path $RUNNER_TEMP/key.pem --key-id $CLOUDKIT_KEY_ID
         git reset --hard $CURRENT_COMMIT
 
     - name: Upload (Addon Descriptions)

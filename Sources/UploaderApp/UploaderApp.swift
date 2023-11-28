@@ -55,6 +55,9 @@ struct UploaderApp: AsyncParsableCommand {
     @Option
     var englishKey: String?
 
+    @Option
+    var keywordsKey: String?
+
     func run() async throws {
         let parser = Parser()
 
@@ -115,7 +118,7 @@ struct UploaderApp: AsyncParsableCommand {
             let removedOnes = oldStringsByKeys.filter({ newStringsByKeys[$0.key] == nil })
             let changedOnes = newStringsByKeys.filter({ oldStringsByKeys[$0.key] != nil && oldStringsByKeys[$0.key] != $0.value })
 
-            try await handler.uploadChanges(addedStrings: addedOnes, removedStrings: removedOnes, changedStrings: changedOnes, mainKey: mainKey, englishKey: englishKey)
+            try await handler.uploadChanges(addedStrings: addedOnes, removedStrings: removedOnes, changedStrings: changedOnes, mainKey: mainKey, englishKey: englishKey, keywordsKey: keywordsKey)
         }
     }
 }
