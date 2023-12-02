@@ -877,6 +877,9 @@
 // English: Earth's Rings
 "31F279A8-BE40-FB0E-1D42-BBE5CADD6EDF" = "Earth's Rings";
 
+// English: HD 215152
+"31FA5A6B-D99A-4D0F-97D2-71CE30E6018D" = "HD 215152";
+
 // English: Seranna
 "320F8F54-4FEE-4F16-82A0-382AD94773AD" = "Seranna";
 
@@ -2142,6 +2145,9 @@
 
 // English: HAT-P-12
 "79B42FA9-A6BA-DB26-A6CE-BBC04388693A" = "HAT-P-12";
+
+// English: TOI-1266 (Unconfirmed Planet)
+"79E394CE-381E-4EC2-978D-9D6F38A64224" = "TOI-1266 (Unconfirmed Planet)";
 
 // English: Skylab
 "79FFB1A2-4DB3-7783-F863-0CB807D52AFB" = "Skylab";
