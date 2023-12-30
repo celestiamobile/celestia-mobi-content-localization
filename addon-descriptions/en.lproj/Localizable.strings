@@ -508,6 +508,9 @@
 // English: WASP-3 is a triple star system about 759 light-years away in the constellation Lyra. The primary star hosts a transiting hot Jupiter. This addon includes a fictional texture for the planet that's in approximate true color based on spectra.
 "1E2872EC-A75F-4DCB-9191-9C0BE452B139" = "WASP-3 is a triple star system about 759 light-years away in the constellation Lyra. The primary star hosts a transiting hot Jupiter. This addon includes a fictional texture for the planet that's in approximate true color based on spectra.";
 
+// English: GlobalStar is a series of satellites in medium Earth orbit that provide mobile communications around the globe, similar to Iridium. Between 1998 and 2022, a total of 97 satellites were flown in 21 launches. As of 2023, around 30 of them (mostly from the second generation) are still operational to this day
+"1E5CF474-7378-4A77-B25B-6B09FDEB56FE" = "GlobalStar is a series of satellites in medium Earth orbit that provide mobile communications around the globe, similar to Iridium. Between 1998 and 2022, a total of 97 satellites were flown in 21 launches. As of 2023, around 30 of them (mostly from the second generation) are still operational to this day";
+
 // English: XO-1, also known formally as Moldoveanu, is a Sun-like star about 535.96 light-years away in the constellation Corona Borealis. Its sole gas giant planet, Negoiu, completes an orbit once every 3.94 days. Both objects received their proper names during the second NameExoWorlds campaign in 2019
 "1EB3FB4F-116D-44E8-9EDF-26DE069A76CA" = "XO-1, also known formally as Moldoveanu, is a Sun-like star about 535.96 light-years away in the constellation Corona Borealis. Its sole gas giant planet, Negoiu, completes an orbit once every 3.94 days. Both objects received their proper names during the second NameExoWorlds campaign in 2019";
 
