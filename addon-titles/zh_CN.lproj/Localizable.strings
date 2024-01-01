@@ -2347,6 +2347,9 @@
 // English: KELT-6
 //"8707A684-E1C4-4F90-8BF1-FFE947F6C5F3" = "KELT-6";
 
+// English: Kepler-462
+//"8739DC53-AAF5-407F-BEEE-42053AD37B14" = "Kepler-462";
+
 // English: Lunar Reconnaissance Orbiter
 //"875D166F-3E74-3C2A-0D69-35BAE4D59DE7" = "Lunar Reconnaissance Orbiter";
 
@@ -3972,6 +3975,9 @@
 
 // English: 61 Virginis
 //"DDBA5FB5-EF65-4E14-8038-22E84D8FC760" = "61 Virginis";
+
+// English: WASP-80
+//"DDC3C6C6-2170-43BE-A81E-222F23504485" = "WASP-80";
 
 // English: GJ 1214
 //"DDCEF263-FEA3-083D-6439-DC0D3043DA5E" = "GJ 1214";
