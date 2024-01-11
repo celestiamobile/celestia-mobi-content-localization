@@ -322,8 +322,8 @@
 // English: Tyche is a gas giant planet that was theorized to exist about 15,000 AU from the Sun, effectively orbiting inside the Oort Cloud. This was first theorized by Dr. John Matese, et. al., of the University of Louisiana at Lafayette in 1999, arguing that its gravitational influence is responsible for long-period comets coming towards the inner Solar System. Observations by the WISE Observatory in 2014 rules out a Jupiter-sized object out to 26,000 AU, thus indicating Tyche does not truly exist\n(NOTE: This is an entirely different object from Planet Nine, which was first proposed by Mike Brown in 2016, a full two years after Tyche was disproven)
 "12A6D98F-EE9E-1872-B282-949A6FCD4359" = "Tyche is a gas giant planet that was theorized to exist about 15,000 AU from the Sun, effectively orbiting inside the Oort Cloud. This was first theorized by Dr. John Matese, et. al., of the University of Louisiana at Lafayette in 1999, arguing that its gravitational influence is responsible for long-period comets coming towards the inner Solar System. Observations by the WISE Observatory in 2014 rules out a Jupiter-sized object out to 26,000 AU, thus indicating Tyche does not truly exist\n(NOTE: This is an entirely different object from Planet Nine, which was first proposed by Mike Brown in 2016, a full two years after Tyche was disproven)";
 
-// English: This adds the planet Hoth around Jestr's Star
-"12DF76D8-7C06-4B0A-9380-2504BC9719D9" = "This adds the planet Hoth around Jestr's Star";
+// English: Hoth is a remote ice planet in the Outer Rim, where it served as the main Rebel Base after they were discovered in Yavin IV by the Empire until 3 ABY
+"12DF76D8-7C06-4B0A-9380-2504BC9719D9" = "Hoth is a remote ice planet in the Outer Rim, where it served as the main Rebel Base after they were discovered in Yavin IV by the Empire until 3 ABY";
 
 // English: An ultraviolet map of Venus' clouds based on images from the Akatsuki space probe.
 "1310C0AE-150C-5D38-3F15-072A2F5B2098" = "An ultraviolet map of Venus' clouds based on images from the Akatsuki space probe.";
@@ -592,8 +592,8 @@
 // English: Gliese 676 is a binary star system of two red dwarf stars about 52.3 light-years away in the constellation Ara. The stellar component A has four confirmed planets (one superterran, one neptunian and two super-Jovians) discovered so far, with an additional neptunian candidate awaiting verification and confirmation
 "24226B57-F77B-4773-9F5A-4C8F225F82F2" = "Gliese 676 is a binary star system of two red dwarf stars about 52.3 light-years away in the constellation Ara. The stellar component A has four confirmed planets (one superterran, one neptunian and two super-Jovians) discovered so far, with an additional neptunian candidate awaiting verification and confirmation";
 
-// English: Yavin and its five major moons in orbit around Jestr's Star
-"2439DAD2-7CC9-4EDD-AA69-A53073C10EA2" = "Yavin and its five major moons in orbit around Jestr's Star";
+// English: Yavin is a gas giant located in the Outer Rim. It is where the Death Star was destroyed following a climactic battle between the Empire and the Rebel Alliance. Its fourth moon is the site of many ancient Sith temples that also became secret Rebel bases in the Galactic Civil War
+"2439DAD2-7CC9-4EDD-AA69-A53073C10EA2" = "Yavin is a gas giant located in the Outer Rim. It is where the Death Star was destroyed following a climactic battle between the Empire and the Rebel Alliance. Its fourth moon is the site of many ancient Sith temples that also became secret Rebel bases in the Galactic Civil War";
 
 // English: HD 5319, also known as BD+00 142, is a K-type subgiant star about 397.35 light-years away in the constellation Cetus. Two gas giant planets were discovered within 1.58-2.15 AU away from their host star
 "24652C04-A9C9-43D3-9A02-17040FCECA89" = "HD 5319, also known as BD+00 142, is a K-type subgiant star about 397.35 light-years away in the constellation Cetus. Two gas giant planets were discovered within 1.58-2.15 AU away from their host star";
@@ -1086,6 +1086,9 @@
 
 // English: Kepler-371, also known as KOI-2194, is a Sun-like star about 2,715 light-years away in the constellation Cygnus. As of 2023, it has two confirmed neptunian planets, and an additional superterran planet that, if confirmed, will likely be listed as a potentially habitable world\n\nNOTE: The unconfirmed, potentially habitable planet of Kepler-371 can be downloaded on the \"Exoplanets: Unconfirmed\" category
 "3C40F1A8-8600-48D3-9F13-22ABE36D95C3" = "Kepler-371, also known as KOI-2194, is a Sun-like star about 2,715 light-years away in the constellation Cygnus. As of 2023, it has two confirmed neptunian planets, and an additional superterran planet that, if confirmed, will likely be listed as a potentially habitable world\n\nNOTE: The unconfirmed, potentially habitable planet of Kepler-371 can be downloaded on the \"Exoplanets: Unconfirmed\" category";
+
+// English: Bogano is a largely unexplored grassy planet orbiting three suns in the Outer Rim, formerly inhabited by the ancient Zeffo Race. It was rediscovered by the Jedi Master Eno Cordova, and later became the base of operations of Cal Kestis during the events of the 2019 game, Jedi: Fallen Order
+"3C4DC4F9-E445-4A5E-B49A-FBBAB3AF6AE9" = "Bogano is a largely unexplored grassy planet orbiting three suns in the Outer Rim, formerly inhabited by the ancient Zeffo Race. It was rediscovered by the Jedi Master Eno Cordova, and later became the base of operations of Cal Kestis during the events of the 2019 game, Jedi: Fallen Order";
 
 // English: Kepler-1658 is an F-type subgiant star about 2,629 light-years away in the constellation Cygnus. A Jupiter-sized planet is found orbiting its star once every 4.31 days
 "3C507C33-D07E-4C0A-BA96-65A09265351E" = "Kepler-1658 is an F-type subgiant star about 2,629 light-years away in the constellation Cygnus. A Jupiter-sized planet is found orbiting its star once every 4.31 days";
@@ -1969,8 +1972,8 @@
 // English: The Milky Way is an SBc-type barred spiral galaxy with a isophotal diameter estimated at 87,400 light-years across. It is estimated to contain more than 100-400 billion stars, including the Sun itself.\n\nThis addon includes two models that depict its actual photographic view as seen from Earth and an artistic interpretation of what our galaxy might look like when viewed from the outside
 "6EB74087-3502-C384-D95C-66A96C929A9C" = "The Milky Way is an SBc-type barred spiral galaxy with a isophotal diameter estimated at 87,400 light-years across. It is estimated to contain more than 100-400 billion stars, including the Sun itself.\n\nThis addon includes two models that depict its actual photographic view as seen from Earth and an artistic interpretation of what our galaxy might look like when viewed from the outside";
 
-// English: This adds the planet Naboo around Jestr's Star
-"6ED8337F-42F6-41DC-A511-62487EF4751E" = "This adds the planet Naboo around Jestr's Star";
+// English: Naboo is a lush, bountiful planet located in the Outer Rim. It is mostly populated by humans and the Gungans who are now peacefully co-existing thanks to the efforts of Queen/Senator Padme Amidala in 32 BBY. It is also the homeworld of Emperor Palpatine (Darth Sidious)
+"6ED8337F-42F6-41DC-A511-62487EF4751E" = "Naboo is a lush, bountiful planet located in the Outer Rim. It is mostly populated by humans and the Gungans who are now peacefully co-existing thanks to the efforts of Queen/Senator Padme Amidala in 32 BBY. It is also the homeworld of Emperor Palpatine (Darth Sidious)";
 
 // English: TOI-206 is a red dwarf star about 155.94 light-years away in the constellation Dorado. In 2022, a superterran planet 77% larger than Earth was discovered in an extremely close distance of only 1.67 million km from its host star, completing an orbit once every 17.67 hours
 "6F4EB87D-30DC-4CA7-9179-FC76869D12DA" = "TOI-206 is a red dwarf star about 155.94 light-years away in the constellation Dorado. In 2022, a superterran planet 77% larger than Earth was discovered in an extremely close distance of only 1.67 million km from its host star, completing an orbit once every 17.67 hours";
@@ -2140,8 +2143,8 @@
 // English: KMT-2016-BLG-2142L is a distant T-type brown dwarf about 22,864 light-years away in the constellation Sagittarius. It is accompanied by a massive superjovian planet or another low-end brown dwarf at a distance of 0.8 AU, which was spotted through microlensing
 "792C834E-BA90-4058-A54E-835E465B1CB4" = "KMT-2016-BLG-2142L is a distant T-type brown dwarf about 22,864 light-years away in the constellation Sagittarius. It is accompanied by a massive superjovian planet or another low-end brown dwarf at a distance of 0.8 AU, which was spotted through microlensing";
 
-// English: This adds the planet Geonosis around Jestr's Star.
-"792EE689-B933-44B5-85EB-16CADE7BF4B2" = "This adds the planet Geonosis around Jestr's Star.";
+// English: Geonosis is a ringed rocky planet in the Outer Rim not very far from Tatooine. Homeworld of the insect-like Geonosians, this planet is the site of the battle that started the Clone Wars in 22 BBY
+"792EE689-B933-44B5-85EB-16CADE7BF4B2" = "Geonosis is a ringed rocky planet in the Outer Rim not very far from Tatooine. Homeworld of the insect-like Geonosians, this planet is the site of the battle that started the Clone Wars in 22 BBY";
 
 // English: Qatar-7, also known as Gaia-TROI-196, is an F-type main sequence star about 2,348 light-years away in the constellation Andromeda. A super-Jovian planet about 1.88 times the mass of Jupiter completes an orbit around its star once every 2.03 days
 "797A2570-AF34-47B3-ACC1-EFFBD8DB83AD" = "Qatar-7, also known as Gaia-TROI-196, is an F-type main sequence star about 2,348 light-years away in the constellation Andromeda. A super-Jovian planet about 1.88 times the mass of Jupiter completes an orbit around its star once every 2.03 days";
