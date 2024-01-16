@@ -1711,6 +1711,9 @@
 // English: Kepler-418 is a spectral type G2 star located 3,365.55 light-years from Earth, and as of September 2023, two gas giant planets have been detected in its orbit
 "5EC9EED9-90A7-4F91-B3CF-ACF3A6CE40AB" = "Kepler-418 is a spectral type G2 star located 3,365.55 light-years from Earth, and as of September 2023, two gas giant planets have been detected in its orbit";
 
+// English: SPECULOOS-3 is a nearby red dwarf star only about 54.63 light-years away in the constellation Cygnus. A single rocky planet about the same size as Earth is discovered in 2023, orbiting just a million km away from its host star
+"5F1E4C6B-53F6-4F81-818E-DCEFB7047797" = "SPECULOOS-3 is a nearby red dwarf star only about 54.63 light-years away in the constellation Cygnus. A single rocky planet about the same size as Earth is discovered in 2023, orbiting just a million km away from its host star";
+
 // English: The Van Allen Probes (VAP), formerly known as the Radiation Belt Storm Probes (RBSP), were two NASA robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth. Understanding the radiation belt environment and its variability has practical applications in the areas of spacecraft operations, spacecraft system design, mission planning and astronaut safety. The probes were launched on a single Atlas V rocket on 2012-Aug-30 and operated for seven years. Both spacecraft were deactivated in 2019 when they ran out of fuel and are are expected to deorbit sometime in the 2030s.
 "5F6DB3D8-E801-2540-08EB-3A35A6A1851D" = "The Van Allen Probes (VAP), formerly known as the Radiation Belt Storm Probes (RBSP), were two NASA robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth. Understanding the radiation belt environment and its variability has practical applications in the areas of spacecraft operations, spacecraft system design, mission planning and astronaut safety. The probes were launched on a single Atlas V rocket on 2012-Aug-30 and operated for seven years. Both spacecraft were deactivated in 2019 when they ran out of fuel and are are expected to deorbit sometime in the 2030s.";
 
@@ -2394,6 +2397,9 @@
 
 // English: The \"Red\" Planet as seen by the Mariner probes during their visit in 1969 (Mariner 6 and 7) and 1972 (Mariner 9). The first ever global maps of Mars are made in B&W due to the probes lacking a color camera at the time. These maps were obtained digitally from The Planetary Society site
 "887D5981-1CB1-329A-A833-BA6ED65E419B" = "The \"Red\" Planet as seen by the Mariner probes during their visit in 1969 (Mariner 6 and 7) and 1972 (Mariner 9). The first ever global maps of Mars are made in B&W due to the probes lacking a color camera at the time. These maps were obtained digitally from The Planetary Society site";
+
+// English: IRAS 12272-6240 is a small star-forming region located about 30,332 light years away in the constellation Crux. It's very young and still shrouded in lots of dust. A few O-type stars and two very young star clusters have been discovered in this region
+"88A0081B-3FFD-4EFA-B307-F143CCB393DD" = "IRAS 12272-6240 is a small star-forming region located about 30,332 light years away in the constellation Crux. It's very young and still shrouded in lots of dust. A few O-type stars and two very young star clusters have been discovered in this region";
 
 // English: HD 141399 is a K-type main sequence star about 120.86 light-years away in the constellation Bootes. It has a total of four gas giant planets, all of which are larger in radii than Jupiter itself
 "88A0BA1C-2363-4FDC-BB97-970197D3C552" = "HD 141399 is a K-type main sequence star about 120.86 light-years away in the constellation Bootes. It has a total of four gas giant planets, all of which are larger in radii than Jupiter itself";
@@ -4008,6 +4014,9 @@
 
 // English: HD 217107 is a G-type subgiant star located about 65.47 lightyears from the solar system. This star hosts two super-Jupiters on mildly eccentric orbits. One is a hot-Jupiter on a short orbit and the other has a long orbit that takes it close to it's hosts habitable zone.
 "DE00321F-B495-4CC3-BA03-69761D99AE6D" = "HD 217107 is a G-type subgiant star located about 65.47 lightyears from the solar system. This star hosts two super-Jupiters on mildly eccentric orbits. One is a hot-Jupiter on a short orbit and the other has a long orbit that takes it close to it's hosts habitable zone.";
+
+// English: WR 124, also known as QR Sagittae, is a Wolf–Rayet star about 20,874 light-years away in the constellation Sagitta. The star is surrounded by a ring nebula of expelled material known as M1-67. It is one of the fastest runaway stars in the Milky Way with a radial velocity around 200 km/s. It was discovered by Paul W. Merrill in 1938
+"DE2EC6D5-58F7-45F4-B9D8-04121D72D85B" = "WR 124, also known as QR Sagittae, is a Wolf–Rayet star about 20,874 light-years away in the constellation Sagitta. The star is surrounded by a ring nebula of expelled material known as M1-67. It is one of the fastest runaway stars in the Milky Way with a radial velocity around 200 km/s. It was discovered by Paul W. Merrill in 1938";
 
 // English: TOI-1937 is a binary system composed of a G-type star and a red dwarf located about 1354 light-years away from the solar system. The primary component of the system hosts a single hot Jupiter that completes an orbit every 22 hours, the planet is both larger than Jupiter (1.2 Jupiter Radii) and more massive (2.01 Jupiter Masses).
 "DE35753B-0EDA-4DD7-87D0-7335D270ABD2" = "TOI-1937 is a binary system composed of a G-type star and a red dwarf located about 1354 light-years away from the solar system. The primary component of the system hosts a single hot Jupiter that completes an orbit every 22 hours, the planet is both larger than Jupiter (1.2 Jupiter Radii) and more massive (2.01 Jupiter Masses).";
