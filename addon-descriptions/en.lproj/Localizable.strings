@@ -3301,8 +3301,8 @@
 // English: KOI-7235 is a Sun-like star about 3,713 light-years in the constellation Lyra. In 2015, signatures of an Earth-sized planet orbiting right in the star's habitable zone was detected, however its existence is yet to be confirmed by follow-up studies\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first
 "B7266580-B32B-2DFF-6785-D350E8E76001" = "KOI-7235 is a Sun-like star about 3,713 light-years in the constellation Lyra. In 2015, signatures of an Earth-sized planet orbiting right in the star's habitable zone was detected, however its existence is yet to be confirmed by follow-up studies\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first";
 
-// English: Kepler-454, while hosts two confirmed planets, also has two candidate planets both super-Jupiters that continue the system's trend of spread out planets (Ad= 2.31 Mj | Ae= 5.3 Mj).
-"B7BBEAA0-892C-40EB-84DB-170A3579CC9B" = "Kepler-454, while hosts two confirmed planets, also has two candidate planets both super-Jupiters that continue the system's trend of spread out planets (Ad= 2.31 Mj | Ae= 5.3 Mj).";
+// English: Kepler-454, while known to have a transiting mini-Neptune and two super-Jupiters, has an addtional super-Jupiter candidate on a 48-year orbit
+"B7BBEAA0-892C-40EB-84DB-170A3579CC9B" = "Kepler-454, while known to have a transiting mini-Neptune and two super-Jupiters, has an addtional super-Jupiter candidate on a 48-year orbit";
 
 // English: Kepler-50, aka KOI-262, is an F-type main sequence star located about 821.63 lightyears from the solar system. Two ultra-hot super-Earths orbit very tightly to both each other and this star.
 "B7D5832D-956C-435B-8BD8-CE6C5FF5751D" = "Kepler-50, aka KOI-262, is an F-type main sequence star located about 821.63 lightyears from the solar system. Two ultra-hot super-Earths orbit very tightly to both each other and this star.";
