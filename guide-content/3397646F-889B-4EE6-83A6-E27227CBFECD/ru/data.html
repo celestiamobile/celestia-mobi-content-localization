@@ -1,0 +1,72 @@
+<div class="mobile-only">
+<table>
+    <style>.tutorial-icon { width:32px;height:32px } .theme-dark .tutorial-icon { filter:invert(1) }</style>
+    <tr>
+        <td><img class="tutorial-icon" src="{0}"></td>
+        <td>Переключение между режимами работы с объектом и камерой осуществляется через кнопку на боковой панели.</td>
+    </tr>
+    <tr>
+        <td rowspan="2"><img class="tutorial-icon" src="{1}"></td>
+        <td>В режиме работы с объектом проведите пальцем для вращения.</td>
+    </tr>
+    <tr>
+        <td>Щипок пальцами приблизит/отдалит объект.</td>
+    </tr>
+    <tr>
+        <td rowspan="2"><img class="tutorial-icon" src="{2}"></td>
+        <td>В режиме работы с камерой проведите пальцем для смещения поля зрения.</td>
+    </tr>
+    <tr>
+        <td>Щипок пальцами увеличит/уменьшит поле зрения.</td>
+    </tr>
+</table>
+<p style="height:1em"></p>
+</div>
+<div class="xbox-only">
+    <h3>Basic Navigation</h3>
+    <p>
+        Like other apps on Xbox, Celestia uses the same navigation system. When the UI overlay is activated (for example, when you open a dialog or activate the menu via menu button), you can navigation
+        through the buttons using the thumbstick or direction pad buttons. Press A and most likely you will invoke the action that the focus is in. Press B and most likely you will
+        close the dialog or other overlay.
+    </p>
+    <h3>Game Controller Actions</h3>
+    <p>
+        The vanilla Celestia for Win32 has limited support for game controllers, but we've added support more game controller button actions and features.
+        A list of game controller actions is provided <a href="celguide://guide?guide=72B827A7-7164-6A3E-2557-4C164E14E95C">here</a>. To customize the button and thumbstick actions, follow these steps:
+    </p>
+    <p>Press menu/select button to bring up the menu</p>
+    <p><img class="full-width-image" src="{3}"></p>
+    <p>Navigation to File, then Settings</p>
+    <p><img class="full-width-image" src="{4}"></p>
+    <p>Open Setting via button A, navigate to the main content and press A to enter</p>
+    <p><img class="full-width-image" src="{5}"></p>
+    <p>Navigate the the Game Controller tab, it might be hidden in ...</p>
+    <p><img class="full-width-image" src="{6}"></p>
+    <p>Navigate into the settings, and change actions according to your like</p>
+    <p><img class="full-width-image" src="{7}"></p>
+    <p>When you are done, go back by pressing button B</p>
+    <h3>Free Flight Mode</h3>
+    <p>With a game controller you can explore with free flight mode of Celestia. The setting is in Navigation → Flight Mode. To learn more about flight modes, visit <a href="celguide://guide?guide=7013117F-362E-7138-59BB-B9ED52ADECF1">here</a>.</p>
+    <p><img class="full-width-image" src="{8}"></p>
+    <p style="height:1em"></p>
+</div>
+<div class="visionos-only">
+    <h3>Basic Navigation</h3>
+    <p>You can select an object by looking at it and tapping your fingers together. By dragging with your fingers together, you move camera's field of view. By pinching with two hands, you change your distance to the selected object.</p>
+    <h3>Game Controller Actions</h3>
+    <p>Celestia for visionOS works better with a game controller connected. You can find and customize the game controller actions in Settings → Game Controller. A list of game controller actions is provided <a href="celguide://guide?guide=72B827A7-7164-6A3E-2557-4C164E14E95C">here</a>.</p>
+    <p><img class="full-width-image" src="{9}"></p>
+    <h3>Free Flight Mode</h3>
+    <p>With a game controller connected, you can explore with free flight mode of Celestia. The setting is in Camera Control → Flight Mode. To learn more about flight modes, visit <a href="celguide://guide?guide=7013117F-362E-7138-59BB-B9ED52ADECF1">here</a>.</p>
+    <p><img class="full-width-image" src="{10}"></p>
+    <h3>Time/Travel Speed Control</h3>
+    <p>You can control time and the speed of traveling with the actions attached to the bottom of the dashboard view. For time control, ⏪ and ⏩ change the speed of time by 10x per tap. For travel speed control, ⏪ and ⏩ work with long presses.</p>
+    <p><img class="full-width-image" src="{11}"></p>
+    <p style="height:1em"></p>
+</div>
+<style>.tutorial-button { width:calc(100% - 18px);text-align:center; } @media only screen and (max-width: 1068px) { .tutorial-button { width:calc(100% - 22px); } } .mobile-only {display:none} .xbox-only {display:none} .visionos-only{display: none} .ios .mobile-only { display:block } .android .mobile-only { display:block } .xbox .xbox-only { display:block } .visionos .visionos-only{ display: block}</style>
+<script>function runDemoScript() { Celestia.sendMessage("runDemo", JSON.stringify({}), 4);}</script>
+<p><button onclick="runDemoScript()" class="button-filled tutorial-button">Демонстрационный сценарий</button></p>
+<p><button onclick="location.href='celguide://guide?guide=BE1B5023-46B6-1F10-F15F-3B3F02F30300'" class="button-filled tutorial-button">Управление мышью/клавиатурой</button></p>
+<p><button onclick="location.href='celguide://guide?guide=D1A96BFA-00BB-0089-F361-10DD886C8A4F'" class="button-filled tutorial-button">Как использовать дополнения</button></p>
+<p><button onclick="location.href='celguide://guide?guide=A0AB3F01-E616-3C49-0934-0583D803E9D0'" class="button-filled tutorial-button">Сценарии и ссылки</button></p>
