@@ -3631,6 +3631,9 @@
 // English: Huya is a 2:3 resonant Kuiper Belt object (plutino) about 406 km in diameter. It has a large natural satellite that is relatively massive enough to shift the system's center of gravity away from Huya itself
 "C86CF92B-FEEE-BAD7-6D82-8E7012AEEEDB" = "Huya is a 2:3 resonant Kuiper Belt object (plutino) about 406 km in diameter. It has a large natural satellite that is relatively massive enough to shift the system's center of gravity away from Huya itself";
 
+// English: OGLE-2011-BLG-0173L is a distant red dwarf located about 21,200 lightyears from the solar system, near the galactic core. This star is known to host a single sub-Saturn mass planet at around 10 AU from the host, found through microlensing.
+"C8838F27-DE4B-4F7C-8F72-26C9F7B66DC4" = "OGLE-2011-BLG-0173L is a distant red dwarf located about 21,200 lightyears from the solar system, near the galactic core. This star is known to host a single sub-Saturn mass planet at around 10 AU from the host, found through microlensing.";
+
 // English: This addon adds, as an alternative surface, a topographic map for the planet Venus.
 "C88D24A7-67FB-44F1-B7F3-350EC1D2CD07" = "This addon adds, as an alternative surface, a topographic map for the planet Venus.";
 
