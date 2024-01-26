@@ -892,8 +892,8 @@
 // English: TOI-2583 is a binary system consisting of G and M-type stars located about 1,845.75 lightyears away from the solar system. The brighter of the two hosts a hot Jupiter (b= 1.29 Rj) with a really low density (b= 0.144 g/cm^3) orbiting every 4.52 days.
 "31765CC3-1CC6-4391-9E80-C07E4C81DCB8" = "TOI-2583 is a binary system consisting of G and M-type stars located about 1,845.75 lightyears away from the solar system. The brighter of the two hosts a hot Jupiter (b= 1.29 Rj) with a really low density (b= 0.144 g/cm^3) orbiting every 4.52 days.";
 
-// English: This addon adds a 3D model for Saturn's moon Enceladus, based on data from the Cassini spacecraft.
-"318391BE-B70C-EBB7-9456-81A37AABDBC1" = "This addon adds a 3D model for Saturn's moon Enceladus, based on data from the Cassini spacecraft.";
+// English: This addon enhances Saturn's moon Enceladus, including: \n\n- xyzv trajectory from 2004 to 2018 to cover the Cassini mission, ensuring more accurate flybys. \n- 3D model based on Cassini data. \n- Alternative texture of enhanced colors.
+"318391BE-B70C-EBB7-9456-81A37AABDBC1" = "This addon enhances Saturn's moon Enceladus, including: \n\n- xyzv trajectory from 2004 to 2018 to cover the Cassini mission, ensuring more accurate flybys. \n- 3D model based on Cassini data. \n- Alternative texture of enhanced colors.";
 
 // English: This addon adds fictional rings around the Earth.
 "31F279A8-BE40-FB0E-1D42-BBE5CADD6EDF" = "This addon adds fictional rings around the Earth.";
