@@ -676,6 +676,9 @@
 // English: Gliese 7, aka TOI-198, is a red dwarf located about 77.36 lightyears from the solar system. the star hosts a single warm super-Earth (b= 1.44 Re, 4 Me) completing a full revolution around the star every 10.2 days.
 "27876447-2C24-46E1-A6A3-41BCB32A45CF" = "Gliese 7, aka TOI-198, is a red dwarf located about 77.36 lightyears from the solar system. the star hosts a single warm super-Earth (b= 1.44 Re, 4 Me) completing a full revolution around the star every 10.2 days.";
 
+// English: This addon adds, as an alternative surface, the Earth without water, with its drained oceans.
+"27A6D025-2D20-4AB0-B608-94C1D79592A7" = "This addon adds, as an alternative surface, the Earth without water, with its drained oceans.";
+
 // English: TOI-5678 is a G-type main sequence star with a metallicity similar to the Sun's located about 539.17 lightyears from the solar system. This numerically aligned TOI has a single Neptune-like planet on a 48-day orbit (b= 4.91 Re, 20 Me)
 "27ACF7DB-AB3C-4073-8D74-146B68297A97" = "TOI-5678 is a G-type main sequence star with a metallicity similar to the Sun's located about 539.17 lightyears from the solar system. This numerically aligned TOI has a single Neptune-like planet on a 48-day orbit (b= 4.91 Re, 20 Me)";
 
@@ -838,6 +841,9 @@
 // English: 59 Virginis b, also known as Gliese 504b is a gas giant exoplanet discovered in 2013 with data from the Kepler space telescope. This exoplanet is located around the star 59 Virginis 57 light-years away from Earth in the constellation Virgo. This exoplanet is believed to have a pink color.
 "2F7268ED-094F-4BFA-DB28-F1889627C2FD" = "59 Virginis b, also known as Gliese 504b is a gas giant exoplanet discovered in 2013 with data from the Kepler space telescope. This exoplanet is located around the star 59 Virginis 57 light-years away from Earth in the constellation Virgo. This exoplanet is believed to have a pink color.";
 
+// English: This addon adds, with an alternative surface, a map of light pollution around the globe.
+"2F8AC062-030F-4A35-A13B-548D037A2D8B" = "This addon adds, with an alternative surface, a map of light pollution around the globe.";
+
 // English: TOI-1246 f (TOI-1246.05) is the outmost planet candidate of TOI-1246, the candidate itself was found within the RV data of TOI-1246 and has an estimated mass of 25.6 Me.\n\nNOTE: an existing TOI-1246 addon must be installed in order to have this addon work properly
 "2FD40FAD-8B26-4A61-8354-A0537BD33B79" = "TOI-1246 f (TOI-1246.05) is the outmost planet candidate of TOI-1246, the candidate itself was found within the RV data of TOI-1246 and has an estimated mass of 25.6 Me.\n\nNOTE: an existing TOI-1246 addon must be installed in order to have this addon work properly";
 
@@ -951,6 +957,9 @@
 
 // English: This addon adds a fictional Earth-like moon to TOI-2257 b\n\nNOTES\n- An add-on for TOI-2257 is recommended to get the full effect, but it's not required
 "351C6C97-7C6A-4193-8243-15449FFA87A9" = "This addon adds a fictional Earth-like moon to TOI-2257 b\n\nNOTES\n- An add-on for TOI-2257 is recommended to get the full effect, but it's not required";
+
+// English: This addon adds, as an alternative surface, a temperature map of the Earth's surface.
+"355CDB1A-CF25-47E9-9F5F-40731E3F1770" = "This addon adds, as an alternative surface, a temperature map of the Earth's surface.";
 
 // English: MOA-2007-BLG-192L is a low-mass red dwarf star or brown dwarf about 2,283 light-years away in the constellation Sagittarius. Its mass is only 6% that of the Sun. A planet about 3 times the mass of Earth, either a massive terrestrial planet or a low-mass ice giant (depicted here as the latter), was found orbiting this star in 2008.
 "355F79CE-B8ED-4250-9D1B-E92C9BC8D1F6" = "MOA-2007-BLG-192L is a low-mass red dwarf star or brown dwarf about 2,283 light-years away in the constellation Sagittarius. Its mass is only 6% that of the Sun. A planet about 3 times the mass of Earth, either a massive terrestrial planet or a low-mass ice giant (depicted here as the latter), was found orbiting this star in 2008.";
@@ -1173,6 +1182,9 @@
 
 // English: Hubble 12 (also known as PN G111.8-02.8) is a planetary nebula about 9,392 light-years away in the constellation Cassiopeia.
 "400B3B1F-8F84-A14D-ECE1-E362159E810E" = "Hubble 12 (also known as PN G111.8-02.8) is a planetary nebula about 9,392 light-years away in the constellation Cassiopeia.";
+
+// English: This addon adds, as an alternative surface, a map of aerosols in the Earth's atmosphere. Aerosols are small solid particles of dust or liquids (such as water) suspended in the atmosphere, and can be of natural or artificial origin.
+"401D5F3C-FE29-4927-80C3-A6B9F6EEB752" = "This addon adds, as an alternative surface, a map of aerosols in the Earth's atmosphere. Aerosols are small solid particles of dust or liquids (such as water) suspended in the atmosphere, and can be of natural or artificial origin.";
 
 // English: Kepler-9, aka KOI-377, is a G-type main sequence star located about 2061.28 lightyears from the solar system. two low-density, resonant sub-Jupiters as well as a close, hot super-Earth orbit this star. This was one of the first systems where Transit Timing Variations were used to measure the masses of it's planets.
 "4024329A-BD74-1FA1-1B93-18B02781390D" = "Kepler-9, aka KOI-377, is a G-type main sequence star located about 2061.28 lightyears from the solar system. two low-density, resonant sub-Jupiters as well as a close, hot super-Earth orbit this star. This was one of the first systems where Transit Timing Variations were used to measure the masses of it's planets.";
