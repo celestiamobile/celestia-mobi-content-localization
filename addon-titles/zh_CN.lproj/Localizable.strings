@@ -2245,8 +2245,8 @@
 // English: HD 9446
 //"7CA84524-4A19-40BF-9C08-22EA0638B39D" = "HD 9446";
 
-// English: Venus Surface Map
-//"7CB3DA88-F897-411D-907A-E673E9FCB639" = "Venus Surface Map";
+// English: Venus: Surface Map
+//"7CB3DA88-F897-411D-907A-E673E9FCB639" = "Venus: Surface Map";
 
 // English: Venera 15 and 16
 //"7D0E1E02-3591-6B85-9B5F-0F24283BE93B" = "Venera 15 and 16";
@@ -3649,8 +3649,8 @@
 // English: OGLE-2011-BLG-0173L
 //"C8838F27-DE4B-4F7C-8F72-26C9F7B66DC4" = "OGLE-2011-BLG-0173L";
 
-// English: Venus Topography
-//"C88D24A7-67FB-44F1-B7F3-350EC1D2CD07" = "Venus Topography";
+// English: Venus: Topography
+//"C88D24A7-67FB-44F1-B7F3-350EC1D2CD07" = "Venus: Topography";
 
 // English: HD 85512
 //"C8EDBBB9-BAED-9C52-7E71-62A40C9F256E" = "HD 85512";
@@ -4549,14 +4549,14 @@
 // English: Landsat 7
 //"F7F60BA2-F2A8-CD21-0719-868BC55688C4" = "Landsat 7";
 
-// English: Earth's Auroras
-//"F8120336-675B-A499-4DE2-84C8529957CC" = "Earth's Auroras";
+// English: Earth: Auroras
+//"F8120336-675B-A499-4DE2-84C8529957CC" = "Earth: Auroras";
 
 // English: Kepler-1653
 //"F85558E6-324C-496A-AE7B-29D66AC97E6F" = "Kepler-1653";
 
-// English: Earth's History
-//"F86AC158-FD5E-409E-83A1-6FEB3120F4F8" = "Earth's History";
+// English: Earth: Geological History
+//"F86AC158-FD5E-409E-83A1-6FEB3120F4F8" = "Earth: Geological History";
 
 // English: Europa Clipper
 //"F86D2949-C7F8-2D3E-CF22-15571E24319D" = "Europa Clipper";
@@ -4642,8 +4642,8 @@
 // English: TOI-2525
 //"FD693680-F6C5-466D-AFB9-F230C3AECB2C" = "TOI-2525";
 
-// English: Earth Topography
-//"FEB48E74-9F16-4096-AAC1-E056DC3902A1" = "Earth Topography";
+// English: Earth: Topography
+//"FEB48E74-9F16-4096-AAC1-E056DC3902A1" = "Earth: Topography";
 
 // English: Fermi
 //"FEFEEF6A-5FC3-6324-41F8-88FCDB850E3C" = "Fermi";
