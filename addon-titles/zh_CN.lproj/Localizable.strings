@@ -1597,8 +1597,8 @@
 // English: PSR J1939+2134
 //"5573B16A-3B58-41D3-83C9-8B058D752969" = "PSR J1939+2134";
 
-// English: Mercury
-//"55D37C62-DC85-852F-9772-5F99EB99CD6D" = "Mercury";
+// English: Mercury: Surface Map
+//"55D37C62-DC85-852F-9772-5F99EB99CD6D" = "Mercury: Surface Map";
 
 // English: 136617 (1994 CC)
 //"56739FD8-D50B-E6FC-AA54-258E4018079D" = "136617 (1994 CC)";
@@ -4249,8 +4249,8 @@
 // English: TOI-836
 //"E7D81D0E-C7A5-450E-BD4A-4F3F00D2A416" = "TOI-836";
 
-// English: Mercury Topography
-//"E83FDA9D-4DE7-43B6-BF6C-9369212BF5A5" = "Mercury Topography";
+// English: Mercury: Topography
+//"E83FDA9D-4DE7-43B6-BF6C-9369212BF5A5" = "Mercury: Topography";
 
 // English: Kepler-1181
 //"E8803DD0-6992-4269-9EC4-E92C4AAA761A" = "Kepler-1181";
@@ -4588,8 +4588,8 @@
 // English: Genesis
 //"F9BBF8E5-D5FD-18CF-14A3-7A3AEA13771B" = "Genesis";
 
-// English: Mercury (Enhanced color)
-//"FA51D68A-59E9-416F-A484-C6B9AABC4E29" = "Mercury (Enhanced color)";
+// English: Mercury: Enhanced Color
+//"FA51D68A-59E9-416F-A484-C6B9AABC4E29" = "Mercury: Enhanced Color";
 
 // English: Tau Ceti
 //"FA6CF095-3F59-E60A-A4C4-F4C162814770" = "Tau Ceti";
