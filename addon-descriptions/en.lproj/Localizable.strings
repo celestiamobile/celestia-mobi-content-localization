@@ -325,6 +325,9 @@
 // English: Tyche is a gas giant planet that was theorized to exist about 15,000 AU from the Sun, effectively orbiting inside the Oort Cloud. This was first theorized by Dr. John Matese, et. al., of the University of Louisiana at Lafayette in 1999, arguing that its gravitational influence is responsible for long-period comets coming towards the inner Solar System. Observations by the WISE Observatory in 2014 rules out a Jupiter-sized object out to 26,000 AU, thus indicating Tyche does not truly exist\n(NOTE: This is an entirely different object from Planet Nine, which was first proposed by Mike Brown in 2016, a full two years after Tyche was disproven)
 "12A6D98F-EE9E-1872-B282-949A6FCD4359" = "Tyche is a gas giant planet that was theorized to exist about 15,000 AU from the Sun, effectively orbiting inside the Oort Cloud. This was first theorized by Dr. John Matese, et. al., of the University of Louisiana at Lafayette in 1999, arguing that its gravitational influence is responsible for long-period comets coming towards the inner Solar System. Observations by the WISE Observatory in 2014 rules out a Jupiter-sized object out to 26,000 AU, thus indicating Tyche does not truly exist\n(NOTE: This is an entirely different object from Planet Nine, which was first proposed by Mike Brown in 2016, a full two years after Tyche was disproven)";
 
+// English: This addon adds, as an alternative surface, a topographic map for our Moon.
+"12AFEF12-A720-49E3-B6CB-C44006D79C9E" = "This addon adds, as an alternative surface, a topographic map for our Moon.";
+
 // English: Hoth is a remote ice planet in the Outer Rim, where it served as the main Rebel Base after they were discovered in Yavin IV by the Empire until 3 ABY
 "12DF76D8-7C06-4B0A-9380-2504BC9719D9" = "Hoth is a remote ice planet in the Outer Rim, where it served as the main Rebel Base after they were discovered in Yavin IV by the Empire until 3 ABY";
 
@@ -4233,6 +4236,9 @@
 
 // English: Mars Express is an active ESA space probe currently orbiting Mars. It was launched from Baikonur on 2003-Jun-2, and deployed a lander (Beagle 2) on 2003-Dec-25. However, Beagle 2 never established contact back to Earth upon landing intact, and it is not found until it was spotted by MRO on 2015-Jan-16. Its mission is dedicated to the study of the Martian surface, atmosphere and environment at orbital altitudes.
 "E77176A6-B1DC-A21B-F57B-7E07F680451C" = "Mars Express is an active ESA space probe currently orbiting Mars. It was launched from Baikonur on 2003-Jun-2, and deployed a lander (Beagle 2) on 2003-Dec-25. However, Beagle 2 never established contact back to Earth upon landing intact, and it is not found until it was spotted by MRO on 2015-Jan-16. Its mission is dedicated to the study of the Martian surface, atmosphere and environment at orbital altitudes.";
+
+// English: This addon adds, as an alternative surface, a geologic map for our Moon.
+"E7B91904-8690-41D2-B97F-92155C39246B" = "This addon adds, as an alternative surface, a geologic map for our Moon.";
 
 // English: CW Leonis is a well-studied carbon star about 309 light-years away in the constellation Leo. It is embedded in a thick envelope of gas which indicates that the dying red giant is slowly turning into a white dwarf in the near future, doing so in the last 69,000 years
 "E7BD59D4-4781-A0FA-EA56-8BC77012B41D" = "CW Leonis is a well-studied carbon star about 309 light-years away in the constellation Leo. It is embedded in a thick envelope of gas which indicates that the dying red giant is slowly turning into a white dwarf in the near future, doing so in the last 69,000 years";

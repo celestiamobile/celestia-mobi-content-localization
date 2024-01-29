@@ -325,6 +325,9 @@
 // English: Tyche
 //"12A6D98F-EE9E-1872-B282-949A6FCD4359" = "Tyche";
 
+// English: Moon Topography
+//"12AFEF12-A720-49E3-B6CB-C44006D79C9E" = "Moon Topography";
+
 // English: Hoth
 //"12DF76D8-7C06-4B0A-9380-2504BC9719D9" = "Hoth";
 
@@ -676,8 +679,8 @@
 // English: Gliese 7
 //"27876447-2C24-46E1-A6A3-41BCB32A45CF" = "Gliese 7";
 
-// English: Earth without water
-//"27A6D025-2D20-4AB0-B608-94C1D79592A7" = "Earth without water";
+// English: Earth: Without Water
+//"27A6D025-2D20-4AB0-B608-94C1D79592A7" = "Earth: Without Water";
 
 // English: TOI-5678
 //"27ACF7DB-AB3C-4073-8D74-146B68297A97" = "TOI-5678";
@@ -841,8 +844,8 @@
 // English: 59 Virginis
 //"2F7268ED-094F-4BFA-DB28-F1889627C2FD" = "59 Virginis";
 
-// English: Light pollution map
-//"2F8AC062-030F-4A35-A13B-548D037A2D8B" = "Light pollution map";
+// English: Earth: Light Pollution Map
+//"2F8AC062-030F-4A35-A13B-548D037A2D8B" = "Earth: Light Pollution Map";
 
 // English: TOI-1246 f
 //"2FD40FAD-8B26-4A61-8354-A0537BD33B79" = "TOI-1246 f";
@@ -958,8 +961,8 @@
 // English: TOI-2257 b I
 //"351C6C97-7C6A-4193-8243-15449FFA87A9" = "TOI-2257 b I";
 
-// English: Earth's surface temperature
-//"355CDB1A-CF25-47E9-9F5F-40731E3F1770" = "Earth's surface temperature";
+// English: Earth: Surface Temperature
+//"355CDB1A-CF25-47E9-9F5F-40731E3F1770" = "Earth: Surface Temperature";
 
 // English: MOA-2007-BLG-192L
 //"355F79CE-B8ED-4250-9D1B-E92C9BC8D1F6" = "MOA-2007-BLG-192L";
@@ -1183,8 +1186,8 @@
 // English: PN G111.8-02.8 (Hubble 12)
 //"400B3B1F-8F84-A14D-ECE1-E362159E810E" = "PN G111.8-02.8 (Hubble 12)";
 
-// English: Atmospheric aerosols
-//"401D5F3C-FE29-4927-80C3-A6B9F6EEB752" = "Atmospheric aerosols";
+// English: Earth: Atmospheric Aerosols
+//"401D5F3C-FE29-4927-80C3-A6B9F6EEB752" = "Earth: Atmospheric Aerosols";
 
 // English: Kepler-9
 //"4024329A-BD74-1FA1-1B93-18B02781390D" = "Kepler-9";
@@ -1408,8 +1411,8 @@
 // English: Lunar Gateway
 //"4B9BC65A-312F-080D-8B27-4C78FB3E72CF" = "Lunar Gateway";
 
-// English: Io (Volcanic Plumes)
-//"4C042E19-DEB4-ABB2-90D4-D05ED22DD201" = "Io (Volcanic Plumes)";
+// English: Io: Volcanic Plumes
+//"4C042E19-DEB4-ABB2-90D4-D05ED22DD201" = "Io: Volcanic Plumes";
 
 // English: HAT-P-4
 //"4C599690-2BF5-4ED9-B4EF-F664D1687AE6" = "HAT-P-4";
@@ -3292,8 +3295,8 @@
 // English: Ross 458
 //"B53D4331-31D4-B89B-4E1E-B2F3428B7E0C" = "Ross 458";
 
-// English: Io Night
-//"B5ECBBD4-A256-C334-B119-ECE0D347D85E" = "Io Night";
+// English: Io: Night
+//"B5ECBBD4-A256-C334-B119-ECE0D347D85E" = "Io: Night";
 
 // English: TOI-1685 c
 //"B630BCE1-B82F-4BCD-BA81-1FF7D068103D" = "TOI-1685 c";
@@ -3922,8 +3925,8 @@
 // English: Arlo
 //"D7C11668-2D7A-4430-9113-463D32A77076" = "Arlo";
 
-// English: Earth (Global Water Volume)
-//"D7F38579-C851-940D-E713-EA61BB43C824" = "Earth (Global Water Volume)";
+// English: Earth: Global Water Volume
+//"D7F38579-C851-940D-E713-EA61BB43C824" = "Earth: Global Water Volume";
 
 // English: 16 Cygni
 //"D8325AFD-FDE2-8EC0-B7E4-44936061B678" = "16 Cygni";
@@ -4233,6 +4236,9 @@
 
 // English: Mars Express
 //"E77176A6-B1DC-A21B-F57B-7E07F680451C" = "Mars Express";
+
+// English: Moon Geology
+//"E7B91904-8690-41D2-B97F-92155C39246B" = "Moon Geology";
 
 // English: CW Leonis
 //"E7BD59D4-4781-A0FA-EA56-8BC77012B41D" = "CW Leonis";
