@@ -124,6 +124,9 @@
 // English: Asterix
 "06AA2998-6420-5339-71F7-C808E9C1514E" = "Asterix";
 
+// English: TOI-1853
+"06EB3688-E762-4ACB-BEC9-551553B0B14C" = "TOI-1853";
+
 // English: WASP-18
 "070A3416-B02A-638F-CA7B-54836E11724C" = "WASP-18";
 
@@ -202,8 +205,8 @@
 // English: 84522 (2002 TC₃₀₂)
 "0B89F3C2-0204-4AAF-B42A-D2E9A746A5DA" = "84522 (2002 TC₃₀₂)";
 
-// English: Jupiter Ultraviolet
-"0BE0650A-ABDF-44C3-6805-981B18577766" = "Jupiter Ultraviolet";
+// English: Jupiter: Ultraviolet
+"0BE0650A-ABDF-44C3-6805-981B18577766" = "Jupiter: Ultraviolet";
 
 // English: Tselina-2
 "0BEDFBB9-2256-45F6-A5D5-B6545134BDA2" = "Tselina-2";
@@ -847,6 +850,9 @@
 // English: 59 Virginis
 "2F7268ED-094F-4BFA-DB28-F1889627C2FD" = "59 Virginis";
 
+// English: Mars: Topography
+"2F8A2E61-DF48-4A08-A098-A3DB5C3E0C1D" = "Mars: Topography";
+
 // English: Earth: Light Pollution Map
 "2F8AC062-030F-4A35-A13B-548D037A2D8B" = "Earth: Light Pollution Map";
 
@@ -955,8 +961,8 @@
 // English: Runaway Star
 "347F2CD3-6EC7-4850-F416-DF95E121E789" = "Runaway Star";
 
-// English: Jupiter Infrared
-"348330EE-3591-A3E8-7CBD-D57A87CC6A14" = "Jupiter Infrared";
+// English: Jupiter: Infrared
+"348330EE-3591-A3E8-7CBD-D57A87CC6A14" = "Jupiter: Infrared";
 
 // English: Kamino
 "3505390D-F441-4D72-B539-9381F5184A82" = "Kamino";
@@ -1407,6 +1413,9 @@
 
 // English: Gliese 265
 "4B1D67EF-5968-463B-88EF-A104A787375B" = "Gliese 265";
+
+// English: OGLE-TR-56
+"4B1D7FF7-E04F-4479-AF59-FB8601E65866" = "OGLE-TR-56";
 
 // English: WASP-17
 "4B26BAD4-48AE-9B64-11B5-51F029AE254A" = "WASP-17";
@@ -2037,6 +2046,9 @@
 
 // English: GJ 4332
 "71361762-3625-4E90-A8C6-2BA14BE3B665" = "GJ 4332";
+
+// English: LHS 3154
+"71571543-35EE-412D-8F8F-9BD29EA1AFB9" = "LHS 3154";
 
 // English: 20 Massalia
 "716522DA-62BB-4592-B3ED-E4BA1895E29D" = "20 Massalia";
@@ -3298,8 +3310,8 @@
 // English: HD 177830
 "B52D808B-CEE0-4BED-8D92-5FF45EEA8BB9" = "HD 177830";
 
-// English: Jupiter Radio
-"B5302AC0-08D5-9F69-D8CA-67FA10B628B9" = "Jupiter Radio";
+// English: Jupiter: Radio
+"B5302AC0-08D5-9F69-D8CA-67FA10B628B9" = "Jupiter: Radio";
 
 // English: Ross 458
 "B53D4331-31D4-B89B-4E1E-B2F3428B7E0C" = "Ross 458";
@@ -3522,6 +3534,9 @@
 
 // English: Gliese 179
 "C2312828-5861-406C-8BF0-B0D47F72869A" = "Gliese 179";
+
+// English: K2-315
+"C2594CE1-1D08-4765-902F-A7011C45C32A" = "K2-315";
 
 // English: Alpha Centauri B
 "C26B6F77-124B-B569-6857-3697B522D9F5" = "Alpha Centauri B";
@@ -4219,8 +4234,8 @@
 // English: NN Serpentis
 "E5DAEDF5-90D1-BD13-2AF4-AA086CC4B4C4" = "NN Serpentis";
 
-// English: Jupiter's Auroras
-"E5E1A4EA-EE26-E97A-F7DC-949ADA42B099" = "Jupiter's Auroras";
+// English: Jupiter: Auroras
+"E5E1A4EA-EE26-E97A-F7DC-949ADA42B099" = "Jupiter: Auroras";
 
 // English: The Earth in 2001
 "E61B10E2-F7E6-AB60-06D3-A8A1F6FDAF97" = "The Earth in 2001";
@@ -4684,8 +4699,8 @@
 // English: LTT 3780
 "FF77C475-93AD-4B8F-9733-E5A83284A82C" = "LTT 3780";
 
-// English: Jupiter Locations
-"FF79F374-A4C0-44C9-8097-6BB88118C16F" = "Jupiter Locations";
+// English: Jupiter: Locations
+"FF79F374-A4C0-44C9-8097-6BB88118C16F" = "Jupiter: Locations";
 
 // English: 594913 ꞌAylóꞌchaxnim
 "FF932EBA-CF0D-F119-BEF5-921B4A1DE33F" = "594913 ꞌAylóꞌchaxnim";
