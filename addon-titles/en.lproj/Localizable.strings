@@ -274,8 +274,8 @@
 // English: Kepler-44
 "101AA9DD-4A5E-44F9-999F-7CBDA9F1C95A" = "Kepler-44";
 
-// English: Moon
-"10214FE4-EC97-F166-B7E8-5376CC2C137A" = "Moon";
+// English: Moon: Surface Map
+"10214FE4-EC97-F166-B7E8-5376CC2C137A" = "Moon: Surface Map";
 
 // English: S-IVB Apollo stages
 "106292B4-8C00-E26E-2AA7-24DE5DB680E3" = "S-IVB Apollo stages";
@@ -325,8 +325,8 @@
 // English: Tyche
 "12A6D98F-EE9E-1872-B282-949A6FCD4359" = "Tyche";
 
-// English: Moon Topography
-"12AFEF12-A720-49E3-B6CB-C44006D79C9E" = "Moon Topography";
+// English: Moon: Topography
+"12AFEF12-A720-49E3-B6CB-C44006D79C9E" = "Moon: Topography";
 
 // English: Hoth
 "12DF76D8-7C06-4B0A-9380-2504BC9719D9" = "Hoth";
@@ -537,6 +537,9 @@
 
 // English: Tesla Roadster
 "1F62F0C7-4F40-E2C6-9554-187C9AA8ED33" = "Tesla Roadster";
+
+// English: TOI-4600
+"1F75A541-650A-44E4-9630-02AFD44A31B8" = "TOI-4600";
 
 // English: TOI-540
 "1FA49171-04BC-42F3-BEA8-054CEDB4654E" = "TOI-540";
@@ -1065,6 +1068,9 @@
 
 // English: Orion III
 "38778909-864A-0AB5-BC56-DE2C17F189DB" = "Orion III";
+
+// English: Earth: Spaceports
+"387BA236-2166-4628-A117-AFC5A83B48C6" = "Earth: Spaceports";
 
 // English: OneWeb
 "387DC2D3-7BC9-4EB9-B7C6-4A2AD635696E" = "OneWeb";
@@ -1935,6 +1941,9 @@
 
 // English: 253 Mathilde
 "6AA0A1D4-BE41-874D-BF72-B8CB68707913" = "253 Mathilde";
+
+// English: Mars: Surface Map
+"6AA73C59-CF3C-497B-83E1-F12029C24D2B" = "Mars: Surface Map";
 
 // English: Phoenix
 "6B4CBBBB-E1D9-7468-B01E-ACBA4DFB1AEE" = "Phoenix";
@@ -4237,8 +4246,8 @@
 // English: Mars Express
 "E77176A6-B1DC-A21B-F57B-7E07F680451C" = "Mars Express";
 
-// English: Moon Geology
-"E7B91904-8690-41D2-B97F-92155C39246B" = "Moon Geology";
+// English: Moon: Geology
+"E7B91904-8690-41D2-B97F-92155C39246B" = "Moon: Geology";
 
 // English: CW Leonis
 "E7BD59D4-4781-A0FA-EA56-8BC77012B41D" = "CW Leonis";
