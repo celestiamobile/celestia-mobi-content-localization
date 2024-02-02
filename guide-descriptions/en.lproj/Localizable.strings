@@ -43,9 +43,6 @@
 // English: What's New in Celestia 1.5.24
 "35292BBA-E703-4CB6-BBBB-247286EFD731" = "What's New in Celestia 1.5.24";
 
-// English: Celestia on Apple Vision Pro
-"3696B037-6C16-4486-B9D8-E6A2FA71BF49" = "Celestia on Apple Vision Pro";
-
 // English: Update Add-on
 "3763B427-3A3F-55E4-A9E2-0C9A1DB6BEE4" = "Update Add-on";
 
@@ -126,6 +123,9 @@
 
 // English: Week 21, 2022: Boeing Starliner Completes Successful (2nd) Test Flight
 "99D012D7-27E8-D664-48BB-18C03C082AF3" = "Week 21, 2022: Boeing Starliner Completes Successful (2nd) Test Flight";
+
+// English: Celestia on Apple Vision Pro
+"9FC52362-A105-403D-9DDC-EC99C4C0B129" = "Celestia on Apple Vision Pro";
 
 // English: Scripts and URLs
 "A0AB3F01-E616-3C49-0934-0583D803E9D0" = "Scripts and URLs";
