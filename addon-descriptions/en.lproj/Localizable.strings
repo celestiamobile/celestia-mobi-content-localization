@@ -2782,6 +2782,9 @@
 // English: KOI-2700 is a K-type main sequence star about 1,669 light-years away in the constellation Cygnus. Its sole planet is one of the smallest exoplanets ever discovered, which is only slightly larger than our own Moon, where it completes a single orbit around its star once every 21.84 hours at a distance of 2.39 million km
 "97A54DE9-5C55-4DE6-85AC-309E0B34C078" = "KOI-2700 is a K-type main sequence star about 1,669 light-years away in the constellation Cygnus. Its sole planet is one of the smallest exoplanets ever discovered, which is only slightly larger than our own Moon, where it completes a single orbit around its star once every 21.84 hours at a distance of 2.39 million km";
 
+// English: This addon adds the \"LunarLambert\" parameter to gas/ice giants, making them visually more beautiful.\n\nComparison: On each planet, the left without LunarLambert (default). On the right, LunarLambert activated:
+"97AA656D-197A-43A2-BAD7-390A1AD14FBF" = "This addon adds the \"LunarLambert\" parameter to gas/ice giants, making them visually more beautiful.\n\nComparison: On each planet, the left without LunarLambert (default). On the right, LunarLambert activated:";
+
 // English: VFTS 352 is a contact binary star system 160,000 light-years away in the Tarantula Nebula, which is part of the Large Magellanic Cloud. It is the most massive and earliest spectral type overcontact system known.
 "97D22859-5497-6D81-5DB4-E27D9764BE82" = "VFTS 352 is a contact binary star system 160,000 light-years away in the Tarantula Nebula, which is part of the Large Magellanic Cloud. It is the most massive and earliest spectral type overcontact system known.";
 
