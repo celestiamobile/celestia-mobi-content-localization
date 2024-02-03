@@ -307,6 +307,9 @@
 // English: Kepler-435
 //"11D9F25A-32F1-476D-91D2-237CFEDABF55" = "Kepler-435";
 
+// English: NGTS-2
+//"11EA1249-59B1-41B6-B287-62BE6DC4B031" = "NGTS-2";
+
 // English: K2-18
 //"12081D7E-DBF1-4B35-887E-6CF36FE1A0FE" = "K2-18";
 
@@ -1897,6 +1900,9 @@
 // English: 51 Eridani
 //"65BB7F94-44D3-4F27-BBAA-16E43DD7F0CA" = "51 Eridani";
 
+// English: Kepler-71
+//"65FA97E2-418E-4EA0-B2E8-14A6D16B0662" = "Kepler-71";
+
 // English: C/2013 A1 (Siding Spring)
 //"66055788-51F5-79CC-37C8-CB374DE66845" = "C/2013 A1 (Siding Spring)";
 
@@ -2784,6 +2790,9 @@
 
 // English: LunarLambert for Gas/Ice Giants
 //"97AA656D-197A-43A2-BAD7-390A1AD14FBF" = "LunarLambert for Gas/Ice Giants";
+
+// English: Kepler-74
+//"97C300BB-642B-4C23-97A2-01D4D402AB80" = "Kepler-74";
 
 // English: VFTS 352
 //"97D22859-5497-6D81-5DB4-E27D9764BE82" = "VFTS 352";
@@ -4284,6 +4293,9 @@
 
 // English: Mercury: Topography
 //"E83FDA9D-4DE7-43B6-BF6C-9369212BF5A5" = "Mercury: Topography";
+
+// English: HD 158259
+//"E856A0F4-C002-4E98-98F3-12699BCD826F" = "HD 158259";
 
 // English: Kepler-1181
 //"E8803DD0-6992-4269-9EC4-E92C4AAA761A" = "Kepler-1181";

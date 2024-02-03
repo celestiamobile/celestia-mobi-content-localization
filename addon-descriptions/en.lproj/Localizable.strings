@@ -307,6 +307,9 @@
 // English: Kepler-435, also known as KOI-680 and TOI-4472, is an F-type main sequence star about 4,823 light-years away in the constellation Cygnus. A huge superjovian planet was discovered completing a 7.98-day orbit around its host star
 "11D9F25A-32F1-476D-91D2-237CFEDABF55" = "Kepler-435, also known as KOI-680 and TOI-4472, is an F-type main sequence star about 4,823 light-years away in the constellation Cygnus. A huge superjovian planet was discovered completing a 7.98-day orbit around its host star";
 
+// English: NGTS-2, also known as WASP-179 and TOI-1934, is 1162.4 light-years away from Earth. A hot Jupiter orbits it with a period of 4.51 days, and its mass is 74% that of Jupiter
+"11EA1249-59B1-41B6-B287-62BE6DC4B031" = "NGTS-2, also known as WASP-179 and TOI-1934, is 1162.4 light-years away from Earth. A hot Jupiter orbits it with a period of 4.51 days, and its mass is 74% that of Jupiter";
+
 // English: K2-18 is a red dwarf located about 124.02 lightyears from the solar system. It's known to host two planets both mini-Neptunes with the outer most orbiting in the habitable zone. K2-18 b (the outer most) is one of the only temperate planet to have its atmosphere be analyzed in which a largely methane dominate atmosphere was uncovered though some believed that it was once water dominate.\n\nthe original textures for this addon have been removed.
 "12081D7E-DBF1-4B35-887E-6CF36FE1A0FE" = "K2-18 is a red dwarf located about 124.02 lightyears from the solar system. It's known to host two planets both mini-Neptunes with the outer most orbiting in the habitable zone. K2-18 b (the outer most) is one of the only temperate planet to have its atmosphere be analyzed in which a largely methane dominate atmosphere was uncovered though some believed that it was once water dominate.\n\nthe original textures for this addon have been removed.";
 
@@ -1897,6 +1900,9 @@
 // English: 51 Eridani is a triple star system of an F-type subgiant star and two red dwarf stars about 95.89 light-years away in the constellation Eridanus. In 2014, a gas giant planet slightly larger than Jupiter was discovered around the larger subgiant star via direct imaging, which completes a single orbit about once every 32 years at a distance of 11 AU
 "65BB7F94-44D3-4F27-BBAA-16E43DD7F0CA" = "51 Eridani is a triple star system of an F-type subgiant star and two red dwarf stars about 95.89 light-years away in the constellation Eridanus. In 2014, a gas giant planet slightly larger than Jupiter was discovered around the larger subgiant star via direct imaging, which completes a single orbit about once every 32 years at a distance of 11 AU";
 
+// English: Kepler-71 is a G-type main sequence star, also known as KOI-217 and BOKS-1, located 2983.38 light-years from Earth. A massive gaseous planet orbits around it every 3.9 days\n\nNote: This add-on comes from Baidu
+"65FA97E2-418E-4EA0-B2E8-14A6D16B0662" = "Kepler-71 is a G-type main sequence star, also known as KOI-217 and BOKS-1, located 2983.38 light-years from Earth. A massive gaseous planet orbits around it every 3.9 days\n\nNote: This add-on comes from Baidu";
+
 // English: C/2013 A1 is an Oort Cloud comet that is notable for passing by very close to Mars on 2014-Oct-19. On that day, the comet encountered the Red Planet at a distance of 140,000 km. Its nucleus is estimated to be around 700-800 m in diameter
 "66055788-51F5-79CC-37C8-CB374DE66845" = "C/2013 A1 is an Oort Cloud comet that is notable for passing by very close to Mars on 2014-Oct-19. On that day, the comet encountered the Red Planet at a distance of 140,000 km. Its nucleus is estimated to be around 700-800 m in diameter";
 
@@ -2784,6 +2790,9 @@
 
 // English: This addon adds the \"LunarLambert\" parameter to gas/ice giants, making them visually more beautiful.\n\nComparison: On each planet, the left without LunarLambert (default). On the right, LunarLambert activated:
 "97AA656D-197A-43A2-BAD7-390A1AD14FBF" = "This addon adds the \"LunarLambert\" parameter to gas/ice giants, making them visually more beautiful.\n\nComparison: On each planet, the left without LunarLambert (default). On the right, LunarLambert activated:";
+
+// English: Kepler-74, also known as KOI-200, TOI-4485, and 2MASS J19322220+4121198, is 3840.7 light-years away from Earth. It is a main sequence star with a spectral type of F. A hot Jupiter can complete its orbit in just 7.34 days, and its mass is only two-thirds of that of Jupiter
+"97C300BB-642B-4C23-97A2-01D4D402AB80" = "Kepler-74, also known as KOI-200, TOI-4485, and 2MASS J19322220+4121198, is 3840.7 light-years away from Earth. It is a main sequence star with a spectral type of F. A hot Jupiter can complete its orbit in just 7.34 days, and its mass is only two-thirds of that of Jupiter";
 
 // English: VFTS 352 is a contact binary star system 160,000 light-years away in the Tarantula Nebula, which is part of the Large Magellanic Cloud. It is the most massive and earliest spectral type overcontact system known.
 "97D22859-5497-6D81-5DB4-E27D9764BE82" = "VFTS 352 is a contact binary star system 160,000 light-years away in the Tarantula Nebula, which is part of the Large Magellanic Cloud. It is the most massive and earliest spectral type overcontact system known.";
@@ -4284,6 +4293,9 @@
 
 // English: This addon adds, as an alternative surface, a topographic map for the planet Mercury.
 "E83FDA9D-4DE7-43B6-BF6C-9369212BF5A5" = "This addon adds, as an alternative surface, a topographic map for the planet Mercury.";
+
+// English: HD 158259, also known as TOI-1462, is a G-type main sequence star located 88.2 light-years away from Earth. It has six planets (one super Earth and five mini Neptune) with a mass twice to six times that of Earth. The entire system is very compact, with all six planets orbiting very close to the star, and the outermost distance from the star is only 0.38 times that of Mercury to the Sun
+"E856A0F4-C002-4E98-98F3-12699BCD826F" = "HD 158259, also known as TOI-1462, is a G-type main sequence star located 88.2 light-years away from Earth. It has six planets (one super Earth and five mini Neptune) with a mass twice to six times that of Earth. The entire system is very compact, with all six planets orbiting very close to the star, and the outermost distance from the star is only 0.38 times that of Mercury to the Sun";
 
 // English: Kepler-1181, aka KOI-2303, is an F-type main sequence star located about 3059.25 lightyears from the solar system. two hot super-Earths (b= 1.59 Re, c= 1.74 Re) orbit this star at a distance no greater than 0.93 AU.
 "E8803DD0-6992-4269-9EC4-E92C4AAA761A" = "Kepler-1181, aka KOI-2303, is an F-type main sequence star located about 3059.25 lightyears from the solar system. two hot super-Earths (b= 1.59 Re, c= 1.74 Re) orbit this star at a distance no greater than 0.93 AU.";
