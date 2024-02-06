@@ -553,6 +553,9 @@
 // English: TOI-540 is a red dwarf located about 45.64 light-years away from the solar system. The star has a single Sub-Earth (b= 0.90 Re) rocky planet orbiting it. The star itself has a high X-ray emission which would cause the planet orbiting it to undergo severe atmosphere erosion, additionally, due to its somewhat close proximity to the solar system, it could be a target for transmission and emission spectroscopy with JWST
 "1FA49171-04BC-42F3-BEA8-054CEDB4654E" = "TOI-540 is a red dwarf located about 45.64 light-years away from the solar system. The star has a single Sub-Earth (b= 0.90 Re) rocky planet orbiting it. The star itself has a high X-ray emission which would cause the planet orbiting it to undergo severe atmosphere erosion, additionally, due to its somewhat close proximity to the solar system, it could be a target for transmission and emission spectroscopy with JWST";
 
+// English: Kepler-53 is also known as KOI-829, located 4631.58 light-years away from Earth. Three sub Neptune celestial bodies orbit this F-type star
+"1FE14E87-F935-474F-B2E6-43B12B42A831" = "Kepler-53 is also known as KOI-829, located 4631.58 light-years away from Earth. Three sub Neptune celestial bodies orbit this F-type star";
+
 // English: WISE 0855-0714 is a very cool, planetary mass, free-floating Y-dwarf, which could be considered a rogue planet. It is about 7.43 light-years away in the constellation Hydra, and is the closest celestial object to the Sirius system. By default this object will appear completely dark (which is likely its true appearance in visible light); turn up ambient light to see the texture. Moon in image not included.
 "20111A1F-7747-4604-89F4-B022D856F54A" = "WISE 0855-0714 is a very cool, planetary mass, free-floating Y-dwarf, which could be considered a rogue planet. It is about 7.43 light-years away in the constellation Hydra, and is the closest celestial object to the Sirius system. By default this object will appear completely dark (which is likely its true appearance in visible light); turn up ambient light to see the texture. Moon in image not included.";
 
@@ -1627,6 +1630,9 @@
 // English: This addon adds a new high quality texture to planet Mercury. Taken directly from Celestia Origin.
 "55D37C62-DC85-852F-9772-5F99EB99CD6D" = "This addon adds a new high quality texture to planet Mercury. Taken directly from Celestia Origin.";
 
+// English: Kepler-411 (KOI-1781) is a binary star system consisting of a K-type star and an M-type star, located 503.459 light-years away from Earth. It is known that four planets orbit the main star A (one super Earth and three sub Neptune objects)
+"55E90DE7-9BB3-4B0B-B407-975C26721259" = "Kepler-411 (KOI-1781) is a binary star system consisting of a K-type star and an M-type star, located 503.459 light-years away from Earth. It is known that four planets orbit the main star A (one super Earth and three sub Neptune objects)";
+
 // English: 136617 (1994 CC) is a near-Earth asteroid discovered on February 3, 1994. Radar observations in 2009 allowed the discovery of two moons around the asteroid. It can also be recognized as a trinary asteroid system.
 "56739FD8-D50B-E6FC-AA54-258E4018079D" = "136617 (1994 CC) is a near-Earth asteroid discovered on February 3, 1994. Radar observations in 2009 allowed the discovery of two moons around the asteroid. It can also be recognized as a trinary asteroid system.";
 
@@ -2029,6 +2035,9 @@
 // English: WASP-49, also known as TOI-479 and Gaia-TROI-197 is a binary star system consisting of a Sun-like star and a red dwarf about 638.11 light-years away in the constellation Lepus. The larger star's sole Jupiter-sized planet has been detected with an extensive sodium envelope surrounding it, which had led some researchers theorize that it might be caused by an Io-like exomoon, however the planet's proximity to its host star deemed this hypothetical moon unlikely to exist
 "6DC71B87-BCF7-4077-B6F3-C8F5C401EBE0" = "WASP-49, also known as TOI-479 and Gaia-TROI-197 is a binary star system consisting of a Sun-like star and a red dwarf about 638.11 light-years away in the constellation Lepus. The larger star's sole Jupiter-sized planet has been detected with an extensive sodium envelope surrounding it, which had led some researchers theorize that it might be caused by an Io-like exomoon, however the planet's proximity to its host star deemed this hypothetical moon unlikely to exist";
 
+// English: Kepler-230, also known as KOI-759, is a G-type (Or K-type) star located 2468 light-years away from Earth, surrounded by two planets (b=32.6 days; c=91.77 days)
+"6DFB01AC-3B13-4ECC-85BE-2D7A38B5E4F9" = "Kepler-230, also known as KOI-759, is a G-type (Or K-type) star located 2468 light-years away from Earth, surrounded by two planets (b=32.6 days; c=91.77 days)";
+
 // English: HD 189733 is a binary star system about 64.5 light-years away in the constellation Vulpecula. The primary star hosts a well-studied transiting hot Jupiter, which is known to have a blue color. This addon includes four different textures for HD 189733 Ab - a fictional, but true-color, default texture; a texture based on the NASA artist's impression; and two real temperature maps of the planet.
 "6DFB79CB-1B2B-56FA-9E30-7DCDAB4E241C" = "HD 189733 is a binary star system about 64.5 light-years away in the constellation Vulpecula. The primary star hosts a well-studied transiting hot Jupiter, which is known to have a blue color. This addon includes four different textures for HD 189733 Ab - a fictional, but true-color, default texture; a texture based on the NASA artist's impression; and two real temperature maps of the planet.";
 
@@ -2221,6 +2230,9 @@
 // English: Geonosis is a ringed rocky planet in the Outer Rim not very far from Tatooine. Homeworld of the insect-like Geonosians, this planet is the site of the battle that started the Clone Wars in 22 BBY
 "792EE689-B933-44B5-85EB-16CADE7BF4B2" = "Geonosis is a ringed rocky planet in the Outer Rim not very far from Tatooine. Homeworld of the insect-like Geonosians, this planet is the site of the battle that started the Clone Wars in 22 BBY";
 
+// English: Kepler-271, also known as KOI-1151, is a star with a spectral type of G7, located 1334.9 light-years away from Earth. It has three planets (the remaining two need further confirmation), and the planet with the longest orbital period in this system is only 10.4 days
+"79477CDA-5763-4020-B134-1CADD824624D" = "Kepler-271, also known as KOI-1151, is a star with a spectral type of G7, located 1334.9 light-years away from Earth. It has three planets (the remaining two need further confirmation), and the planet with the longest orbital period in this system is only 10.4 days";
+
 // English: Qatar-7, also known as Gaia-TROI-196, is an F-type main sequence star about 2,348 light-years away in the constellation Andromeda. A super-Jovian planet about 1.88 times the mass of Jupiter completes an orbit around its star once every 2.03 days
 "797A2570-AF34-47B3-ACC1-EFFBD8DB83AD" = "Qatar-7, also known as Gaia-TROI-196, is an F-type main sequence star about 2,348 light-years away in the constellation Andromeda. A super-Jovian planet about 1.88 times the mass of Jupiter completes an orbit around its star once every 2.03 days";
 
@@ -2283,6 +2295,9 @@
 
 // English: This addon adds a new high quality surface texture for the planet Venus, in false colors.
 "7CB3DA88-F897-411D-907A-E673E9FCB639" = "This addon adds a new high quality surface texture for the planet Venus, in false colors.";
+
+// English: Kepler-167 is a binary star system (one K-type star and one M-type star) located 1115.167 light-years away from Earth. The main star A has four planets (three terrestrial planets and one gas giant planet), with the first three planets very close to A and the last one far away. It takes 1071.23 days to complete an orbit
+"7CFB0D37-6FD2-427A-87DA-D9084F507B18" = "Kepler-167 is a binary star system (one K-type star and one M-type star) located 1115.167 light-years away from Earth. The main star A has four planets (three terrestrial planets and one gas giant planet), with the first three planets very close to A and the last one far away. It takes 1071.23 days to complete an orbit";
 
 // English: Venera 15 and 16 were two soviet space probes sent to the planet Venus in 1983. Both probes orbited Venus and mapped its surface. Communication with both probes was lost in 1985.
 "7D0E1E02-3591-6B85-9B5F-0F24283BE93B" = "Venera 15 and 16 were two soviet space probes sent to the planet Venus in 1983. Both probes orbited Venus and mapped its surface. Communication with both probes was lost in 1985.";
@@ -4005,6 +4020,9 @@
 
 // English: Phobos-Grunt is a Russian space probe that aimed to collect samples from the surface of Mars' moon Phobos. It was launched November 8, 2011, but the rocket burn that was supposed to send the probe towards Mars failed, and Phobos-Grunt was stuck in Earth orbit. As a consequence, the mission failed and the probe crashed into Earth's atmosphere on January 15, 2012.
 "DA2EBC67-CF3D-D960-BF63-78D831821DB3" = "Phobos-Grunt is a Russian space probe that aimed to collect samples from the surface of Mars' moon Phobos. It was launched November 8, 2011, but the rocket burn that was supposed to send the probe towards Mars failed, and Phobos-Grunt was stuck in Earth orbit. As a consequence, the mission failed and the probe crashed into Earth's atmosphere on January 15, 2012.";
+
+// English: Kepler-66 is also known as KOI-1958, located 4061.7 light-years away from us. A Neptune object with a mass approximately 15 times that of Earth completes its orbit every 17.8 light-years
+"DA481031-C35F-4230-861F-B49A8F55A597" = "Kepler-66 is also known as KOI-1958, located 4061.7 light-years away from us. A Neptune object with a mass approximately 15 times that of Earth completes its orbit every 17.8 light-years";
 
 // English: Kepler-1513, also known as KOI-3678 and Gaia-TROI-127, is a K-type main sequence star about 1,147 light-years away in the constellation Lyra. In 2022, studies of the transit-timing variations of its one known planet suggested the existence of a Moon-to-Mars-mass satellite, making it the only the third strong candidate exomoon and the smallest one detected so far (the first two exomoons at Kepler-1625 and Kepler-1708 were Neptune-sized).
 "DA5413EC-FAC5-438E-8190-ADB1066CAAD9" = "Kepler-1513, also known as KOI-3678 and Gaia-TROI-127, is a K-type main sequence star about 1,147 light-years away in the constellation Lyra. In 2022, studies of the transit-timing variations of its one known planet suggested the existence of a Moon-to-Mars-mass satellite, making it the only the third strong candidate exomoon and the smallest one detected so far (the first two exomoons at Kepler-1625 and Kepler-1708 were Neptune-sized).";

@@ -553,6 +553,9 @@
 // English: TOI-540
 //"1FA49171-04BC-42F3-BEA8-054CEDB4654E" = "TOI-540";
 
+// English: Kepler-53
+//"1FE14E87-F935-474F-B2E6-43B12B42A831" = "Kepler-53";
+
 // English: WISE 0855-0714
 //"20111A1F-7747-4604-89F4-B022D856F54A" = "WISE 0855-0714";
 
@@ -1627,6 +1630,9 @@
 // English: Mercury: Surface Map
 //"55D37C62-DC85-852F-9772-5F99EB99CD6D" = "Mercury: Surface Map";
 
+// English: Kepler-411
+//"55E90DE7-9BB3-4B0B-B407-975C26721259" = "Kepler-411";
+
 // English: 136617 (1994 CC)
 //"56739FD8-D50B-E6FC-AA54-258E4018079D" = "136617 (1994 CC)";
 
@@ -2029,6 +2035,9 @@
 // English: WASP-49
 //"6DC71B87-BCF7-4077-B6F3-C8F5C401EBE0" = "WASP-49";
 
+// English: Kepler-230
+//"6DFB01AC-3B13-4ECC-85BE-2D7A38B5E4F9" = "Kepler-230";
+
 // English: HD 189733
 //"6DFB79CB-1B2B-56FA-9E30-7DCDAB4E241C" = "HD 189733";
 
@@ -2221,6 +2230,9 @@
 // English: Geonosis
 //"792EE689-B933-44B5-85EB-16CADE7BF4B2" = "Geonosis";
 
+// English: Kepler-271
+//"79477CDA-5763-4020-B134-1CADD824624D" = "Kepler-271";
+
 // English: Qatar-7
 //"797A2570-AF34-47B3-ACC1-EFFBD8DB83AD" = "Qatar-7";
 
@@ -2283,6 +2295,9 @@
 
 // English: Venus: Surface Map
 //"7CB3DA88-F897-411D-907A-E673E9FCB639" = "Venus: Surface Map";
+
+// English: Kepler-167
+//"7CFB0D37-6FD2-427A-87DA-D9084F507B18" = "Kepler-167";
 
 // English: Venera 15 and 16
 //"7D0E1E02-3591-6B85-9B5F-0F24283BE93B" = "Venera 15 and 16";
@@ -4005,6 +4020,9 @@
 
 // English: Phobos-Grunt
 //"DA2EBC67-CF3D-D960-BF63-78D831821DB3" = "Phobos-Grunt";
+
+// English: Kepler-66
+//"DA481031-C35F-4230-861F-B49A8F55A597" = "Kepler-66";
 
 // English: Kepler-1513
 //"DA5413EC-FAC5-438E-8190-ADB1066CAAD9" = "Kepler-1513";
