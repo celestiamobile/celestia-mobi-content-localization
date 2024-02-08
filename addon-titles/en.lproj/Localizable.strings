@@ -4102,6 +4102,9 @@
 // English: OPSEK
 "DCA9326B-612B-42B9-9066-7929B2566D28" = "OPSEK";
 
+// English: Europa: Temperature anomaly
+"DD64F712-33D4-43E0-8CD4-F49EEE9F927C" = "Europa: Temperature anomaly";
+
 // English: USS Excelsior
 "DD6633A2-CA24-4EC1-8627-F86AA2FC04DB" = "USS Excelsior";
 
@@ -4284,6 +4287,9 @@
 
 // English: GJ 3988
 "E54FB4B5-E969-49EC-970D-5B1ABD7D7CB6" = "GJ 3988";
+
+// English: Europa: Radio
+"E59443D7-DFFB-413F-B78E-CC0CFE27DC6F" = "Europa: Radio";
 
 // English: Space Debris
 "E5BAA778-08E6-5CF4-D248-528DC8A95A45" = "Space Debris";
