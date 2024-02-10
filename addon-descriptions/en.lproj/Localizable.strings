@@ -1948,6 +1948,9 @@
 // English: Gliese 625 is a nearby red dwarf star only about 21.13 light-years away in the constellation Draco. A single super-venusian planet orbits this star once every 3.53 days
 "66BB7524-33C6-459D-94A2-2C4375038AFE" = "Gliese 625 is a nearby red dwarf star only about 21.13 light-years away in the constellation Draco. A single super-venusian planet orbits this star once every 3.53 days";
 
+// English: K2-11 is a G-type main sequence star located 1084.29 light-years away from Earth. In 2015, a Saturn sized planet was discovered in an orbit of 39.93 days
+"66D125DA-0764-45E8-8B4A-1C113B3888D9" = "K2-11 is a G-type main sequence star located 1084.29 light-years away from Earth. In 2015, a Saturn sized planet was discovered in an orbit of 39.93 days";
+
 // English: This is a simplified version of Selden's Expanded VLA addon and does not need to be installed if you already have the EVLA addon as this directly conflicts the EVLA addon via position.
 "670A59B6-9659-42D6-B0B2-2E795A51952A" = "This is a simplified version of Selden's Expanded VLA addon and does not need to be installed if you already have the EVLA addon as this directly conflicts the EVLA addon via position.";
 
@@ -3600,6 +3603,9 @@
 
 // English: Gliese 179, also known as Ross 401, is a nearby red dwarf star only about 40.49 light-years away in the constellation Orion. Two planets (a mini-neptunian and a jovian) were discovered orbiting this star
 "C2312828-5861-406C-8BF0-B0D47F72869A" = "Gliese 179, also known as Ross 401, is a nearby red dwarf star only about 40.49 light-years away in the constellation Orion. Two planets (a mini-neptunian and a jovian) were discovered orbiting this star";
+
+// English: Kepler-298, also known as KOI-1430, is located 1715.52 light-years from Earth and has three known planets. The first two are very close to the star, while the latter is in the habitable zone of the main star (possibly a mini Neptune or oceanic planet)
+"C257AAF0-D0B0-4888-885B-19785CDBA496" = "Kepler-298, also known as KOI-1430, is located 1715.52 light-years from Earth and has three known planets. The first two are very close to the star, while the latter is in the habitable zone of the main star (possibly a mini Neptune or oceanic planet)";
 
 // English: K2-315 is a red dwarf star about 186.11 light-years away in the constellation Libra. A rocky planet about 95% the size of Earth was found in a 3.14-day orbit around this star in 2020
 "C2594CE1-1D08-4765-902F-A7011C45C32A" = "K2-315 is a red dwarf star about 186.11 light-years away in the constellation Libra. A rocky planet about 95% the size of Earth was found in a 3.14-day orbit around this star in 2020";
