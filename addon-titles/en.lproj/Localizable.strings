@@ -1063,6 +1063,9 @@
 // English: Kepler-1649
 "36BDB2C2-3FF9-337E-6E38-E2FDF09FC488" = "Kepler-1649";
 
+// English: TOI-5542
+"36DB88B2-C6C5-468A-A0F4-750B929B4733" = "TOI-5542";
+
 // English: NGC 7742 (Fried Egg Galaxy)
 "36E92F8F-3B6E-96C3-41D4-FE84A856964E" = "NGC 7742 (Fried Egg Galaxy)";
 
@@ -1780,6 +1783,9 @@
 // English: Mars Science Laboratory
 "5DCB6A78-7324-C472-2A6F-D0094B18D955" = "Mars Science Laboratory";
 
+// English: TOI-4127
+"5DD2A697-DC80-4B51-BC3D-6DD471C8F02D" = "TOI-4127";
+
 // English: BM Cassiopeiae
 "5DFABABB-55E9-2938-1D93-8FF1347E3200" = "BM Cassiopeiae";
 
@@ -2092,6 +2098,9 @@
 // English: 14P/Wolf
 "6F8C1E7B-619F-F955-E2CB-000EF979B00E" = "14P/Wolf";
 
+// English: Kepler-250
+"70243EBD-3F8C-4A11-8587-961A8CB27F58" = "Kepler-250";
+
 // English: The Gelfling
 "70C10EB4-85A8-449F-852E-192FCA35A412" = "The Gelfling";
 
@@ -2193,6 +2202,9 @@
 
 // English: M2-9 (Minkowski's Butterfly)
 "7681CDB7-66B2-740A-3845-1FC926CC162D" = "M2-9 (Minkowski's Butterfly)";
+
+// English: TOI-2589
+"76B72F76-7B5D-49ED-825C-02ECF7CB734E" = "TOI-2589";
 
 // English: Uranus's Largest Moons
 "76D938FC-997D-4949-1D09-AB69726A69E0" = "Uranus's Largest Moons";
@@ -4476,6 +4488,9 @@
 
 // English: Gliese 221 (Unconfirmed Planets)
 "EEB74F63-0036-4437-A97C-459BD32EBB3A" = "Gliese 221 (Unconfirmed Planets)";
+
+// English: Kepler-1542
+"EEEA8545-8EA2-4B69-AABB-5D331A9D1954" = "Kepler-1542";
 
 // English: TIC 279401253
 "EF0E825F-FEEB-4AA1-B5D9-00BB4321E53D" = "TIC 279401253";
