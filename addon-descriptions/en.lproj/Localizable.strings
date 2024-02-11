@@ -655,6 +655,9 @@
 // English: HD 38677, also known as DMPP-1, is an F-type main sequence star about 204.34 light-years away in the constellation Orion. So far, a total of four confirmed planets (two superterran, one neptunian, and one jovian) were discovered around this star, with an additional subterran candidate awaiting confirmation of its existence
 "24E53D03-4E64-467B-81C3-E5896A2EE5EB" = "HD 38677, also known as DMPP-1, is an F-type main sequence star about 204.34 light-years away in the constellation Orion. So far, a total of four confirmed planets (two superterran, one neptunian, and one jovian) were discovered around this star, with an additional subterran candidate awaiting confirmation of its existence";
 
+// English: A depiction of the Solar System 7.9 billion years from now, when the Sun has reached its maximum size as a red giant. Taken from Celestia Origin, with a red giant model & texture by nussun added.
+"24FC9F77-7DD1-43CB-995A-C3673A51AFFC" = "A depiction of the Solar System 7.9 billion years from now, when the Sun has reached its maximum size as a red giant. Taken from Celestia Origin, with a red giant model & texture by nussun added.";
+
 // English: MY Camelopardalis is a contact binary of two O-type giant stars in the open cluster Alicante 1, about 13,046 light-years away in the constellation Camelopardalis.
 "255AB38A-66E6-4BDE-5297-20E829B71096" = "MY Camelopardalis is a contact binary of two O-type giant stars in the open cluster Alicante 1, about 13,046 light-years away in the constellation Camelopardalis.";
 
@@ -2311,6 +2314,9 @@
 // English: Gaia-2, also known as Gaia-TROI-2, is a Sun-like star about 675.85 light-years away in the constellation Camelopardalis. The second of two planetary systems discovered by the European Gaia observatory, it has a super-Jovian planet that completes an orbit once every 2.1 days
 "7C339C01-5643-43E9-9022-ED9653A22C23" = "Gaia-2, also known as Gaia-TROI-2, is a Sun-like star about 675.85 light-years away in the constellation Camelopardalis. The second of two planetary systems discovered by the European Gaia observatory, it has a super-Jovian planet that completes an orbit once every 2.1 days";
 
+// English: TOI-2010 is a binary system comprised of a G-type main sequence star and a red dwarf located about 353.67 lightyears from the solar system. The larger of the two stars has a single large gas giant on a mildly eccentric 140 day orbit
+"7C4F03C9-EF90-4398-BEB4-595D0F7B9C37" = "TOI-2010 is a binary system comprised of a G-type main sequence star and a red dwarf located about 353.67 lightyears from the solar system. The larger of the two stars has a single large gas giant on a mildly eccentric 140 day orbit";
+
 // English: GJ 9224, also known as TOI-500, is a K-type star located about 154.49 lightyears away from the solar system. 4 planets, a molten Venus-like planet (b= 1.17 Re, 1.42 Me) and 3 Neptunian planets (c= 5.03 Me, d=33.12 Me, e= 15.05 Me) orbit the star interior to its HZ. The last three planets don't transit the star from our perspective, only the first one does and so we don't know their actual sizes.
 "7C55D06E-F112-426B-8E9E-27069D91FED0" = "GJ 9224, also known as TOI-500, is a K-type star located about 154.49 lightyears away from the solar system. 4 planets, a molten Venus-like planet (b= 1.17 Re, 1.42 Me) and 3 Neptunian planets (c= 5.03 Me, d=33.12 Me, e= 15.05 Me) orbit the star interior to its HZ. The last three planets don't transit the star from our perspective, only the first one does and so we don't know their actual sizes.";
 
@@ -2971,6 +2977,9 @@
 // English: HAT-P-24, also known as TOI-511 and Gaia-TROI-163, is a binary star system of an F-type main sequence star and a red dwarf about 1,371 light-years away in the constellation Gemini. The larger star (component A) has a superjovian planet about 6.32 million km away, completing an orbit once every 3.27 days
 "A013209D-516E-4A60-BCC7-103B14E42C86" = "HAT-P-24, also known as TOI-511 and Gaia-TROI-163, is a binary star system of an F-type main sequence star and a red dwarf about 1,371 light-years away in the constellation Gemini. The larger star (component A) has a superjovian planet about 6.32 million km away, completing an orbit once every 3.27 days";
 
+// English: TOI-2529 is a G-type subgiant star located about 971.71 lightyears from the solar system. A single, warm gas giant is known to orbit this star, completing a full revolution in around 65 days.
+"A023D6F0-E9E1-4974-A488-0F543DAD277F" = "TOI-2529 is a G-type subgiant star located about 971.71 lightyears from the solar system. A single, warm gas giant is known to orbit this star, completing a full revolution in around 65 days.";
+
 // English: This add-on places the USS Voyager in orbit around the star Barzan.
 "A0A7471E-F9FD-CA2E-FC07-C93C30C29C05" = "This add-on places the USS Voyager in orbit around the star Barzan.";
 
@@ -3175,8 +3184,8 @@
 // English: Popularly known as J1407, it is a K-type main-sequence star about 454 light-years away in the constellation Centaurus. It has a super-Jovian planet or brown dwarf with the largest ring system ever discovered, measured at a whopping 90 million km (about 745 times larger than the rings of Saturn). However, by 2021, it was discovered the parent star is strongly variable, with a 5.4-year long magnetic activity cycle, which subsequently made the actual characteristics of this candidate planet difficult to model
 "A92C28F8-FA29-A64E-1608-0297A0AC18B4" = "Popularly known as J1407, it is a K-type main-sequence star about 454 light-years away in the constellation Centaurus. It has a super-Jovian planet or brown dwarf with the largest ring system ever discovered, measured at a whopping 90 million km (about 745 times larger than the rings of Saturn). However, by 2021, it was discovered the parent star is strongly variable, with a 5.4-year long magnetic activity cycle, which subsequently made the actual characteristics of this candidate planet difficult to model";
 
-// English: Teegarden's Star is an M-type red dwarf about 12.497 light-years in the constellation Aries. In 2019, two Earth-sized exoplanets were discovered, both of which orbit the star's habitable zone
-"A950D9A1-91BD-EEE8-0CF0-54AA69D60272" = "Teegarden's Star is an M-type red dwarf about 12.497 light-years in the constellation Aries. In 2019, two Earth-sized exoplanets were discovered, both of which orbit the star's habitable zone";
+// English: Teegarden's Star is a cool red dwarf star 12.50 light-years in the constellation Aries. It hosts three known Earth-mass planets. Two orbit within the habitable zone, while one is farther out; it is the nearest cold terran planet known.
+"A950D9A1-91BD-EEE8-0CF0-54AA69D60272" = "Teegarden's Star is a cool red dwarf star 12.50 light-years in the constellation Aries. It hosts three known Earth-mass planets. Two orbit within the habitable zone, while one is farther out; it is the nearest cold terran planet known.";
 
 // English: This addon adds a 3D model for Saturn's moon Rhea, based on data from the Cassini spacecraft.
 "A98FD77F-9820-1D18-B530-1A693D95AF2C" = "This addon adds a 3D model for Saturn's moon Rhea, based on data from the Cassini spacecraft.";
@@ -3301,6 +3310,9 @@
 // English: 2008 EV₅ is a near-Earth asteroid discovered on March 4, 2008. It is believed to have originated from a much larger body in the asteroid belt, so after some cratering or rupture event, the fragments generated may have created 2008 EV₅. On December 23, 2008, it passed 8.4 lunar distances from Earth (0.022 AU, 3.2 million km). This asteroid was considered a possible target for NASA's Asteroid Redirect Mission, but the mission was canceled in 2017.
 "AFF3D399-465E-45C3-BC28-1DA9D95848D3" = "2008 EV₅ is a near-Earth asteroid discovered on March 4, 2008. It is believed to have originated from a much larger body in the asteroid belt, so after some cratering or rupture event, the fragments generated may have created 2008 EV₅. On December 23, 2008, it passed 8.4 lunar distances from Earth (0.022 AU, 3.2 million km). This asteroid was considered a possible target for NASA's Asteroid Redirect Mission, but the mission was canceled in 2017.";
 
+// English: Kepler-1254, also known as KOI-2485, is located 2068.2 light-years from Earth. In 2016, it was announced that three planets had been discovered around this star, all with orbital periods within 10 days
+"B0446CB4-ED2A-44CD-8E16-0B9BF7642D2A" = "Kepler-1254, also known as KOI-2485, is located 2068.2 light-years from Earth. In 2016, it was announced that three planets had been discovered around this star, all with orbital periods within 10 days";
+
 // English: Gliese 777, also known as HD 190360, is a binary system consisting of a G-type (yellow) subgiant and an M (red) dwarf, located 52 light-years away in the constellation of Cygnus. Two planets have been confirmed around the primary star: b is remarkable for being one of the most Jupiter-like planets known when it was announced in 2003, although it has a quite eccentric orbit, which takes it from 2.6 to 5.2 au around its star; and c, in a close 17-day orbit, is also notable for being one of the first hot Neptunes discovered (2005). There might also be a third planet, although it's possibly an artifact of the radial-velocity data.
 "B06890F6-C3AF-432F-9233-354138E716A9" = "Gliese 777, also known as HD 190360, is a binary system consisting of a G-type (yellow) subgiant and an M (red) dwarf, located 52 light-years away in the constellation of Cygnus. Two planets have been confirmed around the primary star: b is remarkable for being one of the most Jupiter-like planets known when it was announced in 2003, although it has a quite eccentric orbit, which takes it from 2.6 to 5.2 au around its star; and c, in a close 17-day orbit, is also notable for being one of the first hot Neptunes discovered (2005). There might also be a third planet, although it's possibly an artifact of the radial-velocity data.";
 
@@ -3387,6 +3399,9 @@
 
 // English: This addon adds a night texture for Io, showing its lava lakes.
 "B5ECBBD4-A256-C334-B119-ECE0D347D85E" = "This addon adds a night texture for Io, showing its lava lakes.";
+
+// English: Kepler-95, also known as KOI-122, is a G-type main sequence star located 1472.22 light-years away from Earth. In 2014, a Neptune sized celestial body was discovered with a mass approximately 13 times that of Earth
+"B5F1F502-8325-448C-B25F-F754EDFE7494" = "Kepler-95, also known as KOI-122, is a G-type main sequence star located 1472.22 light-years away from Earth. In 2014, a Neptune sized celestial body was discovered with a mass approximately 13 times that of Earth";
 
 // English: The study confirming TOI-1685 b (as an Ocean world) speaks of a second planet candidate, a possible mini-Neptune orbiting at 9.03 days (c= 9.21 Me), though they stated that they could not confidently confirm it as a planet due to the proposed orbit being close to the first harmonic of it's hosts rotational period
 "B630BCE1-B82F-4BCD-BA81-1FF7D068103D" = "The study confirming TOI-1685 b (as an Ocean world) speaks of a second planet candidate, a possible mini-Neptune orbiting at 9.03 days (c= 9.21 Me), though they stated that they could not confidently confirm it as a planet due to the proposed orbit being close to the first harmonic of it's hosts rotational period";
@@ -4057,8 +4072,8 @@
 // English: Phobos-Grunt is a Russian space probe that aimed to collect samples from the surface of Mars' moon Phobos. It was launched November 8, 2011, but the rocket burn that was supposed to send the probe towards Mars failed, and Phobos-Grunt was stuck in Earth orbit. As a consequence, the mission failed and the probe crashed into Earth's atmosphere on January 15, 2012.
 "DA2EBC67-CF3D-D960-BF63-78D831821DB3" = "Phobos-Grunt is a Russian space probe that aimed to collect samples from the surface of Mars' moon Phobos. It was launched November 8, 2011, but the rocket burn that was supposed to send the probe towards Mars failed, and Phobos-Grunt was stuck in Earth orbit. As a consequence, the mission failed and the probe crashed into Earth's atmosphere on January 15, 2012.";
 
-// English: Kepler-66 is also known as KOI-1958, located 4061.7 light-years away from us. A Neptune object with a mass approximately 15 times that of Earth completes its orbit every 17.8 light-years
-"DA481031-C35F-4230-861F-B49A8F55A597" = "Kepler-66 is also known as KOI-1958, located 4061.7 light-years away from us. A Neptune object with a mass approximately 15 times that of Earth completes its orbit every 17.8 light-years";
+// English: Kepler 66, also known as KOI-1958, is located 4061.7 light-years away from Earth. Neptune, a celestial body with a mass approximately 15 times that of Earth, completes its orbit every 17.8 days
+"DA481031-C35F-4230-861F-B49A8F55A597" = "Kepler 66, also known as KOI-1958, is located 4061.7 light-years away from Earth. Neptune, a celestial body with a mass approximately 15 times that of Earth, completes its orbit every 17.8 days";
 
 // English: Kepler-1513, also known as KOI-3678 and Gaia-TROI-127, is a K-type main sequence star about 1,147 light-years away in the constellation Lyra. In 2022, studies of the transit-timing variations of its one known planet suggested the existence of a Moon-to-Mars-mass satellite, making it the only the third strong candidate exomoon and the smallest one detected so far (the first two exomoons at Kepler-1625 and Kepler-1708 were Neptune-sized).
 "DA5413EC-FAC5-438E-8190-ADB1066CAAD9" = "Kepler-1513, also known as KOI-3678 and Gaia-TROI-127, is a K-type main sequence star about 1,147 light-years away in the constellation Lyra. In 2022, studies of the transit-timing variations of its one known planet suggested the existence of a Moon-to-Mars-mass satellite, making it the only the third strong candidate exomoon and the smallest one detected so far (the first two exomoons at Kepler-1625 and Kepler-1708 were Neptune-sized).";
@@ -4617,6 +4632,9 @@
 
 // English: Kepler-76, aka KOI-1658 and TOI-4455, is an F-type main sequence star located about 2749.12 lightyears from the solar system. a single ultra hot-Jupiter orbits this star every 1.54 days.
 "F58843F2-748D-4001-9E9B-C5FD5704E777" = "Kepler-76, aka KOI-1658 and TOI-4455, is an F-type main sequence star located about 2749.12 lightyears from the solar system. a single ultra hot-Jupiter orbits this star every 1.54 days.";
+
+// English: TIC 4672985 is a binary system comprised of a G-type main sequence star and a red dwarf located about 823.77 light years from the solar system. The primary star hosts a transiting super-Jupiter/sub-Brown Dwarf with an orbital period 69 days.
+"F5B2A252-4DA3-4D06-9FD2-15295D3ED58B" = "TIC 4672985 is a binary system comprised of a G-type main sequence star and a red dwarf located about 823.77 light years from the solar system. The primary star hosts a transiting super-Jupiter/sub-Brown Dwarf with an orbital period 69 days.";
 
 // English: Luna-2 is a soviet space probe launched on September 12, 1959 for the purpose of impacting the Moon. The probe impacted the Moon on September 13, 1959 and became the first man-made artifact to impact another celestial body.
 "F5C7FE4B-21D4-3ABB-7304-3ABDE7239BEE" = "Luna-2 is a soviet space probe launched on September 12, 1959 for the purpose of impacting the Moon. The probe impacted the Moon on September 13, 1959 and became the first man-made artifact to impact another celestial body.";
