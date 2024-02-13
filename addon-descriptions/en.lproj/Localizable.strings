@@ -4848,3 +4848,6 @@
 
 // English: The Solar Orbiter (SolO) is a Sun-observing satellite, developed by the European Space Agency (ESA). SolO is intended to perform detailed measurements of the inner heliosphere and nascent solar wind, and perform close observations of the polar regions of the Sun, which is difficult to do from Earth, complementing the findings of NASA's Parker Solar Probe
 "FFF8E9C6-5145-E7F5-A868-EF90479BBB3B" = "The Solar Orbiter (SolO) is a Sun-observing satellite, developed by the European Space Agency (ESA). SolO is intended to perform detailed measurements of the inner heliosphere and nascent solar wind, and perform close observations of the polar regions of the Sun, which is difficult to do from Earth, complementing the findings of NASA's Parker Solar Probe";
+
+// English: This add-on provides a full three-dimensional model for the Earth's Moon
+"FFFFFFFF-B50C-458B-9A83-59E077A9907D" = "This add-on provides a full three-dimensional model for the Earth's Moon";
