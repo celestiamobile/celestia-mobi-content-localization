@@ -2440,6 +2440,9 @@
 // English: The main setting of Babylon 5, where its titular space station is found orbiting the planet Epsilon Eridani III from 2257 and 2262. Must download first before installing any Babylon 5-related addons on your device
 "83968548-846E-E452-60E5-EE8B1A123867" = "The main setting of Babylon 5, where its titular space station is found orbiting the planet Epsilon Eridani III from 2257 and 2262. Must download first before installing any Babylon 5-related addons on your device";
 
+// English: Propellers are disturbances in Saturn's rings, caused by a central moonlet. Hypothetical until 1995, they were first observed by Hubble and ESO as objects in the F ring. With the arrival of the Cassini in 2004, several propellers were discovered and observed. \n\nPropellers included in the addon: \n\n- Earhart \n- Post \n- Sikorsky \n- Curtiss \n- Lindbergh \n- Wright \n- Kingsford Smith \n- Hinkler \n- Santos-Dumont \n- Richthofen \n- Bleriot \n- Peggy
+"83A5909B-027E-4F1C-A83D-AAE64642C752" = "Propellers are disturbances in Saturn's rings, caused by a central moonlet. Hypothetical until 1995, they were first observed by Hubble and ESO as objects in the F ring. With the arrival of the Cassini in 2004, several propellers were discovered and observed. \n\nPropellers included in the addon: \n\n- Earhart \n- Post \n- Sikorsky \n- Curtiss \n- Lindbergh \n- Wright \n- Kingsford Smith \n- Hinkler \n- Santos-Dumont \n- Richthofen \n- Bleriot \n- Peggy";
+
 // English: This addon adds the central black hole of the galaxy Messier 87, also known as Powehi, which was the first black hole photographed. On April 10, 2019, the Event Horizon Telescope (EHT) released the photo.
 "83E69BB1-431A-71DE-AD08-3232A52814FA" = "This addon adds the central black hole of the galaxy Messier 87, also known as Powehi, which was the first black hole photographed. On April 10, 2019, the Event Horizon Telescope (EHT) released the photo.";
 
@@ -3078,6 +3081,9 @@
 
 // English: Spacedock One is a massive space station operated by Starfleet in the 23rd and 24th centuries. It began construction in 2257 and is fully operational by 2285. For most of its history, it served as a primary hub for Federation vessels above Earth, before it is retired and converted into a Fleet Museum above Athan Prime in 2401
 "A2E2B2C7-485A-4286-9F3A-E0467720C791" = "Spacedock One is a massive space station operated by Starfleet in the 23rd and 24th centuries. It began construction in 2257 and is fully operational by 2285. For most of its history, it served as a primary hub for Federation vessels above Earth, before it is retired and converted into a Fleet Museum above Athan Prime in 2401";
+
+// English: This addon adds three objects close to Saturn's rings, observed by Cassini in 2004 but never recovered since. It is unclear whether these are small solid moons or just transient clumps of dust. The addon includes S 2004 S 3, S 2004 S 4 and S 2004 S 6.\n\nThe three \"moons\" (green circles):
+"A3AA0CF8-1493-412A-B1C7-8880A8E48A38" = "This addon adds three objects close to Saturn's rings, observed by Cassini in 2004 but never recovered since. It is unclear whether these are small solid moons or just transient clumps of dust. The addon includes S 2004 S 3, S 2004 S 4 and S 2004 S 6.\n\nThe three \"moons\" (green circles):";
 
 // English: K2-236, also known as TOI-5065, is an F-type main sequence star about 589.68 light-years away in the constellation Cancer. In 2018, a super-neptunian planet was discovered by six scientists from India through analysis of Kepler-K2 data. This is the country's first exoplanet discovery ever conducted
 "A3C5078C-339F-4C62-A275-7EE047FA124A" = "K2-236, also known as TOI-5065, is an F-type main sequence star about 589.68 light-years away in the constellation Cancer. In 2018, a super-neptunian planet was discovered by six scientists from India through analysis of Kepler-K2 data. This is the country's first exoplanet discovery ever conducted";

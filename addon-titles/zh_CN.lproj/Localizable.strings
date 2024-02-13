@@ -1057,8 +1057,8 @@
 // English: 162421 (2000 ET₇₀)
 //"36987389-B91D-4A38-A78B-9DB9009EB0A5" = "162421 (2000 ET₇₀)";
 
-// English: Saturn's Auroras
-//"36B69FAC-D4D5-47AC-B52D-D515F2E573B3" = "Saturn's Auroras";
+// English: Saturn: Auroras
+//"36B69FAC-D4D5-47AC-B52D-D515F2E573B3" = "Saturn: Auroras";
 
 // English: Kaguya
 //"36BD3DBF-077A-26C9-2400-AFBB2054AC5A" = "Kaguya";
@@ -2440,6 +2440,9 @@
 // English: B5-1: Epsilon Eridani
 //"83968548-846E-E452-60E5-EE8B1A123867" = "B5-1: Epsilon Eridani";
 
+// English: Saturn: Propellers
+//"83A5909B-027E-4F1C-A83D-AAE64642C752" = "Saturn: Propellers";
+
 // English: Pōwehi
 //"83E69BB1-431A-71DE-AD08-3232A52814FA" = "Pōwehi";
 
@@ -3078,6 +3081,9 @@
 
 // English: Spacedock One
 //"A2E2B2C7-485A-4286-9F3A-E0467720C791" = "Spacedock One";
+
+// English: Unconfirmed moons
+//"A3AA0CF8-1493-412A-B1C7-8880A8E48A38" = "Unconfirmed moons";
 
 // English: K2-236
 //"A3C5078C-339F-4C62-A275-7EE047FA124A" = "K2-236";
