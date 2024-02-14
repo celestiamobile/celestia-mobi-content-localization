@@ -679,8 +679,8 @@
 // English: Qatar-2
 //"2626EBF3-EA8E-440A-A156-3748740094E4" = "Qatar-2";
 
-// English: Dione (3D model)
-//"2640B0DF-BD56-4411-AC6C-7337AB1CABBF" = "Dione (3D model)";
+// English: Dione
+//"2640B0DF-BD56-4411-AC6C-7337AB1CABBF" = "Dione";
 
 // English: IC 3568 (Lemon Slice Nebula)
 //"269E877E-877C-8780-9BB9-648A1423D939" = "IC 3568 (Lemon Slice Nebula)";
@@ -2947,8 +2947,8 @@
 // English: WD J0914+1914
 //"9C79A59D-3B44-4C04-9776-A12D22DD1930" = "WD J0914+1914";
 
-// English: Tethys (3D model)
-//"9CB30279-6604-F62D-6369-1C2A0EC4773D" = "Tethys (3D model)";
+// English: Tethys
+//"9CB30279-6604-F62D-6369-1C2A0EC4773D" = "Tethys";
 
 // English: TOI-519
 //"9CC63573-33F8-484C-BB6C-B35A868A55F1" = "TOI-519";
@@ -3393,6 +3393,9 @@
 
 // English: AB Aurigae
 //"B3EB4F98-00F8-4455-B589-F3F829FA8201" = "AB Aurigae";
+
+// English: K2-333
+//"B3F0B84C-44B8-4C2B-A755-B0AEF257BEB3" = "K2-333";
 
 // English: Chandra
 //"B3F3659C-0CAC-B318-26A0-C9B17B77C105" = "Chandra";
