@@ -1153,6 +1153,9 @@
 // English: WASP-47, also known as K2-23 and TOI-4539, is a Sun-like star about 870 light-years away in the constellation Aquarius. It has a total number of four planets discovered so far (one superterran, one neptunian, and two jovians)
 "39E7E8E2-070D-4B8D-9FCD-1FBBA54B824B" = "WASP-47, also known as K2-23 and TOI-4539, is a Sun-like star about 870 light-years away in the constellation Aquarius. It has a total number of four planets discovered so far (one superterran, one neptunian, and two jovians)";
 
+// English: K2-262, also known as Wolf 503, is a K-type main sequence star located 145.4 light-years away from Earth. Its only planet, Wolf 503 b, has a radius about twice that of Earth and orbits the main star every 6 days
+"3A264214-556F-49A5-99CD-B1ABE17B9C5E" = "K2-262, also known as Wolf 503, is a K-type main sequence star located 145.4 light-years away from Earth. Its only planet, Wolf 503 b, has a radius about twice that of Earth and orbits the main star every 6 days";
+
 // English: The Satellite Data System is a fleet of communication relay satellites for transmitting real-time data from US spy satellites (e.g. KH-11) in Molniya-type orbits. This addon covers the four second-generation satellites launched between 1989 and 1996, each have an expected design life of 8 years. The first three were launched in one of the last military Shuttle missions in history
 "3A7CAAE4-4FA1-45E4-AB21-3C957B313330" = "The Satellite Data System is a fleet of communication relay satellites for transmitting real-time data from US spy satellites (e.g. KH-11) in Molniya-type orbits. This addon covers the four second-generation satellites launched between 1989 and 1996, each have an expected design life of 8 years. The first three were launched in one of the last military Shuttle missions in history";
 
