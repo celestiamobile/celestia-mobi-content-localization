@@ -706,6 +706,9 @@
 // English: Abell 5
 //"2743C39F-AE80-F760-A975-5AF4EE330834" = "Abell 5";
 
+// English: KELT-11
+//"274D9D05-962A-423A-8164-36F019481F43" = "KELT-11";
+
 // English: 90377 Sedna
 //"2755EF55-C90D-8747-1026-7DC01E54D569" = "90377 Sedna";
 
@@ -744,6 +747,9 @@
 
 // English: HD 1690
 //"288B0D82-395D-45F7-854E-E3D09DFFE2CD" = "HD 1690";
+
+// English: K2-63
+//"28C43D52-F919-487F-B1ED-79B3C7DFC3A2" = "K2-63";
 
 // English: Briar Patch
 //"28FE89EB-D587-495B-AEC7-E1B9FBDE4178" = "Briar Patch";
@@ -2050,6 +2056,9 @@
 // English: Tianwen-1
 "6CB1584C-DB4E-2D6B-19A5-A87179BD4A0A" = "天问一号";
 
+// English: K2-38
+//"6D034A33-40F2-4ABD-BAB4-D65B525638F1" = "K2-38";
+
 // English: James Webb Space Telescope
 "6D100C19-C902-3BCF-E9DC-81621177663D" = "詹姆斯·韦伯空间望远镜";
 
@@ -2809,6 +2818,9 @@
 // English: Kepler-86
 //"95AEED68-FC7A-405A-9BBB-7BC5ADD08F5E" = "Kepler-86";
 
+// English: K2-107
+//"96061FC1-F65D-4AC9-9A74-E53EA2DE4797" = "K2-107";
+
 // English: ISIS 1 and 2
 //"96099F08-9ECD-2A42-A787-638BFB172420" = "ISIS 1 and 2";
 
@@ -2844,6 +2856,9 @@
 
 // English: Gliese 86
 //"970C65DA-504F-41C9-99BB-5F4F58328D8E" = "Gliese 86";
+
+// English: Gliese 806
+//"97661904-7D52-4EC8-A928-97105EA2AD78" = "Gliese 806";
 
 // English: Mira
 //"976D6A97-8518-950E-7081-80707338BFAE" = "Mira";
@@ -3217,8 +3232,8 @@
 // English: Teegarden's Star
 //"A950D9A1-91BD-EEE8-0CF0-54AA69D60272" = "Teegarden's Star";
 
-// English: Rhea (3D model)
-//"A98FD77F-9820-1D18-B530-1A693D95AF2C" = "Rhea (3D model)";
+// English: Rhea
+//"A98FD77F-9820-1D18-B530-1A693D95AF2C" = "Rhea";
 
 // English: TOI-2096
 //"AA19FCF9-1AF7-43B0-B79C-CDF28B238E6A" = "TOI-2096";
@@ -4596,6 +4611,9 @@
 
 // English: (2015 TB₁₄₅)
 //"F1A9138A-42FC-4F3E-B8F8-70253C2CD148" = "(2015 TB₁₄₅)";
+
+// English: Kepler-131
+//"F1ACFC98-B336-4083-9DB6-95F288A9754B" = "Kepler-131";
 
 // English: Star Destroyer (Imperial)
 //"F1FC5C05-18C9-4DF0-B354-15B37050C954" = "Star Destroyer (Imperial)";
