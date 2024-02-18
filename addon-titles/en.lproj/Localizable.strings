@@ -439,6 +439,9 @@
 // English: Kepler-23
 "18D41D53-41BA-4016-9ADD-BC199A3B49AE" = "Kepler-23";
 
+// English: Atira asteroids
+"18DADB48-9569-4277-96C3-07BD27553DE8" = "Atira asteroids";
+
 // English: M 27 (Dumbbell Nebula)
 "1913AE9D-EBF1-6DF3-116E-87C2CB22826F" = "M 27 (Dumbbell Nebula)";
 
@@ -934,8 +937,8 @@
 // English: Celestia Spaceships
 "30E73592-5BDC-DD74-34C2-711AE3AC0E41" = "Celestia Spaceships";
 
-// English: 2015 TG₃₈₇, 2017 OF₆₉, 2019 AQ₃, 2019 LF₆
-"30F32C15-BCB4-EB75-45FE-B2945B1C7D83" = "2015 TG₃₈₇, 2017 OF₆₉, 2019 AQ₃, 2019 LF₆";
+// English: (2017 OF₆₉)
+"30F32C15-BCB4-EB75-45FE-B2945B1C7D83" = "(2017 OF₆₉)";
 
 // English: Epsilon Indi
 "30F41D71-0664-F9AD-2212-B056283F4F0A" = "Epsilon Indi";
@@ -2218,6 +2221,9 @@
 // English: C/2017 K2 (PANSTARRS)
 "75EEF762-D501-FD3A-6606-C4167EF4AB40" = "C/2017 K2 (PANSTARRS)";
 
+// English: Kepler-867
+"7670A839-7EB3-4188-8472-D835F0996C26" = "Kepler-867";
+
 // English: M2-9 (Minkowski's Butterfly)
 "7681CDB7-66B2-740A-3845-1FC926CC162D" = "M2-9 (Minkowski's Butterfly)";
 
@@ -3274,8 +3280,8 @@
 // English: TOI-1634
 "AC3D8565-CE29-48A7-827A-40B013712FDF" = "TOI-1634";
 
-// English: (2002 VE₆₈)
-"AC5146DF-B209-4D71-90F9-02B28567CEE0" = "(2002 VE₆₈)";
+// English: 524522 Zoozve
+"AC5146DF-B209-4D71-90F9-02B28567CEE0" = "524522 Zoozve";
 
 // English: International Sun-Earth Explorer
 "AC634949-E38E-46B7-91C9-8BA79E9B0E4D" = "International Sun-Earth Explorer";
@@ -3319,8 +3325,8 @@
 // English: TOI-237
 "AE7529A1-F646-63A9-C8EB-C3BE0BCE60A4" = "TOI-237";
 
-// English: (2006 VW₁₃₉)
-"AE908843-21E9-4B2C-B6C7-0F2501499A46" = "(2006 VW₁₃₉)";
+// English: 300163 (2006 VW₁₃₉)
+"AE908843-21E9-4B2C-B6C7-0F2501499A46" = "300163 (2006 VW₁₃₉)";
 
 // English: Monolith TMA-2
 "AE90A022-4B79-1DB0-CDA4-F38EF4DB8F58" = "Monolith TMA-2";
@@ -3352,8 +3358,8 @@
 // English: Future Earth
 "AFA4B6E9-AC8B-383F-C91B-8A0CE62A6D10" = "Future Earth";
 
-// English: (2008 EV₅)
-"AFF3D399-465E-45C3-BC28-1DA9D95848D3" = "(2008 EV₅)";
+// English: 341843 (2008 EV₅)
+"AFF3D399-465E-45C3-BC28-1DA9D95848D3" = "341843 (2008 EV₅)";
 
 // English: Kepler-1254
 "B0446CB4-ED2A-44CD-8E16-0B9BF7642D2A" = "Kepler-1254";
