@@ -2155,6 +2155,9 @@
 // English: Kepler-950, also known as KOI-1787, is a distant Sun-like star about 7,545 light-years away in the constellation Lyra. A planet two-thirds the size of Saturn completes a 98-day orbit around its host star
 "722A6BC3-1E4F-4785-BE2E-BB4069CAF867" = "Kepler-950, also known as KOI-1787, is a distant Sun-like star about 7,545 light-years away in the constellation Lyra. A planet two-thirds the size of Saturn completes a 98-day orbit around its host star";
 
+// English: This addon enhances Saturn's moon Titan, including: \n\n- xyzv trajectory from 2004 to 2018, ensuring more accurate Cassini flybys and eliminating collisions. \n- Virtual texture (VT) of Titan's surface and specular map. \n- Realistic cloud texture, including the south polar vortex.
+"723F28EB-E226-413C-96D9-FC901A3E4056" = "This addon enhances Saturn's moon Titan, including: \n\n- xyzv trajectory from 2004 to 2018, ensuring more accurate Cassini flybys and eliminating collisions. \n- Virtual texture (VT) of Titan's surface and specular map. \n- Realistic cloud texture, including the south polar vortex.";
+
 // English: K2-43, while known to host two hot Neptunes, had a transit detection of a possible outer gas giant detected by TESS in 2021.
 "728CB932-31BA-4711-84FE-0336254926BD" = "K2-43, while known to host two hot Neptunes, had a transit detection of a possible outer gas giant detected by TESS in 2021.";
 
