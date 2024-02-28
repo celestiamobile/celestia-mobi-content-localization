@@ -34,6 +34,10 @@ extension CloudKitHandlerError: LocalizedError {
 }
 
 public class CloudKitHandler {
+    private enum Constants {
+        static let maximumSingleRequestRecordCount = 100
+    }
+
     public init() {}
 
     public static func configure(_ config: CKContainerConfig) {
@@ -165,16 +169,26 @@ public class CloudKitHandler {
         for (key, changed) in changedStrings {
             allChanges[key] = changed
         }
+        var allKeys = [String](allChanges.keys)
+
         let desiredKeys = [mainKey, englishKey, keywordsKey].compactMap { $0 }
         var records = [String: CKRecord]()
         do {
-            let recordResults = try await db.records(for: allChanges.keys.map({ CKRecord.ID(recordName: $0) }), desiredKeys: desiredKeys)
-            for (_, recordResult) in recordResults {
-                switch recordResult {
-                case .success(let record):
-                    records[record.recordID.recordName] = record
-                case .failure(let error):
-                    throw error
+            var batchCount = 0
+            while !allKeys.isEmpty {
+                print("Fetch batch no.\(batchCount)")
+                batchCount += 1
+
+                let keys = allKeys.prefix(Constants.maximumSingleRequestRecordCount)
+                allKeys.removeFirst(keys.count)
+                let recordResults = try await db.records(for: keys.map({ CKRecord.ID(recordName: $0) }), desiredKeys: desiredKeys)
+                for (_, recordResult) in recordResults {
+                    switch recordResult {
+                    case .success(let record):
+                        records[record.recordID.recordName] = record
+                    case .failure(let error):
+                        throw error
+                    }
                 }
             }
         } catch {
@@ -213,14 +227,22 @@ public class CloudKitHandler {
 
         print("Uploading record changes...")
         do {
-            let saveResults = try await db.modifyRecords(saving: recordsToSave, deleting: [], savePolicy: .changedKeys).saveResults
+            var batchCount = 0
+            while !recordsToSave.isEmpty {
+                print("Update batch no.\(batchCount)")
+                batchCount += 1
 
-            for (_, recordResult) in saveResults {
-                switch recordResult {
-                case .success:
-                    continue
-                case .failure(let error):
-                    throw error
+                let records = recordsToSave.prefix(Constants.maximumSingleRequestRecordCount)
+                recordsToSave.removeFirst(records.count)
+                let saveResults = try await db.modifyRecords(saving: [CKRecord](records), deleting: [], savePolicy: .changedKeys).saveResults
+
+                for (_, recordResult) in saveResults {
+                    switch recordResult {
+                    case .success:
+                        continue
+                    case .failure(let error):
+                        throw error
+                    }
                 }
             }
         } catch {
