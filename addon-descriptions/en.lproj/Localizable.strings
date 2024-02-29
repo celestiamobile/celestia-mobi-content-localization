@@ -3205,6 +3205,9 @@
 // English: HD 191939, also known as TOI-1339, is a Sun-like star about 175.12 light-years away in the constellation Draco. Between 2020 and 2021, a total of six planets (two jovians and four neptunians) were discovered by the TESS observatory
 "A77F3B4B-0338-418C-A1AB-15939F0C0787" = "HD 191939, also known as TOI-1339, is a Sun-like star about 175.12 light-years away in the constellation Draco. Between 2020 and 2021, a total of six planets (two jovians and four neptunians) were discovered by the TESS observatory";
 
+// English: This addon adds an xyzv trajectory (2004-2018) for the Saturn moon Hyperion, covering the Cassini mission. This ensures more accurate flybys, especially the closest flyby on 2005-Sep-26, at around 500 km.
+"A7829CBB-EEF5-4845-8B75-C8BDC3BD3E33" = "This addon adds an xyzv trajectory (2004-2018) for the Saturn moon Hyperion, covering the Cassini mission. This ensures more accurate flybys, especially the closest flyby on 2005-Sep-26, at around 500 km.";
+
 // English: CALIPSO is a NASA-CNES satellite launched on April 28, 2006. CALIPSO monitors aerosols and clouds in the Earth's atmosphere 24 hours a day. In 2022, that satellite remains active.
 "A78F0569-FE7C-ED08-B15A-8DA1594B37F2" = "CALIPSO is a NASA-CNES satellite launched on April 28, 2006. CALIPSO monitors aerosols and clouds in the Earth's atmosphere 24 hours a day. In 2022, that satellite remains active.";
 
