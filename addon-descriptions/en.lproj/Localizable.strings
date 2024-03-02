@@ -4348,8 +4348,8 @@
 // English: This add-on is based on Kepler-186, with all data based on observations recorded in the Q1-Q17 DR25 KOI Table (2018), with the addition of three hypothetical planets moons in addition to the five confirmed planets b,c,d,e,f.
 "E26133D5-AF4C-4784-8FFC-F5602EDCD8CA" = "This add-on is based on Kepler-186, with all data based on observations recorded in the Q1-Q17 DR25 KOI Table (2018), with the addition of three hypothetical planets moons in addition to the five confirmed planets b,c,d,e,f.";
 
-// English: This addon adds a 3D model for Saturn's moon Iapetus, based on data from the Cassini spacecraft.
-"E2826B02-E531-2818-4115-F7A4993D609B" = "This addon adds a 3D model for Saturn's moon Iapetus, based on data from the Cassini spacecraft.";
+// English: This addon enhances Saturn's moon Iapetus, including:\n\n- Month-long xyzv trajectory covering Cassini's close flyby of 2007-Sep-10 with better accuracy.\n- 3D model based on Cassini data.
+"E2826B02-E531-2818-4115-F7A4993D609B" = "This addon enhances Saturn's moon Iapetus, including:\n\n- Month-long xyzv trajectory covering Cassini's close flyby of 2007-Sep-10 with better accuracy.\n- 3D model based on Cassini data.";
 
 // English: XO-3, also known as TOI-1676, is a binary star system of an F-type and a K-type main sequence stars about 699 light-years away in the constellation Camelopardalis. The larger star of the two (component A) has a massive superjovian or low-end brown dwarf that completes a 2.26-day orbit around its star
 "E2A274CD-F79D-41BA-925F-7A65D9ADA3F0" = "XO-3, also known as TOI-1676, is a binary star system of an F-type and a K-type main sequence stars about 699 light-years away in the constellation Camelopardalis. The larger star of the two (component A) has a massive superjovian or low-end brown dwarf that completes a 2.26-day orbit around its star";
