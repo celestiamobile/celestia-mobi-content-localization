@@ -1402,8 +1402,8 @@
 // English: Kepler-283, aka KOI-1298, is a K-type main sequence star located about 1,525.97 light years from the solar system. The star hosts two mini-Neptunes (b= 2.371 Re, c= 2.055), the outermost orbits within the host's habitable zone. There are no mass measurements of any of these planets\n\nNOTES: \n- Original textures are included as alt surfaces to the planets
 "4690B111-209A-421F-81AB-B6B72246B343" = "Kepler-283, aka KOI-1298, is a K-type main sequence star located about 1,525.97 light years from the solar system. The star hosts two mini-Neptunes (b= 2.371 Re, c= 2.055), the outermost orbits within the host's habitable zone. There are no mass measurements of any of these planets\n\nNOTES: \n- Original textures are included as alt surfaces to the planets";
 
-// English: This addon adds a 3D model for Uranus's moon Ariel, based on data from the Voyager 2 spacecraft.
-"46FBDD3C-8F4D-AC07-BC8E-54322D4311F6" = "This addon adds a 3D model for Uranus's moon Ariel, based on data from the Voyager 2 spacecraft.";
+// English: This addon adds a semi-fictional model and texture for the Uranian moon Ariel.
+"46FBDD3C-8F4D-AC07-BC8E-54322D4311F6" = "This addon adds a semi-fictional model and texture for the Uranian moon Ariel.";
 
 // English: Abell 81 is a planetary nebula in the constellation Cepheus.
 "47061D98-D049-9C14-5289-40F229798043" = "Abell 81 is a planetary nebula in the constellation Cepheus.";
