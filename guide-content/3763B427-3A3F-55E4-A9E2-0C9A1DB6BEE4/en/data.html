@@ -607,7 +607,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       }
       const token = JSON.parse(data.info.detail).accessToken;
       const { Octokit } = await import("https://esm.sh/@octokit/core");
-      const { createPullRequest } = await import("https://cdn.pika.dev/octokit-plugin-create-pull-request@4.2.2");
+      const { createPullRequest } = await import("https://cdn.skypack.dev/octokit-plugin-create-pull-request@4.2.2");
       const MyOctokit = Octokit.plugin(createPullRequest);
       const octokit = new MyOctokit({
         auth: token,
