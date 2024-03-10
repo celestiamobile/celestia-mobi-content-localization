@@ -442,6 +442,9 @@
 // English: Atira asteroids
 "18DADB48-9569-4277-96C3-07BD27553DE8" = "Астероидите Атира";
 
+// English: L 363-38
+//"190FC67D-B5BC-4E97-9C7B-01645E213C4A" = "L 363-38";
+
 // English: M 27 (Dumbbell Nebula)
 "1913AE9D-EBF1-6DF3-116E-87C2CB22826F" = "M 27 (Гира)";
 
@@ -3847,6 +3850,9 @@
 // English: TERRIERS
 "C97A1ADA-88AD-4FAF-A3A0-FC20BB029C3E" = "TERRIERS";
 
+// English: Wolf 327
+//"C984B876-80C7-4933-89CC-7A748E2BFAF5" = "Wolf 327";
+
 // English: Mariner 5
 "C994CDDE-7642-287E-DB8A-C2A3A7164CA4" = "Маринър 5";
 
@@ -4098,6 +4104,9 @@
 
 // English: Gliese 180
 "D705E16C-91D1-24F4-474A-ABE8CF4FFBF5" = "Глийзе 180";
+
+// English: Kepler-1388
+//"D734BB45-509A-45F9-B514-E0C2AAF0DC77" = "Kepler-1388";
 
 // English: Luna 9
 "D782520B-A938-ECFB-C5D1-E36F1DB8F44D" = "Луна 9";

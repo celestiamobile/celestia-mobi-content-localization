@@ -442,6 +442,9 @@
 // English: This addon includes all known Atira asteroids (asteroids with orbits entirely within that of Earth) as of January 2024, except for ꞌAylóꞌchaxnim which has its own addon. There are a total of 32 asteroids and 1 satellite.
 "18DADB48-9569-4277-96C3-07BD27553DE8" = "This addon includes all known Atira asteroids (asteroids with orbits entirely within that of Earth) as of January 2024, except for ꞌAylóꞌchaxnim which has its own addon. There are a total of 32 asteroids and 1 satellite.";
 
+// English: L 363-38, also known as GJ 3049, is 33.39 light-years away from Earth and is a red dwarf with a spectral type of M5V. It has a planet slightly larger than Earth with an orbital period of less than 9 days and may be tidal locked in
+"190FC67D-B5BC-4E97-9C7B-01645E213C4A" = "L 363-38, also known as GJ 3049, is 33.39 light-years away from Earth and is a red dwarf with a spectral type of M5V. It has a planet slightly larger than Earth with an orbital period of less than 9 days and may be tidal locked in";
+
 // English: The Dumbbell Nebula (NGC 6853, Messier 27) is a planetary nebula in the constellation Vulpecula 1360 light-years away from Earth.
 "1913AE9D-EBF1-6DF3-116E-87C2CB22826F" = "The Dumbbell Nebula (NGC 6853, Messier 27) is a planetary nebula in the constellation Vulpecula 1360 light-years away from Earth.";
 
@@ -3847,6 +3850,9 @@
 // English: TERRIERS, also known as Explorer 76 and STEDI-2, is a student-built satellite intended to study the Earth's ionosphere. Although launched successfully by a Pegasus-XL rocket in 1999-May-18, its batteries were unable to recharge when it cannot track the Sun and therefore lost contact just two days later, resulting in a mission failure. It still remains in orbit as a derelict object as of 2023
 "C97A1ADA-88AD-4FAF-A3A0-FC20BB029C3E" = "TERRIERS, also known as Explorer 76 and STEDI-2, is a student-built satellite intended to study the Earth's ionosphere. Although launched successfully by a Pegasus-XL rocket in 1999-May-18, its batteries were unable to recharge when it cannot track the Sun and therefore lost contact just two days later, resulting in a mission failure. It still remains in orbit as a derelict object as of 2023";
 
+// English: Wolf 327 is a red dwarf star located 93.19 light-years away from Earth. In 2024, an ultra short period planet was discovered, and its orbital period is only 13.77 hours
+"C984B876-80C7-4933-89CC-7A748E2BFAF5" = "Wolf 327 is a red dwarf star located 93.19 light-years away from Earth. In 2024, an ultra short period planet was discovered, and its orbital period is only 13.77 hours";
+
 // English: After the success of its predecessor, Mariner 5 was repurposed and redesigned for a Venus mission in 1967. It flew by the planet on 1967-Oct-19 at a distance of 3,440 km from the surface. Notably, this mission along with Venera 4 (which arrived on Venus just a day earlier), performed the first joint space mission between the Soviet Union and the United States
 "C994CDDE-7642-287E-DB8A-C2A3A7164CA4" = "After the success of its predecessor, Mariner 5 was repurposed and redesigned for a Venus mission in 1967. It flew by the planet on 1967-Oct-19 at a distance of 3,440 km from the surface. Notably, this mission along with Venera 4 (which arrived on Venus just a day earlier), performed the first joint space mission between the Soviet Union and the United States";
 
@@ -4098,6 +4104,9 @@
 
 // English: Gliese 180 is a red dwarf about 38.9 light-years away in the constellation Eridanus. Two planets were discovered orbiting this star, the innermost planet was initially considered habitable before new models of the stellar Goldilocks zone indicate it is far too hot to sustain life
 "D705E16C-91D1-24F4-474A-ABE8CF4FFBF5" = "Gliese 180 is a red dwarf about 38.9 light-years away in the constellation Eridanus. Two planets were discovered orbiting this star, the innermost planet was initially considered habitable before new models of the stellar Goldilocks zone indicate it is far too hot to sustain life";
+
+// English: Kepler-1388, also known as KOI-2926, is a K-type star located 1499.22 light-years away from Earth. Four planets (possibly mini Neptune, as described in this add-on) have been discovered around it, as well as an unconfirmed planet Kepler-1388 f located in the habitable zone
+"D734BB45-509A-45F9-B514-E0C2AAF0DC77" = "Kepler-1388, also known as KOI-2926, is a K-type star located 1499.22 light-years away from Earth. Four planets (possibly mini Neptune, as described in this add-on) have been discovered around it, as well as an unconfirmed planet Kepler-1388 f located in the habitable zone";
 
 // English: Luna 9 was a soviet space probe intended to land on the surface of the Moon. Launched on January 31, 1966, it landed gently on the Moon on February 3, 1966 and became the first successful Moon landing. The probe took photographs from the surface of the Moon until three days after its landing. The last contact with the probe took place on February 6, 1966.
 "D782520B-A938-ECFB-C5D1-E36F1DB8F44D" = "Luna 9 was a soviet space probe intended to land on the surface of the Moon. Launched on January 31, 1966, it landed gently on the Moon on February 3, 1966 and became the first successful Moon landing. The probe took photographs from the surface of the Moon until three days after its landing. The last contact with the probe took place on February 6, 1966.";
