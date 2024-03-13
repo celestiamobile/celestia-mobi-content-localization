@@ -4552,6 +4552,9 @@
 // English: Kepler-43, aka KOI-135, TOI-2178, and Gaia-TROI-80. is a G-type main sequence star located about 3378.80 lightyears from the solar system. a single, dark, hot super-Jupiter orbits this star every 3.02 days
 "EE2C401C-87C0-41DF-9D76-F7C16FA9E2D9" = "Kepler-43, aka KOI-135, TOI-2178, and Gaia-TROI-80. is a G-type main sequence star located about 3378.80 lightyears from the solar system. a single, dark, hot super-Jupiter orbits this star every 3.02 days";
 
+// English: This addon adds an alternative texture for Neptune, based on Hubble observations between 2014 and 2017.
+"EE636463-313F-408D-9F3E-DB98332AF375" = "This addon adds an alternative texture for Neptune, based on Hubble observations between 2014 and 2017.";
+
 // English: The Sombrero Galaxy (also known as Messier 104 or NGC 4594) is an Sa-type spiral galaxy about 31.1 million light-years away in the constellation Virgo. It is 49,000 light-years across and is one of the brightest galaxies seen through telescopes\n\n(NOTE: Disable \"Galaxies\" in settings to obtain the best view of the object's 3D model)
 "EE680DCF-96C1-ABA0-51B4-07029A79D696" = "The Sombrero Galaxy (also known as Messier 104 or NGC 4594) is an Sa-type spiral galaxy about 31.1 million light-years away in the constellation Virgo. It is 49,000 light-years across and is one of the brightest galaxies seen through telescopes\n\n(NOTE: Disable \"Galaxies\" in settings to obtain the best view of the object's 3D model)";
 

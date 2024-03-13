@@ -1642,7 +1642,7 @@
 // English: 55565 (2002 AW₁₉₇)
 "53639792-1156-5DF3-FE3C-3E241FD9016C" = "55565 (2002 AW₁₉₇)";
 
-// English: Neptune Infrared
+// English: Neptune: Infrared
 "538BA5EB-9E52-E447-9651-FAAC664C7726" = "Нептун: Инфрачервена текстура";
 
 // English: KOI-5819
@@ -4551,6 +4551,9 @@
 
 // English: Kepler-43
 "EE2C401C-87C0-41DF-9D76-F7C16FA9E2D9" = "Кеплер-43";
+
+// English: Neptune (2014-2017)
+//"EE636463-313F-408D-9F3E-DB98332AF375" = "Neptune (2014-2017)";
 
 // English: M 104 (Sombrero Galaxy)
 "EE680DCF-96C1-ABA0-51B4-07029A79D696" = "M 104 (Sombrero Galaxy)";
