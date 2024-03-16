@@ -397,6 +397,9 @@
 // English: Kepler-1321
 "16CBBB19-9E8B-4AE9-AA23-BB89B408F1EB" = "Kepler-1321";
 
+// English: Kepler-155
+"16D75704-F8CC-4C06-AD9C-E87D5114D052" = "Kepler-155";
+
 // English: HAT-P-8
 "16F166A5-95EE-476E-A6E8-7E17EC3E7E5C" = "HAT-P-8";
 
@@ -1782,6 +1785,9 @@
 
 // English: Utapau
 "5C565AC8-FA53-4597-9DAC-2B0E7F5E4DDC" = "Utapau";
+
+// English: Triton
+"5C992851-48EE-473F-96BA-F10E921A6CB1" = "Triton";
 
 // English: Kepler-643
 "5CD5E18C-9A92-0CAB-E394-2B08459569C7" = "Kepler-643";

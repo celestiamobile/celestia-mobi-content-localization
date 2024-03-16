@@ -397,6 +397,9 @@
 // English: Kepler-1321, also known as KOI-2715, is 2557.48 light-years from Earth and is 4.17 billion years old.Kepler-1321 d is in Kepler-1321 c and Between Kepler-1321 b's orbits, all three planets orbit each other within 12 days of each other
 "16CBBB19-9E8B-4AE9-AA23-BB89B408F1EB" = "Kepler-1321, also known as KOI-2715, is 2557.48 light-years from Earth and is 4.17 billion years old.Kepler-1321 d is in Kepler-1321 c and Between Kepler-1321 b's orbits, all three planets orbit each other within 12 days of each other";
 
+// English: Kepler-155, also known as KOI-438, is located 965.38 light-years away from us and has been confirmed to have two planets orbiting it. One is too close to the star and has a high surface temperature, while the other is in the star's habitable zone (the composition of these two planets is currently unknown)
+"16D75704-F8CC-4C06-AD9C-E87D5114D052" = "Kepler-155, also known as KOI-438, is located 965.38 light-years away from us and has been confirmed to have two planets orbiting it. One is too close to the star and has a high surface temperature, while the other is in the star's habitable zone (the composition of these two planets is currently unknown)";
+
 // English: HAT-P-8, also known as TOI-5960, is a triple star system of an F-type main sequence star and two red dwarf stars about 694.19 light-years away in the constellation Pegasus. The larger star (component A) has a superjovian planet about 6.48 million km away, completing an orbit once every 3.08 days
 "16F166A5-95EE-476E-A6E8-7E17EC3E7E5C" = "HAT-P-8, also known as TOI-5960, is a triple star system of an F-type main sequence star and two red dwarf stars about 694.19 light-years away in the constellation Pegasus. The larger star (component A) has a superjovian planet about 6.48 million km away, completing an orbit once every 3.08 days";
 
@@ -592,8 +595,8 @@
 // English: The Owl Nebula (also known as Messier 97 or NGC 3587) is a starburst (\"planetary\") nebula approximately 2,030 light years away in the northern constellation Ursa Major.
 "20A0B49B-7A67-5848-B3E7-E08A9F487DDB" = "The Owl Nebula (also known as Messier 97 or NGC 3587) is a starburst (\"planetary\") nebula approximately 2,030 light years away in the northern constellation Ursa Major.";
 
-// English: 1 Ceres is the only known dwarf planet orbiting in the asteroid belt. It is the first and, at 964.4 km in diameter, the largest asteroid ever discovered. In 2015, the Dawn spacecraft entered orbit around Ceres and studied the dwarf planet until 2018.\nNOTE: This addon adds a 3D model for Ceres, based on Dawn spacecraft data, modifying the existing version of Ceres on Celestia.
-"20E27C97-EF70-A424-A05A-6743529A0946" = "1 Ceres is the only known dwarf planet orbiting in the asteroid belt. It is the first and, at 964.4 km in diameter, the largest asteroid ever discovered. In 2015, the Dawn spacecraft entered orbit around Ceres and studied the dwarf planet until 2018.\nNOTE: This addon adds a 3D model for Ceres, based on Dawn spacecraft data, modifying the existing version of Ceres on Celestia.";
+// English: This addon enhances the dwarf planet Ceres, including: \n\n- 3D model based on Dawn data.\n- Four textures: Dawn data (default); Hubble data, enhanced colors and topography (alternative surfaces).
+"20E27C97-EF70-A424-A05A-6743529A0946" = "This addon enhances the dwarf planet Ceres, including: \n\n- 3D model based on Dawn data.\n- Four textures: Dawn data (default); Hubble data, enhanced colors and topography (alternative surfaces).";
 
 // English: 2685 Masursky (1981 JN) is an asteroid located in the central regions of the asteroid belt. It is about 11 km in diameter. It was discovered on May 3, 1981. In January 2000 the Cassini-Huygens spacecraft passed within 1.6 million km of the asteroid.
 "210486A3-9DEC-91E3-3C76-B3AF005D4DD7" = "2685 Masursky (1981 JN) is an asteroid located in the central regions of the asteroid belt. It is about 11 km in diameter. It was discovered on May 3, 1981. In January 2000 the Cassini-Huygens spacecraft passed within 1.6 million km of the asteroid.";
@@ -1782,6 +1785,9 @@
 
 // English: Utapau is a remote subterranean planet located in the Outer Rim. The homeworld of the Pau'ans, this is where Obi-Wan Kenobi managed to defeat General Grievous in the final years of the Clone Wars, only to narrowly escape death himself when Order 66 was executed by the clones
 "5C565AC8-FA53-4597-9DAC-2B0E7F5E4DDC" = "Utapau is a remote subterranean planet located in the Outer Rim. The homeworld of the Pau'ans, this is where Obi-Wan Kenobi managed to defeat General Grievous in the final years of the Clone Wars, only to narrowly escape death himself when Order 66 was executed by the clones";
+
+// English: This addon enhances Neptune's moon Triton, including:\n\n- Virtual texture (VT) in real colors. \n- Alternative VT surface in enhanced colors.
+"5C992851-48EE-473F-96BA-F10E921A6CB1" = "This addon enhances Neptune's moon Triton, including:\n\n- Virtual texture (VT) in real colors. \n- Alternative VT surface in enhanced colors.";
 
 // English: Kepler-643 is a K-type main-sequence star about 3,578 light-years away in the constellation Lyra. Its sole gas giant planet orbits in a very eccentric trajectory, ranging in distances from 0.08 to 0.17 AU around its star
 "5CD5E18C-9A92-0CAB-E394-2B08459569C7" = "Kepler-643 is a K-type main-sequence star about 3,578 light-years away in the constellation Lyra. Its sole gas giant planet orbits in a very eccentric trajectory, ranging in distances from 0.08 to 0.17 AU around its star";
