@@ -1108,6 +1108,9 @@
 // English: 130 Elektra
 "375A913D-2FD2-7CE9-13BD-2D74A84C8CBF" = "130 Електра";
 
+// English: Kepler-402
+//"3772BC83-E2E0-4BA9-9CBD-8FF80B4173B9" = "Kepler-402";
+
 // English: HD 169142
 "377483E2-8D29-4FCB-A817-3A539D9F7E11" = "HD 169142";
 
@@ -2079,6 +2082,9 @@
 
 // English: Tianwen-1
 "6CB1584C-DB4E-2D6B-19A5-A87179BD4A0A" = "Tianwen-1";
+
+// English: Kepler-378
+//"6CB4812D-154F-4D31-A2E0-F3D333FA67F4" = "Kepler-378";
 
 // English: K2-38
 "6D034A33-40F2-4ABD-BAB4-D65B525638F1" = "K2-38";
@@ -3231,6 +3237,9 @@
 
 // English: Kepler-17
 "A7E72226-7A51-4ACA-A47D-6B5D621310F2" = "Кеплер-17";
+
+// English: Kepler-339
+//"A7E8432F-E5F8-468F-BCFC-3F3647BC771C" = "Kepler-339";
 
 // English: Pavonis Mons
 "A80BF67A-820D-7B5F-CBBC-639218E5127E" = "Pavonis Mons";
