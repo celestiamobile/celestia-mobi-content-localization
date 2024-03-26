@@ -373,6 +373,9 @@
 // English: NGC 6543 (Cat's Eye Nebula)
 "14596D4D-4965-86C5-5A9F-06CC3EBE9EEC" = "NGC 6543 (Котешко око)";
 
+// English: GLASS-JWST-BD1
+//"14A19FE7-1296-480B-9215-D8EF13B233E4" = "GLASS-JWST-BD1";
+
 // English: Interstellar Boundary Explorer
 "150860B5-2DA9-E0BA-0450-B8E28276D550" = "Изследовател на междузвездните граници";
 
@@ -2191,7 +2194,7 @@
 // English: Milky Way (SSC version)
 "72F63412-ACF2-94AB-B1E5-691E0DE33F22" = "Milky Way (SSC version)";
 
-// English: Pluto (3D model)
+// English: 134340 Pluto
 "73692F99-7FBC-DC60-5283-E66AAE0FCFB3" = "Плутон (триизмерен модел)";
 
 // English: HAT-P-5
@@ -2437,7 +2440,7 @@
 // English: Gusev Crater
 "7F98A89C-EB9F-7AA6-0510-43698EC82F94" = "Кратерът Гусев";
 
-// English: Charon (3D model)
+// English: Charon
 "7FDFE2E0-4608-45D0-B661-FFF0606B4973" = "Харон (триизмерен модел)";
 
 // English: 91 Aquarii
