@@ -2521,6 +2521,9 @@
 // English: This addon adds 72 comets discovered in the year 2021.
 "84FD9EC2-674C-450D-8D70-4F02B73D9FBA" = "This addon adds 72 comets discovered in the year 2021.";
 
+// English: The Nova-C spacecraft are a series of lunar landers developed by Intuitive Machines to deliver 100 kg of payload and instruments on the lunar surface. Part of NASA's Commercial Lunar Payload Services (CLPS) program alongside Peregrine, its first flight (IM-1) completed the first US lunar landing since Apollo 17 on 2024-Feb-22
+"85562E75-599C-45FB-AA91-8D28E47C9137" = "The Nova-C spacecraft are a series of lunar landers developed by Intuitive Machines to deliver 100 kg of payload and instruments on the lunar surface. Part of NASA's Commercial Lunar Payload Services (CLPS) program alongside Peregrine, its first flight (IM-1) completed the first US lunar landing since Apollo 17 on 2024-Feb-22";
+
 // English: Chang'e 4 is a Chinese space probe that achieved the very first landing on the Far Side of the Moon in history. Like its predecessor, it deployed a small rover (Yutu-2) onto the surface just hours after landing on 2019-Jan-3. Since direct communications with Earth is impossible at their location, a relay satellite (Queqiao) is strategically positioned at the Earth-Moon L2 point to allow the data gathered by the mission to be transmitted back to Earth
 "8591680D-D0DD-145B-25C9-8328758779C6" = "Chang'e 4 is a Chinese space probe that achieved the very first landing on the Far Side of the Moon in history. Like its predecessor, it deployed a small rover (Yutu-2) onto the surface just hours after landing on 2019-Jan-3. Since direct communications with Earth is impossible at their location, a relay satellite (Queqiao) is strategically positioned at the Earth-Moon L2 point to allow the data gathered by the mission to be transmitted back to Earth";
 
