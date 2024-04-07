@@ -2044,6 +2044,9 @@
 // English: This addon adds a semi-fictional model and texture for the Uranian moon Miranda.
 "69E31D3A-A65D-420F-132B-4954C1A73BF2" = "This addon adds a semi-fictional model and texture for the Uranian moon Miranda.";
 
+// English: Part 2 of Celestia Origin's minor planet catalog, from 101 Helena to 200 Dynamene. Furthermore, it also includes the respective satellites of 107 Camilla and 121 Hermione.\n\nNOTES:\n- The asteroid 130 Elektra is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 101 Helena.
+"6A137C9B-9D06-439D-AB78-417A25B62FC4" = "Part 2 of Celestia Origin's minor planet catalog, from 101 Helena to 200 Dynamene. Furthermore, it also includes the respective satellites of 107 Camilla and 121 Hermione.\n\nNOTES:\n- The asteroid 130 Elektra is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 101 Helena.";
+
 // English: Kepler-1410 is a binary star system of two red dwarf stars about 1,197 light-years away in the constellation Lyra. A single superterran planet orbits the primary star in the system, depicted here as an ocean planet
 "6A222744-5908-8807-CA8D-6526DACB0694" = "Kepler-1410 is a binary star system of two red dwarf stars about 1,197 light-years away in the constellation Lyra. A single superterran planet orbits the primary star in the system, depicted here as an ocean planet";
 
