@@ -1705,6 +1705,9 @@
 // English: Cartwheel Galaxy
 "567A1EC0-8E91-4CE7-989E-5A1E8FCE5F9F" = "Cartwheel Galaxy";
 
+// English: TOI-1669
+//"5691B9F5-20BD-420A-BACA-D8F694BDD30B" = "TOI-1669";
+
 // English: TOI-2796
 "56C987B4-7A38-4AB5-9AE6-CDC17A4804F4" = "TOI-2796";
 
@@ -2004,6 +2007,9 @@
 
 // English: Very Large Array (Simplified)
 "670A59B6-9659-42D6-B0B2-2E795A51952A" = "Very Large Array (Simplified)";
+
+// English: TOI-1386
+//"6767B0E1-EECC-4651-AF61-5F84FA52C2C2" = "TOI-1386";
 
 // English: HD 213885
 "6784DC1A-7D79-FDEA-09A9-68356A2E2D54" = "HD 213885";
@@ -3547,6 +3553,9 @@
 // English: Comparison of the Accuracy of the Orbits of the 9 Major Solar Bodies
 "B917795C-3190-BC23-51AC-C50A355A2105" = "Comparison of the Accuracy of the Orbits of the 9 Major Solar Bodies";
 
+// English: WASP-1
+//"B9333A6A-372F-4832-9E23-7F7BF7D76AB3" = "WASP-1";
+
 // English: 85990 (1999 JV₆)
 "B942A420-FA0E-0291-D832-3C1E8F79C171" = "85990 (1999 JV₆)";
 
@@ -4312,6 +4321,9 @@
 // English: HTV
 "DEEDF629-A314-4AD6-BB64-41730358B263" = "HTV";
 
+// English: TOI-1294
+//"DEF63B8B-8DE6-4F75-AB72-EE1CBD00F5E9" = "TOI-1294";
+
 // English: Sentinel-6A
 "DF282F80-91AD-9087-85B1-265D3A84898D" = "Сентинел-6A";
 
@@ -4872,6 +4884,9 @@
 
 // English: Kepler-385 (Unconfirmed Planets)
 "FC515521-2F64-420F-BFC7-BADC24B480D5" = "Кеплер-385 (непотвърдени планети)";
+
+// English: TOI-2202
+//"FC55B6E0-B291-4F74-AB0B-3AF5CFA96DC9" = "TOI-2202";
 
 // English: Neil Gehrels Swift
 "FC673ED4-664D-5755-2CFF-B93FE0C2CD72" = "Neil Gehrels Swift";
