@@ -4504,6 +4504,9 @@
 // English: TOI-836
 "E7D81D0E-C7A5-450E-BD4A-4F3F00D2A416" = "TOI-836";
 
+// English: M 62H
+//"E82C13E0-BDC7-4B32-9FBF-FF67EF4C9BDF" = "M 62H";
+
 // English: Mercury: Topography
 "E83FDA9D-4DE7-43B6-BF6C-9369212BF5A5" = "Меркурий: Топография";
 
@@ -4914,6 +4917,9 @@
 
 // English: ABU: 37 Geminorum
 "FD401F84-3F7F-A45B-B8FF-F6A41F78BD59" = "ABU: 37 от Близнаци";
+
+// English: USS Franklin
+//"FD47070E-9832-4EF7-AED2-0BA416D472BD" = "USS Franklin";
 
 // English: Solar System (JPL/Caltech Textures)
 "FD47D604-351B-5E70-8D62-E9474E7F13D0" = "Слънчевата система (текстури от JPL/Калтек)";
