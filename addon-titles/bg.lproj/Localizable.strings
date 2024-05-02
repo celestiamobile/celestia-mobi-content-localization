@@ -2239,6 +2239,9 @@
 // English: Kepler-302
 "740C7CD1-2E97-48AF-8643-E63EF2541AB2" = "Кеплер-302";
 
+// English: Mars (OA)
+//"743122C3-0A77-4111-8A39-FFF6DC2F91ED" = "Mars (OA)";
+
 // English: EURECA
 "74332C90-95BD-4A30-AAAA-FC393F1F4F82" = "EURECA";
 
@@ -4009,7 +4012,7 @@
 // English: Wolf 1061
 "CD7C9BBA-C079-58AD-A618-81BDBF2AA04E" = "Волф 1061";
 
-// English: OA: Iota Piscium
+// English: Iota Piscium (OA)
 "CDD67746-C1C9-40C5-B032-FADDF7947F3B" = "OA: Iota Piscium";
 
 // English: GOES-13 to 15
