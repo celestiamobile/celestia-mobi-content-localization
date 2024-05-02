@@ -8,12 +8,18 @@ directory of the Celestia release.</p>
 <li>Make modification to the directory, and celestia.cfg file</li>
 </ol>
 <p>Then...</p>
-<h3 id="android-ios-macos-catalyst-">Android/iOS/macOS(Catalyst)</h3>
-<ol>
-<li>Copy the directory to the device, for iOS it can be in an arbitrary 
-directory, for Android it has to be under 
+<h3 id="android" class="not-apple">Android</h3>
+<ol class="not-apple">
+<li>Copy the directory to the device, it has to be under 
 Android/data/space.celestia.mobilecelestia/files or 
 Android/media/space.celestia.mobilecelestia</li>
+<li>Run Celestia, go to Settings -&gt; Data Location</li>
+<li>Choose Data Directory location (CelestiaResources directory) and 
+Config File location (celestia.cfg)</li>
+<li>Close Celestia and rerun</li>
+<h3 id="ios-macos-catalyst-">iOS/macOS(Catalyst)</h3>
+<ol>
+<li>Copy the directory to the device, it can be in an arbitrary directory</li>
 <li>Run Celestia, go to Settings -&gt; Data Location</li>
 <li>Choose Data Directory location (CelestiaResources directory) and 
 Config File location (celestia.cfg)</li>
@@ -29,14 +35,14 @@ Config File location (celestia.cfg)</li>
 <li>Click &quot;Confirm and Relaunch&quot;, note that the relaunching 
 needs to performed by yourself</li>
 </ol>
-<h3 id="windows-uwp-">Windows(UWP)</h3>
-<ol>
+<h3 id="windows-uwp-" class="not-apple">Windows(UWP)</h3>
+<ol class="not-apple">
 <li>Rename CelestiaResources to Override</li>
 <li>Run Celestia and click File -&gt; Open Custom Folder</li>
 <li>File explorer should be opened, copy the Override directory into 
 it</li>
 <li>Close Celestia and rerun</li>
 </ol>
-<p>If the configuration and data files are correctly set up, you should be 
+<p class="not-apple">If the configuration and data files are correctly set up, you should be 
 able to see Celestia loading your files.</p>
-<style>.ios-only {display:none} .android-only {display:none} .mac-only {display:none} .uwp-only {display:none} .ios .ios-only { display:block } .android .android-only { display:block } .catalyst .mac-only { display:block } .uwp .uwp-only{ display: block}</style>
+<style>.not-apple {display:block} .ios .not-apple {display:none} .catalyst .not-apple {display:none} .visionos .not-apple {display:none}</style>
