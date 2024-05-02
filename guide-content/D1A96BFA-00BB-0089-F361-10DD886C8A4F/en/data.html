@@ -33,10 +33,10 @@ it.</p>
 <li>Find Celestia and click on it</li>
 </ol>
 <p>There should be a CelestiaResources folder in it.</p>
-<h4 id="android">Android</h4>
-<p>The folder is in the external folder of the app. It should be 
+<h4 id="android" class="not-apple">Android</h4>
+<p class="not-apple">The folder is in the external folder of the app. It should be 
 Android/data/space.celestia.mobilecelestia/files/CelestiaResources</p>
-<p>On Android 11+, you might not be able to see the folder above, instead 
+<p class="not-apple">On Android 11+, you might not be able to see the folder above, instead 
 you can head over Android/media/space.celestia.mobilecelestia, and create 
 CelestiaResources/extras CelestiaResources/scripts folders by 
 yourself.</p>
@@ -48,14 +48,14 @@ HERE/Library/Containers/space.celestia.MobileCelestia/Data/Documents/CelestiaRes
 <p>The folder is in /Users/YOUR USER NAME 
 HERE/Library/Containers/space.celestia.Celestia/Data/Documents/CelestiaResources</p>
 <p>Replace &quot;YOUR USER NAME HERE&quot; with your correct username.</p>
-<h4 id="windows-uwp-">Windows (UWP)</h4>
-<ol>
+<h4 id="windows-uwp-" class="not-apple">Windows (UWP)</h4>
+<ol class="not-apple">
 <li>Launch Celestia</li>
 <li>File -&gt; Open Custom Folder</li>
 </ol>
-<p>The CelestiaResources folder should be there.</p>
-<h4 id="windows-legacy-">Windows (Legacy)</h4>
-<p>There is a &quot;extras&quot; folder and &quot;scripts&quot; folder 
+<p class="not-apple">The CelestiaResources folder should be there.</p>
+<h4 id="windows-legacy-" class="not-apple">Windows (Legacy)</h4>
+<p class="not-apple">There is a &quot;extras&quot; folder and &quot;scripts&quot; folder 
 in the installation folder of Celestia. By default the installation folder 
 is either C:\Program Files (x86)\Celestia or C:\Program Files\Celestia</p>
 <h3 id="supply-a-directory-for-data-to-read">Supply a directory for data 
@@ -63,4 +63,8 @@ to read</h3>
 <p>This is for full customization, see <a 
 href="celguide://guide?guide=CA57806B-690B-CE4C-2173-B0B6079544FF">Override 
 Data Directory to Read from</a>.</p>
-
+<script type="text/javascript">
+    let bodyClassList = window.document.body.classList;
+    if (bodyClassList.contains("ios") || bodyClassList.contains("catalyst") || bodyClassList.contains("visionos"))
+        document.querySelectorAll(".not-apple").forEach(el => el.remove());
+</script>
