@@ -46,4 +46,8 @@ it</li>
 </ol>
 <p class="not-apple">If the configuration and data files are correctly set up, you should be 
 able to see Celestia loading your files.</p>
-<style>.not-apple {display:block} .ios .not-apple {display:none} .catalyst .not-apple {display:none} .visionos .not-apple {display:none}</style>
+<script type="text/javascript">
+    let bodyClassList = window.document.body.classList;
+    if (bodyClassList.contains("ios") || bodyClassList.contains("catalyst") || bodyClassList.contains("visionos"))
+        document.querySelectorAll(".not-apple").forEach(el => el.remove());
+</script>
