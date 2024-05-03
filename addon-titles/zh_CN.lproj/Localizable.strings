@@ -85,8 +85,8 @@
 // English: b Centauri
 //"04C3E381-A7B2-D41F-CD9C-A219BCFEE779" = "b Centauri";
 
-// English: (2020 XL₅)
-//"04D0E3B5-5126-4C13-CFAC-92D79E84C687" = "(2020 XL₅)";
+// English: 614689 (2020 XL₅)
+//"04D0E3B5-5126-4C13-CFAC-92D79E84C687" = "614689 (2020 XL₅)";
 
 // English: Kepler-108
 //"04D5A202-C44D-40EA-9382-0CC100463ED0" = "Kepler-108";
@@ -961,8 +961,8 @@
 // English: Celestia Spaceships
 //"30E73592-5BDC-DD74-34C2-711AE3AC0E41" = "Celestia Spaceships";
 
-// English: (2017 OF₆₉)
-//"30F32C15-BCB4-EB75-45FE-B2945B1C7D83" = "(2017 OF₆₉)";
+// English: 678191 (2017 OF₆₉)
+//"30F32C15-BCB4-EB75-45FE-B2945B1C7D83" = "678191 (2017 OF₆₉)";
 
 // English: Epsilon Indi
 //"30F41D71-0664-F9AD-2212-B056283F4F0A" = "Epsilon Indi";
@@ -1669,8 +1669,14 @@
 // English: Neptune: Infrared
 //"538BA5EB-9E52-E447-9651-FAAC664C7726" = "Neptune: Infrared";
 
+// English: M 16 (Eagle Nebula)
+//"539A1124-9FCD-4850-B9C6-9865B4D8B99D" = "M 16 (Eagle Nebula)";
+
 // English: KOI-5819
 //"53F67CD7-0D8F-47E0-B216-5AA844366B12" = "KOI-5819";
+
+// English: NGC 6334 (Cat's Paw Nebula)
+//"5442EC81-D6D5-4FA7-B5BE-6E14345D1208" = "NGC 6334 (Cat's Paw Nebula)";
 
 // English: Rho Indi
 //"54599D27-ED40-444E-B0AB-F848D1E9A1F6" = "Rho Indi";
@@ -3304,8 +3310,8 @@
 // English: TOI-431
 //"A8DEB915-B100-4558-ABDC-CA048F4F3FC4" = "TOI-431";
 
-// English: 2006 RH₁₂₀
-//"A8FA34DE-38E8-58C7-BF99-63E069B3E3D0" = "2006 RH₁₂₀";
+// English: (2006 RH₁₂₀)
+//"A8FA34DE-38E8-58C7-BF99-63E069B3E3D0" = "(2006 RH₁₂₀)";
 
 // English: Aqua
 //"A923EBE7-151C-8A23-EAF4-72FE40543B75" = "Aqua";
@@ -3460,8 +3466,8 @@
 // English: NGC 3310
 //"B18106C3-260F-D63E-BC42-D2820FCBF955" = "NGC 3310";
 
-// English: 2020 CD₃
-//"B191DD38-5F71-DD43-4976-C08E78B9060C" = "2020 CD₃";
+// English: (2020 CD₃)
+//"B191DD38-5F71-DD43-4976-C08E78B9060C" = "(2020 CD₃)";
 
 // English: Ceti Alpha
 //"B1CC3CD1-6F0C-39B4-E46A-670B396DAFAF" = "Ceti Alpha";
