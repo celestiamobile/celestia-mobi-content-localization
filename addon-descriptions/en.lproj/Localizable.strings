@@ -1366,8 +1366,8 @@
 // English: This addon adds an alternative texture of the planet Uranus in infrared.
 "42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "This addon adds an alternative texture of the planet Uranus in infrared.";
 
-// English: This add-on adds over 77300 stars, 29 open clusters, and 38 globular clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.
-"42D26A52-CA95-D59C-06C6-16E653D1196B" = "This add-on adds over 77300 stars, 29 open clusters, and 38 globular clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.";
+// English: This add-on adds over 77300 stars and 29 open clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.
+"42D26A52-CA95-D59C-06C6-16E653D1196B" = "This add-on adds over 77300 stars and 29 open clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.";
 
 // English: Kepler-28 is an M-type main sequence star located about 1447.85 lightyears from the solar system. Two warm mini-Neptunes orbit this star.
 "436B3112-B767-4B6A-91F0-4142AE40EE87" = "Kepler-28 is an M-type main sequence star located about 1447.85 lightyears from the solar system. Two warm mini-Neptunes orbit this star.";
@@ -2067,6 +2067,9 @@
 
 // English: NGC 1232 is an SABc-type spiral galaxy about 60.18 million light-years away in the constellation Eridanus. It is part of the Eridanus galactic cluster, and it is about 200,000 light-years across, slightly larger than the Milky Way
 "693B729E-447D-BBE4-6BB7-5E73E7038738" = "NGC 1232 is an SABc-type spiral galaxy about 60.18 million light-years away in the constellation Eridanus. It is part of the Eridanus galactic cluster, and it is about 200,000 light-years across, slightly larger than the Milky Way";
+
+// English: This add-on adds over 13595 stars to the Small Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.
+"69B7424E-B8DB-4FE8-BBA9-6EA4E7B8FFE6" = "This add-on adds over 13595 stars to the Small Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.";
 
 // English: AF Leporis is a young F-type main sequence star about 87.55 light-years away in the constellation Lepus. A member of the Beta Pictoris moving group, it was discovered to host one superjovian planet through direct imaging in 2023, and is surrounded by a dense circumstellar disk about 50 AU distant
 "69BCF893-D94C-4206-8089-97AC33737147" = "AF Leporis is a young F-type main sequence star about 87.55 light-years away in the constellation Lepus. A member of the Beta Pictoris moving group, it was discovered to host one superjovian planet through direct imaging in 2023, and is surrounded by a dense circumstellar disk about 50 AU distant";
@@ -3213,6 +3216,9 @@
 
 // English: KOI-5554 is an F-type main sequence star about 701.23 light-years away in the constellation Cygnus. In 2014, a potentially habitable world slightly smaller than Earth was detected, but it wasn't yet confirmed by follow-up studies
 "A4E08C5C-2CEB-48F4-B370-F4B767CE2AC6" = "KOI-5554 is an F-type main sequence star about 701.23 light-years away in the constellation Cygnus. In 2014, a potentially habitable world slightly smaller than Earth was detected, but it wasn't yet confirmed by follow-up studies";
+
+// English: Stars in several galaxies\n\nThis add-on adds 15323 real stars distributed across 20 different galaxies, including:\n\n- Andromeda II: 299 stars\n- Barnard's Galaxy: 735 stars \n- Bode's Galaxy: 207 stars \n- Carina Dwarf Spheroidal Galaxy: 1699\n- Draco Dwarf: 672 stars \n- Fornax Dwarf: 3369 stars \n- IC 10: 865 stars \n- Leo A: 52 stars \n- Leo I: 1290 stars \n- Leo II: 385 stars \n- Messier 32 (M 32): 253 stars \n- Messier 110 (M 110): 142 stars \n- NGC 55: 356 stars \n- NGC 147: 1037 stars \n- NGC 185: 1490 stars \n- NGC 300: 35 stars \n- Phoenix Dwarf: 271 stars \n- Sculptor Dwarf Galaxy: 1601 stars \n- Ursa Minor Dwarf: 197 stars \n- Wolf-Lundmark-Melotte: 368 stars
+"A4FDB226-FA9A-4A82-B97E-4A21F22D8DFE" = "Stars in several galaxies\n\nThis add-on adds 15323 real stars distributed across 20 different galaxies, including:\n\n- Andromeda II: 299 stars\n- Barnard's Galaxy: 735 stars \n- Bode's Galaxy: 207 stars \n- Carina Dwarf Spheroidal Galaxy: 1699\n- Draco Dwarf: 672 stars \n- Fornax Dwarf: 3369 stars \n- IC 10: 865 stars \n- Leo A: 52 stars \n- Leo I: 1290 stars \n- Leo II: 385 stars \n- Messier 32 (M 32): 253 stars \n- Messier 110 (M 110): 142 stars \n- NGC 55: 356 stars \n- NGC 147: 1037 stars \n- NGC 185: 1490 stars \n- NGC 300: 35 stars \n- Phoenix Dwarf: 271 stars \n- Sculptor Dwarf Galaxy: 1601 stars \n- Ursa Minor Dwarf: 197 stars \n- Wolf-Lundmark-Melotte: 368 stars";
 
 // English: This addon adds Comet C/2021 A1 (Leonard), which was a comet visible from Earth between December 2021 and January 2022.
 "A5006779-694A-1139-D643-08BDCD0B875E" = "This addon adds Comet C/2021 A1 (Leonard), which was a comet visible from Earth between December 2021 and January 2022.";
