@@ -4867,8 +4867,8 @@
 // English: GJ 1252, aka TOI-1078 located about 66.41 lightyears from the solar system, the star hosts a single, hot, airless super-Earth (b= 1.18 Re, 1.32 Me). As mentioned before, observations from Spitzer determined the planet has no large atmosphere and later observations from JWST could help further constrain the planet's possible atmosphere, though it likely has none.
 "F7EAB149-39D6-40F3-B75D-FBC1D2CBD0BE" = "GJ 1252, aka TOI-1078 located about 66.41 lightyears from the solar system, the star hosts a single, hot, airless super-Earth (b= 1.18 Re, 1.32 Me). As mentioned before, observations from Spitzer determined the planet has no large atmosphere and later observations from JWST could help further constrain the planet's possible atmosphere, though it likely has none.";
 
-// English: Landsat 7 is a NASA/USGS satellite dedicated in imaging the Earth's surface. It was launched in 1999 and is planned to be decommissioned following the successful launch of Landsat 9 in 2021
-"F7F60BA2-F2A8-CD21-0719-868BC55688C4" = "Landsat 7 is a NASA/USGS satellite dedicated in imaging the Earth's surface. It was launched in 1999 and is planned to be decommissioned following the successful launch of Landsat 9 in 2021";
+// English: Landsat 7 is a NASA/USGS satellite dedicated in imaging the Earth's surface. Launched in 1999, it operated for 23 years until it was decommissioned from its primary mission following the successful launch of its successor, Landsat 9, in 2021
+"F7F60BA2-F2A8-CD21-0719-868BC55688C4" = "Landsat 7 is a NASA/USGS satellite dedicated in imaging the Earth's surface. Launched in 1999, it operated for 23 years until it was decommissioned from its primary mission following the successful launch of its successor, Landsat 9, in 2021";
 
 // English: This addon adds Earth's polar auroras.
 "F8120336-675B-A499-4DE2-84C8529957CC" = "This addon adds Earth's polar auroras.";
