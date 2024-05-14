@@ -31,6 +31,9 @@
 // English: Fictional: Demos
 "44F231CF-D5E2-5815-19AF-110660E76778" = "Измислени: Демонстрации";
 
+// English: Exoplanets: U and V
+"4BA5AC20-C9DD-497D-BC3E-913F7F8ECEA1" = "Екзопланети: U и V";
+
 // English: Spacecraft: Crewed/Resupply Missions
 "4C984847-1232-385B-793B-0E0700ED883E" = "Космически апарати: Пилотирани и снабдителни мисии";
 
@@ -43,8 +46,8 @@
 // English: Solar System: Venus
 "638E2A3D-7C1D-DAA5-3CFE-4E9B540D775A" = "Слънчева система: Венера";
 
-// English: Exoplanets: T, U and V
-"6455338A-F2B9-5FB3-4CB4-5A00A62C7CEB" = "Екзопланети: T, U и V";
+// English: Exoplanets: T
+"6455338A-F2B9-5FB3-4CB4-5A00A62C7CEB" = "Екзопланети: T";
 
 // English: Fictional: Orion's Arm
 "660FAF24-654D-DD65-A97B-21C42D57B1C5" = "Измислени: Ръката на Орион";
