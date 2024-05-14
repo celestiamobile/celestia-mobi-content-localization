@@ -1186,6 +1186,9 @@
 // English: OGLE-2019-BLG-0960L is a distant red dwarf star located about 2,935 light-years away in the constellation Sagittarius. In 2021, a superterran-mass exoplanet was discovered via microlensing, which is one of the least massive known exoplanets ever discovered using this method
 "394F7355-C70D-408A-8361-ADEAF1ED4C94" = "OGLE-2019-BLG-0960L is a distant red dwarf star located about 2,935 light-years away in the constellation Sagittarius. In 2021, a superterran-mass exoplanet was discovered via microlensing, which is one of the least massive known exoplanets ever discovered using this method";
 
+// English: MOA-2016-BLG-231L is a Y-type brown dwarf about 9,295 light-years away in the constellation Scorpius. It is accompanied by a massive superjovian planet about 9 times that of Jupiter, discovered through microlensing in 2019
+"39AAC592-8CC6-41B2-963D-7BDF735CC13F" = "MOA-2016-BLG-231L is a Y-type brown dwarf about 9,295 light-years away in the constellation Scorpius. It is accompanied by a massive superjovian planet about 9 times that of Jupiter, discovered through microlensing in 2019";
+
 // English: KOI-7179 is a Sun-like star about 1,324 light-years away in the constellation Cygnus. A transit signal indicating the presence of one rocky planet was detected and if confirmed could be listed as a potentially habitable world
 "39CC42A5-DB68-4267-AE56-9EE041238A48" = "KOI-7179 is a Sun-like star about 1,324 light-years away in the constellation Cygnus. A transit signal indicating the presence of one rocky planet was detected and if confirmed could be listed as a potentially habitable world";
 
@@ -4959,6 +4962,9 @@
 
 // English: Vega is a young A-type main-sequence star about 25 light-years away in the constellation Lyra. It is the fifth brightest star in the naked eye. In 1983, infrared analysis of the star determined that it contains a protoplanetary disk, one of the first stars detected to contain such structures, however it wasn't confirmed to exist until 2005. In addition, a planet was detected orbiting the star in 2021, but its existence is yet to be confirmed by follow-up studies\n\nNOTE: Its candidate planet can be downloaded on the \"Exoplanets: Unconfirmed\" category
 "FC68836F-F34A-009E-3ADE-93DFE26CCFA9" = "Vega is a young A-type main-sequence star about 25 light-years away in the constellation Lyra. It is the fifth brightest star in the naked eye. In 1983, infrared analysis of the star determined that it contains a protoplanetary disk, one of the first stars detected to contain such structures, however it wasn't confirmed to exist until 2005. In addition, a planet was detected orbiting the star in 2021, but its existence is yet to be confirmed by follow-up studies\n\nNOTE: Its candidate planet can be downloaded on the \"Exoplanets: Unconfirmed\" category";
+
+// English: MOA-bin-29L is a distant T-type brown dwarf about 22,472 light-years away in the constellation Sagittarius. A planet about 69% of Jupiter's mass completes one orbit around its host once every 1.9 years
+"FCF5AC14-8A3E-4F1F-866E-5515B5E42AB5" = "MOA-bin-29L is a distant T-type brown dwarf about 22,472 light-years away in the constellation Sagittarius. A planet about 69% of Jupiter's mass completes one orbit around its host once every 1.9 years";
 
 // English: This addon adds a semi-fictional model and texture for the Uranian moon Umbriel.
 "FD075371-01A1-A526-7B2F-B526E47D70A1" = "This addon adds a semi-fictional model and texture for the Uranian moon Umbriel.";
