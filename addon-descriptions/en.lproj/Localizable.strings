@@ -3424,6 +3424,9 @@
 // English: Salyut 5, also known secretly as Almaz 3, was a Soviet space station in orbit for only 14 months between 1976 and 1977. Like Salyut 2 and 3 before it, Salyut 5 was designed to be a manned spy satellite for the Soviet military. However, only 2 out of 3 crew missions arriving in Soyuz 7K-T spacecraft visited and operated the station before the whole Almaz program was cancelled and replaced entirely by robotic spy satellites. It is the seventh space station launched as part of the Salyut series
 "AD69BD47-5267-4B28-8D4D-14A18A79A70E" = "Salyut 5, also known secretly as Almaz 3, was a Soviet space station in orbit for only 14 months between 1976 and 1977. Like Salyut 2 and 3 before it, Salyut 5 was designed to be a manned spy satellite for the Soviet military. However, only 2 out of 3 crew missions arriving in Soyuz 7K-T spacecraft visited and operated the station before the whole Almaz program was cancelled and replaced entirely by robotic spy satellites. It is the seventh space station launched as part of the Salyut series";
 
+// English: Din Djarin's Razor Crest in orbit above Tatooine
+"ADC06427-F7F2-4A29-82B3-1B36D31BDB69" = "Din Djarin's Razor Crest in orbit above Tatooine";
+
 // English: GJ 1002 is a nearby red dwarf star only 15.81 light-years away in the constellation Cetus. It has two rocky planets, one of which is currently considered as a potentially habitable world (as of 2022)
 "ADCC9FCA-1BB5-458A-B08A-FFDC92F5E580" = "GJ 1002 is a nearby red dwarf star only 15.81 light-years away in the constellation Cetus. It has two rocky planets, one of which is currently considered as a potentially habitable world (as of 2022)";
 
@@ -4786,8 +4789,8 @@
 // English: Gliese 357, also known as TOI-562, is a red dwarf about 30.8 light-years away in the constellation Hydra. Three superterran planets were discovered, with the outermost world listed among the few considered to be potentially habitable
 "F302D700-E526-E3AA-B111-D7EF054032C1" = "Gliese 357, also known as TOI-562, is a red dwarf about 30.8 light-years away in the constellation Hydra. Three superterran planets were discovered, with the outermost world listed among the few considered to be potentially habitable";
 
-// English: This addon as the ARC-170 Starfighter from the Clone Wars era of Star Wars cannon. The model was ripped by whitetuxedoguy on the Models Resource and was converted to CMOD by Anthony_B_Russo10. This addon requires the Tatooine, Endor, and Death Star addon to work.
-"F307B08E-00E7-4E88-B78A-EB1FD2AC74A4" = "This addon as the ARC-170 Starfighter from the Clone Wars era of Star Wars cannon. The model was ripped by whitetuxedoguy on the Models Resource and was converted to CMOD by Anthony_B_Russo10. This addon requires the Tatooine, Endor, and Death Star addon to work.";
+// English: A Clone Wars-era ARC-170 starfighter, in orbit above Coruscant
+"F307B08E-00E7-4E88-B78A-EB1FD2AC74A4" = "A Clone Wars-era ARC-170 starfighter, in orbit above Coruscant";
 
 // English: Deep Impact was a NASA mission designed to study the interior of Comet Tempel 1 by releasing an impactor into the comet, of which it struck at high velocity on 2005-Jul-4. Afterwards, it was sent on an extended mission to Comet Boethin, which later redirected to Comet Hartley 2 in 2010 after the former target was declared lost. It was scheduled to visit the asteroid (163249) 2002 GT in 2020, but the probe abruptly lost contact with Earth in 2013
 "F330BDCE-C7C5-73EC-6F5B-F58EB1CB9C96" = "Deep Impact was a NASA mission designed to study the interior of Comet Tempel 1 by releasing an impactor into the comet, of which it struck at high velocity on 2005-Jul-4. Afterwards, it was sent on an extended mission to Comet Boethin, which later redirected to Comet Hartley 2 in 2010 after the former target was declared lost. It was scheduled to visit the asteroid (163249) 2002 GT in 2020, but the probe abruptly lost contact with Earth in 2013";
@@ -4989,6 +4992,9 @@
 
 // English: TOI-2525 is a K-type main sequence star located about 1289 lightyears from the solar system. The star has two warm sub-Jupiters close to a 2:1 MMR (b= 8.68 Re, 27 Me | c= 10.1 Re, 209 Me). The innermost planet has an extremely low density and is likely to be a puffy gas giant.
 "FD693680-F6C5-466D-AFB9-F230C3AECB2C" = "TOI-2525 is a K-type main sequence star located about 1289 lightyears from the solar system. The star has two warm sub-Jupiters close to a 2:1 MMR (b= 8.68 Re, 27 Me | c= 10.1 Re, 209 Me). The innermost planet has an extremely low density and is likely to be a puffy gas giant.";
+
+// English: This addon as the ARC-170 Starfighter from the Clone Wars era of Star Wars cannon. The model was ripped by whitetuxedoguy on the Models Resource and was converted to CMOD by Anthony_B_Russo10. This addon requires the Star Wars Galaxy addon to work.
+"FDDE2BE1-E72C-4E4E-8567-4A5C25CF9EAC" = "This addon as the ARC-170 Starfighter from the Clone Wars era of Star Wars cannon. The model was ripped by whitetuxedoguy on the Models Resource and was converted to CMOD by Anthony_B_Russo10. This addon requires the Star Wars Galaxy addon to work.";
 
 // English: This addon adds, as an alternative surface, a topographic map for the planet Earth.
 "FEB48E74-9F16-4096-AAC1-E056DC3902A1" = "This addon adds, as an alternative surface, a topographic map for the planet Earth.";
