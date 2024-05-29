@@ -4285,6 +4285,9 @@
 // English: 13 Egeria
 "DA5AD666-E8D1-7166-D103-751BE3BB79C3" = "13 Egeria";
 
+// English: (2018 EB)
+//"DA7F5BFD-0470-4327-BD43-DD446C5D8E3D" = "(2018 EB)";
+
 // English: Soyuz: 1966-1970
 "DA8F49AA-3498-4F09-9EF8-6661035346D0" = "Союз: 1966-1970";
 
@@ -4458,6 +4461,9 @@
 
 // English: Gliese 876
 "E13198AE-6428-391C-432A-4998675C9A20" = "Глийзе 876";
+
+// English: ASC-1 to 3
+//"E15DB7EE-2445-4405-84EB-B09B3684FF8E" = "ASC-1 to 3";
 
 // English: Upsilon Andromedae
 "E172F6E7-E470-D886-C2FD-E10D8A2FCE23" = "Upsilon Andromedae";
