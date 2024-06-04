@@ -2926,6 +2926,9 @@
 // English: Kepler-111
 "949628AB-AA39-4D34-9A0A-327B0885D8D7" = "Kepler-111";
 
+// English: Minor Planets: 901 to 1000
+"94979D1E-08B8-4B32-BD62-768C3044A912" = "Minor Planets: 901 to 1000";
+
 // English: ISS (Dynamic)
 "94C88086-0F67-F172-8C14-957BEB20846D" = "ISS (Dynamic)";
 
@@ -3925,8 +3928,8 @@
 // English: COCONUTS-2
 "C644E444-0598-4308-9D02-9D23671C0157" = "COCONUTS-2";
 
-// English: Chang'e 3
-"C6689586-6B93-A72C-4003-0A3F83141B9C" = "Chang'e 3";
+// English: Chang'e 3 and 4
+"C6689586-6B93-A72C-4003-0A3F83141B9C" = "Chang'e 3 and 4";
 
 // English: C/2014 UN271 (Bernardinelli-Bernstein)
 "C6732E2E-11F7-235D-355D-AFED31939A1A" = "C/2014 UN271 (Bernardinelli-Bernstein)";

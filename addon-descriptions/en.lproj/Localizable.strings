@@ -2926,6 +2926,9 @@
 // English: Kepler-111, also known as KOI-139, is an F-type main sequence star about 2,185 light-years away in the constellation Cygnus. A superterran and a small gas giant planet were discovered around this star
 "949628AB-AA39-4D34-9A0A-327B0885D8D7" = "Kepler-111, also known as KOI-139, is an F-type main sequence star about 2,185 light-years away in the constellation Cygnus. A superterran and a small gas giant planet were discovered around this star";
 
+// English: Part 10 of Celestia Origin's minor planet catalog, from 902 Probitas to 1000 Piazzia.\n\nNOTES:\n\n- The asteroid 951 Gaspra is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 902 Probitas.
+"94979D1E-08B8-4B32-BD62-768C3044A912" = "Part 10 of Celestia Origin's minor planet catalog, from 902 Probitas to 1000 Piazzia.\n\nNOTES:\n\n- The asteroid 951 Gaspra is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 902 Probitas.";
+
 // English: Dynamic add-on testing 
 "94C88086-0F67-F172-8C14-957BEB20846D" = "Dynamic add-on testing ";
 
@@ -3925,8 +3928,8 @@
 // English: L 34-26, also known as COCONUTS-2A and TYC 9381-1809-1, is a M3-type dwarf star located 35 light-years away, in the constellation of Chamaeleon. The star is about one-third the mass of the Sun, with an age between 150 and 800 million years old. With a mass of 6.3 Jupiters, it takes over one million years to complete one orbit around the star, and it is 7,506 AU away from it.
 "C644E444-0598-4308-9D02-9D23671C0157" = "L 34-26, also known as COCONUTS-2A and TYC 9381-1809-1, is a M3-type dwarf star located 35 light-years away, in the constellation of Chamaeleon. The star is about one-third the mass of the Sun, with an age between 150 and 800 million years old. With a mass of 6.3 Jupiters, it takes over one million years to complete one orbit around the star, and it is 7,506 AU away from it.";
 
-// English: Chang'e 3 was the first Chinese spacecraft to land on the Moon. Hours after touch down on 2013-Dec-14, it deployed the Yutu-1 rover, which managed to travel up to 100 m before becoming stationary and ceasing operations on 2016. The lander portion is reportedly still functioning (as of 2020), making it the longest lunar surface mission ever attempted in history
-"C6689586-6B93-A72C-4003-0A3F83141B9C" = "Chang'e 3 was the first Chinese spacecraft to land on the Moon. Hours after touch down on 2013-Dec-14, it deployed the Yutu-1 rover, which managed to travel up to 100 m before becoming stationary and ceasing operations on 2016. The lander portion is reportedly still functioning (as of 2020), making it the longest lunar surface mission ever attempted in history";
+// English: Chang'e 3 and 4 are CNSA-led robotic missions that conducted the first lunar landings of the 21st century. Their successful landings made China the third country to land on the Moon safely, delivered the first rovers to the Moon since the Lunokhods, and the first to explore the Far Side of the Moon. Both missions are still active to this day
+"C6689586-6B93-A72C-4003-0A3F83141B9C" = "Chang'e 3 and 4 are CNSA-led robotic missions that conducted the first lunar landings of the 21st century. Their successful landings made China the third country to land on the Moon safely, delivered the first rovers to the Moon since the Lunokhods, and the first to explore the Far Side of the Moon. Both missions are still active to this day";
 
 // English: This addon adds comet C/2014 UN271 (Bernardinelli-Bernstein) which is the biggest ever discovered. In 2031, this comet will arrive at its closest point to the Sun, close to the orbit of Saturn.
 "C6732E2E-11F7-235D-355D-AFED31939A1A" = "This addon adds comet C/2014 UN271 (Bernardinelli-Bernstein) which is the biggest ever discovered. In 2031, this comet will arrive at its closest point to the Sun, close to the orbit of Saturn.";
