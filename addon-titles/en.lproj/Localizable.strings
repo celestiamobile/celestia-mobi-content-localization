@@ -1810,6 +1810,9 @@
 // English: Himawari 1 to 5
 "5A9FC70A-EC14-49B5-AA67-DBBFFEE152AD" = "Himawari 1 to 5";
 
+// English: Minor Planets: 1001 to 1200
+"5ADEABB0-2A79-4185-AC08-386BECD6106C" = "Minor Planets: 1001 to 1200";
+
 // English: NGC 6302 (Bug Nebula)
 "5B30CC1E-3C1E-45EA-9936-686BA4491AA0" = "NGC 6302 (Bug Nebula)";
 
@@ -4111,8 +4114,8 @@
 // English: Venera 4
 "CF26C726-DD6F-1B43-AD60-98CF7ED0A8FD" = "Venera 4";
 
-// English: Moon Terraformed
-"CF37C61C-5CBF-E2DA-B25F-6708A8CAE76C" = "Moon Terraformed";
+// English: Moon: Terraformed
+"CF37C61C-5CBF-E2DA-B25F-6708A8CAE76C" = "Moon: Terraformed";
 
 // English: (1998 KY₂₆)
 "CF4D2AFC-BDAC-352D-0610-C58A37EA5395" = "(1998 KY₂₆)";
