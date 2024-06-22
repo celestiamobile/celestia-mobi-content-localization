@@ -1933,6 +1933,9 @@
 // English: Kepler-87 is a G-type main sequence star located about 4168.13 lightyears from the solar system. Two warm planets orbit this star: a super-Jupiter and a super-Neptune. There are also two short period candidate planets.
 "611EE698-8977-449C-BF49-37FD9AB823D0" = "Kepler-87 is a G-type main sequence star located about 4168.13 lightyears from the solar system. Two warm planets orbit this star: a super-Jupiter and a super-Neptune. There are also two short period candidate planets.";
 
+// English: Gliese 12 also known as TOI-6251 and GJ 12, this is a red dwarf star about 40 light years from Earth, in 2024, a planet slightly smaller than Earth was discovered, its orbital period is about 12.8 days, the distance between the planet and the main star is 7% of the distance between Earth and the Sun, the planet receives 1.6 times more energy from the star than the Earth receives from the Sun, about 85% of the energy received by Venus
+"612BD451-5FDB-4412-9AA4-8D1A355548E2" = "Gliese 12 also known as TOI-6251 and GJ 12, this is a red dwarf star about 40 light years from Earth, in 2024, a planet slightly smaller than Earth was discovered, its orbital period is about 12.8 days, the distance between the planet and the main star is 7% of the distance between Earth and the Sun, the planet receives 1.6 times more energy from the star than the Earth receives from the Sun, about 85% of the energy received by Venus";
+
 // English: The Mars program is a series of Soviet space probes intended to explore the Red Planet. A total of seven missions were launched on the second phase of the program (1971-1974), including the first to land successfully on Mars. However the program was plagued with serious technological issues that it was eventually abandoned in favor of continuing Venera missions to Venus
 "6167C2C5-6C7D-4204-8459-DDB71FE9754D" = "The Mars program is a series of Soviet space probes intended to explore the Red Planet. A total of seven missions were launched on the second phase of the program (1971-1974), including the first to land successfully on Mars. However the program was plagued with serious technological issues that it was eventually abandoned in favor of continuing Venera missions to Venus";
 
@@ -4161,6 +4164,9 @@
 
 // English: Gliese 251 is a red dwarf star about 18.21 light-years away in the constellation Gemini. It is orbited by a single super-Earth or mini-Neptune, discovered in 2020.
 "D189568B-E8D5-4524-AD11-91C6BFC8C2A4" = "Gliese 251 is a red dwarf star about 18.21 light-years away in the constellation Gemini. It is orbited by a single super-Earth or mini-Neptune, discovered in 2020.";
+
+// English: Gliese 96, also known as GJ 96, is a red dwarf star located 38.91578 light-years from Earth, and in 2018, a planet the size of Neptune was discovered in an orbit of 73.94 days, and its mass is 19.66 times that of Earth
+"D1B1FF37-DDB3-4505-A408-52FCD625632A" = "Gliese 96, also known as GJ 96, is a red dwarf star located 38.91578 light-years from Earth, and in 2018, a planet the size of Neptune was discovered in an orbit of 73.94 days, and its mass is 19.66 times that of Earth";
 
 // English: TIC 172900988 is a binary star system comprising of an F-type main sequence star and a Sun-like star about 824.33 light-years away in the constellation Cancer. Both stars are orbited by a single superjovian planet nearly three times the mass of Jupiter, which completes one revolution once every 199.5 days
 "D1D4CB8C-AD35-437F-8F3A-F9058B827D7A" = "TIC 172900988 is a binary star system comprising of an F-type main sequence star and a Sun-like star about 824.33 light-years away in the constellation Cancer. Both stars are orbited by a single superjovian planet nearly three times the mass of Jupiter, which completes one revolution once every 199.5 days";
