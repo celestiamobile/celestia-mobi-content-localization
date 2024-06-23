@@ -211,6 +211,9 @@
 // English: Chongfu Shiyong Shiyan Hangtian Qi
 "0B1923BE-5281-4633-B537-DE94E0CD4B82" = "Chongfu Shiyong Shiyan Hangtian Qi";
 
+// English: Kepler-450
+"0B42A55F-59A0-412A-A3CD-41BE9898DC0A" = "Kepler-450";
+
 // English: Euclid
 "0B75DE18-1DCC-4765-87BE-06E2FF93056C" = "Euclid";
 
@@ -4917,6 +4920,9 @@
 
 // English: HD 82943
 "F65853BA-C5CD-40B1-A090-717E841E7835" = "HD 82943";
+
+// English: Gliese 422
+"F6B88552-6819-4CC7-B9F8-D2CC217352E3" = "Gliese 422";
 
 // English: Abell 7
 "F6D3214B-CC1C-C574-673D-0259EE004672" = "Abell 7";
