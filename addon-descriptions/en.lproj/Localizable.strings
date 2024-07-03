@@ -1927,6 +1927,9 @@
 // English: WASP-33 is a binary star system with an A-type and K-type main sequence stars about 399 light-years away in the constellation Andromeda. The brighter star of the two has a massive super-Jovian planet that completes an orbit once every 1.22 days
 "6038FF85-ACAB-46F9-907C-CDD8DC106601" = "WASP-33 is a binary star system with an A-type and K-type main sequence stars about 399 light-years away in the constellation Andromeda. The brighter star of the two has a massive super-Jovian planet that completes an orbit once every 1.22 days";
 
+// English: Part 12 of Celestia Origin's minor planet catalog, from 1201 Strenua to 1400 Tirela. Also includes the satellite of 1333 Cevenola.\n\nNOTES:\n- The asteroid 1252 Celestia is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 1201 Strenua.
+"6057D09A-3E86-48E2-BA45-61DFAD947C0E" = "Part 12 of Celestia Origin's minor planet catalog, from 1201 Strenua to 1400 Tirela. Also includes the satellite of 1333 Cevenola.\n\nNOTES:\n- The asteroid 1252 Celestia is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 1201 Strenua.";
+
 // English: Ross 128 is a red dwarf about 11 light-years away in the constellation Virgo. It is host to one potentially habitable terran planet, orbiting along the inner edge of the star's Goldilocks zone
 "60A874BB-EE54-E2DA-6C41-2489DB599A18" = "Ross 128 is a red dwarf about 11 light-years away in the constellation Virgo. It is host to one potentially habitable terran planet, orbiting along the inner edge of the star's Goldilocks zone";
 
@@ -2028,6 +2031,9 @@
 
 // English: The star HD 110067 is located approximately 105 light-years away from Earth and was observed by NASA's space telescope TESS. The research team has confirmed that there are six planets in HD 110067, all of which are in orbital resonance relationships. The orbital resonance relationship of these six planets in the innermost and outermost directions is 54:36:24:16:12:9
 "6447B19C-5A03-4947-AF46-EB4817A5CDB4" = "The star HD 110067 is located approximately 105 light-years away from Earth and was observed by NASA's space telescope TESS. The research team has confirmed that there are six planets in HD 110067, all of which are in orbital resonance relationships. The orbital resonance relationship of these six planets in the innermost and outermost directions is 54:36:24:16:12:9";
+
+// English: Part 13 of Celestia Origin's minor planet catalog, from 1401 Lavonne to 1600 Vyssotsky. Furthermore, it also includes the respective satellites of 1453 Fennia and 1509 Esclangona.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 1401 Lavonne.
+"644C1642-0D07-4C64-A7D9-4E67BB94B52B" = "Part 13 of Celestia Origin's minor planet catalog, from 1401 Lavonne to 1600 Vyssotsky. Furthermore, it also includes the respective satellites of 1453 Fennia and 1509 Esclangona.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 1401 Lavonne.";
 
 // English: Part 4 of Celestia Origin's minor planet catalog, from 301 Bavaria to 400 Ducrosa. Furthermore, it also includes the respective satellites of 317 Roxane and 379 Huenna.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 301 Bavaria.
 "645204F5-A85F-4AC2-9A58-41238A943B92" = "Part 4 of Celestia Origin's minor planet catalog, from 301 Bavaria to 400 Ducrosa. Furthermore, it also includes the respective satellites of 317 Roxane and 379 Huenna.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 301 Bavaria.";
