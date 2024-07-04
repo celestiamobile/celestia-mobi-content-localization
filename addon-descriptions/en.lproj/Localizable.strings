@@ -1234,6 +1234,9 @@
 // English: 66391 Moshup (1999 KW4) is a near-Earth binary asteroid of the Aten group. It was discovered on May 20, 1999 by the LINEAR project. The smaller asteroid in the system, Squannit, is also often considered a small moon of the larger asteroid.
 "3BD0DE85-37C2-E52F-EE6E-CC220DE711B9" = "66391 Moshup (1999 KW4) is a near-Earth binary asteroid of the Aten group. It was discovered on May 20, 1999 by the LINEAR project. The smaller asteroid in the system, Squannit, is also often considered a small moon of the larger asteroid.";
 
+// English: 1620 Geographos is a near-Earth asteroid and member of the Apollo group, discovered in 1951-Sept-14 at Palomar Observatory. It is approximately 2.5 km in diameter and has a highly elongated shape. In August 1994, it passed 5 million km from Earth.\n\n(NOTE: This will replace the default installation of the asteroid Geographos)
+"3BE78D9F-89F4-486D-AF56-5A681B8271D6" = "1620 Geographos is a near-Earth asteroid and member of the Apollo group, discovered in 1951-Sept-14 at Palomar Observatory. It is approximately 2.5 km in diameter and has a highly elongated shape. In August 1994, it passed 5 million km from Earth.\n\n(NOTE: This will replace the default installation of the asteroid Geographos)";
+
 // English: 152830 Dinkinesh is a small main-belt asteroid that became the first object visited by NASA's Lucy mission, which approached the asteroid at a distance of 425 km on 2023-Nov-1. About 790 m in diameter, it was later discovered to have a contact binary satellite about 220 m in diameter known as Selam
 "3BFA493A-58CA-477B-A765-8492CB6FEFBB" = "152830 Dinkinesh is a small main-belt asteroid that became the first object visited by NASA's Lucy mission, which approached the asteroid at a distance of 425 km on 2023-Nov-1. About 790 m in diameter, it was later discovered to have a contact binary satellite about 220 m in diameter known as Selam";
 
