@@ -3847,6 +3847,9 @@
 // English: KOI-4878 is a Sun-like star about 1,134 light-years away in the constellation Draco. In 2015, a planetary signature was detected in the star's habitable zone, in addition to having the same stellar distance and size to Earth. If its existence is confirmed, then this planet will become one of the most Earth-like potentially habitable planets ever discovered\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon installed for this to fully work
 "C1591BB3-A1C3-64D3-E817-28AFA7C63C04" = "KOI-4878 is a Sun-like star about 1,134 light-years away in the constellation Draco. In 2015, a planetary signature was detected in the star's habitable zone, in addition to having the same stellar distance and size to Earth. If its existence is confirmed, then this planet will become one of the most Earth-like potentially habitable planets ever discovered\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon installed for this to fully work";
 
+// English: Part 14 of Celestia Origin's minor planet catalog, from 1603 Neva to 1799 Koussevitzky. Also includes the satellite of 1656 Suomi.\n\nNOTES:\n- The asteroid 1620 Geographos is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 1603 Neva.
+"C16EC6B0-8FEB-47C0-8C6D-311F77025A81" = "Part 14 of Celestia Origin's minor planet catalog, from 1603 Neva to 1799 Koussevitzky. Also includes the satellite of 1656 Suomi.\n\nNOTES:\n- The asteroid 1620 Geographos is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 1603 Neva.";
+
 // English: Abell 10 is a planetary nebula located in the constellation Orion.
 "C184D154-C142-1668-844B-FFB092D9455E" = "Abell 10 is a planetary nebula located in the constellation Orion.";
 
