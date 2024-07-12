@@ -1384,6 +1384,9 @@
 // English: TOI-4860 c
 //"428AE825-0CF0-41C6-947D-03EC769403A9" = "TOI-4860 c";
 
+// English: Kepler-57
+//"42AB3A90-F72B-4F67-859F-BDCF65450FFE" = "Kepler-57";
+
 // English: Uranus: Infrared
 //"42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "Uranus: Infrared";
 
@@ -1593,6 +1596,9 @@
 
 // English: K2-39
 //"4DC87FCC-60DF-47B3-850B-81FE3D74DD70" = "K2-39";
+
+// English: Minor Planets: 1801 to 2000
+//"4E1C8319-E0C1-4E8C-864F-6C47E68DB326" = "Minor Planets: 1801 to 2000";
 
 // English: Kepler-69
 //"4E1CD525-3DBB-8D04-14C3-6B356EDFEDC8" = "Kepler-69";
@@ -2430,6 +2436,9 @@
 
 // English: Qatar-7
 //"797A2570-AF34-47B3-ACC1-EFFBD8DB83AD" = "Qatar-7";
+
+// English: K2-415
+//"798DEDD5-7FE4-40C7-BCF4-CBCAD6D85362" = "K2-415";
 
 // English: TOI-715.02
 //"79900BC2-FFE0-4CFA-AA65-B7B99CFA59C4" = "TOI-715.02";
@@ -3826,6 +3835,9 @@
 // English: 12P/Pons–Brooks
 //"BF868BB1-4FCC-CFE9-2E52-5CCAACF86783" = "12P/Pons–Brooks";
 
+// English: HD 37124
+//"C0101058-6C84-46AF-924A-D09E1C300F57" = "HD 37124";
+
 // English: 2063 Bacchus
 //"C05F4A30-9033-D7C7-B3D2-9143B440A8B1" = "2063 Bacchus";
 
@@ -4932,6 +4944,9 @@
 
 // English: TOI-2587
 //"F6142F45-F5A3-43CF-A3DD-1B7D845E4FFF" = "TOI-2587";
+
+// English: Omega Centauri CBH
+//"F638AD50-6238-4EF4-80F2-0F9E86631813" = "Omega Centauri CBH";
 
 // English: Kepler-56
 //"F6484870-C694-4423-8849-A7E9F257ED6D" = "Kepler-56";

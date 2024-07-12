@@ -1384,6 +1384,9 @@
 // English: TOI-4860, while known to host a short period gas giant, also has a candidate cold Jupiter on a highly eccentric, year long orbit.\n\nNOTE: an existing TOI-4860 addon is required in order for this addon to work properly
 "428AE825-0CF0-41C6-947D-03EC769403A9" = "TOI-4860, while known to host a short period gas giant, also has a candidate cold Jupiter on a highly eccentric, year long orbit.\n\nNOTE: an existing TOI-4860 addon is required in order for this addon to work properly";
 
+// English: Kepler-57, aka KOI-1270, is a K-type main sequence star located about 2141.26 lightyears from the solar system. two planets, one similar in size to Neptune but more massive and a sub-Neptune are known to orbit this star.
+"42AB3A90-F72B-4F67-859F-BDCF65450FFE" = "Kepler-57, aka KOI-1270, is a K-type main sequence star located about 2141.26 lightyears from the solar system. two planets, one similar in size to Neptune but more massive and a sub-Neptune are known to orbit this star.";
+
 // English: This addon adds an alternative texture of the planet Uranus in infrared.
 "42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "This addon adds an alternative texture of the planet Uranus in infrared.";
 
@@ -1593,6 +1596,9 @@
 
 // English: K2-39, is a K-type subgiant star about 1,008 light-years away in the constellation Aquarius. A super-neptunian planet nearly the size of Saturn completes an single orbit once every 4.6 days at a distance of 9.52 million km from its parent star. The planet is predicted to be destroyed by orbital decay in the next 150 million years
 "4DC87FCC-60DF-47B3-850B-81FE3D74DD70" = "K2-39, is a K-type subgiant star about 1,008 light-years away in the constellation Aquarius. A super-neptunian planet nearly the size of Saturn completes an single orbit once every 4.6 days at a distance of 9.52 million km from its parent star. The planet is predicted to be destroyed by orbital decay in the next 150 million years";
+
+// English: Part 15 of Celestia Origin's minor planet catalog, from 1801 Titicaca to 1999 Hirayama. Furthermore, it also includes the respective satellites of 1862 Apollo and 1866 Sisyphus.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 1801 Titicaca.
+"4E1C8319-E0C1-4E8C-864F-6C47E68DB326" = "Part 15 of Celestia Origin's minor planet catalog, from 1801 Titicaca to 1999 Hirayama. Furthermore, it also includes the respective satellites of 1862 Apollo and 1866 Sisyphus.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 1801 Titicaca.";
 
 // English: Kepler-69 is a G-type main-sequence star similar to the Sun about 2,430±30 light-years away in the constellation Cygnus. On 2013-Apr-18 it was announced that the star has two planets, one of which was formerly considered to be potentially habitable before it turns out to be inhospitable to life.
 "4E1CD525-3DBB-8D04-14C3-6B356EDFEDC8" = "Kepler-69 is a G-type main-sequence star similar to the Sun about 2,430±30 light-years away in the constellation Cygnus. On 2013-Apr-18 it was announced that the star has two planets, one of which was formerly considered to be potentially habitable before it turns out to be inhospitable to life.";
@@ -2430,6 +2436,9 @@
 
 // English: Qatar-7, also known as Gaia-TROI-196, is an F-type main sequence star about 2,348 light-years away in the constellation Andromeda. A super-Jovian planet about 1.88 times the mass of Jupiter completes an orbit around its star once every 2.03 days
 "797A2570-AF34-47B3-ACC1-EFFBD8DB83AD" = "Qatar-7, also known as Gaia-TROI-196, is an F-type main sequence star about 2,348 light-years away in the constellation Andromeda. A super-Jovian planet about 1.88 times the mass of Jupiter completes an orbit around its star once every 2.03 days";
+
+// English: K2-415, aka TOI-5557, is a red dwarf located about 71.12 lightyears from the solar system. A single Earth-sized planet is known to orbit this star.
+"798DEDD5-7FE4-40C7-BCF4-CBCAD6D85362" = "K2-415, aka TOI-5557, is a red dwarf located about 71.12 lightyears from the solar system. A single Earth-sized planet is known to orbit this star.";
 
 // English: TOI-715.02 is the second planet candidate of TOI-715, this planet is also projected to orbit within it's hosts habitable zone but farther out than TOI-715 b. The planet is nearly the same size as Earth (.02= 1.066 Re).\n\nIf confirmed it would be one of the smallest planets that orbits within the (conservative) habitable zone of its star.\n\nNOTES:\n- An existing TOI-715 addon must be installed in order for this addon to work\n- This addon is NOT compatible with the Unconfirmed Exoplanets addon
 "79900BC2-FFE0-4CFA-AA65-B7B99CFA59C4" = "TOI-715.02 is the second planet candidate of TOI-715, this planet is also projected to orbit within it's hosts habitable zone but farther out than TOI-715 b. The planet is nearly the same size as Earth (.02= 1.066 Re).\n\nIf confirmed it would be one of the smallest planets that orbits within the (conservative) habitable zone of its star.\n\nNOTES:\n- An existing TOI-715 addon must be installed in order for this addon to work\n- This addon is NOT compatible with the Unconfirmed Exoplanets addon";
@@ -3826,6 +3835,9 @@
 // English: 12P Pons–Brooks is a periodic comet with an orbital period of 71 years. It was discovered by Jean-Louis Pons in July 1812. The comet's last perihelion occurred in May 1954, and the next one will be in April 2024.
 "BF868BB1-4FCC-CFE9-2E52-5CCAACF86783" = "12P Pons–Brooks is a periodic comet with an orbital period of 71 years. It was discovered by Jean-Louis Pons in July 1812. The comet's last perihelion occurred in May 1954, and the next one will be in April 2024.";
 
+// English: HD 37124, aka Gliese 209, is a G-type main sequence star located about 103.18 lightyears from the solar system. Three gas giants, all of similar masses to each other, are currently known to orbit this star.
+"C0101058-6C84-46AF-924A-D09E1C300F57" = "HD 37124, aka Gliese 209, is a G-type main sequence star located about 103.18 lightyears from the solar system. Three gas giants, all of similar masses to each other, are currently known to orbit this star.";
+
 // English: 2063 Bacchus is a near-Earth asteroid about 1.1 km in diameter. A member of the Apollo group, it completes one orbit around the Sun once every 409 days. In 1996, it passed more than 10 million km from Earth\n(NOTE: This will replace the default installation of the asteroid Bacchus)
 "C05F4A30-9033-D7C7-B3D2-9143B440A8B1" = "2063 Bacchus is a near-Earth asteroid about 1.1 km in diameter. A member of the Apollo group, it completes one orbit around the Sun once every 409 days. In 1996, it passed more than 10 million km from Earth\n(NOTE: This will replace the default installation of the asteroid Bacchus)";
 
@@ -3988,8 +4000,8 @@
 // English: 33434 Scottmanley is a large outer main-belt asteroid about 4.6 km in diameter, belonging to the Koronis family of asteroids. It is named after famous YouTuber and space enthusiast, Scott Manley, in 2019
 "C7F0E9B6-42B4-13F6-D996-372E7248DED5" = "33434 Scottmanley is a large outer main-belt asteroid about 4.6 km in diameter, belonging to the Koronis family of asteroids. It is named after famous YouTuber and space enthusiast, Scott Manley, in 2019";
 
-// English: 21900 Orus is a Jupiter L4 trojan asteroid, approximately 53 km in diameter, and a target of the Lucy mission to be visited in November 2028. The dark Jovian asteroid belongs to the 100 largest Jupiter trojans and has a rotation period of 13.5 hours
-"C7F40B2B-4E39-9324-5DEA-9E807204BFCF" = "21900 Orus is a Jupiter L4 trojan asteroid, approximately 53 km in diameter, and a target of the Lucy mission to be visited in November 2028. The dark Jovian asteroid belongs to the 100 largest Jupiter trojans and has a rotation period of 13.5 hours";
+// English: 21900 Orus is a Jupiter L4 trojan asteroid, approximately 53 km in diameter, and a target of the Lucy mission to be visited in November 2028. The dark Jovian asteroid belongs to the 100 largest Jupiter trojans and has a rotation period of 13.5 hours.
+"C7F40B2B-4E39-9324-5DEA-9E807204BFCF" = "21900 Orus is a Jupiter L4 trojan asteroid, approximately 53 km in diameter, and a target of the Lucy mission to be visited in November 2028. The dark Jovian asteroid belongs to the 100 largest Jupiter trojans and has a rotation period of 13.5 hours.";
 
 // English: 3 Juno is a large S-type asteroid in the asteroid belt. It was discovered by Karl Ludwig Harding in September 1804. Juno constitutes 1% of the total mass of the asteroid belt, and is about 254 kilometers in diameter.\n\nNOTES:\n\n• This addon contains a custom texture for the asteroid Juno.\n• Not to be confused with NASA's Juno mission sent to Jupiter.
 "C81C2C95-F090-D889-534F-E61F6AFA4B27" = "3 Juno is a large S-type asteroid in the asteroid belt. It was discovered by Karl Ludwig Harding in September 1804. Juno constitutes 1% of the total mass of the asteroid belt, and is about 254 kilometers in diameter.\n\nNOTES:\n\n• This addon contains a custom texture for the asteroid Juno.\n• Not to be confused with NASA's Juno mission sent to Jupiter.";
@@ -4932,6 +4944,9 @@
 
 // English: TOI-2587 is a binary system composed of a G-type star and a K-type star located about 1,218.20 lightyears away from the solar system. The primary star hosts a single low-density hot Jupiter (b= 1.07 Rj) that is much less massive than Saturn (b= 0.218 Mj).
 "F6142F45-F5A3-43CF-A3DD-1B7D845E4FFF" = "TOI-2587 is a binary system composed of a G-type star and a K-type star located about 1,218.20 lightyears away from the solar system. The primary star hosts a single low-density hot Jupiter (b= 1.07 Rj) that is much less massive than Saturn (b= 0.218 Mj).";
+
+// English: In 2008, evidence emerged of a possible intermediate-mass black hole (IMBH) at the center of the globular cluster Omega Centauri (ω Cen), 17,700 light-years away. Observations from the Hubble Space Telescope (HST) and Gemini Observatory revealed that stars closer to the center of the cluster move faster than stars further away, with seven of them capable of reaching the cluster's escape velocity. This could be explained as a black hole of up to 8,200 solar masses. In 2024, analysis of more than 500 HST images by an international team brought compelling new evidences for the likely existence of the IMBH in the center of ω Cen.
+"F638AD50-6238-4EF4-80F2-0F9E86631813" = "In 2008, evidence emerged of a possible intermediate-mass black hole (IMBH) at the center of the globular cluster Omega Centauri (ω Cen), 17,700 light-years away. Observations from the Hubble Space Telescope (HST) and Gemini Observatory revealed that stars closer to the center of the cluster move faster than stars further away, with seven of them capable of reaching the cluster's escape velocity. This could be explained as a black hole of up to 8,200 solar masses. In 2024, analysis of more than 500 HST images by an international team brought compelling new evidences for the likely existence of the IMBH in the center of ω Cen.";
 
 // English: Kepler-56 is a K-type giant star about 3,056 light-years away in the constellation Cygnus. Three gas giant planets were discovered, of which two of them are orbiting within 0.16 AU from their star
 "F6484870-C694-4423-8849-A7E9F257ED6D" = "Kepler-56 is a K-type giant star about 3,056 light-years away in the constellation Cygnus. Three gas giant planets were discovered, of which two of them are orbiting within 0.16 AU from their star";
