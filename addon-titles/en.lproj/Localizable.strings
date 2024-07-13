@@ -433,6 +433,9 @@
 // English: Gliese 440
 "1807B69E-843F-4ACD-8B47-CFF822A91D29" = "Gliese 440";
 
+// English: TOI-4633 (Unconfirmed Planet)
+"183658B4-9383-4537-BF94-DE8046760CE3" = "TOI-4633 (Unconfirmed Planet)";
+
 // English: Shenzhou 7
 "1868A723-985D-467F-99A9-90DD992A31C5" = "Shenzhou 7";
 
@@ -3783,6 +3786,9 @@
 
 // English: Pioneer 12
 "BD70C15A-4AF3-C846-7A2D-E73B24E17575" = "Pioneer 12";
+
+// English: HD 133131
+"BD73EAA9-9BC7-47CD-AAFF-345E05D68B75" = "HD 133131";
 
 // English: 2024 BX₁
 "BD84C9C4-B4BE-4435-B959-EE7CFB4DC03A" = "2024 BX₁";
