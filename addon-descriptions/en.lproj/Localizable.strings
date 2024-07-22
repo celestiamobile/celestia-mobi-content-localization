@@ -3169,6 +3169,9 @@
 // English: This addon adds an alternate texture for Jupiter in the year 2020, from images from the Hubble Space Telescope.
 "9DB68DB2-9E6D-F5AC-C055-AF52465E2827" = "This addon adds an alternate texture for Jupiter in the year 2020, from images from the Hubble Space Telescope.";
 
+// English: SWEEPS-11 is a distant G-type subgiant star about 27,723 light-years away in the constellation Sagittarius. A massive super-jovian or low-mass brown dwarf accompanies the star at only 4.55 million km away and a year lasting 1.8 days\n\n\nNote: The original author of this add-on is SolHorizon, which has not been updated in the two years since it was released, and while I was browsing the Sisyphus Project, I found SWEEPS-11, and I removed the original texture from the original author and added a new texture to it
+"9DE1FF15-D374-4989-B1D3-D950C039F856" = "SWEEPS-11 is a distant G-type subgiant star about 27,723 light-years away in the constellation Sagittarius. A massive super-jovian or low-mass brown dwarf accompanies the star at only 4.55 million km away and a year lasting 1.8 days\n\n\nNote: The original author of this add-on is SolHorizon, which has not been updated in the two years since it was released, and while I was browsing the Sisyphus Project, I found SWEEPS-11, and I removed the original texture from the original author and added a new texture to it";
+
 // English: The Helix Nebula (also known as NGC 7293 or Caldwell 63) is a planetary nebula located in the constellation Aquarius. The distance, measured by the Gaia mission, is 655±13 light-years. This nebula has sometimes been referred to as the \"Eye of God\" in pop culture, as well as the \"Eye of Sauron\"
 "9E3D70C2-8DF0-590F-2EB4-2356E78D9C28" = "The Helix Nebula (also known as NGC 7293 or Caldwell 63) is a planetary nebula located in the constellation Aquarius. The distance, measured by the Gaia mission, is 655±13 light-years. This nebula has sometimes been referred to as the \"Eye of God\" in pop culture, as well as the \"Eye of Sauron\"";
 
@@ -3747,6 +3750,9 @@
 
 // English: LISA Pathfinder, also known as SMART-2, is an ESA spacecraft sent to the Sun-Earth Lagrange point 1 (L1) in 2015 to test the technologies needed for the future LISA observatory. It operated until 2017 after demonstrating that the LISA mission is feasible
 "BB17A1A2-F3FB-825F-889C-4DED024DE306" = "LISA Pathfinder, also known as SMART-2, is an ESA spacecraft sent to the Sun-Earth Lagrange point 1 (L1) in 2015 to test the technologies needed for the future LISA observatory. It operated until 2017 after demonstrating that the LISA mission is feasible";
+
+// English: HD 134060, also known as HR 5632 and HIP 74273, is a G-type main-sequence star located 78.372 light-years from Earth, and has been found orbiting two planets (a mini-Neptune and a mini-Saturn) with a high eccentricity
+"BB322504-233E-4467-9E7A-EA827E8018B8" = "HD 134060, also known as HR 5632 and HIP 74273, is a G-type main-sequence star located 78.372 light-years from Earth, and has been found orbiting two planets (a mini-Neptune and a mini-Saturn) with a high eccentricity";
 
 // English: V616 Monocerotis (A0620-00) is the third nearest black hole system to Earth, about 4,700 light-years away in the constellation Monoceros. In 2018-Jun-15, a radio signal was sent to this black hole in memory of the late Dr. Stephen Hawking, who died three months prior.\n\n(NOTE: Black hole addons tend to be performance heavy and might not work in all devices)
 "BB80E5EA-3BC9-31F5-9A34-C424011803F8" = "V616 Monocerotis (A0620-00) is the third nearest black hole system to Earth, about 4,700 light-years away in the constellation Monoceros. In 2018-Jun-15, a radio signal was sent to this black hole in memory of the late Dr. Stephen Hawking, who died three months prior.\n\n(NOTE: Black hole addons tend to be performance heavy and might not work in all devices)";
