@@ -1852,6 +1852,9 @@
 // English: A fictional system located 10 light years from Earth containing 7 regular planets, 1 binary planet system, and various comets and asteroids around a binary star system of a G and M-dwarf star.
 "5BF05B80-FDF7-33B5-8B2A-8E3FD0C623CD" = "A fictional system located 10 light years from Earth containing 7 regular planets, 1 binary planet system, and various comets and asteroids around a binary star system of a G and M-dwarf star.";
 
+// English: Kepler-1145, also known as KOI-2213, is located 2301.574 light-years from Earth and is a K-type main-sequence star with a planet in its orbit for about 4 days
+"5C041410-C635-4762-8A65-62261EDD2749" = "Kepler-1145, also known as KOI-2213, is located 2301.574 light-years from Earth and is a K-type main-sequence star with a planet in its orbit for about 4 days";
+
 // English: 1991 VG is a NEO asteroid discovered on November 6, 1991. On December 5, 1991 this asteroid passed 450,000 km (280,000 mi) away from Earth. Between 1991 and 1992, the asteroid circled Earth in a retrograde manner, so it can often be considered the first temporary Earth small moon discovered. 1991 VG is estimated to be between 5-12 meters in diameter.
 "5C2183EC-2B26-C6C5-38CA-135B35BC4F51" = "1991 VG is a NEO asteroid discovered on November 6, 1991. On December 5, 1991 this asteroid passed 450,000 km (280,000 mi) away from Earth. Between 1991 and 1992, the asteroid circled Earth in a retrograde manner, so it can often be considered the first temporary Earth small moon discovered. 1991 VG is estimated to be between 5-12 meters in diameter.";
 
@@ -2466,6 +2469,9 @@
 
 // English: Blinking Nebula (NGC 6826) is a planetary nebula in the constellation Cygnus. At its center is an O-type star.
 "7A27152B-B391-6B1B-EBE4-8455F06CD834" = "Blinking Nebula (NGC 6826) is a planetary nebula in the constellation Cygnus. At its center is an O-type star.";
+
+// English: TYC 1422-614-1, also known as BD+20 2459, is a K-type giant star located in the constellation Leo, located 2235.936 light-years from Earth, and two massive gas giants have been detected orbiting it
+"7A5D47C6-4624-45EB-9857-5337F9BAC85C" = "TYC 1422-614-1, also known as BD+20 2459, is a K-type giant star located in the constellation Leo, located 2235.936 light-years from Earth, and two massive gas giants have been detected orbiting it";
 
 // English: TOI-175 (better known as L 98-59) is a bright red dwarf about 34.65 light-years away in the constellation Volans. It has a total of 4 confirmed exoplanets found, one subterran and three superterrans. This addon provides textures for all planets (except L 98-59 e)
 "7A6AF269-8F78-FD74-A13C-802AE2656D85" = "TOI-175 (better known as L 98-59) is a bright red dwarf about 34.65 light-years away in the constellation Volans. It has a total of 4 confirmed exoplanets found, one subterran and three superterrans. This addon provides textures for all planets (except L 98-59 e)";
@@ -5070,6 +5076,9 @@
 
 // English: Gliese 15 is a binary star system of two red dwarf stars about 11.65 light-years away in the constellation Andromeda. Since 2014, two planets (a terran and a gas giant) were found orbiting the primary star of the system, also known as GX Andromedae
 "FBE790DC-C574-1667-0091-360CA71E2C1A" = "Gliese 15 is a binary star system of two red dwarf stars about 11.65 light-years away in the constellation Andromeda. Since 2014, two planets (a terran and a gas giant) were found orbiting the primary star of the system, also known as GX Andromedae";
+
+// English: U Equulei is a post-AGB (likely binary) star about 13,046 light-years away in the constellation Equuleus. Recent observations in the past 30 years reveal that this star is slowly brightening up, most likely due to the accretion of material from its circumstellar disk, thus leading to its increasing luminosity
+"FC035B11-0D42-4488-B7CC-6DED6B991FFB" = "U Equulei is a post-AGB (likely binary) star about 13,046 light-years away in the constellation Equuleus. Recent observations in the past 30 years reveal that this star is slowly brightening up, most likely due to the accretion of material from its circumstellar disk, thus leading to its increasing luminosity";
 
 // English: HD 141569 is a young A-type pre-main sequence star about 362.64 light-years away in the constellation Libra. In 1999, a protoplanetary disk was discovered around the star with a prominent gap between the inner and outer portions of it, leading to speculations that a possible planet was forming in it, though none was found orbiting the star
 "FC1DD4F4-60E5-B4CB-0C0C-8CF030F8C005" = "HD 141569 is a young A-type pre-main sequence star about 362.64 light-years away in the constellation Libra. In 1999, a protoplanetary disk was discovered around the star with a prominent gap between the inner and outer portions of it, leading to speculations that a possible planet was forming in it, though none was found orbiting the star";
