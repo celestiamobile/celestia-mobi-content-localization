@@ -2107,6 +2107,9 @@
 // English: Kepler-40, aka KOI-428, is an F-type subgiant star located about 8051.24 lightyears form the solar system. this distant, aging star hosts a single hot super-Jupiter on a 6.8 day orbit.
 "67FF3773-0EEB-4EEC-B87B-9E3E9FAA52F9" = "Kepler-40, aka KOI-428, is an F-type subgiant star located about 8051.24 lightyears form the solar system. this distant, aging star hosts a single hot super-Jupiter on a 6.8 day orbit.";
 
+// English: Kepler-1308, also known as KOI-2662, is located 368.792 light-years from Earth, is a star with a spectral type M, in 2016, a planet the size of Mars was discovered, its mass is 0.0933 Earths, it takes 2.1 days to complete one orbit of its star, and is 0.025 AU from its star.
+"681AD051-4AD4-4D79-AE23-A09C94C185FD" = "Kepler-1308, also known as KOI-2662, is located 368.792 light-years from Earth, is a star with a spectral type M, in 2016, a planet the size of Mars was discovered, its mass is 0.0933 Earths, it takes 2.1 days to complete one orbit of its star, and is 0.025 AU from its star.";
+
 // English: The early Syncom satellites were 68-kg cylindrical spacecraft about 0.71 m in diameter. With the exception of Syncom I (which failed prematurely before reaching target orbit), these were the very first spacecraft ever sent into geosynchronous (Syncom II) and geostationary orbits (Syncom III) respectively. All satellites were launched from Cape Canaveral, Florida, USA from 1963-1964, and the latter two satellites remain in operation until 1969.
 "684610F3-4CF4-A4DF-16E5-76300C757AB2" = "The early Syncom satellites were 68-kg cylindrical spacecraft about 0.71 m in diameter. With the exception of Syncom I (which failed prematurely before reaching target orbit), these were the very first spacecraft ever sent into geosynchronous (Syncom II) and geostationary orbits (Syncom III) respectively. All satellites were launched from Cape Canaveral, Florida, USA from 1963-1964, and the latter two satellites remain in operation until 1969.";
 
@@ -3210,6 +3213,9 @@
 
 // English: TOI-2529 is a G-type subgiant star located about 971.71 lightyears from the solar system. A single, warm gas giant is known to orbit this star, completing a full revolution in around 65 days.
 "A023D6F0-E9E1-4974-A488-0F543DAD277F" = "TOI-2529 is a G-type subgiant star located about 971.71 lightyears from the solar system. A single, warm gas giant is known to orbit this star, completing a full revolution in around 65 days.";
+
+// English: Kepr-560 is a binary star system located about 287 light-years from Earth, and in 2016 a super-Earth was discovered around Kepler-560 A ，The planet Kepler-560 b orbits the star every 18.5 days, it’s orbital radius is 0.10 SEAU.
+"A09CFB8E-EDB2-4AFC-936A-060DB79A754D" = "Kepr-560 is a binary star system located about 287 light-years from Earth, and in 2016 a super-Earth was discovered around Kepler-560 A ，The planet Kepler-560 b orbits the star every 18.5 days, it’s orbital radius is 0.10 SEAU.";
 
 // English: This add-on places the USS Voyager in orbit around the star Barzan.
 "A0A7471E-F9FD-CA2E-FC07-C93C30C29C05" = "This add-on places the USS Voyager in orbit around the star Barzan.";
