@@ -3796,8 +3796,8 @@
 // English: Kepler-47 is a binary star system consisting of a Sun-like star and a red dwarf about 3,442 light-years away in the constellation Cygnus. Three confirmed Neptunian planets orbit both stars in the system, which is almost reminiscent of the fictional planet of Tatooine in Star Wars
 "BCBC9355-3C89-9349-4F6B-B254E2F61DD1" = "Kepler-47 is a binary star system consisting of a Sun-like star and a red dwarf about 3,442 light-years away in the constellation Cygnus. Three confirmed Neptunian planets orbit both stars in the system, which is almost reminiscent of the fictional planet of Tatooine in Star Wars";
 
-// English: K2-33b is a \"hot Neptune\" exoplanet discovered by the Kepler space telescope in 2016. The planet is 456 light-years away from Earth in the constellation Scorpio. It is a very young planet, estimated to be 9.3 million years old
-"BCC4683F-FBB8-BD2A-7E2F-A6CD72A214FC" = "K2-33b is a \"hot Neptune\" exoplanet discovered by the Kepler space telescope in 2016. The planet is 456 light-years away from Earth in the constellation Scorpio. It is a very young planet, estimated to be 9.3 million years old";
+// English: K2-33b is a \"hot Neptune\" exoplanet discovered by the Kepler Space Telescope in 2016. About 456 light-years away from Earth in the constellation Scorpio, this planet is estimated to be 9.3 million years old and in 2022, follow-up observations reveal that it may be surrounded by a dusty ring system of its own
+"BCC4683F-FBB8-BD2A-7E2F-A6CD72A214FC" = "K2-33b is a \"hot Neptune\" exoplanet discovered by the Kepler Space Telescope in 2016. About 456 light-years away from Earth in the constellation Scorpio, this planet is estimated to be 9.3 million years old and in 2022, follow-up observations reveal that it may be surrounded by a dusty ring system of its own";
 
 // English: Wray 15-811 is a hypervelocity carbon star about 10,763 light-years away in the constellation Musca
 "BCCFB094-48ED-4440-B04C-76FA4D3E49C8" = "Wray 15-811 is a hypervelocity carbon star about 10,763 light-years away in the constellation Musca";
@@ -3993,6 +3993,9 @@
 
 // English: Spektr-RG is a Russian-German space observatory launched in 2019-Jul-13 into a halo orbit around the Sun-Earth Lagrange-2 point. It is designed to study the universe in x-ray light through its two primary instruments, eROSITA and ART-XC. It remains in active operation as of 2022
 "C4F080B4-5392-C104-3351-97547A7F7090" = "Spektr-RG is a Russian-German space observatory launched in 2019-Jul-13 into a halo orbit around the Sun-Earth Lagrange-2 point. It is designed to study the universe in x-ray light through its two primary instruments, eROSITA and ART-XC. It remains in active operation as of 2022";
+
+// English: Pioneer 5 was a NASA mission that became the first spacecraft to study the interplanetary space environment between the orbits of Venus and Earth. Launched in March 1960, it continued to send data back for 3 months until June 1960, when the probe was beyond its designed transmission range with Earth, thus ending communications
+"C4FA25AA-6B08-4221-BD62-88786C5B98B0" = "Pioneer 5 was a NASA mission that became the first spacecraft to study the interplanetary space environment between the orbits of Venus and Earth. Launched in March 1960, it continued to send data back for 3 months until June 1960, when the probe was beyond its designed transmission range with Earth, thus ending communications";
 
 // English: Gliese 892 (also known as HD 219134) is a K-type main-sequence star 21.336 light-years away in the constellation Cassiopeia. A total of six planets (2 rocky super-Earths, 3 Neptunians, and 1 Jovian) are found orbiting this star.
 "C5336AD1-F013-7FF3-441D-0EF12E0BCB22" = "Gliese 892 (also known as HD 219134) is a K-type main-sequence star 21.336 light-years away in the constellation Cassiopeia. A total of six planets (2 rocky super-Earths, 3 Neptunians, and 1 Jovian) are found orbiting this star.";
