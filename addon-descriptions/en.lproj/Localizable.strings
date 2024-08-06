@@ -892,8 +892,8 @@
 // English: HD 300730, aka TOI-3362, is an F-type main sequence star located about 1196.35 lightyears from the solar system. the star is host to a single warm gas giant on an extremely eccentric 18-day orbit which slingshots the planet from as close as 0.029 au to 0.28 au (b= 1.14 Rj, 5.03 Mj). The planet is likely undergoing tidal migration and is doomed to become a hot jupiter.
 "2CC6A202-5B96-4B4C-84BF-1605F61A4A3F" = "HD 300730, aka TOI-3362, is an F-type main sequence star located about 1196.35 lightyears from the solar system. the star is host to a single warm gas giant on an extremely eccentric 18-day orbit which slingshots the planet from as close as 0.029 au to 0.28 au (b= 1.14 Rj, 5.03 Mj). The planet is likely undergoing tidal migration and is doomed to become a hot jupiter.";
 
-// English: Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory (Curiosity)
-"2D583BD6-AF34-97CD-1242-C605A51B4970" = "Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory (Curiosity)";
+// English: Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory
+"2D583BD6-AF34-97CD-1242-C605A51B4970" = "Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory";
 
 // English: HD 147873 is a binary system located 342 ± 35 light-years away, with two massive gas giants orbiting HD 147873A star. The entire system has a history of approximately 4 billion years.
 "2D7FD1B7-DCE8-4595-B799-3AFB4C016F6E" = "HD 147873 is a binary system located 342 ± 35 light-years away, with two massive gas giants orbiting HD 147873A star. The entire system has a history of approximately 4 billion years.";
