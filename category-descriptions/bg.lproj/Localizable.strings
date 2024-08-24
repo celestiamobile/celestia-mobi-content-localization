@@ -202,6 +202,9 @@
 // English: These are the confirmed star systems with planets that have names starting with D, E, and F
 "DFD5BBCD-3A98-48AF-8E08-B2EC3FAA0AAE" = "Това са потвърдените звездни системи с планети, чиито имена започват с D, E и F";
 
+// English: A massive worldbuilding project set in the Triangulum Galaxy made by various add-on developers using Celestia since 2020
+//"E6A49276-8FF9-466F-83C5-DD9B7D05E8CA" = "A massive worldbuilding project set in the Triangulum Galaxy made by various add-on developers using Celestia since 2020";
+
 // English: \"For over ten thousand years the ArcWays have slumbered, lost to the ages and buried under the sediments of time on many worlds. But now they are rediscovered and utilized by Humanity, and a united stellar neighborhood is the ultimate result. And such a League of Worlds will be needed, for as old as the ArcWays are, they contain a terrible force billions of years older, and it will not rest once awakened\" -- J. M. Dollan, 2007 --
 "E6E0C8D7-8F9E-EE24-1C54-D6F57B0EEF6F" = "„Повече от десет хиляди години АркУейс спяха, изгубени във вековете и погребани под утайките на времето в много светове. Но сега те са преоткрити и използвани от човечеството, а обединеният звезден квартал е крайният резултат. И такава Лига от светове ще бъде необходима, тъй като колкото и стари да са АркУейс, те съдържат ужасна сила, милиарди години по-стара, и тя няма да успокои, след като бъде събудена.“ - Дж. М. Долан, 2007 година";
 
