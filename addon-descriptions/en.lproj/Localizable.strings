@@ -3571,6 +3571,9 @@
 // English: Alpha Arietis, also known as Hamal, is an K-type giant star only about 65.88 light-years away in the constellation Aries. It is the brightest visible star in the said constellation, and has a large gas giant planet that orbits roughly 1.5 times the distance of the Earth from the Sun, witnessing the beginning of the end of its host
 "AEA8D485-8C2A-4F04-9E37-D7516448D3CB" = "Alpha Arietis, also known as Hamal, is an K-type giant star only about 65.88 light-years away in the constellation Aries. It is the brightest visible star in the said constellation, and has a large gas giant planet that orbits roughly 1.5 times the distance of the Earth from the Sun, witnessing the beginning of the end of its host";
 
+// English: Gliese 238, also known as TOI-486, is a red dwarf star about 49.64 light-years away in the constellation Pictor. In 2024, the TESS observatory discovered a Mars-sized planet orbiting very close to its star, completing one revolution once every 1.74 days
+"AEC3CB1E-58FA-4CC3-A617-8CF5B4946B1E" = "Gliese 238, also known as TOI-486, is a red dwarf star about 49.64 light-years away in the constellation Pictor. In 2024, the TESS observatory discovered a Mars-sized planet orbiting very close to its star, completing one revolution once every 1.74 days";
+
 // English: This addon adds 1 MILLION fictional stars to the Andromeda Galaxy (M 31)\n\nIMPORTANT NOTE: This addon is heavy, and precisely because of that the initial loading of Celestia may take longer.
 "AEE13677-16E9-B6AB-72A2-B9BE136650B9" = "This addon adds 1 MILLION fictional stars to the Andromeda Galaxy (M 31)\n\nIMPORTANT NOTE: This addon is heavy, and precisely because of that the initial loading of Celestia may take longer.";
 
