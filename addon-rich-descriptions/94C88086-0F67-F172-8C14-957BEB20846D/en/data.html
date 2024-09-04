@@ -100,7 +100,7 @@ f:close()
 
 celestia:print("Success, restart to take effect", 1.5, 0, 0, -10, 0)
 `;
-        Celestia.runScriptWithName("celx", script, "update", "context");
+        Celestia.runScriptWithName("celx", script, null, "context");
     }
 
     isLoadingData = false;
