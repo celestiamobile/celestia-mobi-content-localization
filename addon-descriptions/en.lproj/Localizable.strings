@@ -2182,8 +2182,8 @@
 // English: ROXs 12 is a binary star system of two red dwarf stars about 447.44 light-years away in the constellation Scorpio. Both stars are surrounded by protoplanetary disks, with the primary component (A) even harboring a young massive superjovian or low-end brown dwarf currently accreting itself with material
 "6B8FFE32-54AD-4481-BADA-75D2AE022C00" = "ROXs 12 is a binary star system of two red dwarf stars about 447.44 light-years away in the constellation Scorpio. Both stars are surrounded by protoplanetary disks, with the primary component (A) even harboring a young massive superjovian or low-end brown dwarf currently accreting itself with material";
 
-// English: This addon adds 4 space debris objects. The Centaurs that propelled Juno and Lucy to heliocentric orbit, the Kepler Booster and the object 6Q0B44E.
-"6BBDAF45-E710-4502-9F3C-D242F0D239A4" = "This addon adds 4 space debris objects. The Centaurs that propelled Juno and Lucy to heliocentric orbit, the Kepler Booster and the object 6Q0B44E.";
+// English: Kepler-1662, also known as KOI-1783, is a distant Sun-like star about 2,896 light-years away in the constellation Cygnus. Two gas giant planets (one subjovian and one neptunian) were discovered within 0.53 to 0.87 AU from their parent star
+"6BBDAF45-E710-4502-9F3C-D242F0D239A4" = "Kepler-1662, also known as KOI-1783, is a distant Sun-like star about 2,896 light-years away in the constellation Cygnus. Two gas giant planets (one subjovian and one neptunian) were discovered within 0.53 to 0.87 AU from their parent star";
 
 // English: AB Pictoris is a K-type main-sequence star about 163.47 light-years away in the constellation Pictor. In 2003, a very massive super-jovian planet or brown dwarf was discovered by the European Southern Observatory (ESO) through direct imaging
 "6BF6AEC5-6810-467C-A3E4-2C4B365C7770" = "AB Pictoris is a K-type main-sequence star about 163.47 light-years away in the constellation Pictor. In 2003, a very massive super-jovian planet or brown dwarf was discovered by the European Southern Observatory (ESO) through direct imaging";
@@ -2298,6 +2298,9 @@
 
 // English: TOI-1694 is a K-type main sequence star located about 405.65 lightyears from the solar system. Two planets orbit this star a hot Neptune-sized with a low density and a non-transiting gas giant on a year long orbit within TOI-1694's habitable zone.
 "71CD84FF-67F5-4972-AA95-3B5EAC6BCCDF" = "TOI-1694 is a K-type main sequence star located about 405.65 lightyears from the solar system. Two planets orbit this star a hot Neptune-sized with a low density and a non-transiting gas giant on a year long orbit within TOI-1694's habitable zone.";
+
+// English: Kepler-445 is a red dwarf star about 416.4 light-years away in the constellation Cygnus. A total of three superterran planets were discovered around this star
+"71F40D1B-B9E8-4401-A812-5762C222319D" = "Kepler-445 is a red dwarf star about 416.4 light-years away in the constellation Cygnus. A total of three superterran planets were discovered around this star";
 
 // English: Kepler-950, also known as KOI-1787, is a distant Sun-like star about 7,545 light-years away in the constellation Lyra. A planet two-thirds the size of Saturn completes a 98-day orbit around its host star
 "722A6BC3-1E4F-4785-BE2E-BB4069CAF867" = "Kepler-950, also known as KOI-1787, is a distant Sun-like star about 7,545 light-years away in the constellation Lyra. A planet two-thirds the size of Saturn completes a 98-day orbit around its host star";
@@ -4123,8 +4126,8 @@
 // English: HAT-P-22, also known as TOI-1771 and Gaia-TROI-96, is a binary star system of a Sun-like star and a K-type main sequence star about 267.31 light-years away in the constellation Ursa Major. A Jupiter-sized planet two times hotter than Venus orbits the primary star in the system, component A, completing one revolution once every 3.2 days at a distance of only 6 million km
 "C9B625DC-C039-4594-A163-E8B1B13EDD54" = "HAT-P-22, also known as TOI-1771 and Gaia-TROI-96, is a binary star system of a Sun-like star and a K-type main sequence star about 267.31 light-years away in the constellation Ursa Major. A Jupiter-sized planet two times hotter than Venus orbits the primary star in the system, component A, completing one revolution once every 3.2 days at a distance of only 6 million km";
 
-// English: Adds those systems and their planets.\n\nThis add-on works on Mobile Celestia 1.4.10, Celestia for UWP 2.0.20 and earlier.
-"C9BBE47E-B993-E490-2151-56128E8193A2" = "Adds those systems and their planets.\n\nThis add-on works on Mobile Celestia 1.4.10, Celestia for UWP 2.0.20 and earlier.";
+// English: Kepler-434, also known as KOI-614, is a distant Sun-like star about 4,131 light-years away in the constellation Cygnus. It has one superjovian planet about 2.86 times more massive than Jupiter, which has a year that lasts only 11.67 days
+"C9BBE47E-B993-E490-2151-56128E8193A2" = "Kepler-434, also known as KOI-614, is a distant Sun-like star about 4,131 light-years away in the constellation Cygnus. It has one superjovian planet about 2.86 times more massive than Jupiter, which has a year that lasts only 11.67 days";
 
 // English: Rho Coronae Borealis is an old star hosting four planets, one of which was among the first exoplanets discovered (in 1997). At one point, astrometric data suggested that the true mass of Rho CrB b was much higher, making it a low-mass star rather than a planet. However, more recent work has ruled out stellar companions to this star, as well as detecting three more planets in the system.
 "C9DB986E-7A68-1D50-69E2-C4A7FA336220" = "Rho Coronae Borealis is an old star hosting four planets, one of which was among the first exoplanets discovered (in 1997). At one point, astrometric data suggested that the true mass of Rho CrB b was much higher, making it a low-mass star rather than a planet. However, more recent work has ruled out stellar companions to this star, as well as detecting three more planets in the system.";

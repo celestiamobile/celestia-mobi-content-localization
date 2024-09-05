@@ -2182,7 +2182,7 @@
 // English: ROXs 12
 "6B8FFE32-54AD-4481-BADA-75D2AE022C00" = "ROXs 12";
 
-// English: Juno Centaur, Lucy Centaur, Kepler Booster and 6Q0B44E
+// English: Kepler-1662
 "6BBDAF45-E710-4502-9F3C-D242F0D239A4" = "Juno Centaur, Lucy Centaur, Kepler Booster and 6Q0B44E";
 
 // English: AB Pictoris
@@ -2298,6 +2298,9 @@
 
 // English: TOI-1694
 "71CD84FF-67F5-4972-AA95-3B5EAC6BCCDF" = "TOI-1694";
+
+// English: Kepler-445
+//"71F40D1B-B9E8-4401-A812-5762C222319D" = "Kepler-445";
 
 // English: Kepler-950
 "722A6BC3-1E4F-4785-BE2E-BB4069CAF867" = "Кеплер-950";
@@ -4123,7 +4126,7 @@
 // English: HAT-P-22
 "C9B625DC-C039-4594-A163-E8B1B13EDD54" = "HAT-P-22";
 
-// English: LTT 1445 A & TOI 270
+// English: Kepler-434
 "C9BBE47E-B993-E490-2151-56128E8193A2" = "LTT 1445 A & TOI 270";
 
 // English: Rho Coronae Borealis
