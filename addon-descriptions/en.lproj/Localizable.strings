@@ -3004,6 +3004,9 @@
 // English: NGTS-10 is a binary star system of two K-type main sequence stars about 1,059 light-years away in the constellation Lepus. One of those stars (component A) has a super-Jovian planet that is so close from its star that tidal forces have stretched the planet into a rugby-shaped world, where it completes an orbit once every 18.4 hours at a distance of only 1.89 million km from its host
 "94649845-CFF8-4A10-84DC-9FBB1FB49C12" = "NGTS-10 is a binary star system of two K-type main sequence stars about 1,059 light-years away in the constellation Lepus. One of those stars (component A) has a super-Jovian planet that is so close from its star that tidal forces have stretched the planet into a rugby-shaped world, where it completes an orbit once every 18.4 hours at a distance of only 1.89 million km from its host";
 
+// English: OGLE-2018-BLG-1126L, also known as KMT-2018-BLG-2064L, is a distant K-type star about 18,591 light-years away in the constellation Scorpio. A neptunian planet about 17 times the Earth's mass was discovered through microlensing, completing an orbit once every 6.9 years around its star
+"9472BD2B-53A9-40A1-B6AC-A120531A12FF" = "OGLE-2018-BLG-1126L, also known as KMT-2018-BLG-2064L, is a distant K-type star about 18,591 light-years away in the constellation Scorpio. A neptunian planet about 17 times the Earth's mass was discovered through microlensing, completing an orbit once every 6.9 years around its star";
+
 // English: Kepler-111, also known as KOI-139, is an F-type main sequence star about 2,185 light-years away in the constellation Cygnus. A superterran and a small gas giant planet were discovered around this star
 "949628AB-AA39-4D34-9A0A-327B0885D8D7" = "Kepler-111, also known as KOI-139, is an F-type main sequence star about 2,185 light-years away in the constellation Cygnus. A superterran and a small gas giant planet were discovered around this star";
 
