@@ -1069,6 +1069,9 @@
 // English: This addon adds a fictional Earth-like moon to TOI-2257 b\n\nNOTES\n- An add-on for TOI-2257 is recommended to get the full effect, but it's not required
 "351C6C97-7C6A-4193-8243-15449FFA87A9" = "This addon adds a fictional Earth-like moon to TOI-2257 b\n\nNOTES\n- An add-on for TOI-2257 is recommended to get the full effect, but it's not required";
 
+// English: Kepler-75 is a G-type main sequence star located about 2790.28 lightyears from the solar system. A single eccentric, massive hot-Jupiter is known to orbit this star.
+"351FE8AE-33EE-4238-A327-36DB2FEAE6F2" = "Kepler-75 is a G-type main sequence star located about 2790.28 lightyears from the solar system. A single eccentric, massive hot-Jupiter is known to orbit this star.";
+
 // English: GJ 1148, also known as Ross 1003, is a red dwarf star located 35.935 light-years away from Earth. It has two superjupiters with an inner planet orbital period of 41.38 days and an outer planet orbital period of 532.58 days, and the eccentricity of the two planets is relatively high
 "354E4C7B-513C-47A4-9669-6E7C5F6AD60E" = "GJ 1148, also known as Ross 1003, is a red dwarf star located 35.935 light-years away from Earth. It has two superjupiters with an inner planet orbital period of 41.38 days and an outer planet orbital period of 532.58 days, and the eccentricity of the two planets is relatively high";
 
@@ -3454,6 +3457,9 @@
 // English: SAC-C is an Argentine satellite dedicated to Earth observations. It was launched to space in 2000 on the same Delta II rocket as NASA's Earth Observing-1. It remained operational until 2013
 "A86E28D9-E0DE-3964-5F09-086C593EC622" = "SAC-C is an Argentine satellite dedicated to Earth observations. It was launched to space in 2000 on the same Delta II rocket as NASA's Earth Observing-1. It remained operational until 2013";
 
+// English: Kepler-60, aka KOI-2086, is a G-type main sequence star located about 3487.18 light years from the solar system, a system of 3 sub-Neptunes are currently known to orbit this star, the system is quite compact with orbital periods of the three confirmed planets being between 7 and 12 days. There is an additional sub-Neptune candidate on a potentially long period orbit.
+"A87527A2-F066-4E3D-A87A-244BB7FD6E77" = "Kepler-60, aka KOI-2086, is a G-type main sequence star located about 3487.18 light years from the solar system, a system of 3 sub-Neptunes are currently known to orbit this star, the system is quite compact with orbital periods of the three confirmed planets being between 7 and 12 days. There is an additional sub-Neptune candidate on a potentially long period orbit.";
+
 // English: TOI-431, aka HIP 26013, is a a K-type main sequence star located about 106.17 lightyears from the solar system. three planets: an ultra hot super-Earth (b= 1.28 Re, 3.07 Me), an non-transiting super-Earth (c= 2.83 Me), and warm Neptune-like planet (d= 3.29 Re, 9.9 Me). TOI-431 has a unique structure with the middle being non-transiting. Additionally, TOI-431 b could be the remnant core of dead mini-Neptune, though it also could just be a really hot super-Earth.
 "A8DEB915-B100-4558-ABDC-CA048F4F3FC4" = "TOI-431, aka HIP 26013, is a a K-type main sequence star located about 106.17 lightyears from the solar system. three planets: an ultra hot super-Earth (b= 1.28 Re, 3.07 Me), an non-transiting super-Earth (c= 2.83 Me), and warm Neptune-like planet (d= 3.29 Re, 9.9 Me). TOI-431 has a unique structure with the middle being non-transiting. Additionally, TOI-431 b could be the remnant core of dead mini-Neptune, though it also could just be a really hot super-Earth.";
 
@@ -4356,6 +4362,9 @@
 
 // English: 120347 Salacia is a large classical KBO about 846 km in diameter, which is listed by Mike Brown, et. al. as a possible dwarf planet. It has one known moon, Actaea, which was discovered in 2006
 "D6CF14BE-BF1D-4D16-8142-771C1E1D27D1" = "120347 Salacia is a large classical KBO about 846 km in diameter, which is listed by Mike Brown, et. al. as a possible dwarf planet. It has one known moon, Actaea, which was discovered in 2006";
+
+// English: Kepler-77, aka KOI-127 and TOI-4475, is a G-type main sequence star located about 2124.52 lightyears from the solar system. A single lightly reflective hot-Jupiter in known to orbit this star roughly every 3.5 days.
+"D6D4EA1B-0670-4969-9261-1928732500E4" = "Kepler-77, aka KOI-127 and TOI-4475, is a G-type main sequence star located about 2124.52 lightyears from the solar system. A single lightly reflective hot-Jupiter in known to orbit this star roughly every 3.5 days.";
 
 // English: TAP-26b is a gas giant orbiting the star TAP-26, located 396 light-years away from Earth. It has a mass of 1.66 Jupiters and its orbital period is 10.8 days. The discovery of this exoplanet was announced in 2017.
 "D6D5A815-45E8-4306-B4BE-540EBE3C08C7" = "TAP-26b is a gas giant orbiting the star TAP-26, located 396 light-years away from Earth. It has a mass of 1.66 Jupiters and its orbital period is 10.8 days. The discovery of this exoplanet was announced in 2017.";
