@@ -3739,6 +3739,9 @@
 // English: Steins is a diamond-shaped E-type asteroid in the Asteroid Belt about 5 km in diameter. It was visited by Rosetta at a distance of 800 km on 2008-Sept-5
 "B6F189AF-4827-EFE0-35F8-5B118D1C882D" = "Steins is a diamond-shaped E-type asteroid in the Asteroid Belt about 5 km in diameter. It was visited by Rosetta at a distance of 800 km on 2008-Sept-5";
 
+// English: The Corona Australis Molecular Cloud is a nearby star-forming region only about 480 light-years away from our Solar System. First observed in 1861, at its center lies the Coronet Cluster and is illuminated by a nearby nebula called NGC 6729. It contains enough stellar material equivalent up to 7000 suns combined
+"B70E2936-C834-4930-BE18-EB598C85D4FC" = "The Corona Australis Molecular Cloud is a nearby star-forming region only about 480 light-years away from our Solar System. First observed in 1861, at its center lies the Coronet Cluster and is illuminated by a nearby nebula called NGC 6729. It contains enough stellar material equivalent up to 7000 suns combined";
+
 // English: KOI-7235 is a Sun-like star about 3,713 light-years in the constellation Lyra. In 2015, signatures of an Earth-sized planet orbiting right in the star's habitable zone was detected, however its existence is yet to be confirmed by follow-up studies\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first
 "B7266580-B32B-2DFF-6785-D350E8E76001" = "KOI-7235 is a Sun-like star about 3,713 light-years in the constellation Lyra. In 2015, signatures of an Earth-sized planet orbiting right in the star's habitable zone was detected, however its existence is yet to be confirmed by follow-up studies\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first";
 
