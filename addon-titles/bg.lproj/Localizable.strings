@@ -625,6 +625,9 @@
 // English: M 97 Owl Nebula (Sprite Model)
 "20A0B49B-7A67-5848-B3E7-E08A9F487DDB" = "M 97 Бухал (Изображение)";
 
+// English: Minor Planets: 2401 to 2600
+//"20CC9E36-03E3-4333-B9C4-41B79C9A3FC6" = "Minor Planets: 2401 to 2600";
+
 // English: 1 Ceres
 "20E27C97-EF70-A424-A05A-6743529A0946" = "1 Церера";
 
@@ -2032,7 +2035,7 @@
 // English: Kepler-1115
 "630A120D-5F8F-D3D0-BA7C-C28E184AEC21" = "Кеплер-1115";
 
-// English: M 57 Ring Nebula (Sprite Model)
+// English: WTS-1
 "6313FA2A-EB1F-3A60-7A03-759F9C74C5E0" = "M 57 Ring Nebula (Sprite Model)";
 
 // English: Martian Relay Station
@@ -4060,7 +4063,7 @@
 // English: TOI-1136.07
 "C57E9FF1-07E5-4AC4-B50E-0782FF1BA91A" = "TOI-1136.07";
 
-// English: NGC 2392 Eskimo Nebula (Sprite Model)
+// English: WASP-174
 "C5DE6688-A8C1-FC22-B725-0CE19C06FBA2" = "NGC 2392 Eskimo Nebula (Sprite Model)";
 
 // English: 13 Puppis
@@ -5118,6 +5121,9 @@
 
 // English: 15P/Finlay
 "F91D26AA-B458-46B9-A69B-6CE1C2858111" = "15P/Финлей";
+
+// English: Minor Planets: 2201 to 2400
+//"F933CBD9-4A60-4F42-AA83-5BB6A07108CB" = "Minor Planets: 2201 to 2400";
 
 // English: Nebulon-B (EF76)
 "F93666FD-09B2-48D7-95EB-F4CFD5DC4B87" = "Nebulon-B (EF76)";
