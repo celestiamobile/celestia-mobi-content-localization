@@ -514,6 +514,9 @@
 // English: Luna 9
 "1B8F49C1-7C62-FA01-C48F-DF3E7C8BD8E6" = "Luna 9";
 
+// English: Kepler-83
+"1B9D0A20-749C-4823-89A5-6C4906BA411D" = "Kepler-83";
+
 // English: Hinode
 "1B9D1665-6A22-8A82-F0C6-B3CC63F9E213" = "Hinode";
 
@@ -3678,6 +3681,9 @@
 
 // English: Sun
 "B3BA3028-88BE-434F-B40E-3B741741D9FE" = "Sun";
+
+// English: Surface Water and Ocean Topography
+"B3C5AF94-BF03-428E-9023-DC038F6E4901" = "Surface Water and Ocean Topography";
 
 // English: AB Aurigae
 "B3EB4F98-00F8-4455-B589-F3F829FA8201" = "AB Aurigae";
