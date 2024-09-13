@@ -586,6 +586,9 @@
 // English: GlobalStar is a series of satellites in medium Earth orbit that provide mobile communications around the globe, similar to Iridium. Between 1998 and 2022, a total of 97 satellites were flown in 21 launches. As of 2023, around 30 of them (mostly from the second generation) are still operational to this day
 "1E5CF474-7378-4A77-B25B-6B09FDEB56FE" = "GlobalStar is a series of satellites in medium Earth orbit that provide mobile communications around the globe, similar to Iridium. Between 1998 and 2022, a total of 97 satellites were flown in 21 launches. As of 2023, around 30 of them (mostly from the second generation) are still operational to this day";
 
+// English: The Jupiter Icy Moons Orbiter (JIMO) was a proposed NASA mission intended to explore Jupiter and its largest moons by the early 2020s. Planned to be the first fission-powered spacecraft fully assembled in LEO, it was cancelled due to budgetary constraints and technical complexity in 2005
+"1EA85219-0D66-4CFA-B188-C26A6BE9D2B8" = "The Jupiter Icy Moons Orbiter (JIMO) was a proposed NASA mission intended to explore Jupiter and its largest moons by the early 2020s. Planned to be the first fission-powered spacecraft fully assembled in LEO, it was cancelled due to budgetary constraints and technical complexity in 2005";
+
 // English: XO-1, also known formally as Moldoveanu, is a Sun-like star about 535.96 light-years away in the constellation Corona Borealis. Its sole gas giant planet, Negoiu, completes an orbit once every 3.94 days. Both objects received their proper names during the second NameExoWorlds campaign in 2019
 "1EB3FB4F-116D-44E8-9EDF-26DE069A76CA" = "XO-1, also known formally as Moldoveanu, is a Sun-like star about 535.96 light-years away in the constellation Corona Borealis. Its sole gas giant planet, Negoiu, completes an orbit once every 3.94 days. Both objects received their proper names during the second NameExoWorlds campaign in 2019";
 
@@ -1030,8 +1033,8 @@
 // English: 17 Thetis is an S-type asteroid from the inner regions of the asteroid belt. It was discovered on April 1852 by Robert Luther.
 "3277BF56-D29D-482D-9CCC-BF4970ABDB01" = "17 Thetis is an S-type asteroid from the inner regions of the asteroid belt. It was discovered on April 1852 by Robert Luther.";
 
-// English: 2023 JN₁₆ is a small asteroid whose orbit is located within the main asteroid belt. Its actual size and composition is not yet known
-"327D444C-E706-418C-9F84-2F55F7839538" = "2023 JN₁₆ is a small asteroid whose orbit is located within the main asteroid belt. Its actual size and composition is not yet known";
+// English: P/2023 JN16 (Lemmon) is an active asteroid or Encke-type comet within the main asteroid belt. The actual size of its nucleus is unknown, but it is estimated to be around 410 meters in diameter based on its absolute magnitude and geometric albedo
+"327D444C-E706-418C-9F84-2F55F7839538" = "P/2023 JN16 (Lemmon) is an active asteroid or Encke-type comet within the main asteroid belt. The actual size of its nucleus is unknown, but it is estimated to be around 410 meters in diameter based on its absolute magnitude and geometric albedo";
 
 // English: Taurus–Littrow is a valley located on the southeastern edge of Mare Serenitatis, where it served as the landing site of Apollo 17 in December 11, 1972
 "32CE0F6D-39A4-4B6B-9553-C004A7656C79" = "Taurus–Littrow is a valley located on the southeastern edge of Mare Serenitatis, where it served as the landing site of Apollo 17 in December 11, 1972";
