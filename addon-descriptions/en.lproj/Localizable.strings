@@ -4360,6 +4360,9 @@
 // English: 8 DSC nebulae models in M31, called M31 (centre), M31A, M31B, M31C, ..., M31G (stars distributions are included in the addon for each nebula)
 "D49AC941-3614-2F14-7322-5E149B717BC6" = "8 DSC nebulae models in M31, called M31 (centre), M31A, M31B, M31C, ..., M31G (stars distributions are included in the addon for each nebula)";
 
+// English: The BlackSky constellation is a series of small 55 kg Earth observation microsatellites about 0.84 m across that produce 1,000 images of the Earth's surface every day in 1-m resolution. As of 2024, a total of 14/20 satellites are currently active in LEO. A full constellation of 60 satellites are planned in the near future
+"D4CBBCBF-0AC1-4DD1-AD11-A92342397FED" = "The BlackSky constellation is a series of small 55 kg Earth observation microsatellites about 0.84 m across that produce 1,000 images of the Earth's surface every day in 1-m resolution. As of 2024, a total of 14/20 satellites are currently active in LEO. A full constellation of 60 satellites are planned in the near future";
+
 // English: TOI-837 is a binary star system comprising of a Sun-like star and a red dwarf about 467 light-years away in the constellation Carina. A member of the IC 2602 open cluster, the larger Sun-like star has a Saturn-sized planet that completes one orbit every 8.32 days
 "D518389C-0536-4258-B3C1-9690FE6AC0E3" = "TOI-837 is a binary star system comprising of a Sun-like star and a red dwarf about 467 light-years away in the constellation Carina. A member of the IC 2602 open cluster, the larger Sun-like star has a Saturn-sized planet that completes one orbit every 8.32 days";
 
