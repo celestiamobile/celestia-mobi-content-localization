@@ -478,6 +478,9 @@
 // English: These are a series of 11 CELX scripts that will mark all stars that are known to harbor at least one (confirmed) exoplanet since 1988.
 "1973F4D9-5C84-4342-AFF4-723C6BBAFA25" = "These are a series of 11 CELX scripts that will mark all stars that are known to harbor at least one (confirmed) exoplanet since 1988.";
 
+// English: Kepler-85, aka KOI-2038, is a G-type main-sequence star located about 2590.6 lightyears from the solar system. A system of four planets consisting of two sub-Neptunes and two super-Earths are known to orbit this star.
+"19970EB4-D0E0-4A41-8622-AE71F370D916" = "Kepler-85, aka KOI-2038, is a G-type main-sequence star located about 2590.6 lightyears from the solar system. A system of four planets consisting of two sub-Neptunes and two super-Earths are known to orbit this star.";
+
 // English: This addon adds Neptune's polar auroras.
 "19E04A47-9E75-9BED-2F85-F30CDA5549C9" = "This addon adds Neptune's polar auroras.";
 
