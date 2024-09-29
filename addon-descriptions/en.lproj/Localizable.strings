@@ -1690,6 +1690,9 @@
 // English: Lalande 21185 (also known as Gliese 411) is a red dwarf about 8.30 light-years away in the constellation Ursa Major. Like Barnard's Star, it has been subject to disproven claims of exoplanets in the 20th century, but observations from 2017-2021 have confirmed two worlds orbiting this star, a super-Earth and one of the few known Neptune analogues.
 "5077AA82-5193-08D5-C314-AF8B35A1860E" = "Lalande 21185 (also known as Gliese 411) is a red dwarf about 8.30 light-years away in the constellation Ursa Major. Like Barnard's Star, it has been subject to disproven claims of exoplanets in the 20th century, but observations from 2017-2021 have confirmed two worlds orbiting this star, a super-Earth and one of the few known Neptune analogues.";
 
+// English: Geotail was a NASA/ISAS satellite that measured the Earth's magnetosphere. It was launched in 1992, and its operations continued until the last of its two onboard data recorders failed in 2022, thus subsequently ending the mission. It remains inactive in a highly eccentric orbit to this day
+"5085F3E9-FB35-406F-83DA-FD2EB6B91994" = "Geotail was a NASA/ISAS satellite that measured the Earth's magnetosphere. It was launched in 1992, and its operations continued until the last of its two onboard data recorders failed in 2022, thus subsequently ending the mission. It remains inactive in a highly eccentric orbit to this day";
+
 // English: A copy of the Solar System but with the eccentricity values of the eight major planets set to 50. Note: In order to see the effect of extreme eccentricity, orbits have to be turned on.
 "508D35A9-9E10-1BD4-47B9-707BEE90442D" = "A copy of the Solar System but with the eccentricity values of the eight major planets set to 50. Note: In order to see the effect of extreme eccentricity, orbits have to be turned on.";
 
