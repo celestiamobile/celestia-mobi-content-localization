@@ -3,65 +3,18 @@
 <p id="error-message-output" style="display: none;"></p>
 <p></p>
 <script>
-    function calculate_epoch(line1) {
-        let epoch_year = parseFloat(line1.substring(18, 20).trim());
-        if (epoch_year <= 56)
-            epoch_year = 2000 + epoch_year;
-        else
-            epoch_year = 1900 + epoch_year;
-        epoch_day = parseFloat(line1.substring(20, 32).trim())
-        return 1721424.5 - Math.floor((epoch_year - 1) / 100) + Math.floor((epoch_year - 1) / 400) + Math.floor(365.25 * (epoch_year - 1)) + epoch_day
-    }
-
-    function calculate_period(line2) {
-        return 1.0 / parseFloat(line2.substring(52, 64));
-    }
-
-    function caluculate_semimajor_axis(line2) {
-        return Math.pow(Math.pow(calculate_period(line2), 2) * 75371000000000, 0.33333333333333333);
-    }
-
-    function calculate_eccentricity(line2) {
-        return parseFloat('0.' + line2.substring(26, 33).trim());
-    }
-
-    function calculate_inclination(line2) {
-        return parseFloat(line2.substring(8, 16).trim());
-    }
-
-    function calculate_ascending_node(line2) {
-        return parseFloat(line2.substring(17, 25).trim());
-    }
-
-    function calculate_arg_of_pericenter(line2) {
-        return parseFloat(line2.substring(34, 42).trim());
-    }
-
-
-    function calculate_mean_anomaly(line2) {
-        return parseFloat(line2.substring(43, 51).trim());
-    }
-
-    function calculate_roation_offset(line1, line2) {
-        let epoch_day = parseFloat(line1.substring(20, 32).trim())
-        let period = calculate_period(line2);
-        let daydiff = 2451545 - epoch_day;
-        let tmp = calculate_arg_of_pericenter(line2) + calculate_mean_anomaly(line2);
-        return (tmp + 360 * (((daydiff / period - Math.floor(daydiff / period))))) % 360;
-    }
-
-    function updateAddon(tle) {
+    function updateAddon(orbitData) {
         let line1 = tle.line1;
         let line2 = tle.line2;
         let content = 'EllipticalOrbit\n    {\n';
-        content += ('        Epoch    ' + calculate_epoch(line1).toString() + '\n');
-        content += ('        Period    ' + calculate_period(line2).toString() + '\n');
-        content += ('        SemiMajorAxis    ' + caluculate_semimajor_axis(line2).toString() + '\n');
-        content += ('        Eccentricity    ' + calculate_eccentricity(line2).toString() + '\n');
-        content += ('        Inclination    ' + calculate_inclination(line2).toString() + '\n');
-        content += ('        AscendingNode    ' + calculate_ascending_node(line2).toString() + '\n');
-        content += ('        ArgOfPericenter    ' + calculate_arg_of_pericenter(line2).toString() + '\n');
-        content += ('        MeanAnomaly    ' + calculate_mean_anomaly(line2).toString() + '\n');
+        content += ('        Epoch    ' + orbitData.epoch.toString() + '\n');
+        content += ('        Period    ' + orbitData.period.toString() + '\n');
+        content += ('        SemiMajorAxis    ' + orbitData.semiMajorAxis.toString() + '\n');
+        content += ('        Eccentricity    ' + orbitData.eccentricity.toString() + '\n');
+        content += ('        Inclination    ' + orbitData.inclination.toString() + '\n');
+        content += ('        AscendingNode    ' + orbitData.ascendingNode.toString() + '\n');
+        content += ('        ArgOfPericenter    ' + orbitData.argOfPericenter.toString() + '\n');
+        content += ('        MeanAnomaly    ' + orbitData.meanAnomaly.toString() + '\n');
         content += '    }';
         let script = String.raw`
 function getParentPath(item)
@@ -111,7 +64,7 @@ celestia:print("Success, restart to take effect", 1.5, 0, 0, -10, 0)
         let errorOutput = document.getElementById('error-message-output');
         errorOutput.style.display = 'none';
         errorOutput.innerText = "";
-        fetch("https://celestia.mobi/resources/celestrak?type=stations")
+        fetch("https://celestia.mobi/resources/celestrakparsed?type=stations&name=ISS%20(ZARYA)")
             .then(function (response) { return response.json() })
             .then(function (result) {
                 if (result.status != 0) {
@@ -120,17 +73,8 @@ celestia:print("Success, restart to take effect", 1.5, 0, 0, -10, 0)
                     isLoadingData = false;
                     return;
                 }
-                let tles = JSON.parse(result.info.detail);
-                let iss = tles.find(function (tle) {
-                    return tle.name.trim() == "ISS (ZARYA)"
-                });
-                if (iss == null) {
-                    errorOutput.style.display = 'block';
-                    errorOutput.innerText = "Failed to get latest position";
-                    isLoadingData = false;
-                    return;
-                }
-                updateAddon(iss);
+                let ortbisData = JSON.parse(result.info.detail);
+                updateAddon(orbitData);
                 errorOutput.style.display = 'block';
                 errorOutput.innerText = "Check Celestia for update status";
                 isLoadingData = false;
