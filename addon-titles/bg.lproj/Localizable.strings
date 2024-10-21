@@ -3067,6 +3067,9 @@
 // English: Minor Planets: 901 to 1000
 //"94979D1E-08B8-4B32-BD62-768C3044A912" = "Minor Planets: 901 to 1000";
 
+// English: Minor Planets: 2801 to 3000
+//"94ADFEDD-C46A-4AF0-A024-910A0270DCB2" = "Minor Planets: 2801 to 3000";
+
 // English: ISS (Dynamic)
 "94C88086-0F67-F172-8C14-957BEB20846D" = "ISS (Dynamic)";
 
@@ -5283,6 +5286,9 @@
 
 // English: Earth: Topography
 "FEB48E74-9F16-4096-AAC1-E056DC3902A1" = "Земята: Топография";
+
+// English: Minor Planets: 2601 to 2800
+//"FEFE3DD4-14D5-45DE-BB64-42B207B265B0" = "Minor Planets: 2601 to 2800";
 
 // English: Fermi
 "FEFEEF6A-5FC3-6324-41F8-88FCDB850E3C" = "Ферми";

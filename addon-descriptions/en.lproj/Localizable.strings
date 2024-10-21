@@ -3067,6 +3067,9 @@
 // English: Part 10 of Celestia Origin's minor planet catalog, from 902 Probitas to 1000 Piazzia.\n\nNOTES:\n\n- The asteroid 951 Gaspra is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 902 Probitas.
 "94979D1E-08B8-4B32-BD62-768C3044A912" = "Part 10 of Celestia Origin's minor planet catalog, from 902 Probitas to 1000 Piazzia.\n\nNOTES:\n\n- The asteroid 951 Gaspra is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 902 Probitas.";
 
+// English: Part 20 of Celestia Origin's minor planet catalog, from 2802 Weisell to 2998 Berendeya.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2802 Weisell.
+"94ADFEDD-C46A-4AF0-A024-910A0270DCB2" = "Part 20 of Celestia Origin's minor planet catalog, from 2802 Weisell to 2998 Berendeya.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2802 Weisell.";
+
 // English: Dynamic add-on testing 
 "94C88086-0F67-F172-8C14-957BEB20846D" = "Dynamic add-on testing ";
 
@@ -5283,6 +5286,9 @@
 
 // English: This addon adds, as an alternative surface, a topographic map for the planet Earth.
 "FEB48E74-9F16-4096-AAC1-E056DC3902A1" = "This addon adds, as an alternative surface, a topographic map for the planet Earth.";
+
+// English: Part 19 of Celestia Origin's minor planet catalog, from 2601 Bologna to 2797 Teucer.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2601 Bologna.
+"FEFE3DD4-14D5-45DE-BB64-42B207B265B0" = "Part 19 of Celestia Origin's minor planet catalog, from 2601 Bologna to 2797 Teucer.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2601 Bologna.";
 
 // English:  Fermi, formerly called the Gamma-ray Large Area Space Telescope (GLAST), is a space observatory being used to perform gamma-ray astronomy observations from LEO. Launched in 2008-Jun-11, it is a joint project between NASA, US Department of Energy and ESA, succeeding the capabilities of INTEGRAL.
 "FEFEEF6A-5FC3-6324-41F8-88FCDB850E3C" = " Fermi, formerly called the Gamma-ray Large Area Space Telescope (GLAST), is a space observatory being used to perform gamma-ray astronomy observations from LEO. Launched in 2008-Jun-11, it is a joint project between NASA, US Department of Energy and ESA, succeeding the capabilities of INTEGRAL.";
