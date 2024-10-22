@@ -1738,6 +1738,9 @@
 // English: The Rho Ophiuchi cloud complex is a complex of interstellar clouds with different nebulae, particularly dark nebulae which is centered 1° south of the star Rho Ophiuchi, which it among others extends to, of the constellation Ophiuchus. At an estimated distance of about 460 light-years, it is one of the closest star-forming regions to the Solar System
 "51E04B17-A1F2-4849-B1DD-DA382C1EDA4E" = "The Rho Ophiuchi cloud complex is a complex of interstellar clouds with different nebulae, particularly dark nebulae which is centered 1° south of the star Rho Ophiuchi, which it among others extends to, of the constellation Ophiuchus. At an estimated distance of about 460 light-years, it is one of the closest star-forming regions to the Solar System";
 
+// English: The Mars Climate Orbiter (MCO) was a NASA mission designed to study the Martian climate, atmosphere and surface changes in orbit. It was part of the Mars Surveyor '98 mission alongside Mars Polar Lander, however it was unintentionally destroyed about 57 km above the Martian atmosphere due to its onboard computer being unable to convert metric and imperial units during orbital insertion
+"51FF5C60-0F25-4824-BE01-09B489CB4C8A" = "The Mars Climate Orbiter (MCO) was a NASA mission designed to study the Martian climate, atmosphere and surface changes in orbit. It was part of the Mars Surveyor '98 mission alongside Mars Polar Lander, however it was unintentionally destroyed about 57 km above the Martian atmosphere due to its onboard computer being unable to convert metric and imperial units during orbital insertion";
+
 // English: Adds 2000 stars in 91 different OB Associations in the Milky Way Galaxy.
 "5209E230-E5EA-3E89-CCCA-7634E2D41CA9" = "Adds 2000 stars in 91 different OB Associations in the Milky Way Galaxy.";
 
@@ -4497,6 +4500,9 @@
 
 // English: Gaia14aae is a white dwarf star about 838.53 light-years away in the constellation Draco. It is surrounded by a dense protoplanetary disk and a brown dwarf/planet about the size of Jupiter
 "D900F5FA-A72E-481D-B39E-2CBCE2D26468" = "Gaia14aae is a white dwarf star about 838.53 light-years away in the constellation Draco. It is surrounded by a dense protoplanetary disk and a brown dwarf/planet about the size of Jupiter";
+
+// English: Formosat 5 is a Taiwanese Earth observations satellite launched from a Falcon 9 rocket in August 2017. Placed in a 720 km high sun-synchronous orbit, its primary goal is to demonstrate Taiwan's satellite manufacturing capabilities and produce data for various academic research
+"D90AAFBC-776C-4661-8302-EC9E1E6F719E" = "Formosat 5 is a Taiwanese Earth observations satellite launched from a Falcon 9 rocket in August 2017. Placed in a 720 km high sun-synchronous orbit, its primary goal is to demonstrate Taiwan's satellite manufacturing capabilities and produce data for various academic research";
 
 // English: 2023 CX₁ is a small meteoroid about 1 m in diameter. It is the seventh asteroid ever discovered before impacting with Earth, and it did so on the early morning of 2023-Feb-13 over the coast of Normandy, France just seven hours after it was first spotted
 "D9547D61-6A56-4D9C-875B-6BE0CEDC837B" = "2023 CX₁ is a small meteoroid about 1 m in diameter. It is the seventh asteroid ever discovered before impacting with Earth, and it did so on the early morning of 2023-Feb-13 over the coast of Normandy, France just seven hours after it was first spotted";
