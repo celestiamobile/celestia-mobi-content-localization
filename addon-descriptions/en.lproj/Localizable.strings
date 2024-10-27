@@ -3232,6 +3232,9 @@
 // English: The Tunguska event was a 12 megaton explosion that occurred over the vast sparsely-populated taiga of Siberia, Russia near the Tunguska River in 1908-Jun-30. Although it did not hit the surface, it was the largest known impact event in recorded history, theorized to have been caused by a small asteroid or cometary fragment about 50-60 m in diameter\nNOTE: To view this event, adjust your current Date/Time on or before 1908-Jun-30, 00:12 UTC
 "9AC63A62-869A-89C9-1E27-86062DEEE038" = "The Tunguska event was a 12 megaton explosion that occurred over the vast sparsely-populated taiga of Siberia, Russia near the Tunguska River in 1908-Jun-30. Although it did not hit the surface, it was the largest known impact event in recorded history, theorized to have been caused by a small asteroid or cometary fragment about 50-60 m in diameter\nNOTE: To view this event, adjust your current Date/Time on or before 1908-Jun-30, 00:12 UTC";
 
+// English: Part 22 of Celestia Origin's minor planet catalog, from 3213 Smolensk to 3397 Leyla.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3213 Smolensk.
+"9B1C7460-1710-4594-9E58-CB1C13C0E206" = "Part 22 of Celestia Origin's minor planet catalog, from 3213 Smolensk to 3397 Leyla.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3213 Smolensk.";
+
 // English: 17P/Holmes is a periodic comet with an orbital period of 6.88 years discovered in November 1892 by Edwin Holmes. Although normally a faint object, Comet Holmes became notable during its return in October 2007 when it became visible to the naked eye and also briefly became the largest object in the Solar System as its coma became as large as the Sun.
 "9BA9CEE1-8CA9-49A3-AE94-B93D14BB8717" = "17P/Holmes is a periodic comet with an orbital period of 6.88 years discovered in November 1892 by Edwin Holmes. Although normally a faint object, Comet Holmes became notable during its return in October 2007 when it became visible to the naked eye and also briefly became the largest object in the Solar System as its coma became as large as the Sun.";
 
@@ -5037,6 +5040,9 @@
 
 // English: A Consular-class Republic Cruiser owned by Chancellor Valorum, the Radiant VII, in orbit above Naboo
 "F151AD79-FCFD-49F2-A49F-E65538DE174B" = "A Consular-class Republic Cruiser owned by Chancellor Valorum, the Radiant VII, in orbit above Naboo";
+
+// English: PROBA-3 is an ESA technology demonstration mission, planned to be launched in 2024-Nov-29 on a PSLV-XL. It consists of two satellites (OSC and CSC) which will fly in formation 144 meters apart, allowing the OSC to cast a shadow on the CSC, thus blocking direct sunlight and allowing images of the solar corona to be obtained in visible light, ultraviolet and polarized.
+"F1731374-D397-47A8-9248-10567911AF56" = "PROBA-3 is an ESA technology demonstration mission, planned to be launched in 2024-Nov-29 on a PSLV-XL. It consists of two satellites (OSC and CSC) which will fly in formation 144 meters apart, allowing the OSC to cast a shadow on the CSC, thus blocking direct sunlight and allowing images of the solar corona to be obtained in visible light, ultraviolet and polarized.";
 
 // English: 229762 Gǃkúnǁʼhòmdímà is a candidate dwarf planet in the extended scattered disc about 678 km in diameter. It has a single satellite named Gǃòʼé ǃHú, which is one of the reddest trans-Neptunian objects ever found
 "F181E5E0-7841-1D83-61D0-AA9274637842" = "229762 Gǃkúnǁʼhòmdímà is a candidate dwarf planet in the extended scattered disc about 678 km in diameter. It has a single satellite named Gǃòʼé ǃHú, which is one of the reddest trans-Neptunian objects ever found";
