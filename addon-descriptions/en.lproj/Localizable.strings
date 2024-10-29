@@ -1153,6 +1153,9 @@
 // English: TOI-5542 is a G-type main-sequence star located about 1163.1 lightyears from the solar system. This star hosts a single gas giant on a 75-day orbit.
 "36DB88B2-C6C5-468A-A0F4-750B929B4733" = "TOI-5542 is a G-type main-sequence star located about 1163.1 lightyears from the solar system. This star hosts a single gas giant on a 75-day orbit.";
 
+// English: Part 23 of Celestia Origin's minor planet catalog, from 3405 Daiwensai to 3598 Saucier. Also includes the satellite of 3533 Toyota.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3405 Daiwensai.
+"36E72B7F-7AE2-4430-8CE4-99A2F741320F" = "Part 23 of Celestia Origin's minor planet catalog, from 3405 Daiwensai to 3598 Saucier. Also includes the satellite of 3533 Toyota.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3405 Daiwensai.";
+
 // English: The Fried Egg Galaxy (also known as NGC 7742) is an Sb-type spiral galaxy about 57.8 million light-years away in the constellation Pegasus. A Type-II Seyfert galaxy, it is unusual for having a ring but no bar, a result of a merger with a smaller galaxy in the past, which is indicated by a very active star-formation region surrounding the bright nucleus
 "36E92F8F-3B6E-96C3-41D4-FE84A856964E" = "The Fried Egg Galaxy (also known as NGC 7742) is an Sb-type spiral galaxy about 57.8 million light-years away in the constellation Pegasus. A Type-II Seyfert galaxy, it is unusual for having a ring but no bar, a result of a merger with a smaller galaxy in the past, which is indicated by a very active star-formation region surrounding the bright nucleus";
 
@@ -3642,6 +3645,9 @@
 
 // English: GJ 1002 is a nearby red dwarf star only 15.81 light-years away in the constellation Cetus. It has two rocky planets, one of which is currently considered as a potentially habitable world (as of 2022)
 "ADCC9FCA-1BB5-458A-B08A-FFDC92F5E580" = "GJ 1002 is a nearby red dwarf star only 15.81 light-years away in the constellation Cetus. It has two rocky planets, one of which is currently considered as a potentially habitable world (as of 2022)";
+
+// English: Part 24 of Celestia Origin's minor planet catalog, from 3604 Berkhuijsen to 3799 Novgorod. Furthermore, it also includes the respective satellites of 3623 Chaplin, 3657 Ermolova, 3671 Dionysus and 3749 Balam.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3604 Berkhuijsen.
+"AE15E282-22EF-4647-BAD8-FC7D5C18FF54" = "Part 24 of Celestia Origin's minor planet catalog, from 3604 Berkhuijsen to 3799 Novgorod. Furthermore, it also includes the respective satellites of 3623 Chaplin, 3657 Ermolova, 3671 Dionysus and 3749 Balam.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3604 Berkhuijsen.";
 
 // English: Gliese 300, also known as LHS 1989, is a star with a spectral type of M located 26.469 light-years away from Earth, surrounded by a mini Neptune.
 "AE222584-8F24-4B41-8EC2-D199F748790F" = "Gliese 300, also known as LHS 1989, is a star with a spectral type of M located 26.469 light-years away from Earth, surrounded by a mini Neptune.";
