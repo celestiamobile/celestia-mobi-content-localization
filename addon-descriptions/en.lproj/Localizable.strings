@@ -4996,6 +4996,9 @@
 // English: NGC 2438 is a nebula located in the constellation of Puppis. It was discovered by William Herschel in 1786, and is located about 1,370 light-years away from Earth. It is a multi-layered nebula with a bright inner nebula.
 "EFBA33B4-C122-483F-90E6-E1C05FC94CA9" = "NGC 2438 is a nebula located in the constellation of Puppis. It was discovered by William Herschel in 1786, and is located about 1,370 light-years away from Earth. It is a multi-layered nebula with a bright inner nebula.";
 
+// English: Explorer 6, also known as S-2, was an early NASA satellite that studied the space environment around Earth. Launched in August 1959, it took the very first photograph of Earth in orbit as an experiment that later led to the development of weather satellites. It remained operational until October 1959 and reentered the atmosphere by July 1961
+"EFCE6A17-60A1-4659-A315-4C5843FBBB6D" = "Explorer 6, also known as S-2, was an early NASA satellite that studied the space environment around Earth. Launched in August 1959, it took the very first photograph of Earth in orbit as an experiment that later led to the development of weather satellites. It remained operational until October 1959 and reentered the atmosphere by July 1961";
+
 // English: Kepler-91, aka KOI-2133 and TOI-5995 is a K-type subgiant star located about 4385.59 lightyears from the solar system. a single low density ultra-hot Jupiter orbits this dying star. the planet is going to be consumed by it's host sometime in the next 55 million years
 "F015F6F7-1946-4027-AE39-6E74E2E09A78" = "Kepler-91, aka KOI-2133 and TOI-5995 is a K-type subgiant star located about 4385.59 lightyears from the solar system. a single low density ultra-hot Jupiter orbits this dying star. the planet is going to be consumed by it's host sometime in the next 55 million years";
 
@@ -5224,8 +5227,8 @@
 // English: 15P/Finlay is a periodic comet discovered in September 1886 by William Henry Finlay. The comet has an orbital period of 6.51 years. In October 2060, the comet will pass about 0.0334 (5 million km) away from Earth.
 "F91D26AA-B458-46B9-A69B-6CE1C2858111" = "15P/Finlay is a periodic comet discovered in September 1886 by William Henry Finlay. The comet has an orbital period of 6.51 years. In October 2060, the comet will pass about 0.0334 (5 million km) away from Earth.";
 
-// English: Part 17 of Celestia Origin's minor planet catalog, from 2201 Oljato to 2399 Terradas.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2201 Oljato.
-"F933CBD9-4A60-4F42-AA83-5BB6A07108CB" = "Part 17 of Celestia Origin's minor planet catalog, from 2201 Oljato to 2399 Terradas.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2201 Oljato.";
+// English: Part 17 of Celestia Origin's minor planet catalog, from 2201 Oljato to 2399 Terradas. Also includes the satellite of 2280 Kunikov.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2201 Oljato.
+"F933CBD9-4A60-4F42-AA83-5BB6A07108CB" = "Part 17 of Celestia Origin's minor planet catalog, from 2201 Oljato to 2399 Terradas. Also includes the satellite of 2280 Kunikov.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2201 Oljato.";
 
 // English: An EF76 (Nebulon-B) medical frigate, called the Redemption, in orbit above Yavin IV
 "F93666FD-09B2-48D7-95EB-F4CFD5DC4B87" = "An EF76 (Nebulon-B) medical frigate, called the Redemption, in orbit above Yavin IV";
