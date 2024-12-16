@@ -3544,6 +3544,9 @@
 // English: Arabsat-1
 "A83FFCE6-4BC8-44DC-AA8A-B3A07CC82EBE" = "Арабсат-1";
 
+// English: Saturn's outer rings
+//"A84713A9-97BD-43A7-8A17-2E890C759223" = "Saturn's outer rings";
+
 // English: Arsia Mons
 "A85BFD24-5337-D731-51B9-8D8E5637E0D1" = "Arsia Mons";
 
@@ -5148,6 +5151,9 @@
 
 // English: Helios 1 and 2
 "F4DB14FD-5AF0-64BB-747F-096B44C3D60E" = "Хелиос 1 и 2";
+
+// English: Janus and Epimetheus
+//"F4E17C54-335F-4C75-A5F4-BA4BA24C182C" = "Janus and Epimetheus";
 
 // English: ppp-GAMSCHIIR patches
 "F4ED5A92-3086-48E6-8B70-BA8EC18DA657" = "ppp-GAMSCHIIR patches";
