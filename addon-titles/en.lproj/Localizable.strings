@@ -43,8 +43,8 @@
 // English: Kepler-29
 "024C9CC8-8D70-47DD-910F-68EFA76368CE" = "Kepler-29";
 
-// English: Minor Planets: 501 to 600
-"028A5E63-4549-41B1-AA1A-E1CB7498033C" = "Minor Planets: 501 to 600";
+// English: Minor Planets: 500 to 599
+"028A5E63-4549-41B1-AA1A-E1CB7498033C" = "Minor Planets: 500 to 599";
 
 // English: PK 164+31.1 (Headphone Nebula)
 "02B1F10B-AA6D-688F-1C35-6D90223E5AC7" = "PK 164+31.1 (Headphone Nebula)";
@@ -813,6 +813,9 @@
 
 // English: Venus Express
 "2882017D-E666-93AF-BA49-17E33B4F9B71" = "Venus Express";
+
+// English: New Horizons
+"28861A9E-0F09-4DA7-8CEF-593FC8A7E970" = "New Horizons";
 
 // English: HD 1690
 "288B0D82-395D-45F7-854E-E3D09DFFE2CD" = "HD 1690";
@@ -1968,6 +1971,9 @@
 
 // English: BM Cassiopeiae
 "5DFABABB-55E9-2938-1D93-8FF1347E3200" = "BM Cassiopeiae";
+
+// English: 269 Justitia
+"5E392D8C-18BE-4BB9-92CB-B7696FC282BE" = "269 Justitia";
 
 // English: NGC 7049
 "5E674A76-718B-4A55-A61A-8042FB7E0BCF" = "NGC 7049";
@@ -3252,6 +3258,9 @@
 
 // English: Minor Planets: 3201 to 3400
 "9B1C7460-1710-4594-9E58-CB1C13C0E206" = "Minor Planets: 3201 to 3400";
+
+// English: 623 Chimaera
+"9B2E2D08-A102-41E9-B8B5-F91CD806D795" = "623 Chimaera";
 
 // English: 17P/Holmes
 "9BA9CEE1-8CA9-49A3-AE94-B93D14BB8717" = "17P/Holmes";

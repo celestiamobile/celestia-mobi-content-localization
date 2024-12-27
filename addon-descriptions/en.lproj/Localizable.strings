@@ -43,8 +43,8 @@
 // English: Kepler-29 is a G-type main sequence star located about 2778.4 lightyears from the solar system. Two low density mini-Neptunes accompany this star.
 "024C9CC8-8D70-47DD-910F-68EFA76368CE" = "Kepler-29 is a G-type main sequence star located about 2778.4 lightyears from the solar system. Two low density mini-Neptunes accompany this star.";
 
-// English: Part 6 of Celestia Origin's minor planet catalog, from 501 Urhixidur to 600 Musa.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 501 Urhixidur.
-"028A5E63-4549-41B1-AA1A-E1CB7498033C" = "Part 6 of Celestia Origin's minor planet catalog, from 501 Urhixidur to 600 Musa.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 501 Urhixidur.";
+// English: Part 6 of Celestia Origin's minor planet catalog, from 500 Selinur to 599 Luisa.
+"028A5E63-4549-41B1-AA1A-E1CB7498033C" = "Part 6 of Celestia Origin's minor planet catalog, from 500 Selinur to 599 Luisa.";
 
 // English: Jones-Emberson 1 (PK 164+31.1), also known as the Headphone Nebula, is a 14th magnitude planetary nebula in the constellation Lynx at a distance of 1,600 light years. The 16.8-magnitude central star is a very blue white dwarf
 "02B1F10B-AA6D-688F-1C35-6D90223E5AC7" = "Jones-Emberson 1 (PK 164+31.1), also known as the Headphone Nebula, is a 14th magnitude planetary nebula in the constellation Lynx at a distance of 1,600 light years. The 16.8-magnitude central star is a very blue white dwarf";
@@ -813,6 +813,9 @@
 
 // English: Venus Express was an ESA space probe that orbited Venus from 2006-2015. The mission's main objective is to conduct long term observations of the Venusian atmosphere. It was hoped that such studies can contribute to an understanding of atmospheric dynamics in general, while also contributing to an understanding of climate change on Earth
 "2882017D-E666-93AF-BA49-17E33B4F9B71" = "Venus Express was an ESA space probe that orbited Venus from 2006-2015. The mission's main objective is to conduct long term observations of the Venusian atmosphere. It was hoped that such studies can contribute to an understanding of atmospheric dynamics in general, while also contributing to an understanding of climate change on Earth";
+
+// English: New Horizons is a NASA/APL space probe that was launched as a part of NASA's New Frontiers program. It was launched in 2006-Jan-19, with the primary mission to perform a flyby study of the Pluto system in July 2015, and a secondary mission to flyby and study one or more other Kuiper Belt Objects (KBOs) in the decade to follow, which became a mission to 486958 Arrokoth in January 2019. It is the fifth space probe to achieve the escape velocity needed to leave the Solar System.
+"28861A9E-0F09-4DA7-8CEF-593FC8A7E970" = "New Horizons is a NASA/APL space probe that was launched as a part of NASA's New Frontiers program. It was launched in 2006-Jan-19, with the primary mission to perform a flyby study of the Pluto system in July 2015, and a secondary mission to flyby and study one or more other Kuiper Belt Objects (KBOs) in the decade to follow, which became a mission to 486958 Arrokoth in January 2019. It is the fifth space probe to achieve the escape velocity needed to leave the Solar System.";
 
 // English: HD 1690, aka HIP 1692, is a K-type giant star located about 2453.54 light years from the solar system. The star, residing slightly outside the galactic plane, hosts a highly eccentric warm super Jupiter (b= 8.79 Mj). The orbit of this planet takes it from as far as 2.13 au to as close as 0.47 au.
 "288B0D82-395D-45F7-854E-E3D09DFFE2CD" = "HD 1690, aka HIP 1692, is a K-type giant star located about 2453.54 light years from the solar system. The star, residing slightly outside the galactic plane, hosts a highly eccentric warm super Jupiter (b= 8.79 Mj). The orbit of this planet takes it from as far as 2.13 au to as close as 0.47 au.";
@@ -1969,6 +1972,9 @@
 // English: BM Cassiopeiae is an eclipsing binary star system about 11,792 light-years away in the constellation Cassiopeia. It contains an A-type supergiant orbited by a G-type supergiant with about half its mass, eclipsing each other (from the viewpoint of Earth) every 200 days
 "5DFABABB-55E9-2938-1D93-8FF1347E3200" = "BM Cassiopeiae is an eclipsing binary star system about 11,792 light-years away in the constellation Cassiopeia. It contains an A-type supergiant orbited by a G-type supergiant with about half its mass, eclipsing each other (from the viewpoint of Earth) every 200 days";
 
+// English: 269 ​​Justitia is a main-belt asteroid about 50 km in diameter, discovered in 1887-Sep-21 by Johann Palisa. The tholins on Justitia's surface give it a very red color, making Justitia a likely TNO that migrated into the asteroid belt. Justitia is the final target of the UAE's planned MBR Explorer mission, with a rendezvous planned for October 2034.
+"5E392D8C-18BE-4BB9-92CB-B7696FC282BE" = "269 ​​Justitia is a main-belt asteroid about 50 km in diameter, discovered in 1887-Sep-21 by Johann Palisa. The tholins on Justitia's surface give it a very red color, making Justitia a likely TNO that migrated into the asteroid belt. Justitia is the final target of the UAE's planned MBR Explorer mission, with a rendezvous planned for October 2034.";
+
 // English: NGC 7049 is a lenticular galaxy about 90.19 million light-years away in the constellation Indus. Measuring about 150,000 light-years across, its unusual appearance is largely due to a prominent rope-like dust ring standing out against the starlight behind it as seen from Earth
 "5E674A76-718B-4A55-A61A-8042FB7E0BCF" = "NGC 7049 is a lenticular galaxy about 90.19 million light-years away in the constellation Indus. Measuring about 150,000 light-years across, its unusual appearance is largely due to a prominent rope-like dust ring standing out against the starlight behind it as seen from Earth";
 
@@ -2380,8 +2386,8 @@
 // English: The Milky Way is a SBc-type barred spiral galaxy about 100,000 light-years across, containing an estimated 100-400 billion stars including the Sun. This addon features the Milky Way Galaxy as seen within 1 light-year from our Solar System\n\n(NOTE: Disable \"Galaxies\" from settings to obtain the best view of the 3D model of the Milky Way if you're inside the Solar System)
 "72F63412-ACF2-94AB-B1E5-691E0DE33F22" = "The Milky Way is a SBc-type barred spiral galaxy about 100,000 light-years across, containing an estimated 100-400 billion stars including the Sun. This addon features the Milky Way Galaxy as seen within 1 light-year from our Solar System\n\n(NOTE: Disable \"Galaxies\" from settings to obtain the best view of the 3D model of the Milky Way if you're inside the Solar System)";
 
-// English: This addon enhances the dwarf planet Pluto and its largest moon, Charon, including:\n\n- 3D models based on New Horizons data.\n\n- Four textures for each: New Horizons data (default), Hubble data, enhanced colors and topography (alternative surfaces).
-"73692F99-7FBC-DC60-5283-E66AAE0FCFB3" = "This addon enhances the dwarf planet Pluto and its largest moon, Charon, including:\n\n- 3D models based on New Horizons data.\n\n- Four textures for each: New Horizons data (default), Hubble data, enhanced colors and topography (alternative surfaces).";
+// English: This addon enhances the dwarf planet Pluto and its largest moon, Charon, with 3D models based on real data and four textures for each: New Horizons data (default), Hubble data, enhanced colors and topography (alternative surfaces).
+"73692F99-7FBC-DC60-5283-E66AAE0FCFB3" = "This addon enhances the dwarf planet Pluto and its largest moon, Charon, with 3D models based on real data and four textures for each: New Horizons data (default), Hubble data, enhanced colors and topography (alternative surfaces).";
 
 // English: HAT-P-5, also known formally as Chasoň, is a Sun-like star about 998 light-years away in the constellation Lyra. Both this star and its gas giant planet, Kráľomoc, were given formal names by the people of Slovakia during the second NameExoWorlds campaign in 2019
 "736AC0F1-5829-4CA7-B1A8-2F496CA2B236" = "HAT-P-5, also known formally as Chasoň, is a Sun-like star about 998 light-years away in the constellation Lyra. Both this star and its gas giant planet, Kráľomoc, were given formal names by the people of Slovakia during the second NameExoWorlds campaign in 2019";
@@ -3252,6 +3258,9 @@
 
 // English: Part 22 of Celestia Origin's minor planet catalog, from 3213 Smolensk to 3397 Leyla.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3213 Smolensk.
 "9B1C7460-1710-4594-9E58-CB1C13C0E206" = "Part 22 of Celestia Origin's minor planet catalog, from 3213 Smolensk to 3397 Leyla.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3213 Smolensk.";
+
+// English: 623 Chimaera is a main-belt asteroid about 44 km in diameter, discovered on 1907-Jan-22. It is a target of the UAE's MBR Explorer mission, with a flyby planned in June 2030.
+"9B2E2D08-A102-41E9-B8B5-F91CD806D795" = "623 Chimaera is a main-belt asteroid about 44 km in diameter, discovered on 1907-Jan-22. It is a target of the UAE's MBR Explorer mission, with a flyby planned in June 2030.";
 
 // English: 17P/Holmes is a periodic comet with an orbital period of 6.88 years discovered in November 1892 by Edwin Holmes. Although normally a faint object, Comet Holmes became notable during its return in October 2007 when it became visible to the naked eye and also briefly became the largest object in the Solar System as its coma became as large as the Sun.
 "9BA9CEE1-8CA9-49A3-AE94-B93D14BB8717" = "17P/Holmes is a periodic comet with an orbital period of 6.88 years discovered in November 1892 by Edwin Holmes. Although normally a faint object, Comet Holmes became notable during its return in October 2007 when it became visible to the naked eye and also briefly became the largest object in the Solar System as its coma became as large as the Sun.";
