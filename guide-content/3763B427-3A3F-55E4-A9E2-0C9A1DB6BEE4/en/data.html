@@ -139,7 +139,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     { key: 'remove', display: 'Remove This Add-on?', elementName: 'submission-remove', type: 'checkbox', hint: 'Mark this add-on for removal', overrideFilename: 'category', fileContentProvider: function(checked) { if (checked) return 'remove'; else return null; } },
     { key: 'title', display: 'Title', elementName: 'submission-title', type: 'short-text', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'category', display: 'Category', elementName: 'submission-category', type: 'reference-select', values: categories, hint: 'Required for new add-ons. ID of the category', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
-    { key: 'type', display: 'Type', elementName: 'submission-type', type: 'reference-select', values: [{ name: 'None', id: '' }, { name: 'Add-on', id: 'addon' }, { name: 'Script', id: 'script' }], hint: 'Choose Script for script add-ons. Choose None when updating an add-on and you want to keep the existing type', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'type', display: 'Type', elementName: 'submission-type', type: 'text-select', values: [{ name: 'None', id: '' }, { name: 'Add-on', id: 'addon' }, { name: 'Script', id: 'script' }], hint: 'Choose Script for script add-ons. Choose None when updating an add-on and you want to keep the existing type', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'id_requirement', display: 'ID Requirement', elementName: 'submission-id-requirement', type: 'short-text', hint: 'Required for updating or removing an existing add-on' },
     { key: 'authors', display: 'Authors', elementName: 'submission-authors', type: 'short-text-list', hint: 'Required for new add-ons. Authors of the add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'description', display: 'Description', elementName: 'submission-description', type: 'long-text', hint: 'Required for new add-ons. Plain text description of the add-on', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
@@ -153,7 +153,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     { key: 'rich_description', display: 'Include Rich Description?', elementName: 'submission-rich-description', type: 'checkbox', ignored: true, targetCheckBox: ['submission-remove', 'submission-remove-rich-description'], targetCheckBoxValue: [false, false] },
     { key: 'rich_description_base', display: 'Rich Description Text', elementName: 'submission-rich-description-base', type: 'long-text', hint: 'HTML supported. If not provided, any of the following will be ignored. Use celaddon://item?item=ADDON_ID for add-on links and celguide://guide?guide=ARTICLE_ID for article links', targetCheckBox: ['submission-remove', 'submission-remove-rich-description', 'submission-rich-description'], targetCheckBoxValue: [false, false, true], overrideFilename: 'rich_description/base' },
     { key: 'rich_description_notes', display: 'Notes', elementName: 'submission-rich-description-notes', type: 'long-text-list', hint: 'HTML supported', targetCheckBox: ['submission-remove', 'submission-remove-rich-description', 'submission-rich-description'], targetCheckBoxValue: [false, false, true], overrideFilename: 'rich_description/notes' },
-    { key: 'rich_description_note_type', display: 'Note Type', elementName: 'submission-rich-description-note-type', type: 'reference-select', values: [{ name: 'Note', id: 'note' }, { name: 'Important', id: 'important' }, { name: 'Warning', id: 'warning' }], hint: 'Type of notes, only used when notes are available. Important notes will have a yellow background and warning notes will have a red background', targetCheckBox: ['submission-remove', 'submission-remove-rich-description', 'submission-rich-description'], targetCheckBoxValue: [false, false, true], overrideFilename: 'rich_description/note_type' },
+    { key: 'rich_description_note_type', display: 'Note Type', elementName: 'submission-rich-description-note-type', type: 'text-select', values: [{ name: 'Note', id: 'note' }, { name: 'Important', id: 'important' }, { name: 'Warning', id: 'warning' }], hint: 'Type of notes, only used when notes are available. Important notes will have a yellow background and warning notes will have a red background', targetCheckBox: ['submission-remove', 'submission-remove-rich-description', 'submission-rich-description'], targetCheckBoxValue: [false, false, true], overrideFilename: 'rich_description/note_type' },
     { key: 'rich_description_cover_image', display: 'Cover Image', elementName: 'submission-rich-description-cover-image', type: 'file', hint: 'Required when Rich Description is provided', targetCheckBox: ['submission-remove', 'submission-remove-rich-description', 'submission-rich-description'], targetCheckBoxValue: [false, false, true], overrideFilename: 'rich_description/cover_image', fileExtension: 'jpg' },
     { key: 'rich_description_cover_image_caption', display: 'Cover Image Caption', elementName: 'submission-rich-description-cover-image-caption', type: 'long-text', hint: 'HTML supported', targetCheckBox: ['submission-remove', 'submission-remove-rich-description', 'submission-rich-description'], targetCheckBoxValue: [false, false, true], overrideFilename: 'rich_description/cover_image' },
     { key: 'rich_description_detail_images', display: 'Detail Images', elementName: 'submission-rich-description-detail-images', type: 'file-list', targetCheckBox: ['submission-remove', 'submission-remove-rich-description', 'submission-rich-description'], targetCheckBoxValue: [false, false, true], overrideFilename: 'rich_description/detail_image_', fileExtension: 'jpg' },
@@ -193,6 +193,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
         }
         break;
       case 'reference-select':
+      case 'text-select':
         var input = document.getElementById(element.elementName);
         if (input.selectedIndex >= 0) {
           const value = input.options[input.selectedIndex].value;
@@ -325,6 +326,15 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
           }
         }
         break;
+      case 'text-select':
+        var input = document.getElementById(element.elementName);
+        if (input.selectedIndex >= 0) {
+          const value = input.options[input.selectedIndex].value;
+          if (value.length != 0) {
+            fields[element.key] = { value: value };
+          }
+        }
+        break;
       case 'file':
       case 'file-list':
         var input = document.getElementById(element.elementName);
@@ -410,6 +420,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       controls.push(input);
       break;
     case 'reference-select':
+    case 'text-select':
       var input = document.createElement('select');
       input.id = element.elementName;
       input.name = element.elementName;
