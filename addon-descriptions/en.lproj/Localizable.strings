@@ -331,6 +331,9 @@
 // English: Mangalyaan-1, known internationally as the Mars Orbiter Mission, is India's first interplanetary mission. Launched in 2013-Nov-5 aboard a PSLV rocket, it reached the Red Planet on 2014-Sept-24, just two days after the arrival of MAVEN. Originally planned to last for only six months, it continues to send scientific data from Mars for eight years until it lost contact with Earth on 2022-Sept-27
 "117BCE94-1069-FC64-2705-E0027724B665" = "Mangalyaan-1, known internationally as the Mars Orbiter Mission, is India's first interplanetary mission. Launched in 2013-Nov-5 aboard a PSLV rocket, it reached the Red Planet on 2014-Sept-24, just two days after the arrival of MAVEN. Originally planned to last for only six months, it continues to send scientific data from Mars for eight years until it lost contact with Earth on 2022-Sept-27";
 
+// English: This addon adds a high-resolution virtual texture (VT) for the planet Mercury, which replaces the default texture. Includes surface map and a normal map, created from images from the MESSENGER orbiter.
+"119AAF0E-568F-486F-92A3-A2D362542387" = "This addon adds a high-resolution virtual texture (VT) for the planet Mercury, which replaces the default texture. Includes surface map and a normal map, created from images from the MESSENGER orbiter.";
+
 // English: WASP-12 Ab is a hot Jupiter discovered in 2008 orbiting the star WASP-12 A, 1410 light-years away from Earth in the constellation Auriga. Due to its close proximity to its parent star, WASP-12 Ab is estimated to have an oval shape due to the star's tidal forces.
 "11C2C6DE-E4D9-847A-46FA-09578EE7A4B1" = "WASP-12 Ab is a hot Jupiter discovered in 2008 orbiting the star WASP-12 A, 1410 light-years away from Earth in the constellation Auriga. Due to its close proximity to its parent star, WASP-12 Ab is estimated to have an oval shape due to the star's tidal forces.";
 
