@@ -2473,6 +2473,9 @@
 // English: Uranus's Largest Moons
 "76D938FC-997D-4949-1D09-AB69726A69E0" = "Най-големите спътници на Уран";
 
+// English: Mercury: VT Topography Map
+//"77095D9D-EBCB-4B30-AEAB-B5A973AF702F" = "Mercury: VT Topography Map";
+
 // English: Epsilon Eridani (Ran) by Chara
 "77549EB9-951E-31E6-3DFD-A4A032DE9676" = "Epsilon Eridani (Ran) by Chara";
 
@@ -4176,6 +4179,9 @@
 
 // English: 13 Puppis
 "C5E24789-9FD2-4F6C-90DE-89196135987C" = "13 Puppis";
+
+// English: Venus: VT Surface Map
+//"C6209808-6A02-4707-92BA-27F0000F2B32" = "Venus: VT Surface Map";
 
 // English: COCONUTS-2
 "C644E444-0598-4308-9D02-9D23671C0157" = "COCONUTS-2";

@@ -2473,6 +2473,9 @@
 // English: This addon adds textures for the five largest moons of the planet Uranus: Miranda, Ariel, Umbriel, Titania and Oberon.
 "76D938FC-997D-4949-1D09-AB69726A69E0" = "This addon adds textures for the five largest moons of the planet Uranus: Miranda, Ariel, Umbriel, Titania and Oberon.";
 
+// English: This addon adds, as an alternative surface, a topographic map for the planet Mercury, showing relief formations and surface elevations. Based on detailed data obtained by the MESSENGER orbiter.
+"77095D9D-EBCB-4B30-AEAB-B5A973AF702F" = "This addon adds, as an alternative surface, a topographic map for the planet Mercury, showing relief formations and surface elevations. Based on detailed data obtained by the MESSENGER orbiter.";
+
 // English: Ran is a young (~400-800 Myr), nearby (3.220 parsecs / 10.50 light-years) K2 V star with three debris disks, one confirmed planet known as Ægir (Epsilon Eridani b) orbiting at ~3.73 AU, and one speculated planet orbiting at ~47.8 AU, whose existence was inferred from the morphology of the cold disk. This add-on adds both planets, although the second, unconfirmed planet requires Unconfirmed Exoplanets. Not intended to be complementary with SevenSpheres' Epsilon Eridani add-on.
 "77549EB9-951E-31E6-3DFD-A4A032DE9676" = "Ran is a young (~400-800 Myr), nearby (3.220 parsecs / 10.50 light-years) K2 V star with three debris disks, one confirmed planet known as Ægir (Epsilon Eridani b) orbiting at ~3.73 AU, and one speculated planet orbiting at ~47.8 AU, whose existence was inferred from the morphology of the cold disk. This add-on adds both planets, although the second, unconfirmed planet requires Unconfirmed Exoplanets. Not intended to be complementary with SevenSpheres' Epsilon Eridani add-on.";
 
@@ -4176,6 +4179,9 @@
 
 // English: 13 Puppis, also known as HD 66141, is a K-type giant star about 254 light-years away in the constellation Canis Minor. A planet larger than Jupiter orbits its star at a distance of 1.17 AU, comparable to the distance of the Earth to the Sun
 "C5E24789-9FD2-4F6C-90DE-89196135987C" = "13 Puppis, also known as HD 66141, is a K-type giant star about 254 light-years away in the constellation Canis Minor. A planet larger than Jupiter orbits its star at a distance of 1.17 AU, comparable to the distance of the Earth to the Sun";
+
+// English: This addon adds a high-resolution virtual texture (VT) for the planet Venus, which replaces the default texture. Includes surface map and a normal map, created from radar data from the Magellan orbiter. Additionally, it also includes a new cloud texture.
+"C6209808-6A02-4707-92BA-27F0000F2B32" = "This addon adds a high-resolution virtual texture (VT) for the planet Venus, which replaces the default texture. Includes surface map and a normal map, created from radar data from the Magellan orbiter. Additionally, it also includes a new cloud texture.";
 
 // English: L 34-26, also known as COCONUTS-2A and TYC 9381-1809-1, is a M3-type dwarf star located 35 light-years away, in the constellation of Chamaeleon. The star is about one-third the mass of the Sun, with an age between 150 and 800 million years old. With a mass of 6.3 Jupiters, it takes over one million years to complete one orbit around the star, and it is 7,506 AU away from it.
 "C644E444-0598-4308-9D02-9D23671C0157" = "L 34-26, also known as COCONUTS-2A and TYC 9381-1809-1, is a M3-type dwarf star located 35 light-years away, in the constellation of Chamaeleon. The star is about one-third the mass of the Sun, with an age between 150 and 800 million years old. With a mass of 6.3 Jupiters, it takes over one million years to complete one orbit around the star, and it is 7,506 AU away from it.";
