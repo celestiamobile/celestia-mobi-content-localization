@@ -4492,6 +4492,9 @@
 // English: MOA-2011-BLG-293L is a distant Sun-like star about 25,114 light-years away in the constellation Sagittarius. Situated within the Galactic Core, it has a massive superjovian planet with a year slightly longer than Earth's
 "D5F06E7A-D4D6-4C8D-9EBC-BD42719A2401" = "MOA-2011-BLG-293L is a distant Sun-like star about 25,114 light-years away in the constellation Sagittarius. Situated within the Galactic Core, it has a massive superjovian planet with a year slightly longer than Earth's";
 
+// English: This addon adds, as an alternative surface, a topographic map for the planet Venus, showing relief formations and surface elevations. Based on data obtained by the Magellan orbiter.
+"D5FBC573-5DE8-4C9A-BA09-FF208D227EFD" = "This addon adds, as an alternative surface, a topographic map for the planet Venus, showing relief formations and surface elevations. Based on data obtained by the Magellan orbiter.";
+
 // English: Kepler-174, aka KOI-518, is a K-type dwarf star located about 1,254.32 lightyears from the solar system. The star hosts three planets: two mini-Neptunes (b= 2.349 Re, d=2.572 Re) and a super-Earth (c= 1.752), the outermost planet (d) orbits within the star's habitable zone. The masses of the planets are not known.
 "D62A8BD3-492F-4CEB-9115-E2563B193405" = "Kepler-174, aka KOI-518, is a K-type dwarf star located about 1,254.32 lightyears from the solar system. The star hosts three planets: two mini-Neptunes (b= 2.349 Re, d=2.572 Re) and a super-Earth (c= 1.752), the outermost planet (d) orbits within the star's habitable zone. The masses of the planets are not known.";
 
