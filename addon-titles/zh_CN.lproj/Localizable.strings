@@ -2158,6 +2158,9 @@
 // English: PACE
 //"6560899B-3FA6-410A-ACD7-DA73E4EA198A" = "PACE";
 
+// English: Proton 1 to 3
+//"65A509DF-DE03-4B8F-8959-CC012EF896CC" = "Proton 1 to 3";
+
 // English: 51 Eridani
 //"65BB7F94-44D3-4F27-BBAA-16E43DD7F0CA" = "51 Eridani";
 
@@ -3576,6 +3579,9 @@
 
 // English: Kepler-60
 //"A87527A2-F066-4E3D-A87A-244BB7FD6E77" = "Kepler-60";
+
+// English: Proton 4
+//"A8B406B5-10D9-4491-BAE9-5B2C170797AE" = "Proton 4";
 
 // English: TOI-431
 //"A8DEB915-B100-4558-ABDC-CA048F4F3FC4" = "TOI-431";
