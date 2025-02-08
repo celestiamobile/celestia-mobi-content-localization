@@ -1,6 +1,9 @@
 // English: These are the confirmed star systems with planets that have names starting with O
 "00AF3056-5512-42F3-A6CC-3B66CF6203EC" = "These are the confirmed star systems with planets that have names starting with O";
 
+// English: These are rocky/icy bodies that orbits the Sun between Jupiter and Neptune. They usually have characteristics of both asteroids and comets
+"04625752-0A61-4D42-B392-A93991FB0425" = "These are rocky/icy bodies that orbits the Sun between Jupiter and Neptune. They usually have characteristics of both asteroids and comets";
+
 // English: Scripts that make full use of Celestia's potentials.
 "09877309-D214-43E2-AE37-C9F716D5EF78" = "Scripts that make full use of Celestia's potentials.";
 
@@ -76,8 +79,8 @@
 // English: These are the confirmed star systems with planets that have names starting with X, Y, and Z
 "5D824B5F-B5B5-4EE9-A6E2-6C331B5BCD2B" = "These are the confirmed star systems with planets that have names starting with X, Y, and Z";
 
-// English: Contains additional members and visual improvements to the small celestial objects within the outer regions of the Solar System, particularly those located beyond the orbit of Neptune. Centaurs are included here
-"5DABA8EB-7105-8592-2DA8-505AC6584A55" = "Contains additional members and visual improvements to the small celestial objects within the outer regions of the Solar System, particularly those located beyond the orbit of Neptune. Centaurs are included here";
+// English: These are all the rocky and icy bodies found beyond Neptune's orbit, from the Kuiper Belt up to the Oort Cloud
+"5DABA8EB-7105-8592-2DA8-505AC6584A55" = "These are all the rocky and icy bodies found beyond Neptune's orbit, from the Kuiper Belt up to the Oort Cloud";
 
 // English: Contains additional stars and visual improvements to the ones that are included in the stock installation of Celestia. Stars with planets are not included in this category
 "5E023C91-86F8-EC5C-B53C-E3780163514F" = "Contains additional stars and visual improvements to the ones that are included in the stock installation of Celestia. Stars with planets are not included in this category";
@@ -147,6 +150,9 @@
 
 // English: These are the confirmed star systems with planets that have names starting with H, I, and J
 "B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "These are the confirmed star systems with planets that have names starting with H, I, and J";
+
+// English: These are all the rocky and icy bodies found within the outer Solar System
+"B1CF7032-F4A3-40BF-8915-40E7C6D88833" = "These are all the rocky and icy bodies found within the outer Solar System";
 
 // English: This category contains addons that enhances the view of every major celestial body in the Solar System, i.e. the planets and the moons themselves
 "B2E44BE0-9DF7-FAB9-92D4-F8D323D31250" = "This category contains addons that enhances the view of every major celestial body in the Solar System, i.e. the planets and the moons themselves";

@@ -1,6 +1,9 @@
 // English: Confirmed (O)
 "00AF3056-5512-42F3-A6CC-3B66CF6203EC" = "已证实（O）";
 
+// English: Centaurs
+//"04625752-0A61-4D42-B392-A93991FB0425" = "Centaurs";
+
 // English: Scripts
 "09877309-D214-43E2-AE37-C9F716D5EF78" = "脚本";
 
@@ -103,8 +106,8 @@
 // English: Confirmed (L)
 "7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "已证实（L）";
 
-// English: CO's Minor Planet Catalog
-//"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "CO's Minor Planet Catalog";
+// English: Minor Planet Catalog
+//"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "Minor Planet Catalog";
 
 // English: Star Wars
 "8237336C-8075-19CF-C43E-61EC0E3E86DF" = "星球大战";
@@ -147,6 +150,9 @@
 
 // English: Confirmed (H, I and J)
 "B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "已证实（H, I, J）";
+
+// English: Centaurs and TNOs
+//"B1CF7032-F4A3-40BF-8915-40E7C6D88833" = "Centaurs and TNOs";
 
 // English: Solar System
 "B2E44BE0-9DF7-FAB9-92D4-F8D323D31250" = "太阳系";
