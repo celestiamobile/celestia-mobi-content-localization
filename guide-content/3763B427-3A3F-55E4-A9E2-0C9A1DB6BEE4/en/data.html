@@ -18,7 +18,7 @@
 <script type="text/javascript" src="{1}"></script>
 <div id="apple-sign-in-button"></div>
 <div id="github-sign-in-button" style="display:none;"><button class="button-filled" id="github-sign-in-button-button" style="margin-top:0.4em;">Sign in with GitHub</button></div>
-<div id="addon-submission-area"><div id="addon-submission-form"></div><br><button id="addon-submit-button" disabled class="button-filled">Generate</button><p id="addon-submission-status" style="display:none;margin-top:0.5em;"></p></div>
+<div id="addon-submission-area"><div id="addon-submission-form"></div><br><button id="addon-submit-button" disabled class="button-filled">Submit</button><p id="addon-submission-status" style="display:none;margin-top:0.5em;"></p></div>
 <p id="error-information-text" style="display:none;margin-top:0.5em;"></p>
 <script>"use strict";</script>
 <script>CelestiaCloudKitManager = {};</script>
@@ -78,8 +78,6 @@ CelestiaCloudKitManager.setUpAuth = function() {
   const container = CelestiaCloudKitManager.container;
   function gotoAuthenticatedState(userInfo) {
     CelestiaCloudKitManager.isLoggedIn = true;
-    const submitButton = document.getElementById('addon-submit-button');
-    submitButton.innerText = 'Submit';
     container
       .whenUserSignsOut()
       .then(gotoUnauthenticatedState);
@@ -87,8 +85,6 @@ CelestiaCloudKitManager.setUpAuth = function() {
 
   function gotoUnauthenticatedState(error) {
     CelestiaCloudKitManager.isLoggedIn = false;
-    const submitButton = document.getElementById('addon-submit-button');
-    submitButton.innerText = GitHubManager.isLoggedIn ? 'Submit' : 'Generate';
     container
       .whenUserSignsIn()
       .then(gotoAuthenticatedState)
@@ -279,20 +275,14 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     submitButton.disabled = true;
     submissionStatus.style.display = 'block';
     submissionStatus.innerText = 'Generating zip...';
-    const isLoggedIn = GitHubManager.isLoggedIn;
-    zip.generateAsync({ type: isLoggedIn ? "base64" : "blob" }).then(function(content) {
-      if (isLoggedIn) {
-        function uuidv4() {
-          return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
-            (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
-          );
-        }
-        submissionStatus.innerText = `Creating pull request...`;
-        GitHubManager.submitByCreatePullRequest(`${uuidv4()}.zip`, content, submissionStatus);
-      } else {
-        submissionStatus.innerText = 'Downloading zip...';
-        saveAs(content, "addon.zip");
+    zip.generateAsync({ type: "base64" }).then(function(content) {
+      function uuidv4() {
+        return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
+          (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
+        );
       }
+      submissionStatus.innerText = `Creating pull request...`;
+      GitHubManager.submitByCreatePullRequest(`${uuidv4()}.zip`, content, submissionStatus);
     });
   }
   async function uploadRecord() {
@@ -383,12 +373,8 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       CelestiaCloudKitManager.page.showError(response.errors[0]);
     } else {
       const savedRecord = response.records[0];
-      if (GitHubManager.isLoggedIn) {
-        submissionStatus.innerText = `Uploaded ID ${savedRecord.recordName}, creating pull request...`;
-        GitHubManager.submitByCreatePullRequest(savedRecord.recordName, null, submissionStatus);
-      } else {
-        submissionStatus.innerText = `Uploaded ID ${savedRecord.recordName}`;
-      }
+      submissionStatus.innerText = `Uploaded ID ${savedRecord.recordName}, creating pull request...`;
+      GitHubManager.submitByCreatePullRequest(savedRecord.recordName, null, submissionStatus);
     }
   }
   submitButton.onclick = async function() {
@@ -592,7 +578,6 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
 </script>
 <script>
   GitHubManager = {};
-  GitHubManager.isLoggedIn = false;
   const githubSignInElement = document.getElementById('github-sign-in-button-button');
   githubSignInElement.onclick = function() {
     window.location.href = 'https://github.com/login/oauth/authorize?client_id=1cfca660a17fe68fdfdf&scope=repo';
@@ -624,9 +609,8 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       const octokit = new MyOctokit({
         auth: token,
       });
-      GitHubManager.isLoggedIn = true;
       const submitButton = document.getElementById('addon-submit-button');
-      submitButton.innerText = 'Submit';
+      submitButton.disabled = false;
       GitHubManager.octokit = octokit;
     } else {
       githubSignInElement.parentNode.style.display = '';
@@ -644,7 +628,11 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       submissionStatus.innerText = `Cancelled creating PR for ${filename}`;
       return;
     }
-    if (!GitHubManager.isLoggedIn || !GitHubManager.octokit) return;
+    if (!GitHubManager.octokit) {
+      console.error('GitHub is not logged in');
+      submissionStatus.innerText = 'GitHub is not logged in';
+      return;
+    }
     const path = content ? `pending_zip/${filename}` : `pending/${filename}`;
     const pr = await GitHubManager.octokit.createPullRequest({
       owner: "celestiamobile",
