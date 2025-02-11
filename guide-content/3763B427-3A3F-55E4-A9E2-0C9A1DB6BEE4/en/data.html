@@ -163,7 +163,6 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
   submissionForm.innerHTML = '';
   const submitButton = document.getElementById('addon-submit-button');
   const submissionStatus = document.getElementById('addon-submission-status');
-  submitButton.disabled = false;
   async function uploadZip() {
     let zip = new JSZip();
     for (var i = 0; i < submissionElements.length; i++) {
