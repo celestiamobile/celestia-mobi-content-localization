@@ -448,7 +448,7 @@
 // English: TOI-4633 (Unconfirmed Planet)
 //"183658B4-9383-4537-BF94-DE8046760CE3" = "TOI-4633 (Unconfirmed Planet)";
 
-// English: Shenzhou 7
+// English: Shenzhou: 2008
 "1868A723-985D-467F-99A9-90DD992A31C5" = "Шънджоу 7";
 
 // English: Passengers (2016)
@@ -1123,7 +1123,7 @@
 // English: Luhman 16
 "3596823A-F096-4E0C-8F82-6FC72E457BC5" = "Лухман 16";
 
-// English: Shenzhou 1 to 6
+// English: Shenzhou: 1999–2005
 "35A1A439-7AE9-440B-842E-C36FD25BF5D0" = "Шънджоу 1 до 6";
 
 // English: Qatar-3
@@ -4258,7 +4258,7 @@
 // English: HD 85512
 "C8EDBBB9-BAED-9C52-7E71-62A40C9F256E" = "HD 85512";
 
-// English: Shenzhou 8 to 19
+// English: Shenzhou: 2011–Present
 "C92100E0-32F8-4E3D-8F6A-1FA4BD5FE7A2" = "Шънджоу 8 до 18";
 
 // English: UGC 4879
@@ -4300,7 +4300,7 @@
 // English: QuikSCAT
 "CA76B530-201B-8ED2-BCD2-A384CE3E50DB" = "QuikSCAT";
 
-// English: Tianzhou 1 to 7
+// English: Tianzhou
 "CAAA58EF-02C4-440C-A79C-4D2D995EFAF8" = "Тиенджоу 1 до 7";
 
 // English: Kepler-1000
