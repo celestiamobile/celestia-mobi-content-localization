@@ -712,6 +712,9 @@
 // English: WASP-6, also known as Márohu and TOI-231, is a Sun-like star about 646.54 light-years away in the constellation Aquarius. It has a planet larger than Jupiter that completes an orbit around its star once every 3.3 days. In 2019, that planet was given the name Boinayel during that year's NameExoWorlds campaign
 "2381FBC6-A3D0-4968-A68B-3EE93CE770DD" = "WASP-6, also known as Márohu and TOI-231, is a Sun-like star about 646.54 light-years away in the constellation Aquarius. It has a planet larger than Jupiter that completes an orbit around its star once every 3.3 days. In 2019, that planet was given the name Boinayel during that year's NameExoWorlds campaign";
 
+// English: This addon adds high-resolution textures for the two Martian moons, Phobos and Deimos, which replace the default textures. Additionally, it also includes topographic map for both moons as alternative surfaces. Textures based on data from the Viking and Mars Express.
+"23915EF0-4D6A-4E33-A258-DB4CE863F362" = "This addon adds high-resolution textures for the two Martian moons, Phobos and Deimos, which replace the default textures. Additionally, it also includes topographic map for both moons as alternative surfaces. Textures based on data from the Viking and Mars Express.";
+
 // English: Part 25 of Celestia Origin's minor planet catalog, from 3803 Tuchkova to 3999 Aristarchus.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3803 Tuchkova.
 "23F272F3-BB14-47C0-AF5E-86B993E857AC" = "Part 25 of Celestia Origin's minor planet catalog, from 3803 Tuchkova to 3999 Aristarchus.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 3803 Tuchkova.";
 
