@@ -2461,6 +2461,9 @@
 // English: CloudSat is a NASA Earth observation satellite, which was launched on April 28, 2006. It uses radar to measure the altitude and properties of clouds, adding to information on the relationship between clouds and climate in order to help resolve questions about global warming. This satellite remains active in 2022.
 "75166057-94AF-6584-E7C1-22E7413A6047" = "CloudSat is a NASA Earth observation satellite, which was launched on April 28, 2006. It uses radar to measure the altitude and properties of clouds, adding to information on the relationship between clouds and climate in order to help resolve questions about global warming. This satellite remains active in 2022.";
 
+// English: The Nuclear Spectroscopic Telescope Array (NuSTAR), also known as Explorer 93, is a NASA X-ray observatory designed to detect high-energy x-rays beyond the capabilities of Chandra and XMM-Newton. It was launched on 13 June 2012 and continues operations to this day.
+"7537393D-4F8D-4DD5-869A-060597B154C4" = "The Nuclear Spectroscopic Telescope Array (NuSTAR), also known as Explorer 93, is a NASA X-ray observatory designed to detect high-energy x-rays beyond the capabilities of Chandra and XMM-Newton. It was launched on 13 June 2012 and continues operations to this day.";
+
 // English: This add-on adds a realistic, fully 3D model of the planetary nebula Abell 8. Abell 8 is one of the simplest planetary nebulae known, and deviates very little from a perfectly spherical shell.
 "753B5B4C-3CCA-6722-243A-F433E3DCAAAE" = "This add-on adds a realistic, fully 3D model of the planetary nebula Abell 8. Abell 8 is one of the simplest planetary nebulae known, and deviates very little from a perfectly spherical shell.";
 
