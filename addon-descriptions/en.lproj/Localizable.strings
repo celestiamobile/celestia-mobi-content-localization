@@ -2668,6 +2668,9 @@
 // English: C/1680 V1, also known as Kirch's Comet, Newton's Comet or Great Comet of 1680 is a comet that in 1680 passed only 930,000 km away from the Sun, so it managed to obtain a very long tail and visible even during the day. The comet was discovered by Gottfried Kirch and its course observed by Eusebio Kino. Isaac Newton used the comet to test and verify Kepler's laws.
 "7D81BA1F-C6E7-F0E7-5434-5FD58B8A0DA3" = "C/1680 V1, also known as Kirch's Comet, Newton's Comet or Great Comet of 1680 is a comet that in 1680 passed only 930,000 km away from the Sun, so it managed to obtain a very long tail and visible even during the day. The comet was discovered by Gottfried Kirch and its course observed by Eusebio Kino. Isaac Newton used the comet to test and verify Kepler's laws.";
 
+// English: HIP 38594, aka Ross 429, is a binary system comprised of a red dwarf and a white dwarf located about 58.05 lightyears from the solar system. two mildly eccentric planets, one sub-Neptune mass planet grazing it's host's habitable zone and an outer sub-Saturn mass planet are currently known to orbit the primary component to the system.
+"7D8707E3-3944-43A2-B685-D471F6B0951D" = "HIP 38594, aka Ross 429, is a binary system comprised of a red dwarf and a white dwarf located about 58.05 lightyears from the solar system. two mildly eccentric planets, one sub-Neptune mass planet grazing it's host's habitable zone and an outer sub-Saturn mass planet are currently known to orbit the primary component to the system.";
+
 // English: On February 15, 2013, over the city of Chelyabinsk, Russia, a superbolite entered the Earth's atmosphere. This meteor exploded at an attitude of 29.7 km (18.5 mi). The energy released from the explosion was the equivalent of 400-500 kilotons of TNT - 26 to 33 times more energy than that released by the atomic bomb detonated in Hiroshima. About 1500 people were injured by broken glass.
 "7D87CEBE-DBF6-203B-0A4C-C771F369123A" = "On February 15, 2013, over the city of Chelyabinsk, Russia, a superbolite entered the Earth's atmosphere. This meteor exploded at an attitude of 29.7 km (18.5 mi). The energy released from the explosion was the equivalent of 400-500 kilotons of TNT - 26 to 33 times more energy than that released by the atomic bomb detonated in Hiroshima. About 1500 people were injured by broken glass.";
 
@@ -3889,6 +3892,9 @@
 // English: Ross 458, also known as Gliese 494 and DT Virginis, is a binary star system of two red dwarf stars about 37.55 light-years away in the constellation Virgo. A sub-brown dwarf or super-Jovian planet was discovered orbiting both stars, but it is so far away from its parent stars that it takes about 48,780 years to complete one full circle.
 "B53D4331-31D4-B89B-4E1E-B2F3428B7E0C" = "Ross 458, also known as Gliese 494 and DT Virginis, is a binary star system of two red dwarf stars about 37.55 light-years away in the constellation Virgo. A sub-brown dwarf or super-Jovian planet was discovered orbiting both stars, but it is so far away from its parent stars that it takes about 48,780 years to complete one full circle.";
 
+// English: Kepler-109, aka KOI-123, is a G-type main sequence star located about 1570.1 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.
+"B5D8E84E-666F-486B-A030-30302DDB7A20" = "Kepler-109, aka KOI-123, is a G-type main sequence star located about 1570.1 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.";
+
 // English: This addon adds a night texture for Io, showing its lava lakes.
 "B5ECBBD4-A256-C334-B119-ECE0D347D85E" = "This addon adds a night texture for Io, showing its lava lakes.";
 
@@ -4014,6 +4020,9 @@
 
 // English: This addon adds fictional textures for the planets orbiting the ultracool dwarf star TRAPPIST-1 to Celestia. All seven planets are similar in size and mass to Earth, and three or four orbit within the habitable zone. The system is a target for atmospheric spectroscopy by the James Webb Space Telescope. The textures in this version of the addon are from the 2018 NASA artist's impression, and can be set to 2K, 4K, or 8K resolution depending on your device's capabilities.
 "BC0426C6-2546-500A-B0FC-C9AE8ACB3204" = "This addon adds fictional textures for the planets orbiting the ultracool dwarf star TRAPPIST-1 to Celestia. All seven planets are similar in size and mass to Earth, and three or four orbit within the habitable zone. The system is a target for atmospheric spectroscopy by the James Webb Space Telescope. The textures in this version of the addon are from the 2018 NASA artist's impression, and can be set to 2K, 4K, or 8K resolution depending on your device's capabilities.";
+
+// English: Kepler-110, aka KOI-124, is an F-type main sequence star located about 1945.57 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.
+"BC1D9F93-D094-4BB7-8F0A-3ED0E722A085" = "Kepler-110, aka KOI-124, is an F-type main sequence star located about 1945.57 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.";
 
 // English: K2-384 is a red dwarf located about 269.47 lightyears form the solar system. It hosts a compact system of five planets: an Earth-sized world (b= 1.076 Re), three super-Earths (c= 1.191 Re | d= 1.392 Re | e= 1.345 Re) and a mini-Neptune (f= 2.222 Re). None of their masses are known.
 "BC2D7B60-20F6-4C22-9ED6-D6110B376063" = "K2-384 is a red dwarf located about 269.47 lightyears form the solar system. It hosts a compact system of five planets: an Earth-sized world (b= 1.076 Re), three super-Earths (c= 1.191 Re | d= 1.392 Re | e= 1.345 Re) and a mini-Neptune (f= 2.222 Re). None of their masses are known.";
