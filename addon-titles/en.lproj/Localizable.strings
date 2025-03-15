@@ -3442,6 +3442,9 @@
 // English: K2-17
 "A13DDD48-0401-49A2-BB17-61D837D725F5" = "K2-17";
 
+// English: Augmented Target Docking Adapter
+"A14C2F7F-5711-4362-860D-B01F30590C0E" = "Augmented Target Docking Adapter";
+
 // English: Kepler-438
 "A16CA5CC-2A46-4756-1276-8AC2908193DC" = "Kepler-438";
 
@@ -3483,6 +3486,9 @@
 
 // English: Celestia Version 1.0 Icon Planet
 "A2A079D9-BCF8-95B1-40EA-FF8B64710342" = "Celestia Version 1.0 Icon Planet";
+
+// English: Gemini–Agena Target Vehicle
+"A2A28500-BFEC-4A58-ACDE-D8FF1EDB9E2A" = "Gemini–Agena Target Vehicle";
 
 // English: Kepler-730
 "A2A5EF1D-4F04-40B8-A717-8B093E7DE099" = "Kepler-730";
