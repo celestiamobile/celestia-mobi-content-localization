@@ -79,6 +79,9 @@
 // English: The Suomi NPP is a NASA/NOAA weather satellite launched in 2011 that was originally intended as a pathfinder for the cancelled NPOESS Preparatory Project, aimed to replace the older POES and DMSP fleets. Since its launch, it is now integrated into the Joint Polar Satellite System program. It is still active as of 2023\n\nNOTE: A satellite with an identical design, NOAA-20, is included in this add-on
 "045BECA3-10E3-4A1C-AAAC-E1FD69161246" = "The Suomi NPP is a NASA/NOAA weather satellite launched in 2011 that was originally intended as a pathfinder for the cancelled NPOESS Preparatory Project, aimed to replace the older POES and DMSP fleets. Since its launch, it is now integrated into the Joint Polar Satellite System program. It is still active as of 2023\n\nNOTE: A satellite with an identical design, NOAA-20, is included in this add-on";
 
+// English: Kepler-113, aka KOI-153, is a K-type main sequence star located about 862.21 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.
+"04675D5D-D43F-4E50-839A-786C69F61059" = "Kepler-113, aka KOI-153, is a K-type main sequence star located about 862.21 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.";
+
 // English: 2 Pallas is a large B-type asteroid. It was discovered by Heinrich Wilhelm Matthias Olbers in March 1802. It is the third largest asteroid in the Solar System, and constitutes 7% of the total mass of the asteroid belt. It is about 515 km in diameter and is a remnant of a protoplanet in a highly inclined orbit in the asteroid belt. In 2016, it was proposed to send the Dawn spacecraft to perform a flyby of Pallas, but this proposal was rejected in favor of continuing the observations of Ceres.\n\nNOTE: This addon contains a custom texture for the asteroid Pallas.
 "0483CF05-AE7D-BC53-74E4-F4A0E38FD09D" = "2 Pallas is a large B-type asteroid. It was discovered by Heinrich Wilhelm Matthias Olbers in March 1802. It is the third largest asteroid in the Solar System, and constitutes 7% of the total mass of the asteroid belt. It is about 515 km in diameter and is a remnant of a protoplanet in a highly inclined orbit in the asteroid belt. In 2016, it was proposed to send the Dawn spacecraft to perform a flyby of Pallas, but this proposal was rejected in favor of continuing the observations of Ceres.\n\nNOTE: This addon contains a custom texture for the asteroid Pallas.";
 
@@ -2107,8 +2110,8 @@
 // English: Kepler-420 is a binary star system of a K-type main sequence and a Sun-like star about 2,900 light-years away in the constellation Cygnus. The larger Sun-like star has a Jupiter-sized gas giant planet completing an eccentric orbit once every 86 days
 "62A9604F-0DEC-405D-84CB-7CCD14BD5C24" = "Kepler-420 is a binary star system of a K-type main sequence and a Sun-like star about 2,900 light-years away in the constellation Cygnus. The larger Sun-like star has a Jupiter-sized gas giant planet completing an eccentric orbit once every 86 days";
 
-// English: Rosetta Nebula (NGC2237)\n\nCredits:\nFor Katelyn. As a rose amongst the stars her beauty unmarveled!
-"62C65394-8B0B-C5A7-B75C-DC1C68DEB834" = "Rosetta Nebula (NGC2237)\n\nCredits:\nFor Katelyn. As a rose amongst the stars her beauty unmarveled!";
+// English: The Rosette Nebula, also known as NGC 2237 and Caldwell 49, is a distant H-II star-forming region about 5,500 light-years away in the constellation Monoceros. The entire complex is about 130 light-years across and about 2,500 young stars were found within its hydrogen clouds. In 2019, Oklahoma declared this nebula as their state astronomical object.
+"62C65394-8B0B-C5A7-B75C-DC1C68DEB834" = "The Rosette Nebula, also known as NGC 2237 and Caldwell 49, is a distant H-II star-forming region about 5,500 light-years away in the constellation Monoceros. The entire complex is about 130 light-years across and about 2,500 young stars were found within its hydrogen clouds. In 2019, Oklahoma declared this nebula as their state astronomical object.";
 
 // English: A sound demo script that comes from old Celestia. Requires Mobile Celestia 1.5.11.
 "62C6E26B-D781-2C74-B0AF-74B0A06022AF" = "A sound demo script that comes from old Celestia. Requires Mobile Celestia 1.5.11.";
@@ -2169,6 +2172,9 @@
 
 // English: 96P/Machholz is a periodic sungrazing comet about 6.4 km in diameter, which completes one orbit around the Sun every 5.29 years. Its unusual composition compared to other comets led some scientists to theorize it was a former interstellar object captured by the Sun. It is the third comet discovered by astronomer Donald Machholz when it was first spotted in 1986
 "645EF06A-B4F9-4D56-9F8C-9CEBDAF52806" = "96P/Machholz is a periodic sungrazing comet about 6.4 km in diameter, which completes one orbit around the Sun every 5.29 years. Its unusual composition compared to other comets led some scientists to theorize it was a former interstellar object captured by the Sun. It is the third comet discovered by astronomer Donald Machholz when it was first spotted in 1986";
+
+// English: Kepler-107 is a G-type main sequence star located about 1741.82 light-years from the solar system. a compact frou planet system composed of two super-Earths, a sub-Earth sized planet, and a sub-Neptune are known to orbit this star.
+"649CCCDC-90FC-4390-B5B6-B620D57C03FC" = "Kepler-107 is a G-type main sequence star located about 1741.82 light-years from the solar system. a compact frou planet system composed of two super-Earths, a sub-Earth sized planet, and a sub-Neptune are known to orbit this star.";
 
 // English: K2-141 is a K-type main sequence star about 202.2 light-years away in the constellation Pisces. It has two planets, one superterran and one jovian, where the innermost planet has one of the shortest orbital periods known, with its year only six hours long
 "64C87B3B-5A55-463C-98AC-B9328571D215" = "K2-141 is a K-type main sequence star about 202.2 light-years away in the constellation Pisces. It has two planets, one superterran and one jovian, where the innermost planet has one of the shortest orbital periods known, with its year only six hours long";
@@ -3286,8 +3292,8 @@
 // English: IPHASX J052708.2+383113 is a small reflection nebula about 2 light-years across that surrounds a tiny star cluster, of which only 1 star, presumably an intermediate-mass protostar, is on SIMBAD. It is located about 10,994 light-years away in the constellation Auriga
 "9926AE58-C8B1-400B-8755-2E52651FFF06" = "IPHASX J052708.2+383113 is a small reflection nebula about 2 light-years across that surrounds a tiny star cluster, of which only 1 star, presumably an intermediate-mass protostar, is on SIMBAD. It is located about 10,994 light-years away in the constellation Auriga";
 
-// English: 54598 Bienor is a centaur that grazes the orbit of Uranus, discovered on 2000-Aug-27. Stellar occultations observed in 2022 and 2023 revealed that Bienor shape is highly elongated.
-"996A34F1-34E2-4B7A-A2F3-EBC675C5E08E" = "54598 Bienor is a centaur that grazes the orbit of Uranus, discovered on 2000-Aug-27. Stellar occultations observed in 2022 and 2023 revealed that Bienor shape is highly elongated.";
+// English: 54598 Bienor is a centaur that grazes the orbit of Uranus, discovered on 2000-Aug-27. Stellar occultations observed in 2022 and 2023 revealed that Bienor shape is highly elongated.
+"996A34F1-34E2-4B7A-A2F3-EBC675C5E08E" = "54598 Bienor is a centaur that grazes the orbit of Uranus, discovered on 2000-Aug-27. Stellar occultations observed in 2022 and 2023 revealed that Bienor shape is highly elongated.";
 
 // English: Gliese 433 is a nearby red dwarf star only about 29.78 light-years away in the constellation Hydra. As of 2022, it has a total of two mini-Neptune planets detected, with an additional one that if confirmed would make it one of the coldest neptune-like planets ever discovered
 "996A5771-116C-4B17-A011-446FEE7A1108" = "Gliese 433 is a nearby red dwarf star only about 29.78 light-years away in the constellation Hydra. As of 2022, it has a total of two mini-Neptune planets detected, with an additional one that if confirmed would make it one of the coldest neptune-like planets ever discovered";
@@ -4309,6 +4315,9 @@
 // English: 4486 Mithra is an S-type asteroid discovered on September 22, 1987, and is about 2 km in diameter. From radar analyses, it is believed that it could be a contact binary. Mithra's orbit is eccentric and has an eccentricity of 0.66, crossing the orbit of Mars and close to crossing the orbit of Earth.
 "C85BBD36-AC64-46E3-AE0A-5619DE2B8651" = "4486 Mithra is an S-type asteroid discovered on September 22, 1987, and is about 2 km in diameter. From radar analyses, it is believed that it could be a contact binary. Mithra's orbit is eccentric and has an eccentricity of 0.66, crossing the orbit of Mars and close to crossing the orbit of Earth.";
 
+// English: Kepler-114, aka KOI-156 is a red dwarf located about 5668.66 lightyears from the solar system. Three planets: a super-Earth, and two sub-Neptunes are known to orbit this star.
+"C85C36CE-028A-48C8-9112-E241D6A141E1" = "Kepler-114, aka KOI-156 is a red dwarf located about 5668.66 lightyears from the solar system. Three planets: a super-Earth, and two sub-Neptunes are known to orbit this star.";
+
 // English: Huya is a 2:3 resonant Kuiper Belt object (plutino) about 406 km in diameter. It has a large natural satellite that is relatively massive enough to shift the system's center of gravity away from Huya itself
 "C86CF92B-FEEE-BAD7-6D82-8E7012AEEEDB" = "Huya is a 2:3 resonant Kuiper Belt object (plutino) about 406 km in diameter. It has a large natural satellite that is relatively massive enough to shift the system's center of gravity away from Huya itself";
 
@@ -4440,6 +4449,9 @@
 
 // English: GOES-R is the fourth-generation series of weather satellites under NASA/NOAA's Geostationary Operational Environmental Satellites program (1975-Present). Three satellites of this series (designated as 16, 17, 18 and 19) are launched from 2016-2024. They are planned to replace the old GOES-N fleet
 "CDA94824-30CD-4B71-A6CE-687F677496EB" = "GOES-R is the fourth-generation series of weather satellites under NASA/NOAA's Geostationary Operational Environmental Satellites program (1975-Present). Three satellites of this series (designated as 16, 17, 18 and 19) are launched from 2016-2024. They are planned to replace the old GOES-N fleet";
+
+// English: 10253 Westerwald is a main-belt asteroid about 2.3 km in diameter, discovered on 1973-Sep-29. It is the target of the UAE's MBR Explorer mission, with a flyby planned in February 2030.
+"CDB39525-DD58-4969-9C71-E9375D4452A7" = "10253 Westerwald is a main-belt asteroid about 2.3 km in diameter, discovered on 1973-Sep-29. It is the target of the UAE's MBR Explorer mission, with a flyby planned in February 2030.";
 
 // English: The Iota Piscium system, known in Orion's Arm as Lucida, hosts 6 major planets, including the terraformed world of Corona with its artificial aurora ring, and a number of dwarf planets, asteroids, and megastructures.
 "CDD67746-C1C9-40C5-B032-FADDF7947F3B" = "The Iota Piscium system, known in Orion's Arm as Lucida, hosts 6 major planets, including the terraformed world of Corona with its artificial aurora ring, and a number of dwarf planets, asteroids, and megastructures.";
@@ -5178,6 +5190,9 @@
 
 // English: HD 56414, aka TOI-1228, is a young binary composed of an A-type main sequence star and a K-type main sequence star located about 873.24 lightyears from the solar system. A single hot Neptune-sized planet on a roughly 30-day orbit around the primary was discovered by TESS. Given the system's young age and the planet's size, Parts of the planet's original atmosphere remain.
 "F114C6BB-893C-492A-B7A0-2E41EE2C1706" = "HD 56414, aka TOI-1228, is a young binary composed of an A-type main sequence star and a K-type main sequence star located about 873.24 lightyears from the solar system. A single hot Neptune-sized planet on a roughly 30-day orbit around the primary was discovered by TESS. Given the system's young age and the planet's size, Parts of the planet's original atmosphere remain.";
+
+// English: 13294 Rockox is a main-belt asteroid about 5.2 km in diameter, discovered on 1998-Aug-25. It is the target of the UAE's MBR Explorer mission, with a flyby planned in January 2031.
+"F114D7D4-0C2B-443D-B02B-F98D2152033A" = "13294 Rockox is a main-belt asteroid about 5.2 km in diameter, discovered on 1998-Aug-25. It is the target of the UAE's MBR Explorer mission, with a flyby planned in January 2031.";
 
 // English: Comet Hartley 2 is a Jupiter-family comet orbiting the Sun once every 6.46 years. At 2.25 km in diameter, it is currently the smallest comet ever visited when the Deep Impact spacecraft flew past it in 2010 after its initial target, Comet Boethin, is declared lost.
 "F1345D0D-32F2-A5DB-24F1-EE28E33832F0" = "Comet Hartley 2 is a Jupiter-family comet orbiting the Sun once every 6.46 years. At 2.25 km in diameter, it is currently the smallest comet ever visited when the Deep Impact spacecraft flew past it in 2010 after its initial target, Comet Boethin, is declared lost.";
