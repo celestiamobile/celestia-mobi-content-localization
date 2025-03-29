@@ -703,6 +703,9 @@
 // English: A cube with the Microsoft PowerPoint logo.
 "22FFD76A-A3A9-B8C1-0AF6-9088B4B86B69" = "A cube with the Microsoft PowerPoint logo.";
 
+// English: 88055 (2000 VA28) is a main-belt asteroid about 5.4 km in diameter, discovered on 2000-Nov-1. It is the target of the UAE's MBR Explorer mission, with a flyby planned in July 2032.
+"2317BC8F-B503-4515-AE84-CBE4F0539A4E" = "88055 (2000 VA28) is a main-belt asteroid about 5.4 km in diameter, discovered on 2000-Nov-1. It is the target of the UAE's MBR Explorer mission, with a flyby planned in July 2032.";
+
 // English: WR 70-10 is a distant WC-type star previously identified as a Wolf-Rayet star about 22,122 light-years away in the constellation Norma
 "23327BC3-6645-40AD-8416-E1BC388BEB97" = "WR 70-10 is a distant WC-type star previously identified as a Wolf-Rayet star about 22,122 light-years away in the constellation Norma";
 
@@ -1455,6 +1458,9 @@
 
 // English: Part 9 of Celestia Origin's minor planet catalog, from 801 Helwerthia to 900 Rosalinde.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 801 Helwerthia.
 "41E9D428-189C-4FC1-98F9-4C1E3A7F0B49" = "Part 9 of Celestia Origin's minor planet catalog, from 801 Helwerthia to 900 Rosalinde.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 801 Helwerthia.";
+
+// English: 23871 (1998 RC76) is a main-belt asteroid about 6.7 km in diameter, discovered on 1998-Sep-14. It is the target of the UAE's MBR Explorer mission, with a flyby planned in December 2032.
+"41FF7A86-697A-4DD9-BF3C-F269DFEA60CD" = "23871 (1998 RC76) is a main-belt asteroid about 6.7 km in diameter, discovered on 1998-Sep-14. It is the target of the UAE's MBR Explorer mission, with a flyby planned in December 2032.";
 
 // English: Spektr-R was a Russian scientific satellite with a 10-m wide radio telescope on board. It was launched on 2011-Jul-18 on a Zenit-3F rocket from Baikonur Cosmodrome, and was designed to perform research on the structure and dynamics of radio sources within and beyond the Milky Way. It lost contact with Earth on 2019-Jan-11
 "4224F40A-6555-8B37-F263-D5923F108097" = "Spektr-R was a Russian scientific satellite with a 10-m wide radio telescope on board. It was launched on 2011-Jul-18 on a Zenit-3F rocket from Baikonur Cosmodrome, and was designed to perform research on the structure and dynamics of radio sources within and beyond the Milky Way. It lost contact with Earth on 2019-Jan-11";
@@ -4140,6 +4146,9 @@
 
 // English: Part 16 of Celestia Origin's minor planet catalog, from 2001 Einstein to 2197 Shanghai. Furthermore, it also includes the respective satellites of 2044 Wirt, 2121 Sevastopol, 2131 Mayall and 2171 Kiev.\n\nNOTES:\n\n- 2060 Chiron and 2063 Bacchus are found in the default Celestia.\n\n- The \"Go-to Object\" button will take you to the first asteroid, 2001 Einstein.
 "BF946A26-A33A-4AA0-930D-66790BB9B952" = "Part 16 of Celestia Origin's minor planet catalog, from 2001 Einstein to 2197 Shanghai. Furthermore, it also includes the respective satellites of 2044 Wirt, 2121 Sevastopol, 2131 Mayall and 2171 Kiev.\n\nNOTES:\n\n- 2060 Chiron and 2063 Bacchus are found in the default Celestia.\n\n- The \"Go-to Object\" button will take you to the first asteroid, 2001 Einstein.";
+
+// English: 59980 (1999 SG6) is a main-belt asteroid about 8 km in diameter, discovered on 1999-Sep-30. It is the target of the UAE's MBR Explorer mission, with a flyby planned in August 2033.
+"BFE1E54C-96A1-4A93-8225-09C3A4FCB8C8" = "59980 (1999 SG6) is a main-belt asteroid about 8 km in diameter, discovered on 1999-Sep-30. It is the target of the UAE's MBR Explorer mission, with a flyby planned in August 2033.";
 
 // English: HD 37124, aka Gliese 209, is a G-type main sequence star located about 103.18 lightyears from the solar system. Three gas giants, all of similar masses to each other, are currently known to orbit this star.
 "C0101058-6C84-46AF-924A-D09E1C300F57" = "HD 37124, aka Gliese 209, is a G-type main sequence star located about 103.18 lightyears from the solar system. Three gas giants, all of similar masses to each other, are currently known to orbit this star.";
