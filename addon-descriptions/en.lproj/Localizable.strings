@@ -1066,6 +1066,9 @@
 // English: This addon enhances Saturn's moon Enceladus, including: \n\n- xyzv trajectory from 2004 to 2018 to cover the Cassini mission, ensuring more accurate flybys. \n- 3D model based on Cassini data. \n- Alternative texture of enhanced colors.
 "318391BE-B70C-EBB7-9456-81A37AABDBC1" = "This addon enhances Saturn's moon Enceladus, including: \n\n- xyzv trajectory from 2004 to 2018 to cover the Cassini mission, ensuring more accurate flybys. \n- 3D model based on Cassini data. \n- Alternative texture of enhanced colors.";
 
+// English: Epsilon Tauri, also known as Ain is an orange giant in the constellation Taurus. It is located in the Hyades open cluster, the nearest one that we know of and has a planet called Amateru. Amateru is one of the five known planets in the Hyades as of now, which makes it special.
+"3197C36C-9518-4B2C-A91F-85264125625C" = "Epsilon Tauri, also known as Ain is an orange giant in the constellation Taurus. It is located in the Hyades open cluster, the nearest one that we know of and has a planet called Amateru. Amateru is one of the five known planets in the Hyades as of now, which makes it special.";
+
 // English: This addon adds fictional rings around the Earth.
 "31F279A8-BE40-FB0E-1D42-BBE5CADD6EDF" = "This addon adds fictional rings around the Earth.";
 
@@ -2710,8 +2713,8 @@
 // English: Kepler-42 is a red dwarf about 130.8 light-years away in the constellation Cygnus. It has three confirmed subterran exoplanets, all of which are orbiting very close to their star
 "7F455F1B-3622-9AF5-3C5E-90057300629D" = "Kepler-42 is a red dwarf about 130.8 light-years away in the constellation Cygnus. It has three confirmed subterran exoplanets, all of which are orbiting very close to their star";
 
-// English: 99942 Apophis is a 370-m potentially hazardous asteroid that caused a short period of concern in December 2004 when initial observations briefly indicated a probability up to 2.7% that it would hit Earth on 2029-Apr-13. Later observations ruled out this possibility and instead will fly past Earth about 31,700 km on that date.\n\nNASA's OSIRIS-APEX mission will encounter Apophis shortly after its 2029 flyby with Earth.
-"7F6C35C1-3AEB-568F-12C6-8281B028D62A" = "99942 Apophis is a 370-m potentially hazardous asteroid that caused a short period of concern in December 2004 when initial observations briefly indicated a probability up to 2.7% that it would hit Earth on 2029-Apr-13. Later observations ruled out this possibility and instead will fly past Earth about 31,700 km on that date.\n\nNASA's OSIRIS-APEX mission will encounter Apophis shortly after its 2029 flyby with Earth.";
+// English: 99942 Apophis is a 370-m potentially hazardous asteroid that caused a short period of concern in December 2004 when initial observations briefly indicated a probability up to 2.7% that it would hit Earth on 2029-Apr-13. Later observations ruled out this possibility and instead will fly past Earth about 31,700 km on that date. NASA's OSIRIS-APEX mission will encounter Apophis shortly after its 2029 Earth flyby.
+"7F6C35C1-3AEB-568F-12C6-8281B028D62A" = "99942 Apophis is a 370-m potentially hazardous asteroid that caused a short period of concern in December 2004 when initial observations briefly indicated a probability up to 2.7% that it would hit Earth on 2029-Apr-13. Later observations ruled out this possibility and instead will fly past Earth about 31,700 km on that date. NASA's OSIRIS-APEX mission will encounter Apophis shortly after its 2029 Earth flyby.";
 
 // English: NGC 3132 (also known as the Southern Ring Nebula, NGC 3132, or Caldwell 74) is a bright and extensively studied planetary nebula in the constellation Vela. Its distance from Earth is estimated at about 2,000 light-years
 "7F7332F1-D9EF-F508-0C1A-131C1691DF2D" = "NGC 3132 (also known as the Southern Ring Nebula, NGC 3132, or Caldwell 74) is a bright and extensively studied planetary nebula in the constellation Vela. Its distance from Earth is estimated at about 2,000 light-years";
