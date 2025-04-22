@@ -1474,6 +1474,9 @@
 // English: The three candidate planets of HD 10180, in addition to its six confirmed planets. One of these candidates was identified by the system's discovery paper in 2010 (hence the \"b\" designation), and another two were identified by a 2012 study that proposed a nine-planet model for the system. Other studies since 2014 have not confirmed these candidates, instead finding evidence for a six-planet model. Nevertheless, no refutation of these candidates has been published.
 "423037A3-930F-4F6A-BA92-E6E551391BE8" = "The three candidate planets of HD 10180, in addition to its six confirmed planets. One of these candidates was identified by the system's discovery paper in 2010 (hence the \"b\" designation), and another two were identified by a 2012 study that proposed a nine-planet model for the system. Other studies since 2014 have not confirmed these candidates, instead finding evidence for a six-planet model. Nevertheless, no refutation of these candidates has been published.";
 
+// English: A ten-minute demo .CEL script demonstrating a simplified tour of the Red Planet in Celestia
+"426CFBCC-9034-4219-A592-70E1BFB078B7" = "A ten-minute demo .CEL script demonstrating a simplified tour of the Red Planet in Celestia";
+
 // English: TOI-4860, while known to host a short period gas giant, also has a candidate cold Jupiter on a highly eccentric, year long orbit.\n\nNOTE: an existing TOI-4860 addon is required in order for this addon to work properly
 "428AE825-0CF0-41C6-947D-03EC769403A9" = "TOI-4860, while known to host a short period gas giant, also has a candidate cold Jupiter on a highly eccentric, year long orbit.\n\nNOTE: an existing TOI-4860 addon is required in order for this addon to work properly";
 
