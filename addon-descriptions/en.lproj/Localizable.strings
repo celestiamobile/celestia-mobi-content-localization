@@ -3583,8 +3583,8 @@
 // English: This addon adds Comet C/2021 A1 (Leonard), which was a comet visible from Earth between December 2021 and January 2022.
 "A5006779-694A-1139-D643-08BDCD0B875E" = "This addon adds Comet C/2021 A1 (Leonard), which was a comet visible from Earth between December 2021 and January 2022.";
 
-// English: This addon adds the former planet candidate called Dagon, which was previously the first exoplanet discovered through direct imaging until its existence was disproven in 2020 when the supposed planet was just a dense cloud of debris in the star's protoplanetary disk\n\n(NOTE: See the Stars category for this star system's protoplanetary disk to be seen)
-"A514784B-ED88-2A10-BD2F-DE786C66C5F4" = "This addon adds the former planet candidate called Dagon, which was previously the first exoplanet discovered through direct imaging until its existence was disproven in 2020 when the supposed planet was just a dense cloud of debris in the star's protoplanetary disk\n\n(NOTE: See the Stars category for this star system's protoplanetary disk to be seen)";
+// English: This addon adds the former planet candidate called Dagon, which was previously thought to be the first exoplanet discovered through direct imaging until its existence was disproven in 2020 when the supposed planet was just a dense cloud of debris in the star's protoplanetary disk
+"A514784B-ED88-2A10-BD2F-DE786C66C5F4" = "This addon adds the former planet candidate called Dagon, which was previously thought to be the first exoplanet discovered through direct imaging until its existence was disproven in 2020 when the supposed planet was just a dense cloud of debris in the star's protoplanetary disk";
 
 // English: The Andromeda Galaxy (also known as Messier 31 or NGC 224) is an Sb-type barred spiral galaxy about 2.5 million light-years away in the constellation of the same name. Measuring around 220,000 light-years across, it is the largest galaxy of the Local Group. It is expected to collide with the Milky Way around 4-5 billion years into the future
 "A55DFCA4-205E-42E9-5C5A-6BF6684045FB" = "The Andromeda Galaxy (also known as Messier 31 or NGC 224) is an Sb-type barred spiral galaxy about 2.5 million light-years away in the constellation of the same name. Measuring around 220,000 light-years across, it is the largest galaxy of the Local Group. It is expected to collide with the Milky Way around 4-5 billion years into the future";
@@ -4951,8 +4951,8 @@
 // English: NGC 4414 is an Sc-type spiral galaxy about 61.44 million light-years away in the constellation Coma Berenices. This galaxy is very isolated from other galaxies that there is no sign of an interaction or even merged with one in the past
 "E219CF30-54CD-A8EA-4C64-BD25E6261556" = "NGC 4414 is an Sc-type spiral galaxy about 61.44 million light-years away in the constellation Coma Berenices. This galaxy is very isolated from other galaxies that there is no sign of an interaction or even merged with one in the past";
 
-// English: This add-on is based on Kepler-186, with all data based on observations recorded in the Q1-Q17 DR25 KOI Table (2018), with the addition of three hypothetical planets moons in addition to the five confirmed planets b,c,d,e,f.
-"E26133D5-AF4C-4784-8FFC-F5602EDCD8CA" = "This add-on is based on Kepler-186, with all data based on observations recorded in the Q1-Q17 DR25 KOI Table (2018), with the addition of three hypothetical planets moons in addition to the five confirmed planets b,c,d,e,f.";
+// English: This add-on adds four fictional moons around existing (real) planets within the Kepler-186 system, alongside three other fictional planets (g, h, and i)
+"E26133D5-AF4C-4784-8FFC-F5602EDCD8CA" = "This add-on adds four fictional moons around existing (real) planets within the Kepler-186 system, alongside three other fictional planets (g, h, and i)";
 
 // English: This addon enhances Saturn's moon Iapetus, including:\n\n- Month-long xyzv trajectory covering Cassini's close flyby of 2007-Sep-10 with better accuracy.\n- 3D model based on Cassini data.
 "E2826B02-E531-2818-4115-F7A4993D609B" = "This addon enhances Saturn's moon Iapetus, including:\n\n- Month-long xyzv trajectory covering Cassini's close flyby of 2007-Sep-10 with better accuracy.\n- 3D model based on Cassini data.";
