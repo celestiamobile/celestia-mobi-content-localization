@@ -1009,8 +1009,8 @@
 // English: 59 Virginis b, also known as Gliese 504b is a gas giant exoplanet discovered in 2013 with data from the Kepler space telescope. This exoplanet is located around the star 59 Virginis 57 light-years away from Earth in the constellation Virgo. This exoplanet is believed to have a pink color.
 "2F7268ED-094F-4BFA-DB28-F1889627C2FD" = "59 Virginis b, also known as Gliese 504b is a gas giant exoplanet discovered in 2013 with data from the Kepler space telescope. This exoplanet is located around the star 59 Virginis 57 light-years away from Earth in the constellation Virgo. This exoplanet is believed to have a pink color.";
 
-// English: This addon adds, as an alternative surface, a topographic map for the planet Mars.
-"2F8A2E61-DF48-4A08-A098-A3DB5C3E0C1D" = "This addon adds, as an alternative surface, a topographic map for the planet Mars.";
+// English: This addon adds, as an alternative surface, a topographic map for the planet Mars, showing relief formations and surface elevations. Based on detailed data obtained by the Mars Express orbiter.
+"2F8A2E61-DF48-4A08-A098-A3DB5C3E0C1D" = "This addon adds, as an alternative surface, a topographic map for the planet Mars, showing relief formations and surface elevations. Based on detailed data obtained by the Mars Express orbiter.";
 
 // English: This addon adds, with an alternative surface, a map of light pollution around the globe.
 "2F8AC062-030F-4A35-A13B-548D037A2D8B" = "This addon adds, with an alternative surface, a map of light pollution around the globe.";
