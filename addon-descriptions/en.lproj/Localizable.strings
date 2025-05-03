@@ -226,6 +226,9 @@
 // English: (84522) 2002 TC₃₀₂ is a 584-km trans-neptunian object with an orbital resonance of 2:5 with Neptune. Its reddish spectra indicates very little ice on its surface. In 2018, it is theorized to harbor at least one satellite, but none so far has been detected in follow-up observations
 "0B89F3C2-0204-4AAF-B42A-D2E9A746A5DA" = "(84522) 2002 TC₃₀₂ is a 584-km trans-neptunian object with an orbital resonance of 2:5 with Neptune. Its reddish spectra indicates very little ice on its surface. In 2018, it is theorized to harbor at least one satellite, but none so far has been detected in follow-up observations";
 
+// English: This addon adds, as an alternative surface, a geologic map for the planet Mars.
+"0B987E9C-0632-4CFD-80CD-0B13D54AB073" = "This addon adds, as an alternative surface, a geologic map for the planet Mars.";
+
 // English: This addon adds an alternative texture of the planet Jupiter in ultraviolet.
 "0BE0650A-ABDF-44C3-6805-981B18577766" = "This addon adds an alternative texture of the planet Jupiter in ultraviolet.";
 
