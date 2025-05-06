@@ -3295,6 +3295,9 @@
 // English: This addon adds the \"LunarLambert\" parameter to gas/ice giants, making them visually more beautiful.\n\nComparison: On each planet, the left without LunarLambert (default). On the right, LunarLambert activated:
 "97AA656D-197A-43A2-BAD7-390A1AD14FBF" = "This addon adds the \"LunarLambert\" parameter to gas/ice giants, making them visually more beautiful.\n\nComparison: On each planet, the left without LunarLambert (default). On the right, LunarLambert activated:";
 
+// English: OGLE-2016-BLG-0007L, also known as MOA-2016-BLG-088L, is a distant K-type main-sequence star about 14,000 light-years away in the constellation Sagittarius. An Earth-sized rocky planet orbits its star at a distance of 10 AU, roughly similar to Saturn's distance to our Sun
+"97BDFA92-CD7E-4C66-8974-D58D754885F9" = "OGLE-2016-BLG-0007L, also known as MOA-2016-BLG-088L, is a distant K-type main-sequence star about 14,000 light-years away in the constellation Sagittarius. An Earth-sized rocky planet orbits its star at a distance of 10 AU, roughly similar to Saturn's distance to our Sun";
+
 // English: Kepler-74, also known as KOI-200, TOI-4485, and 2MASS J19322220+4121198, is 3840.7 light-years away from Earth. It is a main sequence star with a spectral type of F. A hot Jupiter can complete its orbit in just 7.34 days, and its mass is only two-thirds of that of Jupiter
 "97C300BB-642B-4C23-97A2-01D4D402AB80" = "Kepler-74, also known as KOI-200, TOI-4485, and 2MASS J19322220+4121198, is 3840.7 light-years away from Earth. It is a main sequence star with a spectral type of F. A hot Jupiter can complete its orbit in just 7.34 days, and its mass is only two-thirds of that of Jupiter";
 
