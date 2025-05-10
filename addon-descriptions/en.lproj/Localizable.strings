@@ -1819,8 +1819,8 @@
 // English: Lacaille 9352, also known as Gliese 887, is a red dwarf about 10.7 light-years away in the constellation Piscis Austrinus. It is one of the brightest red dwarf stars in the night sky, and has a total of two superterran planets orbiting it
 "530116F0-702D-1B4B-3648-79B3F941EED6" = "Lacaille 9352, also known as Gliese 887, is a red dwarf about 10.7 light-years away in the constellation Piscis Austrinus. It is one of the brightest red dwarf stars in the night sky, and has a total of two superterran planets orbiting it";
 
-// English: This addon adds a new high quality texture for Earth (surface and night map). Taken directly from Celestia Origin.
-"5338AEF4-EA7E-49C8-A4D0-FF1297F8182F" = "This addon adds a new high quality texture for Earth (surface and night map). Taken directly from Celestia Origin.";
+// English: This addon adds a high-resolution virtual texture (VT) for the planet Earth, which replaces the default texture. Includes surface map, normal map, specular map, night map and cloud map.
+"5338AEF4-EA7E-49C8-A4D0-FF1297F8182F" = "This addon adds a high-resolution virtual texture (VT) for the planet Earth, which replaces the default texture. Includes surface map, normal map, specular map, night map and cloud map.";
 
 // English: Mariner 10 was the first spacecraft to visit Mercury. Launched in 1973, it used Venus's gravity to slow itself down and months later it flew by Mercury three times from 1974 to 1975. Due to low propellant, the spacecraft was decommissioned on 1975-Mar-24, shortly after the third Mercury flyby occurred
 "5344EDDB-E7BA-1637-4DFE-2491FEAD852B" = "Mariner 10 was the first spacecraft to visit Mercury. Launched in 1973, it used Venus's gravity to slow itself down and months later it flew by Mercury three times from 1974 to 1975. Due to low propellant, the spacecraft was decommissioned on 1975-Mar-24, shortly after the third Mercury flyby occurred";
