@@ -5482,6 +5482,9 @@
 // English: Kepler-12 is a G-type subgiant star about 2,950 light-years away in the constellation Draco. A super-Jovian planet is found orbiting its star once every 4.43 days
 "FB21C4D7-2C3E-4E8D-88C0-E8EC28CB1795" = "Kepler-12 is a G-type subgiant star about 2,950 light-years away in the constellation Draco. A super-Jovian planet is found orbiting its star once every 4.43 days";
 
+// English: This addon adds, as an alternative texture, a 4K map for Mars based on data from the Mariner 4 (1965) and Mariner 6 and 7 (1969) missions. The coverage of the north polar region is based on ground-based observations, since it was not imaged by the Mariner flyby missions.
+"FB2C0174-D843-41A9-AD74-0005935DB21E" = "This addon adds, as an alternative texture, a 4K map for Mars based on data from the Mariner 4 (1965) and Mariner 6 and 7 (1969) missions. The coverage of the north polar region is based on ground-based observations, since it was not imaged by the Mariner flyby missions.";
+
 // English: KOI-5737 is a Sun-like star about 2,784 light-years in the constellation Lyra. In 2014, a signal of a planet slightly larger than Earth was found orbiting within the star's habitable zone. Further studies are needed to confirm or disprove the planet's existence before it will be officially listed on the Potentially Habitable Catalog of Exoplanets\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first
 "FB57873D-274E-82C0-B35A-42006894FAB5" = "KOI-5737 is a Sun-like star about 2,784 light-years in the constellation Lyra. In 2014, a signal of a planet slightly larger than Earth was found orbiting within the star's habitable zone. Further studies are needed to confirm or disprove the planet's existence before it will be officially listed on the Potentially Habitable Catalog of Exoplanets\nNOTE: Requires the \"Unconfirmed Exoplanets\" addon to be installed first";
 
