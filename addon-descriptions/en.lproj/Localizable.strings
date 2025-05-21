@@ -3088,6 +3088,9 @@
 // English: Adds various \"extreme\", i.e. very distant, trans-Neptunian objects. Full list of included objects: Alicanto, Leleakuhonua, 2000 CR105, 2013 UT15, 2007 TG422, 2010 GB174, 2013 FT28, 2013 RA109, 2013 RF98, 2013 SY99, 2014 FE72, 2014 SR349, 2015 BP519, 2015 DM319, 2015 GT50, 2015 KG163, 2015 RX245, 2021 RR205
 "90B74093-416A-88FC-6FF6-668B47898472" = "Adds various \"extreme\", i.e. very distant, trans-Neptunian objects. Full list of included objects: Alicanto, Leleakuhonua, 2000 CR105, 2013 UT15, 2007 TG422, 2010 GB174, 2013 FT28, 2013 RA109, 2013 RF98, 2013 SY99, 2014 FE72, 2014 SR349, 2015 BP519, 2015 DM319, 2015 GT50, 2015 KG163, 2015 RX245, 2021 RR205";
 
+// English: WASP-127 is a binary system composed of two G main sequence stars. A puffy gas planet with an orbital period of 4.18 days is orbiting WASP-127 A, and it's also known to have wind speeds up to 33000 km/h.
+"90E7067D-C7E1-4DD4-91EC-D6D7A95B3E42" = "WASP-127 is a binary system composed of two G main sequence stars. A puffy gas planet with an orbital period of 4.18 days is orbiting WASP-127 A, and it's also known to have wind speeds up to 33000 km/h.";
+
 // English: ISA Bluestar. Must have B5-1. Converted from an original Lightwave Model by Kier Darby.
 "90E93749-3A89-4657-BC1E-917A93174CD2" = "ISA Bluestar. Must have B5-1. Converted from an original Lightwave Model by Kier Darby.";
 
