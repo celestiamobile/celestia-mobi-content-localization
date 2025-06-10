@@ -3070,8 +3070,14 @@
 // English: 4660 Nereus (1982 DB) is a 330 meter-wide asteroid discovered by Eleanor F. Helin on February 28, 1982. A month after its discovery, the asteroid passed about 4.1 million km away from Earth.
 "90308B06-A51A-42C9-BD9E-7509B1643738" = "4660 Nereus (1982 DB) is a 330 meter-wide asteroid discovered by Eleanor F. Helin on February 28, 1982. A month after its discovery, the asteroid passed about 4.1 million km away from Earth.";
 
+// English: Nova Class Dreadnought, converted from an original 3DSMAX Model by Robin Morrison. Requires the B5-1 addon to work.
+"90369C5C-9693-424B-9F40-B45A5CCE9415" = "Nova Class Dreadnought, converted from an original 3DSMAX Model by Robin Morrison. Requires the B5-1 addon to work.";
+
 // English: 40 Eridani is the real-world designation of the star system where the Vulcans' homeworld is located. It is one of the founding members of the United Federation of Planets. In an alternate timeline, Vulcan was destroyed in 2258 after Nero planted an artificial black hole onto the planet's core as revenge against Spock's failure to save Romulus in 2387
 "9046450A-CFD7-436D-BA62-45932AC2AC30" = "40 Eridani is the real-world designation of the star system where the Vulcans' homeworld is located. It is one of the founding members of the United Federation of Planets. In an alternate timeline, Vulcan was destroyed in 2258 after Nero planted an artificial black hole onto the planet's core as revenge against Spock's failure to save Romulus in 2387";
+
+// English: Jumpgate and EA Shuttle, converted from original 3DSMAX Models by Conor Clancy. Requires the B5-1 addon to work.
+"90483E50-75EF-454C-BA2D-BDC2FCED1AA5" = "Jumpgate and EA Shuttle, converted from original 3DSMAX Models by Conor Clancy. Requires the B5-1 addon to work.";
 
 // English: Kepler-19, aka KOI-84, is a G-type main sequence star located about 720.02 lightyears from the solar system, orbiting this star are a mini-Neptune and two Neptune-mass planets.
 "9079F226-B76F-8FA9-E751-624CA2DAD14A" = "Kepler-19, aka KOI-84, is a G-type main sequence star located about 720.02 lightyears from the solar system, orbiting this star are a mini-Neptune and two Neptune-mass planets.";
@@ -3096,6 +3102,9 @@
 
 // English: ISA Bluestar. Must have B5-1. Converted from an original Lightwave Model by Kier Darby.
 "90E93749-3A89-4657-BC1E-917A93174CD2" = "ISA Bluestar. Must have B5-1. Converted from an original Lightwave Model by Kier Darby.";
+
+// English: Narn GQuan Cruiser and Narn Frazi Fighter, the Narn Frazi Fighter was converted from an original 3DSMAX model by Nadab GÃ'ksu. The Narn GQuan Cruiser was converted from an original Lightwave Model by Nadab GÃ'ksu. Requires the B5-1 addon to work.
+"90EB388C-DC25-4EED-89A6-329B8E95E2DF" = "Narn GQuan Cruiser and Narn Frazi Fighter, the Narn Frazi Fighter was converted from an original 3DSMAX model by Nadab GÃ'ksu. The Narn GQuan Cruiser was converted from an original Lightwave Model by Nadab GÃ'ksu. Requires the B5-1 addon to work.";
 
 // English: 75 Ceti is a binary star system of a G-type giant star and a K-type main sequence star about 271 light-years away in the constellation Cetus. The larger star of the two has two gas giant planets, about 2.5 and 0.9 times the mass of Jupiter respectively. A third detected signal was found to be an alias of planet c.
 "90F63D7A-6305-4F9E-BB7A-0F8FF3B9EF8D" = "75 Ceti is a binary star system of a G-type giant star and a K-type main sequence star about 271 light-years away in the constellation Cetus. The larger star of the two has two gas giant planets, about 2.5 and 0.9 times the mass of Jupiter respectively. A third detected signal was found to be an alias of planet c.";
