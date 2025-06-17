@@ -3097,6 +3097,9 @@
 // English: Adds various \"extreme\", i.e. very distant, trans-Neptunian objects. Full list of included objects: Alicanto, Leleakuhonua, 2000 CR105, 2013 UT15, 2007 TG422, 2010 GB174, 2013 FT28, 2013 RA109, 2013 RF98, 2013 SY99, 2014 FE72, 2014 SR349, 2015 BP519, 2015 DM319, 2015 GT50, 2015 KG163, 2015 RX245, 2021 RR205
 "90B74093-416A-88FC-6FF6-668B47898472" = "Adds various \"extreme\", i.e. very distant, trans-Neptunian objects. Full list of included objects: Alicanto, Leleakuhonua, 2000 CR105, 2013 UT15, 2007 TG422, 2010 GB174, 2013 FT28, 2013 RA109, 2013 RF98, 2013 SY99, 2014 FE72, 2014 SR349, 2015 BP519, 2015 DM319, 2015 GT50, 2015 KG163, 2015 RX245, 2021 RR205";
 
+// English: Kepler-139 is a G-type subgiant star about 1,279 light-years away in the constellation Lyra. A total of five planets were found orbiting within the system
+"90BDC9A7-9437-4F2A-B0B7-89575E763BBF" = "Kepler-139 is a G-type subgiant star about 1,279 light-years away in the constellation Lyra. A total of five planets were found orbiting within the system";
+
 // English: WASP-127 is a binary system composed of two G main sequence stars. A puffy gas planet with an orbital period of 4.18 days is orbiting WASP-127 A, and it's also known to have wind speeds up to 33000 km/h.
 "90E7067D-C7E1-4DD4-91EC-D6D7A95B3E42" = "WASP-127 is a binary system composed of two G main sequence stars. A puffy gas planet with an orbital period of 4.18 days is orbiting WASP-127 A, and it's also known to have wind speeds up to 33000 km/h.";
 
@@ -5175,6 +5178,9 @@
 
 // English: Comet Tempel 1 is a Jupiter-family comet measuring 7.6 km in diameter. In 2005, NASA's Deep Impact mission sent a component that deliberately struck the comet's nucleus in order to study its interior. The aftermath of the impact was later studied by the Stardust mission in 2011, making it the only comet visited twice in different occasions.
 "ECF21CB6-222D-4A36-9994-D7BAF44F41D7" = "Comet Tempel 1 is a Jupiter-family comet measuring 7.6 km in diameter. In 2005, NASA's Deep Impact mission sent a component that deliberately struck the comet's nucleus in order to study its interior. The aftermath of the impact was later studied by the Stardust mission in 2011, making it the only comet visited twice in different occasions.";
+
+// English: 2MASS J15104786-2818174 is a low-mass star system consisting of three brown dwarfs about 120 light-years away in the constellation Libra. Estimated about 45 million years old, a Saturn-mass planetary candidate was detected in a polar orbit around two brown dwarfs in the system, currently awaiting confirmation
+"ED036A69-19C2-4C68-8D40-61BC5B7DF6B3" = "2MASS J15104786-2818174 is a low-mass star system consisting of three brown dwarfs about 120 light-years away in the constellation Libra. Estimated about 45 million years old, a Saturn-mass planetary candidate was detected in a polar orbit around two brown dwarfs in the system, currently awaiting confirmation";
 
 // English: Kepler-102 is a K-type main-sequence star about 352.54 light-years away in the constellation Lyra. A total of five rocky planets (3 subterrans, 1 terran, and 1 superterran) were all found orbiting within 0.2 AU from their parent star, equivalent to half the average distance of Mercury to the Sun
 "ED1F3589-F710-4ECD-BD96-FE6F9E729B6E" = "Kepler-102 is a K-type main-sequence star about 352.54 light-years away in the constellation Lyra. A total of five rocky planets (3 subterrans, 1 terran, and 1 superterran) were all found orbiting within 0.2 AU from their parent star, equivalent to half the average distance of Mercury to the Sun";
