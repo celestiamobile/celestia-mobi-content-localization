@@ -226,6 +226,9 @@
 // English: 84522 (2002 TC₃₀₂)
 "0B89F3C2-0204-4AAF-B42A-D2E9A746A5DA" = "84522 (2002 TC₃₀₂)";
 
+// English: C/1996 B2 (Hyakutake)
+//"0B94AC4A-F4B7-470C-B345-9E839D25675A" = "C/1996 B2 (Hyakutake)";
+
 // English: Mars: VT Geology Map
 //"0B987E9C-0632-4CFD-80CD-0B13D54AB073" = "Mars: VT Geology Map";
 
@@ -1633,7 +1636,7 @@
 // English: Kepler-119
 "4ABD7FE6-B969-C76F-4B01-EC3204759D13" = "Кеплер-119";
 
-// English: Tau Bootis
+// English: Tau Boötis
 "4AD1CA6A-93D2-5F94-A72E-7E5B6042E8B1" = "Тау от Воловар";
 
 // English: Russell's teapot
