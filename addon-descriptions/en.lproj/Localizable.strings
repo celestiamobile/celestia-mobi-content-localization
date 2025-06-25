@@ -292,6 +292,9 @@
 // English: Kepler-26 is a red dwarf star about 1,104 light-years away in the constellation Lyra. A total of three planets (1 terran, 2 neptunian) were discovered orbiting within 0.22 AU around their parent star
 "0E98B1A2-09C6-4549-AB03-AABEE4D260FA" = "Kepler-26 is a red dwarf star about 1,104 light-years away in the constellation Lyra. A total of three planets (1 terran, 2 neptunian) were discovered orbiting within 0.22 AU around their parent star";
 
+// English: Gliese 900 is a triple star system consisting of one K-type main sequence star and two red dwarfs about 68 light-years away in the constellation Pisces. All three stars in the system were orbited by a single superjovian planet nearly 11 times more massive than Jupiter, which (at a distance of 0.2 light-years from its parent stars) has the largest known planetary orbit ever found as of 2024.
+"0E9EB831-74D4-45D3-9EF5-DA315FA1879C" = "Gliese 900 is a triple star system consisting of one K-type main sequence star and two red dwarfs about 68 light-years away in the constellation Pisces. All three stars in the system were orbited by a single superjovian planet nearly 11 times more massive than Jupiter, which (at a distance of 0.2 light-years from its parent stars) has the largest known planetary orbit ever found as of 2024.";
+
 // English: SPHEREx, also known as Explorer 98, is a small space observatory that conducts an all-sky survey to measure the near-infrared spectra of approximately 450 million galaxies in the universe. It was launched on March 2025 alongside the PUNCH microsatellites into a polar orbit around Earth.
 "0EA3EC2F-51B8-4018-8E27-5625209CA675" = "SPHEREx, also known as Explorer 98, is a small space observatory that conducts an all-sky survey to measure the near-infrared spectra of approximately 450 million galaxies in the universe. It was launched on March 2025 alongside the PUNCH microsatellites into a polar orbit around Earth.";
 
@@ -1473,6 +1476,9 @@
 
 // English: 23871 (1998 RC76) is a main-belt asteroid about 6.7 km in diameter, discovered on 1998-Sep-14. It is the target of the UAE's MBR Explorer mission, with a flyby planned in December 2032.
 "41FF7A86-697A-4DD9-BF3C-F269DFEA60CD" = "23871 (1998 RC76) is a main-belt asteroid about 6.7 km in diameter, discovered on 1998-Sep-14. It is the target of the UAE's MBR Explorer mission, with a flyby planned in December 2032.";
+
+// English: HD 38529 is a binary star system of a G-type subgiant star and a red dwarf about 138 light-years away in the constellation Orion. The larger star in the system has two gas giant planets orbiting it, one of which is ten times more massive than Jupiter
+"42020C5C-0100-41EE-A477-811FB83C9869" = "HD 38529 is a binary star system of a G-type subgiant star and a red dwarf about 138 light-years away in the constellation Orion. The larger star in the system has two gas giant planets orbiting it, one of which is ten times more massive than Jupiter";
 
 // English: Spektr-R was a Russian scientific satellite with a 10-m wide radio telescope on board. It was launched on 2011-Jul-18 on a Zenit-3F rocket from Baikonur Cosmodrome, and was designed to perform research on the structure and dynamics of radio sources within and beyond the Milky Way. It lost contact with Earth on 2019-Jan-11
 "4224F40A-6555-8B37-F263-D5923F108097" = "Spektr-R was a Russian scientific satellite with a 10-m wide radio telescope on board. It was launched on 2011-Jul-18 on a Zenit-3F rocket from Baikonur Cosmodrome, and was designed to perform research on the structure and dynamics of radio sources within and beyond the Milky Way. It lost contact with Earth on 2019-Jan-11";
