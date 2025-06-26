@@ -781,6 +781,9 @@
 // English: TIROS-1 to 19
 "260E7766-3052-4ECA-9488-D9F237C497C0" = "TIROS-1 to 19";
 
+// English: Io: VT Surface Map
+//"26176D8A-B8E4-4582-8E45-ADF4CA967A23" = "Io: VT Surface Map";
+
 // English: Qatar-2
 "2626EBF3-EA8E-440A-A156-3748740094E4" = "Катар-2";
 
@@ -1099,7 +1102,7 @@
 // English: 20D/Westphal
 "3230403A-27CB-48E6-99DA-0B56CBC63B62" = "20D/Вестфал";
 
-// English: 17 Thetis
+// English: 489P/Denning
 "3277BF56-D29D-482D-9CCC-BF4970ABDB01" = "17 Тетида";
 
 // English: P/2023 JN16 (Lemmon)
@@ -1228,7 +1231,7 @@
 // English: MASCARA-5
 "37586F18-3941-4BDD-83D7-29C71009DB19" = "MASCARA-5";
 
-// English: 130 Elektra
+// English: 100P/Hartley
 "375A913D-2FD2-7CE9-13BD-2D74A84C8CBF" = "130 Електра";
 
 // English: Kepler-402
@@ -1357,7 +1360,7 @@
 // English: Nozomi
 "3CCCE8B6-A85A-F70B-729F-C0E059BEAF52" = "Нозоми";
 
-// English: (2014 HQ₁₂₄)
+// English: 110P/Hartley
 "3CFFE7AB-0947-464D-9555-E506C442A77E" = "(2014 HQ₁₂₄)";
 
 // English: 1P/Halley
@@ -1671,6 +1674,9 @@
 
 // English: Lunar Gateway
 "4B9BC65A-312F-080D-8B27-4C78FB3E72CF" = "Лунар Гейтуей";
+
+// English: Europa: VT Surface Map
+//"4BA955A2-783B-4731-98CC-B63956B1AD38" = "Europa: VT Surface Map";
 
 // English: Io: Volcanic Plumes
 "4C042E19-DEB4-ABB2-90D4-D05ED22DD201" = "Йо: Вулканични изригвания";
@@ -2883,6 +2889,9 @@
 
 // English: KELT-6
 "8707A684-E1C4-4F90-8BF1-FFE947F6C5F3" = "КЕЛТ-6";
+
+// English: Ganymede: VT Surface Map
+//"8719B705-3061-4BA9-B717-12FE42C11346" = "Ganymede: VT Surface Map";
 
 // English: Kepler-462
 "8739DC53-AAF5-407F-BEEE-42053AD37B14" = "Кеплер-462";
@@ -4935,6 +4944,9 @@
 
 // English: Kepler-277
 "DF5653A6-447D-46ED-AB5C-DED6BB5C0C03" = "Кеплер-277";
+
+// English: Callisto: VT Surface Map
+//"DF61BE36-D5F1-4E1E-8B08-AC0DD7E5A767" = "Callisto: VT Surface Map";
 
 // English: SpaceX Dragon 1
 "DF65FECB-441D-4C2D-AE47-3FC60A0108BC" = "Спейс Екс Драгън 1";
