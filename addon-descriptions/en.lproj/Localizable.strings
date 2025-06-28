@@ -5401,6 +5401,9 @@
 // English: LX Serpentis, also known as Stepanian's Star, is a contact binary star system consisting of a Sun-like star and a red dwarf about 1,606 light-years away from the constellation Serpens Caput. A candidate superjovian planet is detected orbiting both stars in the system
 "F44774BD-CA28-9FB9-9788-3927FA4478D4" = "LX Serpentis, also known as Stepanian's Star, is a contact binary star system consisting of a Sun-like star and a red dwarf about 1,606 light-years away from the constellation Serpens Caput. A candidate superjovian planet is detected orbiting both stars in the system";
 
+// English: This addon adds an XYZV trajectory for Amalthea (Jupiter V), covering the period 2002-2029, with the aim of making the flybys performed by the Galileo in 2002-Nov-05 and Juno in 2028-Jan-10 more accurate. It also includes a topography map of Amalthea as an alternative surface.
+"F4870A41-6C75-4A65-B9B5-9F6C16528CA6" = "This addon adds an XYZV trajectory for Amalthea (Jupiter V), covering the period 2002-2029, with the aim of making the flybys performed by the Galileo in 2002-Nov-05 and Juno in 2028-Jan-10 more accurate. It also includes a topography map of Amalthea as an alternative surface.";
+
 // English: HAT-P-9, also known formally as Tevel, is an F-type main sequence star about 1,504 light-years away in the constellation Auriga. In 2008, a superjovian planet called Alef was discovered via transit method, where it received its formal name given by Israel during the second NameExoWorlds campaign in 2019
 "F4BB73EE-45F7-45F1-BF16-A71B963A044E" = "HAT-P-9, also known formally as Tevel, is an F-type main sequence star about 1,504 light-years away in the constellation Auriga. In 2008, a superjovian planet called Alef was discovered via transit method, where it received its formal name given by Israel during the second NameExoWorlds campaign in 2019";
 
