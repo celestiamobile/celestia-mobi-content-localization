@@ -1108,7 +1108,7 @@
 // English: 489P/Denning
 "3277BF56-D29D-482D-9CCC-BF4970ABDB01" = "17 Тетида";
 
-// English: P/2023 JN16 (Lemmon)
+// English: P/2023 JN₁₆ (Lemmon)
 "327D444C-E706-418C-9F84-2F55F7839538" = "(2023 JN₁₆)";
 
 // English: Moon: Taurus-Littrow
@@ -3909,6 +3909,9 @@
 
 // English: V838 Monocerotis
 "B0A9A0B2-C535-4E18-B8AF-A571F09B381E" = "V838 Monocerotis";
+
+// English: MetOp
+//"B123A1A7-8482-4EB9-B439-DAC61C100AFD" = "MetOp";
 
 // English: TOI-712
 "B16E2675-E2D4-40CD-8510-6BC10D103548" = "TOI-712";
