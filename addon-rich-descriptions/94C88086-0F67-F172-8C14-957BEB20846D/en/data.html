@@ -14,8 +14,6 @@ Run the Shortcut once and see if any error pops up. Then you can set up automati
 <p></p>
 <script>
     function updateAddon(orbitData) {
-        let line1 = tle.line1;
-        let line2 = tle.line2;
         let content = 'EllipticalOrbit\n    {\n';
         content += ('        Epoch    ' + orbitData.epoch.toString() + '\n');
         content += ('        Period    ' + orbitData.period.toString() + '\n');
@@ -83,7 +81,7 @@ celestia:print("Success, restart to take effect", 1.5, 0, 0, -10, 0)
                     isLoadingData = false;
                     return;
                 }
-                let ortbisData = JSON.parse(result.info.detail);
+                let orbitData = JSON.parse(result.info.detail);
                 updateAddon(orbitData);
                 errorOutput.style.display = 'block';
                 errorOutput.innerText = "Check Celestia for update status";
