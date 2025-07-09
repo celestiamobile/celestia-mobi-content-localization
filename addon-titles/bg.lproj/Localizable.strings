@@ -493,6 +493,9 @@
 // English: Cygnus X-3
 "18BEE6B4-AFE0-5F33-9B86-F7039DC54ADC" = "Сигнъс X-3";
 
+// English: K2-22
+//"18D36129-8CBF-4721-9C73-A2CA6E2F4945" = "K2-22";
+
 // English: Kepler-23
 "18D41D53-41BA-4016-9ADD-BC199A3B49AE" = "Кеплер-23";
 
@@ -1029,6 +1032,9 @@
 
 // English: Earth: Light Pollution Map
 "2F8AC062-030F-4A35-A13B-548D037A2D8B" = "Земята: Светлинно замърсяване";
+
+// English: WASP-193
+//"2FC0E30B-2999-4617-BA21-E86405CA1595" = "WASP-193";
 
 // English: TOI-1246 f
 "2FD40FAD-8B26-4A61-8354-A0537BD33B79" = "TOI-1246 f";
@@ -1594,6 +1600,9 @@
 // English: Double Star 1 and 2
 "47AC2544-C95D-5B70-EE88-F4E319B0C83D" = "Двойна звезда 1 и 2";
 
+// English: Kepler-1701
+//"47E7F851-D07A-4761-8563-38B898A41158" = "Kepler-1701";
+
 // English: WD 1856+534
 "47F1CA11-1AD8-B598-1D56-036205D845C6" = "WD 1856+534";
 
@@ -1881,6 +1890,9 @@
 
 // English: Mars Exploration Rover
 "54D2D839-2379-7CC1-FFEF-D2BDBDC8C8A8" = "Марс Експлорейшън Роувър";
+
+// English: GU Psc
+//"54E77620-1D31-49D1-8E54-4B67E4201F3F" = "GU Psc";
 
 // English: Barnard 335
 "55105449-175C-4BA3-83B1-6E92607F1294" = "Барнард 335";
