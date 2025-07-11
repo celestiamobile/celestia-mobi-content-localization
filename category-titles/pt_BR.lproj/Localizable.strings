@@ -148,8 +148,11 @@
 // English: Main Belt
 "9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "Cinturão";
 
-// English: Confirmed (H, I and J)
-"B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "Confirmados (H, I and J)";
+// English: Interstellar Objects
+//"A924895F-0C4C-4DBE-828B-2407CC1BEDD9" = "Interstellar Objects";
+
+// English: Confirmed (H)
+"B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "Confirmados (H)";
 
 // English: Centaurs and TNOs
 //"B1CF7032-F4A3-40BF-8915-40E7C6D88833" = "Centaurs and TNOs";
@@ -178,6 +181,9 @@
 // English: Earth and the Moon
 "BFFEC5E4-B6C3-BABA-C56B-D756D5DA08FE" = "Terra e a Lua";
 
+// English: Confirmed (I and J)
+//"C2940B92-708D-42F7-BF2B-989DEB70F7DB" = "Confirmed (I and J)";
+
 // English: Earth Science
 "C2C12342-EBE2-BDEA-791F-F087404B16E2" = "Ciência Terrestre";
 
@@ -190,7 +196,7 @@
 // English: Confirmed (M and N)
 "C5681CE6-249A-4210-8FCB-490EB953B175" = "Confirmados (M and N)";
 
-// English: Asteroids & NEOs
+// English: Asteroids and NEOs
 "C789D7FC-F80E-EBDA-94BA-79FBE31FF9C1" = "Asteroides e NEOs";
 
 // English: Sun

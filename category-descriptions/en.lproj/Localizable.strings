@@ -148,8 +148,11 @@
 // English: These are asteroids that are located in the main asteroid belt. Subject to heavy fragmetation in the future.
 "9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "These are asteroids that are located in the main asteroid belt. Subject to heavy fragmetation in the future.";
 
-// English: These are the confirmed star systems with planets that have names starting with H, I, and J
-"B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "These are the confirmed star systems with planets that have names starting with H, I, and J";
+// English: These are all the asteroids/comets that have entered the Solar System from interstellar space
+"A924895F-0C4C-4DBE-828B-2407CC1BEDD9" = "These are all the asteroids/comets that have entered the Solar System from interstellar space";
+
+// English: These are the confirmed star systems with planets that have names starting with H
+"B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "These are the confirmed star systems with planets that have names starting with H";
 
 // English: These are all the rocky and icy bodies found within the outer Solar System
 "B1CF7032-F4A3-40BF-8915-40E7C6D88833" = "These are all the rocky and icy bodies found within the outer Solar System";
@@ -177,6 +180,9 @@
 
 // English: Earth is the 3rd planet in the Solar System and (so far) the only known place in the Universe that can support life. A large rocky planet, it is orbited by a single natural satellite, the Moon, which (as of 2022) is the furthest place in the Solar System that humans have actually set foot on
 "BFFEC5E4-B6C3-BABA-C56B-D756D5DA08FE" = "Earth is the 3rd planet in the Solar System and (so far) the only known place in the Universe that can support life. A large rocky planet, it is orbited by a single natural satellite, the Moon, which (as of 2022) is the furthest place in the Solar System that humans have actually set foot on";
+
+// English: These are the confirmed star systems with planets that have names starting with I and J
+"C2940B92-708D-42F7-BF2B-989DEB70F7DB" = "These are the confirmed star systems with planets that have names starting with I and J";
 
 // English: These are spacecraft that mapped, do science, sometimes military, and monitor the ever-changing weather in high altitudes
 "C2C12342-EBE2-BDEA-791F-F087404B16E2" = "These are spacecraft that mapped, do science, sometimes military, and monitor the ever-changing weather in high altitudes";
