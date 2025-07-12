@@ -637,6 +637,9 @@
 // English: XO-1
 //"1EB3FB4F-116D-44E8-9EDF-26DE069A76CA" = "XO-1";
 
+// English: 5145 Pholus
+//"1EB4DA03-5C26-49B2-99A6-5C61FD5BCEAB" = "5145 Pholus";
+
 // English: C/2024 S1 (ATLAS)
 //"1EC4AFAF-022A-4461-A271-E9D083DE7D38" = "C/2024 S1 (ATLAS)";
 
@@ -2055,6 +2058,9 @@
 
 // English: HAT-P-1
 //"5D9924FB-7A75-41CD-B44A-B713DD143A08" = "HAT-P-1";
+
+// English: 944 Hidalgo
+//"5DA4ED27-E7E5-402F-A77A-A0598F32A4F8" = "944 Hidalgo";
 
 // English: Global Precipitation Measurement
 //"5DBE90C5-8C4C-C42C-93DF-1BF14948D470" = "Global Precipitation Measurement";
