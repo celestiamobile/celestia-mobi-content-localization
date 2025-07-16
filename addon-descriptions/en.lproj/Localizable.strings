@@ -2464,6 +2464,9 @@
 // English: The Gelfling is a small Dyson sphere surrounding and harnessing the energy of the pulsar PSR J1010+15. Located around 81,536 light-years away, it was named and discovered by the crew of Celestia 1 during its return journey back to Earth
 "70C10EB4-85A8-449F-852E-192FCA35A412" = "The Gelfling is a small Dyson sphere surrounding and harnessing the energy of the pulsar PSR J1010+15. Located around 81,536 light-years away, it was named and discovered by the crew of Celestia 1 during its return journey back to Earth";
 
+// English: Kepler-408, also known as HD 176693 and KOI-1612, is an F-type main-sequence star located 290.314 light-years from Earth and is known to possess a planet very close to it with an orbital period of about 2.5 days
+"70E6ADBB-8C27-413D-A9E7-0073FBF0EEAA" = "Kepler-408, also known as HD 176693 and KOI-1612, is an F-type main-sequence star located 290.314 light-years from Earth and is known to possess a planet very close to it with an orbital period of about 2.5 days";
+
 // English: HD 82943, also known as 164 G. Hydrae, is a yellow dwarf star approximately 89 light-years away in the constellation of Hydra. Two extrasolar planets have been confirmed to be orbiting it, confirmed in 2000 and 2001 respectively, and it is thought that the system had more giant planets that were \"swallowed\" by the parent star. A third planet was proposed in 2004, but to this day it is still unconfirmed.
 "71075B88-F8AC-4E0F-98EC-028E437A7DF4" = "HD 82943, also known as 164 G. Hydrae, is a yellow dwarf star approximately 89 light-years away in the constellation of Hydra. Two extrasolar planets have been confirmed to be orbiting it, confirmed in 2000 and 2001 respectively, and it is thought that the system had more giant planets that were \"swallowed\" by the parent star. A third planet was proposed in 2004, but to this day it is still unconfirmed.";
 
@@ -2784,6 +2787,9 @@
 
 // English: The Asgard Warship from Stargate set around the Asgard home world of Othalla.
 "7F3EC339-A6F6-418D-8825-D71CAEEE3C07" = "The Asgard Warship from Stargate set around the Asgard home world of Othalla.";
+
+// English: HD 1666 is a binary star system consisting of an F-type star and an M-type star located 384.9624 light-years away from Earth, and a gas giant orbits the system's larger star with a high eccentricity
+"7F4306EB-9F8A-4595-B297-49ADDBC57FE8" = "HD 1666 is a binary star system consisting of an F-type star and an M-type star located 384.9624 light-years away from Earth, and a gas giant orbits the system's larger star with a high eccentricity";
 
 // English: Kepler-42 is a red dwarf about 130.8 light-years away in the constellation Cygnus. It has three confirmed subterran exoplanets, all of which are orbiting very close to their star
 "7F455F1B-3622-9AF5-3C5E-90057300629D" = "Kepler-42 is a red dwarf about 130.8 light-years away in the constellation Cygnus. It has three confirmed subterran exoplanets, all of which are orbiting very close to their star";
@@ -4129,6 +4135,9 @@
 // English: Kepler-1229 is a binary star system of two red dwarf stars about 875 light-years away in the constellation Cygnus. The primary star's sole terrestrial planet is currently listed as a potentially habitable world as of 2021
 "BA92FD7F-6398-0F84-B0B0-F9E25ACC46F9" = "Kepler-1229 is a binary star system of two red dwarf stars about 875 light-years away in the constellation Cygnus. The primary star's sole terrestrial planet is currently listed as a potentially habitable world as of 2021";
 
+// English: HATS-70, also known as TOI-1916, is a type A main-sequence star located 4262.86 light-years away from Earth, orbited by a gas giant or brown dwarf with a mass 12.9 times that of Jupiter, with an orbital period of only 1.888 days
+"BAAC800B-3DF3-4851-BF5E-39C29B3A526F" = "HATS-70, also known as TOI-1916, is a type A main-sequence star located 4262.86 light-years away from Earth, orbited by a gas giant or brown dwarf with a mass 12.9 times that of Jupiter, with an orbital period of only 1.888 days";
+
 // English: Jupiter Europa Orbiter (JEO) was a former NASA proposal that was planned to make detailed studies of Europa and Io, as well as the Jovian magnetosphere. The mission was planned to launch on 2020, and was expected to enter orbit around Europa by 2026. Originally a part of the international Europa-Jupiter System Mission (EJSM-Laplace) alongside ESA's Jupiter Ganymede Orbiter, it was cancelled and later replaced by the Europa Clipper mission
 "BAC564CC-8BEF-40C8-91E9-F21450CC1434" = "Jupiter Europa Orbiter (JEO) was a former NASA proposal that was planned to make detailed studies of Europa and Io, as well as the Jovian magnetosphere. The mission was planned to launch on 2020, and was expected to enter orbit around Europa by 2026. Originally a part of the international Europa-Jupiter System Mission (EJSM-Laplace) alongside ESA's Jupiter Ganymede Orbiter, it was cancelled and later replaced by the Europa Clipper mission";
 
@@ -4761,6 +4770,9 @@
 
 // English: KOI-8007 is a planetary system in the constellation Scorpio 440 light-years away from Earth. It is believed to have two planets in its orbit. The last planet must have an orbit similar to that of Neptune and also a possible ring system.
 "D67545F5-9CC6-0EDF-E21B-E58BB21F3CEC" = "KOI-8007 is a planetary system in the constellation Scorpio 440 light-years away from Earth. It is believed to have two planets in its orbit. The last planet must have an orbit similar to that of Neptune and also a possible ring system.";
+
+// English: Kepler-407 is a binary star system consisting of an M-type star and a G-type star located 1114.45 light-years away from Earth, and a super-Earth and a gas giant are known to orbit the larger star
+"D6AFF415-F36B-4F55-8767-9A9D85B1A40F" = "Kepler-407 is a binary star system consisting of an M-type star and a G-type star located 1114.45 light-years away from Earth, and a super-Earth and a gas giant are known to orbit the larger star";
 
 // English: 120347 Salacia is a large classical KBO about 846 km in diameter, which is listed by Mike Brown, et. al. as a possible dwarf planet. It has one known moon, Actaea, which was discovered in 2006
 "D6CF14BE-BF1D-4D16-8142-771C1E1D27D1" = "120347 Salacia is a large classical KBO about 846 km in diameter, which is listed by Mike Brown, et. al. as a possible dwarf planet. It has one known moon, Actaea, which was discovered in 2006";

@@ -2464,6 +2464,9 @@
 // English: The Gelfling
 "70C10EB4-85A8-449F-852E-192FCA35A412" = "The Gelfling";
 
+// English: Kepler-408
+//"70E6ADBB-8C27-413D-A9E7-0073FBF0EEAA" = "Kepler-408";
+
 // English: HD 82943
 "71075B88-F8AC-4E0F-98EC-028E437A7DF4" = "HD 82943";
 
@@ -2784,6 +2787,9 @@
 
 // English: Asgard Warship
 "7F3EC339-A6F6-418D-8825-D71CAEEE3C07" = "Asgard Warship";
+
+// English: HD 1666
+//"7F4306EB-9F8A-4595-B297-49ADDBC57FE8" = "HD 1666";
 
 // English: Kepler-42
 "7F455F1B-3622-9AF5-3C5E-90057300629D" = "Кеплер-42";
@@ -4129,6 +4135,9 @@
 // English: Kepler-1229
 "BA92FD7F-6398-0F84-B0B0-F9E25ACC46F9" = "Кеплер-1229";
 
+// English: HATS-70
+//"BAAC800B-3DF3-4851-BF5E-39C29B3A526F" = "HATS-70";
+
 // English: Jupiter Europa Orbiter
 //"BAC564CC-8BEF-40C8-91E9-F21450CC1434" = "Jupiter Europa Orbiter";
 
@@ -4761,6 +4770,9 @@
 
 // English: KOI-8007
 "D67545F5-9CC6-0EDF-E21B-E58BB21F3CEC" = "KOI-8007";
+
+// English: Kepler-407
+//"D6AFF415-F36B-4F55-8767-9A9D85B1A40F" = "Kepler-407";
 
 // English: 120347 Salacia
 "D6CF14BE-BF1D-4D16-8142-771C1E1D27D1" = "120347 Салация";
