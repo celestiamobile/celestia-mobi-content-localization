@@ -430,8 +430,8 @@
 // English: Bespin
 "157D08D3-0878-4C11-9AAE-74C1E31C835D" = "Bespin";
 
-// English: 185851 (2000 DP₁₀₇)
-"1625B1BC-331D-5906-80E2-C2BB56B962C1" = "185851 (2000 DP₁₀₇)";
+// English: 706765 (2010 TK₇)
+"1625B1BC-331D-5906-80E2-C2BB56B962C1" = "706765 (2010 TK₇)";
 
 // English: Stars in the Triangulum Galaxy
 "162EC742-30C7-B8E4-0309-FB5B6D8DB1F7" = "Stars in the Triangulum Galaxy";
@@ -2898,6 +2898,9 @@
 
 // English: Meteor-M
 "85932C6C-4D85-413C-A8D1-3CF1C32EE42A" = "Meteor-M";
+
+// English: GLONASS-M
+"85A27529-2825-47FC-9D17-EF6CC360B2D3" = "GLONASS-M";
 
 // English: Gliese 832
 "8608824D-55ED-BD4C-9789-69406D8750AA" = "Gliese 832";
