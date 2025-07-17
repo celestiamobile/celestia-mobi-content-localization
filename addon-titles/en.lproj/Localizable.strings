@@ -2281,6 +2281,9 @@
 // English: TOI-216
 "664A570F-8F2C-466A-88A0-FC724869F4C4" = "TOI-216";
 
+// English: Kepler-1630
+"66539494-14B2-4462-A261-8E7B9B42DC8D" = "Kepler-1630";
+
 // English: Hoag's Object
 "667FE434-3F45-47A6-829E-F9F5ECACC186" = "Hoag's Object";
 
@@ -2358,6 +2361,9 @@
 
 // English: 253 Mathilde
 "6AA0A1D4-BE41-874D-BF72-B8CB68707913" = "253 Mathilde";
+
+// English: GJ 1028
+"6AA5DB6E-5D3F-474F-8DA8-8BEF261832B6" = "GJ 1028";
 
 // English: Mars: VT Surface Map
 "6AA73C59-CF3C-497B-83E1-F12029C24D2B" = "Mars: VT Surface Map";
@@ -3465,6 +3471,9 @@
 
 // English: Transit Research and Attitude Control
 "9C44D9C0-9D3E-FD06-BACC-18F7F47EBC60" = "Transit Research and Attitude Control";
+
+// English: HD 134606
+"9C5EE724-B060-4B66-B69E-D6DC920207D8" = "HD 134606";
 
 // English: WD J0914+1914
 "9C79A59D-3B44-4C04-9776-A12D22DD1930" = "WD J0914+1914";

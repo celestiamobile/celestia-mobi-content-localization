@@ -2281,6 +2281,9 @@
 // English: TOI-216 is a K-type main sequence star located about 580.12 lightyears from the solar system. Two warm sub-Jupiter planets orbit this star in a 2:1 MMR (b= 7.28 Re, 17.6 Me | c= 10.08 Re, 166.85 Me). TOI-216 b has a low density and has been revealed to be very puffy.
 "664A570F-8F2C-466A-88A0-FC724869F4C4" = "TOI-216 is a K-type main sequence star located about 580.12 lightyears from the solar system. Two warm sub-Jupiter planets orbit this star in a 2:1 MMR (b= 7.28 Re, 17.6 Me | c= 10.08 Re, 166.85 Me). TOI-216 b has a low density and has been revealed to be very puffy.";
 
+// English: Kepler-1630, also known as KOI-5454, is a K-type star located 1090.677 light-years away from Earth, and in 2016 a mini-Neptune was announced to be discovered, with an orbital period of about 510 days, ...
+"66539494-14B2-4462-A261-8E7B9B42DC8D" = "Kepler-1630, also known as KOI-5454, is a K-type star located 1090.677 light-years away from Earth, and in 2016 a mini-Neptune was announced to be discovered, with an orbital period of about 510 days, ...";
+
 // English: This add-on adds Hoag's Object, an unusual ring galaxy in Serpens Caput. It is a ring galaxy, and from Earth it appears nearly face-on. It is very symmetrical for a ring galaxy, unlike other galaxies like Arp 147.\n\nThe add-on is made of two parts. There is a ring component of Hoag's Object, which is defined using a CustomTemplate. The core component is defined using a special CMOD model, which is essentially just a bunch of nearly transparent \"shells\" nested inside each other.\n\nRequires Mobile Celestia 1.5.23 or later for the addon to work \"as is\". Both galaxies and nebulae should be enabled.
 "667FE434-3F45-47A6-829E-F9F5ECACC186" = "This add-on adds Hoag's Object, an unusual ring galaxy in Serpens Caput. It is a ring galaxy, and from Earth it appears nearly face-on. It is very symmetrical for a ring galaxy, unlike other galaxies like Arp 147.\n\nThe add-on is made of two parts. There is a ring component of Hoag's Object, which is defined using a CustomTemplate. The core component is defined using a special CMOD model, which is essentially just a bunch of nearly transparent \"shells\" nested inside each other.\n\nRequires Mobile Celestia 1.5.23 or later for the addon to work \"as is\". Both galaxies and nebulae should be enabled.";
 
@@ -2358,6 +2361,9 @@
 
 // English: 253 Mathilde is a main-belt asteroid about 50 km in diameter. On 1997-Jun-27, the asteroid was visited by the NEAR-Shoemaker probe at a distance of 1,212 km while the spacecraft was en route to asteroid 433 Eros
 "6AA0A1D4-BE41-874D-BF72-B8CB68707913" = "253 Mathilde is a main-belt asteroid about 50 km in diameter. On 1997-Jun-27, the asteroid was visited by the NEAR-Shoemaker probe at a distance of 1,212 km while the spacecraft was en route to asteroid 433 Eros";
+
+// English: GJ 1028, also known as LHS 134 and G 268-110, is an M-type red dwarf star located 31.8877 light-years away from Earth, and a superEarth orbits it in an orbital period of less than 2 days
+"6AA5DB6E-5D3F-474F-8DA8-8BEF261832B6" = "GJ 1028, also known as LHS 134 and G 268-110, is an M-type red dwarf star located 31.8877 light-years away from Earth, and a superEarth orbits it in an orbital period of less than 2 days";
 
 // English: This addon adds a high-resolution virtual texture (VT) for the planet Mars, which replaces the default texture. Includes surface map and a normal map, created from images from the MGS orbiter. Additionally, it includes representations of the global dust storms that covered the planet, such as in 2001 and 2018.
 "6AA73C59-CF3C-497B-83E1-F12029C24D2B" = "This addon adds a high-resolution virtual texture (VT) for the planet Mars, which replaces the default texture. Includes surface map and a normal map, created from images from the MGS orbiter. Additionally, it includes representations of the global dust storms that covered the planet, such as in 2001 and 2018.";
@@ -3465,6 +3471,9 @@
 
 // English: The Transit Research and Attitude Control (TRAAC) satellite is a US Navy space mission dedicated to test the feasibility of using gravity-gradient stabilization in Transit navigational satellites. Launched in November 1961, it continued to send data until August 1962 after being damaged by the Starfish Prime space nuclear test, and it will remain derelict in LEO for another 800 years
 "9C44D9C0-9D3E-FD06-BACC-18F7F47EBC60" = "The Transit Research and Attitude Control (TRAAC) satellite is a US Navy space mission dedicated to test the feasibility of using gravity-gradient stabilization in Transit navigational satellites. Launched in November 1961, it continued to send data until August 1962 after being damaged by the Starfish Prime space nuclear test, and it will remain derelict in LEO for another 800 years";
+
+// English: HD 134606 is a binary star system consisting of a G-type subgiant star and a red dwarf star, located 87.4366 light-years away from Earth, with five planets orbiting the star that enters the subgiant branch
+"9C5EE724-B060-4B66-B69E-D6DC920207D8" = "HD 134606 is a binary star system consisting of a G-type subgiant star and a red dwarf star, located 87.4366 light-years away from Earth, with five planets orbiting the star that enters the subgiant branch";
 
 // English: WD J0914+1914 is a white dwarf star about 1,504 light-years away in the constellation Cancer. It is surrounded by a compact spiral protoplanetary disk and a planet about 3/4 the size of Neptune
 "9C79A59D-3B44-4C04-9776-A12D22DD1930" = "WD J0914+1914 is a white dwarf star about 1,504 light-years away in the constellation Cancer. It is surrounded by a compact spiral protoplanetary disk and a planet about 3/4 the size of Neptune";
