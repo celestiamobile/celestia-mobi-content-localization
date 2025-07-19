@@ -2374,6 +2374,9 @@
 // English: This addon adds a high-resolution virtual texture (VT) for the planet Mars, which replaces the default texture. Includes surface map and a normal map, created from images from the MGS orbiter. Additionally, it includes representations of the global dust storms that covered the planet, such as in 2001 and 2018.
 "6AA73C59-CF3C-497B-83E1-F12029C24D2B" = "This addon adds a high-resolution virtual texture (VT) for the planet Mars, which replaces the default texture. Includes surface map and a normal map, created from images from the MGS orbiter. Additionally, it includes representations of the global dust storms that covered the planet, such as in 2001 and 2018.";
 
+// English: HD 564, also known as HIP 801, is a G-type main-sequence star located 167.1275 light-years away from Earth, and it has a planet orbiting it that takes 492.3 Earth days to orbit
+"6B291E1F-30C0-4531-8ACE-9F82A0FF7F5E" = "HD 564, also known as HIP 801, is a G-type main-sequence star located 167.1275 light-years away from Earth, and it has a planet orbiting it that takes 492.3 Earth days to orbit";
+
 // English: Phoenix is a NASA spacecraft that landed on the northern regions of Mars in 2008. Its mission is to assess local habitability and to research the history of water on Mars. It reused the hardware meant for the cancelled Mars Surveyor 2001 mission, and fulfilled the objectives set for the failed Mars Polar Lander in 1999. Its design also became the basis for the InSight mission just ten years later
 "6B4CBBBB-E1D9-7468-B01E-ACBA4DFB1AEE" = "Phoenix is a NASA spacecraft that landed on the northern regions of Mars in 2008. Its mission is to assess local habitability and to research the history of water on Mars. It reused the hardware meant for the cancelled Mars Surveyor 2001 mission, and fulfilled the objectives set for the failed Mars Polar Lander in 1999. Its design also became the basis for the InSight mission just ten years later";
 
