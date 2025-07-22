@@ -1885,6 +1885,9 @@
 // English: KOI-5819
 "53F67CD7-0D8F-47E0-B216-5AA844366B12" = "KOI-5819";
 
+// English: Nancy Grace Roman Space Telescope
+"53F7854B-9DFD-4C08-863E-2E26148C1903" = "Nancy Grace Roman Space Telescope";
+
 // English: NGC 6334 (Cat's Paw Nebula)
 "5442EC81-D6D5-4FA7-B5BE-6E14345D1208" = "NGC 6334 (Cat's Paw Nebula)";
 
@@ -3495,6 +3498,9 @@
 
 // English: OGLE-2012-BLG-0358L
 "9CE5E130-BB14-4135-A782-49D7758EBCD4" = "OGLE-2012-BLG-0358L";
+
+// English: Peekaboo Galaxy
+"9CF36328-8A47-4B97-87CA-15F37DB815BA" = "Peekaboo Galaxy";
 
 // English: HAT-P-19
 "9D05A360-90F0-4683-A40C-BD5679B2A273" = "HAT-P-19";
