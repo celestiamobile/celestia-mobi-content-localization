@@ -250,6 +250,9 @@
 // English: TOI-1338
 //"0C68ABA5-E7E3-FA78-07EC-700049B64634" = "TOI-1338";
 
+// English: Ionospheric Connection Explorer
+//"0C6B3F73-0315-4FC2-9F71-94E432DADA76" = "Ionospheric Connection Explorer";
+
 // English: Kepler-432
 //"0C84B03C-F3C0-32D1-951E-F442501DDA4B" = "Kepler-432";
 
@@ -5625,6 +5628,9 @@
 
 // English: Mars (1960s)
 //"FB2C0174-D843-41A9-AD74-0005935DB21E" = "Mars (1960s)";
+
+// English: Kepler-192
+//"FB4CAB93-0CA8-44DA-B52D-D88E8B0C0432" = "Kepler-192";
 
 // English: KOI-5737
 //"FB57873D-274E-82C0-B35A-42006894FAB5" = "KOI-5737";
