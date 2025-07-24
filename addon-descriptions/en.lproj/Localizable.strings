@@ -820,6 +820,9 @@
 // English: Adds a visual representation of the main asteroid belt between Mars and Jupiter, based on data from 3,100 real asteroids
 "26C64587-651E-4324-B7EA-6C7E3DAF790C" = "Adds a visual representation of the main asteroid belt between Mars and Jupiter, based on data from 3,100 real asteroids";
 
+// English: 132524 APL is a small asteroid in the asteroid belt, discovered by the LINEAR project in 2002. It was named after the Applied Physics Laboratory (APL), which manages the New Horizons spacecraft that performed a distant and incidental flyby of the asteroid on 2006-Jun-13, at a distance of 102,000 km.
+"26DC9ABD-6B59-4193-9BD3-283918E07F85" = "132524 APL is a small asteroid in the asteroid belt, discovered by the LINEAR project in 2002. It was named after the Applied Physics Laboratory (APL), which manages the New Horizons spacecraft that performed a distant and incidental flyby of the asteroid on 2006-Jun-13, at a distance of 102,000 km.";
+
 // English: The Voskhod is an interim Soviet manned space program that ran from 1964 to 1966, concurrent with NASA's Project Gemini program. Derived from the earlier Vostok capsule, it was the first spacecraft to carry two and three people to space at a time, and in March 18, 1965 saw the first successful EVA or spacewalk by Alexey Leonov. However, the program was abruptly terminated following the introduction of the much advanced Soyuz spacecraft in 1966
 "26F27BB3-E99D-43FA-B654-854B082623ED" = "The Voskhod is an interim Soviet manned space program that ran from 1964 to 1966, concurrent with NASA's Project Gemini program. Derived from the earlier Vostok capsule, it was the first spacecraft to carry two and three people to space at a time, and in March 18, 1965 saw the first successful EVA or spacewalk by Alexey Leonov. However, the program was abruptly terminated following the introduction of the much advanced Soyuz spacecraft in 1966";
 
