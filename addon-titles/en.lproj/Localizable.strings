@@ -1021,6 +1021,9 @@
 // English: Periodic Comets: 68P to 80P
 "2E8AC85A-763B-4F15-99CC-679A420303F3" = "Periodic Comets: 68P to 80P";
 
+// English: TOI-1803
+"2E98DCA2-C37A-46E5-B447-EEC62009BF71" = "TOI-1803";
+
 // English: Distant, hidden massive stars, clusters and H II regions
 "2EA6D9A9-1DA9-AA6F-91DC-C384D60813D0" = "Distant, hidden massive stars, clusters and H II regions";
 
@@ -5547,6 +5550,9 @@
 
 // English: HD 82943
 "F65853BA-C5CD-40B1-A090-717E841E7835" = "HD 82943";
+
+// English: HD 6061
+"F6A05174-ECD2-421E-AA03-90926BC89FAD" = "HD 6061";
 
 // English: Gliese 422
 "F6B88552-6819-4CC7-B9F8-D2CC217352E3" = "Gliese 422";

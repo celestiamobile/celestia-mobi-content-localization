@@ -1021,6 +1021,9 @@
 // English: This addon adds 12 periodic comets from 68P to 80P as part of a periodic comets catalog.
 "2E8AC85A-763B-4F15-99CC-679A420303F3" = "This addon adds 12 periodic comets from 68P to 80P as part of a periodic comets catalog.";
 
+// English: TOI-1803 is a K-type main-sequence star 388.2 light-years away from Earth, with a total of two planets orbiting it, both of which are mini-Neptunes
+"2E98DCA2-C37A-46E5-B447-EEC62009BF71" = "TOI-1803 is a K-type main-sequence star 388.2 light-years away from Earth, with a total of two planets orbiting it, both of which are mini-Neptunes";
+
 // English: The addon adds a lot of massive bright stars, nebulae and clusters in the Milky Way that are obscured by a lot of dust in the way.
 "2EA6D9A9-1DA9-AA6F-91DC-C384D60813D0" = "The addon adds a lot of massive bright stars, nebulae and clusters in the Milky Way that are obscured by a lot of dust in the way.";
 
@@ -1480,8 +1483,8 @@
 // English: CoRoT-8 is a K-type main sequence star about 1,060 light-years away in the constellation Aquila. A gas giant planet 2/3 the size of Saturn was discovered by the CoRoT space observatory in 2008, completing an orbit once around its star every 6.21 days
 "4169F2A4-E302-4F25-BB19-925FEFA8236B" = "CoRoT-8 is a K-type main sequence star about 1,060 light-years away in the constellation Aquila. A gas giant planet 2/3 the size of Saturn was discovered by the CoRoT space observatory in 2008, completing an orbit once around its star every 6.21 days";
 
-// English: This addon adds fictional textures for all known objects in the Proxima Centauri system, and puts Proxima in orbit around Alpha Centauri AB. Proxima is the nearest star to the Solar System, and is orbited by three known planets - Proxima b, a terrestrial planet in the habitable zone; Proxima c, an outer mini-Neptune; and Proxima d, an inner sub-Earth.
-"41755833-971A-7F24-F769-C9332075DD00" = "This addon adds fictional textures for all known objects in the Proxima Centauri system, and puts Proxima in orbit around Alpha Centauri AB. Proxima is the nearest star to the Solar System, and is orbited by three known planets - Proxima b, a terrestrial planet in the habitable zone; Proxima c, an outer mini-Neptune; and Proxima d, an inner sub-Earth.";
+// English: Proxima Centauri is the nearest star to the Sun. Located only 4.2 light-years away, this red dwarf star has a total of two confirmed rocky planets orbiting around it, one of which are even considered as a potentially habitable world.
+"41755833-971A-7F24-F769-C9332075DD00" = "Proxima Centauri is the nearest star to the Sun. Located only 4.2 light-years away, this red dwarf star has a total of two confirmed rocky planets orbiting around it, one of which are even considered as a potentially habitable world.";
 
 // English: WASP-107, aka K2-235 and TOI-1905, is a K-type main sequence star located about 211.6 lightyears from the solar system. The star is orbited by two large gas giants, one with a very low density. WASP-107 b is known to have a near-polar retrograde orbit around its host. It has also been observed to have a helium trail behind it.
 "417674E7-BC5A-A15D-019B-8472815428D8" = "WASP-107, aka K2-235 and TOI-1905, is a K-type main sequence star located about 211.6 lightyears from the solar system. The star is orbited by two large gas giants, one with a very low density. WASP-107 b is known to have a near-polar retrograde orbit around its host. It has also been observed to have a helium trail behind it.";
@@ -5547,6 +5550,9 @@
 
 // English: HD 82943, also known as 164 G. Hydrae, is a yellow dwarf star approximately 89 light-years away in the constellation of Hydra. Two extrasolar planets have been confirmed to be orbiting it, confirmed in 2000 and 2001 respectively, and it is thought that the system had more giant planets that were \"swallowed\" by the parent star. A third planet was proposed in 2004, but to this day it is still unconfirmed.\n\nThis addon includes a fictional exomoon around planet c. As of December 30th 2022, no exomoons are known in the system.
 "F65853BA-C5CD-40B1-A090-717E841E7835" = "HD 82943, also known as 164 G. Hydrae, is a yellow dwarf star approximately 89 light-years away in the constellation of Hydra. Two extrasolar planets have been confirmed to be orbiting it, confirmed in 2000 and 2001 respectively, and it is thought that the system had more giant planets that were \"swallowed\" by the parent star. A third planet was proposed in 2004, but to this day it is still unconfirmed.\n\nThis addon includes a fictional exomoon around planet c. As of December 30th 2022, no exomoons are known in the system.";
+
+// English: HD 6061, also known as TOI-1473, is a binary star system located 220.8 light-years away from Earth, consisting of a G-type main-sequence star and an M-type main-sequence star, and the larger known star has a hot Neptune with an orbital period of only 5.254 days
+"F6A05174-ECD2-421E-AA03-90926BC89FAD" = "HD 6061, also known as TOI-1473, is a binary star system located 220.8 light-years away from Earth, consisting of a G-type main-sequence star and an M-type main-sequence star, and the larger known star has a hot Neptune with an orbital period of only 5.254 days";
 
 // English: Gliese 422, also known as Innes' Star, HIP 55042, HD 304043, is located 41.3164 light-years from Earth, and it has a planet the size of Neptune with a mass about 11 times that of Earth
 "F6B88552-6819-4CC7-B9F8-D2CC217352E3" = "Gliese 422, also known as Innes' Star, HIP 55042, HD 304043, is located 41.3164 light-years from Earth, and it has a planet the size of Neptune with a mass about 11 times that of Earth";
