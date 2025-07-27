@@ -4198,6 +4198,9 @@
 // English: HD 134060
 //"BB322504-233E-4467-9E7A-EA827E8018B8" = "HD 134060";
 
+// English: Capsule Ariane Technologique
+//"BB6823CF-4CBD-4C1A-B8E1-E02CB41767F4" = "Capsule Ariane Technologique";
+
 // English: V616 Monocerotis
 "BB80E5EA-3BC9-31F5-9A34-C424011803F8" = "V616 Monocerotis";
 
@@ -5397,6 +5400,9 @@
 
 // English: A/SF-01 (B-Wing)
 "F0A0688B-F771-A22E-D3A0-4D16B8D43D7C" = "B-Wing Fighter";
+
+// English: Kepler-177
+//"F0B9180B-5429-4959-A48B-B94C1A6F3FD2" = "Kepler-177";
 
 // English: German Orbital Weapon
 "F0C911A9-A64D-3B48-D968-0F5976A43345" = "Германско орбитално оръжие";
