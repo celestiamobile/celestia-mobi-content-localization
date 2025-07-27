@@ -1960,6 +1960,9 @@
 // English: Lucy is a NASA space probe on a twelve-year journey to nine different asteroids, visiting two main belt asteroids as well as seven Jupiter trojans, which were orbiting either ahead or behind the planet. All target encounters will be flyby encounters. It was launched on top of an Atlas V rocket on 2021-Oct-16, and will take at least 12 years to explore them all
 "570B15DB-AAE1-5BF0-BDD1-4E0639CDEB32" = "Lucy is a NASA space probe on a twelve-year journey to nine different asteroids, visiting two main belt asteroids as well as seven Jupiter trojans, which were orbiting either ahead or behind the planet. All target encounters will be flyby encounters. It was launched on top of an Atlas V rocket on 2021-Oct-16, and will take at least 12 years to explore them all";
 
+// English: TOI-4994 is a G-type star 1084.2955 light-years away from Earth, it has a planet the size of Saturn, it takes 21.5 days to complete an orbit, the planet has a mass of 28% of Jupiter, and a radius Rj = 0.762
+"5717AFD7-D168-4D4C-8F21-C88A7726AFAF" = "TOI-4994 is a G-type star 1084.2955 light-years away from Earth, it has a planet the size of Saturn, it takes 21.5 days to complete an orbit, the planet has a mass of 28% of Jupiter, and a radius Rj = 0.762";
+
 // English: INSAT-3E is the fourth satellite to be launched in the INSAT-3 series. It is an Indian communications satellite designed for providing high-speed communication, television, VSAT & tele-education services. It was launched in 2003 and it continued operations in GEO until it was decommissioned in April 2014
 "5719C33F-27C4-4E20-B5AC-B1F0F5FAD719" = "INSAT-3E is the fourth satellite to be launched in the INSAT-3 series. It is an Indian communications satellite designed for providing high-speed communication, television, VSAT & tele-education services. It was launched in 2003 and it continued operations in GEO until it was decommissioned in April 2014";
 
@@ -3123,6 +3126,9 @@
 
 // English: Adds a visual representation of the Kuiper Belt beyond the orbit of Neptune, based on the predicted number of objects larger than 40 km between 30 and 50 AU from the Sun
 "8DF02B53-A9F6-4D35-848F-00571711D4C8" = "Adds a visual representation of the Kuiper Belt beyond the orbit of Neptune, based on the predicted number of objects larger than 40 km between 30 and 50 AU from the Sun";
+
+// English: HD 1237, also known as GJ 3021, is a binary system consisting of a G-type star and a red dwarf star, located 57.2888 light-years away from Earth. It is known that the main star A has a gas giant planet that takes 133.7 days to complete an orbit, with an eccentricity of e=0.51
+"8DF3B0DF-A7AA-4AB4-990A-A2BC4951F27F" = "HD 1237, also known as GJ 3021, is a binary system consisting of a G-type star and a red dwarf star, located 57.2888 light-years away from Earth. It is known that the main star A has a gas giant planet that takes 133.7 days to complete an orbit, with an eccentricity of e=0.51";
 
 // English: Luna 3 was a Soviet spacecraft that provided humanity's first photographs of the Far Side of the Moon. Launched in 1959-Oct-3, it then encountered the Moon at the distance of 6,300 km three days later, returning 29 images back to Earth. The probe then continued to operate until 1959-Oct-22, later predicted to reenter the Earth's atmosphere sometime in 1960
 "8E2CC9A9-8C1E-2FFA-A181-EE57702D5D9A" = "Luna 3 was a Soviet spacecraft that provided humanity's first photographs of the Far Side of the Moon. Launched in 1959-Oct-3, it then encountered the Moon at the distance of 6,300 km three days later, returning 29 images back to Earth. The probe then continued to operate until 1959-Oct-22, later predicted to reenter the Earth's atmosphere sometime in 1960";
@@ -5401,8 +5407,8 @@
 // English: An A/SF-01 B-Wing starfighter in orbit around the Forest moon of Endor
 "F0A0688B-F771-A22E-D3A0-4D16B8D43D7C" = "An A/SF-01 B-Wing starfighter in orbit around the Forest moon of Endor";
 
-// English: Kepler-177, also known as KOI-523, is a G-type star about 4,884 light-years away from Earth, orbiting a Neptune-sized planet and a Saturn-sized planet that is very close to each other
-"F0B9180B-5429-4959-A48B-B94C1A6F3FD2" = "Kepler-177, also known as KOI-523, is a G-type star about 4,884 light-years away from Earth, orbiting a Neptune-sized planet and a Saturn-sized planet that is very close to each other";
+// English: Kepler-177, also known as KOI-523, is a G-type star located approximately 4884 light-years away from Earth. A planet the size of Neptune and a planet the size of Saturn orbit this star, and these two planets are very close to each other
+"F0B9180B-5429-4959-A48B-B94C1A6F3FD2" = "Kepler-177, also known as KOI-523, is a G-type star located approximately 4884 light-years away from Earth. A planet the size of Neptune and a planet the size of Saturn orbit this star, and these two planets are very close to each other";
 
 // English: This is one of three military satellites seen during the beginning of the \"Blue Danube\" scene from the 1968 film, 2001: A Space Odyssey. This satellite was commissioned by the German Luftwaffe as an orbiting nuclear deterrent during the height of an ongoing Cold War, which later was destroyed by the Star Child off-screen
 "F0C911A9-A64D-3B48-D968-0F5976A43345" = "This is one of three military satellites seen during the beginning of the \"Blue Danube\" scene from the 1968 film, 2001: A Space Odyssey. This satellite was commissioned by the German Luftwaffe as an orbiting nuclear deterrent during the height of an ongoing Cold War, which later was destroyed by the Star Child off-screen";
@@ -5499,6 +5505,9 @@
 
 // English: HD 290327 is a Sun-like star about 184.36 light-years away in the constellation Orion. A large superjovian planet about 2.54 times more massive than Jupiter orbits its star at a distance of 3.15 AU completing one revolution once every 6.7 years
 "F37EB4ED-3538-4EE1-BCA3-1DB3553EC767" = "HD 290327 is a Sun-like star about 184.36 light-years away in the constellation Orion. A large superjovian planet about 2.54 times more massive than Jupiter orbits its star at a distance of 3.15 AU completing one revolution once every 6.7 years";
+
+// English: Kepler-1606, also known as KOI-4450, is a G-type star located about 2776.978 light-years from Earth, and its planet is considered a potentially habitable world, orbiting the star with an orbital period of about 196.4352 days
+"F38682FF-52BA-4799-BC8E-B891C9C7A845" = "Kepler-1606, also known as KOI-4450, is a G-type star located about 2776.978 light-years from Earth, and its planet is considered a potentially habitable world, orbiting the star with an orbital period of about 196.4352 days";
 
 // English: TOI-2076 is a K-type star located about 136.59 lightyears from the solar system. The star has 3 warm Neptune-like planets orbiting within 0.2 AU (b= 2.518 Re, c= 3.497 Re, 3.232 Re). planets b and c exhibit TTVs and are near a 2:1 MMR, However, the model of said TTVs was not accurate enough to derive planet masses, and with no RV measurements, none of the planet's accurate masses are known.
 "F3B3D4C7-655A-4750-8EB1-9EAEB37A53EA" = "TOI-2076 is a K-type star located about 136.59 lightyears from the solar system. The star has 3 warm Neptune-like planets orbiting within 0.2 AU (b= 2.518 Re, c= 3.497 Re, 3.232 Re). planets b and c exhibit TTVs and are near a 2:1 MMR, However, the model of said TTVs was not accurate enough to derive planet masses, and with no RV measurements, none of the planet's accurate masses are known.";
