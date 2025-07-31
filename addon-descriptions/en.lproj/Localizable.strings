@@ -5731,6 +5731,9 @@
 // English: This addon adds, as an alternative surface, a topographic map for the planet Earth.
 "FEB48E74-9F16-4096-AAC1-E056DC3902A1" = "This addon adds, as an alternative surface, a topographic map for the planet Earth.";
 
+// English: K2-266 (TOI-5520) is a binary star system consisting of two K-type main sequence stars, about 253.217 light-years away from Earth, and it is known that host star A has six planets, of which only four have been confirmed, and the other two need to be confirmed by follow-up research
+"FEE05887-0C7A-4420-8640-DBDF7403CF79" = "K2-266 (TOI-5520) is a binary star system consisting of two K-type main sequence stars, about 253.217 light-years away from Earth, and it is known that host star A has six planets, of which only four have been confirmed, and the other two need to be confirmed by follow-up research";
+
 // English: Part 19 of Celestia Origin's minor planet catalog, from 2601 Bologna to 2797 Teucer.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2601 Bologna.
 "FEFE3DD4-14D5-45DE-BB64-42B207B265B0" = "Part 19 of Celestia Origin's minor planet catalog, from 2601 Bologna to 2797 Teucer.\n\nNOTE: The \"Go-to Object\" button will take you to the first asteroid, 2601 Bologna.";
 
