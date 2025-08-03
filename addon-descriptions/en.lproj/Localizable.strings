@@ -5242,6 +5242,9 @@
 // English: Kepler-1181, aka KOI-2303, is an F-type main sequence star located about 3059.25 lightyears from the solar system. two hot super-Earths (b= 1.59 Re, c= 1.74 Re) orbit this star at a distance no greater than 0.93 AU.
 "E8803DD0-6992-4269-9EC4-E92C4AAA761A" = "Kepler-1181, aka KOI-2303, is an F-type main sequence star located about 3059.25 lightyears from the solar system. two hot super-Earths (b= 1.59 Re, c= 1.74 Re) orbit this star at a distance no greater than 0.93 AU.";
 
+// English: Adds an alternative surface that shows how Earth could look like in the future (let's say some where around 2075-2115), complete with city lights aswell, inspired by an old addon on Celestia Motherlode called \"Future Earth\", but unlike that one, here it's much more realistic as I created the water overlay using GEBCO's sub-ice topo and the city lights aren't as extreme.
+"E8BB3540-3B8D-4E78-8A15-F1D8BE8EDD91" = "Adds an alternative surface that shows how Earth could look like in the future (let's say some where around 2075-2115), complete with city lights aswell, inspired by an old addon on Celestia Motherlode called \"Future Earth\", but unlike that one, here it's much more realistic as I created the water overlay using GEBCO's sub-ice topo and the city lights aren't as extreme.";
+
 // English: 15094 Polymele is a P-type Jupiter L4 trojan asteroid approximately 21 km in diameter. It is a target of the Lucy mission with a close flyby planned to occur in September 2027. This asteroid has a small satellite (nicknamed \"Shaun\") about 5.5 km in diameter, which was discovered in 2022.
 "E8D07E68-8A56-9942-3453-5BEF4F41951F" = "15094 Polymele is a P-type Jupiter L4 trojan asteroid approximately 21 km in diameter. It is a target of the Lucy mission with a close flyby planned to occur in September 2027. This asteroid has a small satellite (nicknamed \"Shaun\") about 5.5 km in diameter, which was discovered in 2022.";
 
