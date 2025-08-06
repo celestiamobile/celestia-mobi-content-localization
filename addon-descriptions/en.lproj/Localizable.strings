@@ -1621,6 +1621,9 @@
 // English: HD 28185 is a Sun-like star 128 light-years away in the constellation Eridanus. It hosts a pair of super-Jovian planets discovered in 2001 & 2022, the inner one on a near-circular orbit within the star's habitable zone, leading to speculation about habitable moons.
 "474CED22-1661-B499-9218-46EAC7BBAC8A" = "HD 28185 is a Sun-like star 128 light-years away in the constellation Eridanus. It hosts a pair of super-Jovian planets discovered in 2001 & 2022, the inner one on a near-circular orbit within the star's habitable zone, leading to speculation about habitable moons.";
 
+// English: K2-6, also known as the EPIC 201384232, is a G-type star 1042.365 light-years away from Earth and is known to have a sub-Neptunean object with an orbital period of about 31 days
+"477033AA-15FC-44E6-B896-820F9E1F9CA3" = "K2-6, also known as the EPIC 201384232, is a G-type star 1042.365 light-years away from Earth and is known to have a sub-Neptunean object with an orbital period of about 31 days";
+
 // English: Part 7 of Celestia Origin's minor planet catalog, from 601 Nerthus to 700 Auravictrix. Also includes the satellite of 624 Hektor.\n\nNOTES:\n\n- This addon does not include the asteroid 617 Patroclus, which is available as a separate addon in the \"Jupiter Trojans\" category.\n\n- The \"Go-to Object\" button will take you to the first asteroid, 601 Nerthus.
 "477BFD3C-D483-4A3A-8060-E8192471CFA2" = "Part 7 of Celestia Origin's minor planet catalog, from 601 Nerthus to 700 Auravictrix. Also includes the satellite of 624 Hektor.\n\nNOTES:\n\n- This addon does not include the asteroid 617 Patroclus, which is available as a separate addon in the \"Jupiter Trojans\" category.\n\n- The \"Go-to Object\" button will take you to the first asteroid, 601 Nerthus.";
 
@@ -3048,6 +3051,9 @@
 
 // English: POTS-1b is a gas giant orbiting the star POTS-1, which is 3913.9 light-years away from Earth. It has a mass of 2.31 Jupiters and orbits its star every 3.2 days. The discovery of this exoplanet was announced in 2013.
 "8A4A96C2-4C32-44D4-9235-3DF207C3013E" = "POTS-1b is a gas giant orbiting the star POTS-1, which is 3913.9 light-years away from Earth. It has a mass of 2.31 Jupiters and orbits its star every 3.2 days. The discovery of this exoplanet was announced in 2013.";
+
+// English: K2-7, also known as the EPIC 201393098, is a G-type star about 2,461.37 light-years away from Earth, and it has a planet the size of Neptune with an orbital period of about 28.66 days
+"8A746899-F09E-402A-AD21-B5D8C02BDA69" = "K2-7, also known as the EPIC 201393098, is a G-type star about 2,461.37 light-years away from Earth, and it has a planet the size of Neptune with an orbital period of about 28.66 days";
 
 // English: Kepler-296 is a binary star system comprising of a K-type main-sequence star and a red dwarf about 716.23 light-years away in the constellation Draco. Its main component star has four mini-neptunes and one terrestrial planet, which is currently listed as a potentially habitable world (as of 2021)
 "8A758F36-CCE6-4A89-8746-2FFF23FBFAD1" = "Kepler-296 is a binary star system comprising of a K-type main-sequence star and a red dwarf about 716.23 light-years away in the constellation Draco. Its main component star has four mini-neptunes and one terrestrial planet, which is currently listed as a potentially habitable world (as of 2021)";
@@ -4804,6 +4810,9 @@
 // English: OGLE-2005-BLG-390Lb (nicknamed Hoth) is a super-Earth orbiting OGLE-2005-BLG-390L, a star 21,200 light-years from Earth near the center of the Milky Way, making it one of the most distant planets known. It is an icy exoplanet, far from the habitable zone of the star in which it orbits.
 "D5B4F486-296E-5DFF-DDA0-9150A885B1F5" = "OGLE-2005-BLG-390Lb (nicknamed Hoth) is a super-Earth orbiting OGLE-2005-BLG-390L, a star 21,200 light-years from Earth near the center of the Milky Way, making it one of the most distant planets known. It is an icy exoplanet, far from the habitable zone of the star in which it orbits.";
 
+// English: HD 204313, also known as HIP 106006, is a G-type main-sequence star 157 light-years away from Earth, initial studies suggested that the star may have four planets, but a 2015 study failed to detect the relevant signal of the planet HD 204313 d, for the last planet （HD 204313 e）in this system, it is the exoplanet with the highest known orbital inclination, but subsequent studies have shown that this planet is more likely to be a brown dwarf than a planet
+"D5C3767E-EBF0-45C1-B342-7303EFC67CFC" = "HD 204313, also known as HIP 106006, is a G-type main-sequence star 157 light-years away from Earth, initial studies suggested that the star may have four planets, but a 2015 study failed to detect the relevant signal of the planet HD 204313 d, for the last planet （HD 204313 e）in this system, it is the exoplanet with the highest known orbital inclination, but subsequent studies have shown that this planet is more likely to be a brown dwarf than a planet";
+
 // English: TOI-2109 is an F-type star located about 854.25 lightyears from the solar system. The star has a single hot gas giant that's larger (b= 1.35 Rj) and more massive (b= 5.02 Mj) than Jupiter. The planet completes an orbit every 16 hours and is scorching, with an estimated temperature of 3646 Kelvin, making it hotter than some red dwarf stars.\n\nREMASTER UPDATE:\n- New texture maps\n\n- New atmosphere parameters\n\n- textures from the original artist are included as an alt surface.
 "D5D899F4-366F-4AAA-834E-D5AB89E74242" = "TOI-2109 is an F-type star located about 854.25 lightyears from the solar system. The star has a single hot gas giant that's larger (b= 1.35 Rj) and more massive (b= 5.02 Mj) than Jupiter. The planet completes an orbit every 16 hours and is scorching, with an estimated temperature of 3646 Kelvin, making it hotter than some red dwarf stars.\n\nREMASTER UPDATE:\n- New texture maps\n\n- New atmosphere parameters\n\n- textures from the original artist are included as an alt surface.";
 
@@ -5532,6 +5541,9 @@
 
 // English: LX Serpentis, also known as Stepanian's Star, is a contact binary star system consisting of a Sun-like star and a red dwarf about 1,606 light-years away from the constellation Serpens Caput. A candidate superjovian planet is detected orbiting both stars in the system
 "F44774BD-CA28-9FB9-9788-3927FA4478D4" = "LX Serpentis, also known as Stepanian's Star, is a contact binary star system consisting of a Sun-like star and a red dwarf about 1,606 light-years away from the constellation Serpens Caput. A candidate superjovian planet is detected orbiting both stars in the system";
+
+// English: K2-14, also known as EPIC 201635569, is a red dwarf star located 1,199.368 light-years away from Earth, and it has a planet slightly smaller than Saturn with an orbital period of only 8.36 days
+"F4789817-39B7-40E8-9D92-BFEDF42451BF" = "K2-14, also known as EPIC 201635569, is a red dwarf star located 1,199.368 light-years away from Earth, and it has a planet slightly smaller than Saturn with an orbital period of only 8.36 days";
 
 // English: This addon adds an XYZV trajectory for Amalthea (Jupiter V), covering the period 2002-2029, with the aim of making the flybys performed by the Galileo in 2002-Nov-05 and Juno in 2028-Jan-10 more accurate. It also includes a topography map of Amalthea as an alternative surface.
 "F4870A41-6C75-4A65-B9B5-9F6C16528CA6" = "This addon adds an XYZV trajectory for Amalthea (Jupiter V), covering the period 2002-2029, with the aim of making the flybys performed by the Galileo in 2002-Nov-05 and Juno in 2028-Jan-10 more accurate. It also includes a topography map of Amalthea as an alternative surface.";
