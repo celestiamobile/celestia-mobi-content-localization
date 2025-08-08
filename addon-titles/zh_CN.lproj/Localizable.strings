@@ -85,6 +85,9 @@
 // English: 2 Pallas
 //"0483CF05-AE7D-BC53-74E4-F4A0E38FD09D" = "2 Pallas";
 
+// English: K2-12
+//"048483BB-B11F-48F7-94AD-6ED962BE03D6" = "K2-12";
+
 // English: Mars Cube One
 //"04870F65-B630-72A2-2EF3-577BBB7DB6D6" = "Mars Cube One";
 
@@ -5646,6 +5649,9 @@
 
 // English: Planet 9 Moons
 //"F8DFF436-8E4E-14D2-278A-A3461CF629D9" = "Planet 9 Moons";
+
+// English: Kepler-439
+//"F8E0406B-00FA-45EE-AD89-E73896D66726" = "Kepler-439";
 
 // English: 15P/Finlay
 //"F91D26AA-B458-46B9-A69B-6CE1C2858111" = "15P/Finlay";
