@@ -472,6 +472,9 @@
 // English: This addon depicts the primary setting of James Cameron's 2009 film, Avatar. In that film, the planet and its moons were discovered orbiting Alpha Centauri A in 2050, and the planet was close enough that by 2137, humanity is able to explore it with their recently developed FTL technology within six years. The primary story of the first film and its sequel takes place on a habitable moon known as Pandora, which is home to a sentient humanoid culture known as the Na'vi.
 "17A0D3BB-E22B-F82B-320C-1BC986E3D676" = "This addon depicts the primary setting of James Cameron's 2009 film, Avatar. In that film, the planet and its moons were discovered orbiting Alpha Centauri A in 2050, and the planet was close enough that by 2137, humanity is able to explore it with their recently developed FTL technology within six years. The primary story of the first film and its sequel takes place on a habitable moon known as Pandora, which is home to a sentient humanoid culture known as the Na'vi.";
 
+// English: K2-16, also known as EPIC 201754305, is a K-type main-sequence star 1,103 light-years away from Earth, known to be surrounded by three planets, a super-Earth and two sub-Neptunes
+"17BB7600-2150-4002-A3C6-5826060622C4" = "K2-16, also known as EPIC 201754305, is a K-type main-sequence star 1,103 light-years away from Earth, known to be surrounded by three planets, a super-Earth and two sub-Neptunes";
+
 // English: Gliese 440, also known as LAWD 37 or L 145-141, is a nearby white dwarf 15.1 light-years away in the constellation Musca. Gaia astrometry shows hints of a candidate planet between Saturn and Jupiter in mass.
 "1807B69E-843F-4ACD-8B47-CFF822A91D29" = "Gliese 440, also known as LAWD 37 or L 145-141, is a nearby white dwarf 15.1 light-years away in the constellation Musca. Gaia astrometry shows hints of a candidate planet between Saturn and Jupiter in mass.";
 
@@ -1936,6 +1939,9 @@
 // English: The WISE observatory, also known as Explorer 92, is a NASA infrared telescope which performed an all-sky infrared survey from 2009-2011 which afterwards put into hibernation mode. Upon reactivating in 2013, it is repurposed to search for asteroids that could collide with Earth, thus renaming into NEOWISE. Aside from discovering the first known Y-type brown dwarfs and thousands of asteroids, it also discovered many comets, one of which became the Great Comet of 2020, which also bears the same name.
 "5523A1FC-04B4-2B0D-C1D9-0A5ABEFF3172" = "The WISE observatory, also known as Explorer 92, is a NASA infrared telescope which performed an all-sky infrared survey from 2009-2011 which afterwards put into hibernation mode. Upon reactivating in 2013, it is repurposed to search for asteroids that could collide with Earth, thus renaming into NEOWISE. Aside from discovering the first known Y-type brown dwarfs and thousands of asteroids, it also discovered many comets, one of which became the Great Comet of 2020, which also bears the same name.";
 
+// English: Kepler-1540, also known as KOI-4016, is a binary star system 804.648 light-years away from Earth, consisting of a K-type star and an M-type star, and the known host star A has a super-Earth, located within the habitable zone, and is listed as one of the potential habitable worlds, given its huge size, it is more likely to be a hydrogen ocean planet or a mini-Neptune
+"552C3D88-5069-403B-92C7-314037D1A821" = "Kepler-1540, also known as KOI-4016, is a binary star system 804.648 light-years away from Earth, consisting of a K-type star and an M-type star, and the known host star A has a super-Earth, located within the habitable zone, and is listed as one of the potential habitable worlds, given its huge size, it is more likely to be a hydrogen ocean planet or a mini-Neptune";
+
 // English: 208996 Achlys, formerly known as 2003 AZ₈₄, is an elongated 940-km trans-Neptunian object that crosses the orbit of Neptune. It is the third largest plutino after Pluto itself and Orcus. One unconfirmed satellite might be orbiting Achlys. It is named after the goddess of sorrow and grief in Greek mythology.
 "556141CD-2B4A-BDD4-2970-B696676760E7" = "208996 Achlys, formerly known as 2003 AZ₈₄, is an elongated 940-km trans-Neptunian object that crosses the orbit of Neptune. It is the third largest plutino after Pluto itself and Orcus. One unconfirmed satellite might be orbiting Achlys. It is named after the goddess of sorrow and grief in Greek mythology.";
 
@@ -2947,6 +2953,9 @@
 // English: GLONASS, also known as Uragan, is the Soviet/Russian equivalent to the American Global Positioning System (GPS). Its constellation of 146 satellites provide Russia and its allies with high-precision geodesic navigation without relying much on GPS and Galileo satellites. The second-generation GLONASS-M fleet launched a total of 52 satellites between 2001 and 2022.
 "85A27529-2825-47FC-9D17-EF6CC360B2D3" = "GLONASS, also known as Uragan, is the Soviet/Russian equivalent to the American Global Positioning System (GPS). Its constellation of 146 satellites provide Russia and its allies with high-precision geodesic navigation without relying much on GPS and Galileo satellites. The second-generation GLONASS-M fleet launched a total of 52 satellites between 2001 and 2022.";
 
+// English: HD 44219, also known as HIP 30114, is a G-type main-sequence star very similar to the Sun, located 172.553 light-years from Earth, and is known to have a gas giant with a relatively high eccentricity
+"85BE7C90-2F95-48F5-A90F-359B1EC4ECFE" = "HD 44219, also known as HIP 30114, is a G-type main-sequence star very similar to the Sun, located 172.553 light-years from Earth, and is known to have a gas giant with a relatively high eccentricity";
+
 // English: Gliese 832 is a red dwarf star 16.2 light-years away in the constellation Grus, orbited by a Jupiter-like planet. From 2014 to 2022 a second planet, a super-Earth in the habitable zone, was also thought to exist, but has been shown to be an artifact of stellar activity.
 "8608824D-55ED-BD4C-9789-69406D8750AA" = "Gliese 832 is a red dwarf star 16.2 light-years away in the constellation Grus, orbited by a Jupiter-like planet. From 2014 to 2022 a second planet, a super-Earth in the habitable zone, was also thought to exist, but has been shown to be an artifact of stellar activity.";
 
@@ -3451,6 +3460,9 @@
 // English: WASP-19, also known as TOI-655, is a Sun-like star about 882 light-years away in the constellation Vela. A single super-Jovian planet was discovered in 2009, completing an orbit once every 18.93 hours
 "98A23DF9-31D5-4C44-B3B7-36431E06EB8F" = "WASP-19, also known as TOI-655, is a Sun-like star about 882 light-years away in the constellation Vela. A single super-Jovian planet was discovered in 2009, completing an orbit once every 18.93 hours";
 
+// English: The NASA–ISRO Synthetic Aperture Radar (NISAR) mission is a joint US-Indian remote sensing satellite designed to measure and monitor the natural processes on Earth, like earthquakes, volcanic eruptions, and changes in the ice sheet. It was placed into a sun-synchronous orbit on 30 July 2025, and it is currently the most expensive Earth-imaging satellite ever launched.
+"98B80351-BFB3-4B59-9B17-C9A1746ADFAA" = "The NASA–ISRO Synthetic Aperture Radar (NISAR) mission is a joint US-Indian remote sensing satellite designed to measure and monitor the natural processes on Earth, like earthquakes, volcanic eruptions, and changes in the ice sheet. It was placed into a sun-synchronous orbit on 30 July 2025, and it is currently the most expensive Earth-imaging satellite ever launched.";
+
 // English: GJ 3323 is a solitary red dwarf star 17.53 light-years away in the constellation Eridanus. It is orbited by two super-Earths discovered in 2017, both of which are just outside the habitable zone, orbiting near the inner and outer edges.
 "990691C9-9E39-98DE-0FDA-E97437417BDC" = "GJ 3323 is a solitary red dwarf star 17.53 light-years away in the constellation Eridanus. It is orbited by two super-Earths discovered in 2017, both of which are just outside the habitable zone, orbiting near the inner and outer edges.";
 
@@ -3666,6 +3678,9 @@
 
 // English: 2018 VG₁₈ is a distant scattered disc object which was discovered at a distance of 123.4 AU from Earth, earning the nickname \"FarOut\". It is the second most-distant known Solar System object after \"FarFarOut\", which was also discovered on the same year. It is estimated to be 656 km in diameter, large enough to be listed as a possible dwarf planet candidate. All other characteristics aside from its orbit, apparent magnitude and albedo are currently unknown
 "A2814A96-3760-3DBF-91B6-1B296FE95165" = "2018 VG₁₈ is a distant scattered disc object which was discovered at a distance of 123.4 AU from Earth, earning the nickname \"FarOut\". It is the second most-distant known Solar System object after \"FarFarOut\", which was also discovered on the same year. It is estimated to be 656 km in diameter, large enough to be listed as a possible dwarf planet candidate. All other characteristics aside from its orbit, apparent magnitude and albedo are currently unknown";
+
+// English: K2-15, also known as EPIC 201736247, is a K-type main-sequence star 1,634.13 light-years away from Earth, and it has a sub-Neptunean object with an orbital period of only 11.81 days
+"A29F28BB-7572-4725-982B-F2795AF9FAE8" = "K2-15, also known as EPIC 201736247, is a K-type main-sequence star 1,634.13 light-years away from Earth, and it has a sub-Neptunean object with an orbital period of only 11.81 days";
 
 // English: A recreation of the planet and moon from the original Celestia icon used 21 years ago (as of the current date).
 "A2A079D9-BCF8-95B1-40EA-FF8B64710342" = "A recreation of the planet and moon from the original Celestia icon used 21 years ago (as of the current date).";
