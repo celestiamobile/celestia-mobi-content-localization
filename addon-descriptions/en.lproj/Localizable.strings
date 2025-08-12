@@ -4819,6 +4819,9 @@
 // English: Kepler-561, also known as KOI-464, is a Sun-like star about 2,063 light-years away in the constellation Cygnus. It has a two known planets, one sub-neptune and one saturnian, orbiting within 0.28 AU, comparable to half the distance of Mercury to the Sun
 "D43AEB46-8C85-4BE4-9759-46A0C6D40F43" = "Kepler-561, also known as KOI-464, is a Sun-like star about 2,063 light-years away in the constellation Cygnus. It has a two known planets, one sub-neptune and one saturnian, orbiting within 0.28 AU, comparable to half the distance of Mercury to the Sun";
 
+// English: Kepler-725, also known as KOI-918, is a G-type main sequence star located 2,528.538 light-years away from Earth. As of August 2025, signals from two planets have been detected, one being a gas giant and the other a sub-Neptune or hydrogen ocean planet. Among them, Kepler-725 c was discovered using the Transit Timing Variation. Recent studies indicate that Kepler-725 c has a relatively high orbital inclination and eccentricity, which significantly reduces the planet's habitability.
+"D44BF9A7-6EC6-4997-B2A5-BCE82D1CD559" = "Kepler-725, also known as KOI-918, is a G-type main sequence star located 2,528.538 light-years away from Earth. As of August 2025, signals from two planets have been detected, one being a gas giant and the other a sub-Neptune or hydrogen ocean planet. Among them, Kepler-725 c was discovered using the Transit Timing Variation. Recent studies indicate that Kepler-725 c has a relatively high orbital inclination and eccentricity, which significantly reduces the planet's habitability.";
+
 // English: 8 DSC nebulae models in M31, called M31 (centre), M31A, M31B, M31C, ..., M31G (stars distributions are included in the addon for each nebula)
 "D49AC941-3614-2F14-7322-5E149B717BC6" = "8 DSC nebulae models in M31, called M31 (centre), M31A, M31B, M31C, ..., M31G (stars distributions are included in the addon for each nebula)";
 
