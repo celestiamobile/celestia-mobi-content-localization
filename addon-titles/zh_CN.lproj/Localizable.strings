@@ -637,6 +637,9 @@
 // English: Space Shuttle
 //"1D93EA6F-8FC4-A477-7660-B6B343BB8E61" = "Space Shuttle";
 
+// English: HAT-P-56
+//"1DC35DC6-19BB-4F24-9903-30A5910F903E" = "HAT-P-56";
+
 // English: LAGEOS
 //"1E1FBF9B-AA9B-6B48-EBB2-EC77EBD769D3" = "LAGEOS";
 
@@ -4438,6 +4441,9 @@
 // English: TrES-4
 //"C34F1F24-B9A0-4C41-BD79-908B0C89D02C" = "TrES-4";
 
+// English: Kepler-1455
+//"C363F2D3-3B61-4D1B-B09B-DEAB50846B3F" = "Kepler-1455";
+
 // English: WR 109
 //"C3764FE4-6418-4645-B8EB-1BD19564A5D9" = "WR 109";
 
@@ -5418,6 +5424,9 @@
 
 // English: Tatooine, Endor and Death Star
 //"EF66581B-95AA-3049-70CD-BACB62E89680" = "Tatooine, Endor and Death Star";
+
+// English: WASP-53
+//"EFA86B53-414E-4963-8770-50CF2CFBED88" = "WASP-53";
 
 // English: Intelsat-VI
 //"EFB40516-A889-4ED0-ADF8-CC8FA457436D" = "Intelsat-VI";
