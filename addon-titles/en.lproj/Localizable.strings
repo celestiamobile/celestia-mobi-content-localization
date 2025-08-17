@@ -1963,6 +1963,9 @@
 // English: NGTS-1
 "55658AB3-D207-45C4-8E54-81737558C814" = "NGTS-1";
 
+// English: K2-24
+"556AD37D-334B-4F17-A2D2-BB1C31F97921" = "K2-24";
+
 // English: PSR J1939+2134
 "5573B16A-3B58-41D3-83C9-8B058D752969" = "PSR J1939+2134";
 
@@ -2479,6 +2482,9 @@
 // English: 19521 Chaos
 "6D6E4CC7-546F-FEC2-4B82-E56CB196496E" = "19521 Chaos";
 
+// English: Kepler-154 (Unconfirmed Planets)
+"6DA149EA-80AD-445B-8EEE-FA2E82ABA926" = "Kepler-154 (Unconfirmed Planets)";
+
 // English: Toutatis-5
 "6DA6BCAD-126C-45BF-8140-7014F2E18389" = "Toutatis-5";
 
@@ -2517,6 +2523,9 @@
 
 // English: 24 Leonis Minoris
 "6F25FBB2-623C-4866-8EBE-0FBB420E4FC2" = "24 Leonis Minoris";
+
+// English: TOI-1117
+"6F3FA2CF-78A5-45D5-8D89-F9A5FA702DCE" = "TOI-1117";
 
 // English: TOI-206
 "6F4EB87D-30DC-4CA7-9179-FC76869D12DA" = "TOI-206";
@@ -2790,6 +2799,9 @@
 
 // English: Kepler-90
 "7B9D8513-6731-99A3-9624-86734FB9C7F9" = "Kepler-90";
+
+// English: Kepler-154
+"7BF7AA55-88CC-4EAF-8A08-D10C8724C013" = "Kepler-154";
 
 // English: Kepler-70
 "7C1645AC-07F5-48C8-9FD4-E4A5CC34A5E9" = "Kepler-70";
@@ -5193,6 +5205,9 @@
 
 // English: Kepler-27 (Unconfirmed Planets)
 "E2C68184-F69F-46FF-9F3C-F4B98526ED31" = "Kepler-27 (Unconfirmed Planets)";
+
+// English: K2-21
+"E3408C51-1300-4992-A522-9B05D1F05B28" = "K2-21";
 
 // English: TOI-1136
 "E36D96BF-2030-47A5-8ADB-0C173DAA60A5" = "TOI-1136";

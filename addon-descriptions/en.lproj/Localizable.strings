@@ -1963,6 +1963,9 @@
 // English: NGTS-1, also known as TOI-511, is a red dwarf star about 730.59 light-years away in the constellation Columba. A large gas giant but only about 80% the mass of Jupiter was discovered orbiting this star in 2017
 "55658AB3-D207-45C4-8E54-81737558C814" = "NGTS-1, also known as TOI-511, is a red dwarf star about 730.59 light-years away in the constellation Columba. A large gas giant but only about 80% the mass of Jupiter was discovered orbiting this star in 2017";
 
+// English: K2-24, also known as EPIC 203771098, is a G-type main-sequence star located about 559 light-years away from Earth, and two planets with a volume between Uranus and Saturn have been detected orbiting the star
+"556AD37D-334B-4F17-A2D2-BB1C31F97921" = "K2-24, also known as EPIC 203771098, is a G-type main-sequence star located about 559 light-years away from Earth, and two planets with a volume between Uranus and Saturn have been detected orbiting the star";
+
 // English: PSR J1939+2134 is one of the fastest millisecond pulsars ever discovered, located about 11,415 light-years away in the constellation Vulpecula. In 2020, possible signals of a Moon-sized planetary companion were detected, but its existence is not yet fully confirmed (as of 2023)
 "5573B16A-3B58-41D3-83C9-8B058D752969" = "PSR J1939+2134 is one of the fastest millisecond pulsars ever discovered, located about 11,415 light-years away in the constellation Vulpecula. In 2020, possible signals of a Moon-sized planetary companion were detected, but its existence is not yet fully confirmed (as of 2023)";
 
@@ -2479,6 +2482,9 @@
 // English: 19521 Chaos is a classical Kuiper belt object (cubewano) that is about 600 km in diameter if it is a single spherical object. However, occultations suggest it is a binary or contact binary.
 "6D6E4CC7-546F-FEC2-4B82-E56CB196496E" = "19521 Chaos is a classical Kuiper belt object (cubewano) that is about 600 km in diameter if it is a single spherical object. However, occultations suggest it is a binary or contact binary.";
 
+// English: This add-on adds unconfirmed planets in the Kepler-154 planetary system, although NASA's planetary archive database only has Kepler-154g data, but this does not hinder the integrity of this add-on, Kepler-154h can be seen as a hypothetical object
+"6DA149EA-80AD-445B-8EEE-FA2E82ABA926" = "This add-on adds unconfirmed planets in the Kepler-154 planetary system, although NASA's planetary archive database only has Kepler-154g data, but this does not hinder the integrity of this add-on, Kepler-154h can be seen as a hypothetical object";
+
 // English: A fictional Cassini-type spacecraft launched in June 18, 2019 to study Uranus and its moons from 2030-2033, where it briefly orbited Oberon from 2031-2032. It is the fifth of eight missions as part of the Toutatis Program (2018-2047), although chronologically it was the seventh launched (after Toutatis-7, 3, 6 and 4)
 "6DA6BCAD-126C-45BF-8140-7014F2E18389" = "A fictional Cassini-type spacecraft launched in June 18, 2019 to study Uranus and its moons from 2030-2033, where it briefly orbited Oberon from 2031-2032. It is the fifth of eight missions as part of the Toutatis Program (2018-2047), although chronologically it was the seventh launched (after Toutatis-7, 3, 6 and 4)";
 
@@ -2517,6 +2523,9 @@
 
 // English: 24 Leonis Minoris, aka HD 88986, is a binary system comprised of a G-type main sequence star and a red dwarf located about 108.77 lightyears from the solar system. A single, potentially transiting sub-Neptune was found around the primary component of the binary on a mildly eccentric 146 day orbit.
 "6F25FBB2-623C-4866-8EBE-0FBB420E4FC2" = "24 Leonis Minoris, aka HD 88986, is a binary system comprised of a G-type main sequence star and a red dwarf located about 108.77 lightyears from the solar system. A single, potentially transiting sub-Neptune was found around the primary component of the binary on a mildly eccentric 146 day orbit.";
+
+// English: TOI-1117, also known as TIC 295541511, is a G-type main-sequence star located 549.27 light-years from Earth and detected the star's three sub-Neptune planets in mid-2025, and all three sub-Neptunes are very close to their main stars
+"6F3FA2CF-78A5-45D5-8D89-F9A5FA702DCE" = "TOI-1117, also known as TIC 295541511, is a G-type main-sequence star located 549.27 light-years from Earth and detected the star's three sub-Neptune planets in mid-2025, and all three sub-Neptunes are very close to their main stars";
 
 // English: TOI-206 is a red dwarf star about 155.94 light-years away in the constellation Dorado. In 2022, a superterran planet 77% larger than Earth was discovered in an extremely close distance of only 1.67 million km from its host star, completing an orbit once every 17.67 hours
 "6F4EB87D-30DC-4CA7-9179-FC76869D12DA" = "TOI-206 is a red dwarf star about 155.94 light-years away in the constellation Dorado. In 2022, a superterran planet 77% larger than Earth was discovered in an extremely close distance of only 1.67 million km from its host star, completing an orbit once every 17.67 hours";
@@ -2790,6 +2799,9 @@
 
 // English: Kepler-90 is a sun-like star located about 2,840 light-years from Earth in the constellation Draco. It is notable for possessing a planetary system that has the same number of observed planets as the Solar System
 "7B9D8513-6731-99A3-9624-86734FB9C7F9" = "Kepler-90 is a sun-like star located about 2,840 light-years from Earth in the constellation Draco. It is notable for possessing a planetary system that has the same number of observed planets as the Solar System";
+
+// English: Kepler-154, also known as KOI-435, is a G-type main-sequence star 2040.9563 light-years away from Earth, and five planets of this star have been confirmed so far, and the other two planets Kepler-154 g and Kepler-154 h still need to be confirmed by follow-up research
+"7BF7AA55-88CC-4EAF-8A08-D10C8724C013" = "Kepler-154, also known as KOI-435, is a G-type main-sequence star 2040.9563 light-years away from Earth, and five planets of this star have been confirmed so far, and the other two planets Kepler-154 g and Kepler-154 h still need to be confirmed by follow-up research";
 
 // English: Kepler-70 is a blue subdwarf about 4,155 light-years away in the constellation Cygnus. Observations in 2011 show that two very hot subterran planets are present in tight orbits less than 1.2 million km from the star's photosphere. However, subsequent analysis of the system in 2019 suggest that the supposed planetary signatures are actually stellar activity, thus disproving their existence.
 "7C1645AC-07F5-48C8-9FD4-E4A5CC34A5E9" = "Kepler-70 is a blue subdwarf about 4,155 light-years away in the constellation Cygnus. Observations in 2011 show that two very hot subterran planets are present in tight orbits less than 1.2 million km from the star's photosphere. However, subsequent analysis of the system in 2019 suggest that the supposed planetary signatures are actually stellar activity, thus disproving their existence.";
@@ -5193,6 +5205,9 @@
 
 // English: Kepler-27, while known to have three confirmed planets, has two additional candidate Neptune sized planets that are projected to orbit within it's habitable zone.
 "E2C68184-F69F-46FF-9F3C-F4B98526ED31" = "Kepler-27, while known to have three confirmed planets, has two additional candidate Neptune sized planets that are projected to orbit within it's habitable zone.";
+
+// English: K2-21, Also known as EPIC 206011691, K2-21 is a red dwarf star located 272.564 light-years from Earth, it has two sub-Neptunes, with an orbital period of 9.32 days on the inner planet and 15.5 days on the outer planet
+"E3408C51-1300-4992-A522-9B05D1F05B28" = "K2-21, Also known as EPIC 206011691, K2-21 is a red dwarf star located 272.564 light-years from Earth, it has two sub-Neptunes, with an orbital period of 9.32 days on the inner planet and 15.5 days on the outer planet";
 
 // English: TOI-1136 is a young (700 Myr) G-type star located about 275.26 lightyears away from the solar system, This star is known to have at least six planets orbiting it consisting of a hot oceanic planet and 5 Neptune-like planets, all of the planets in this system are of similar mass (< 10 Me) with an exception for TOI-1136 b. This system features a large resonant chain, including a second-order MMR with TOI-1136 f and g.
 "E36D96BF-2030-47A5-8ADB-0C173DAA60A5" = "TOI-1136 is a young (700 Myr) G-type star located about 275.26 lightyears away from the solar system, This star is known to have at least six planets orbiting it consisting of a hot oceanic planet and 5 Neptune-like planets, all of the planets in this system are of similar mass (< 10 Me) with an exception for TOI-1136 b. This system features a large resonant chain, including a second-order MMR with TOI-1136 f and g.";
