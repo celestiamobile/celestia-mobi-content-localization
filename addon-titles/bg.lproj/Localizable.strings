@@ -718,6 +718,9 @@
 // English: 1 Ceres
 "20E27C97-EF70-A424-A05A-6743529A0946" = "1 Церера";
 
+// English: K2-35
+//"20E5191B-3087-4AB9-B0AC-33B36B63E577" = "K2-35";
+
 // English: 449P/Leonard
 "210486A3-9DEC-91E3-3C76-B3AF005D4DD7" = "2685 Масурски";
 
@@ -928,7 +931,7 @@
 // English: Pleiades-HR
 "299605DC-4FF9-479A-B431-66A6CD96D059" = "Плеяди-HR";
 
-// English: Landsat 8 and 9
+// English: Landsat 8 to 9
 "29A2623B-A41D-64AB-6465-41E162DF98D9" = "Ландсат 8 и 9";
 
 // English: TOI-5293
@@ -1014,6 +1017,9 @@
 
 // English: HD 300730
 "2CC6A202-5B96-4B4C-84BF-1605F61A4A3F" = "HD 300730";
+
+// English: HD 155193
+//"2CE88FCD-FCE4-417D-A1C8-7B1ABA4F2EC4" = "HD 155193";
 
 // English: Gale Crater
 "2D583BD6-AF34-97CD-1242-C605A51B4970" = "Кратерът Гейл";
@@ -1951,8 +1957,8 @@
 // English: Mars Exploration Rover
 "54D2D839-2379-7CC1-FFEF-D2BDBDC8C8A8" = "Марс Експлорейшън Роувър";
 
-// English: GU Psc
-//"54E77620-1D31-49D1-8E54-4B67E4201F3F" = "GU Psc";
+// English: GU Piscium
+//"54E77620-1D31-49D1-8E54-4B67E4201F3F" = "GU Piscium";
 
 // English: Barnard 335
 "55105449-175C-4BA3-83B1-6E92607F1294" = "Барнард 335";
@@ -3394,6 +3400,9 @@
 // English: Kepler-1326
 "95970870-6215-4449-9009-F15D78EC125D" = "Кеплер-1326";
 
+// English: Beta Cancri
+//"95ABA74F-E1B6-4432-A2F4-A2A916CC55E2" = "Beta Cancri";
+
 // English: Kepler-86
 "95AEED68-FC7A-405A-9BBB-7BC5ADD08F5E" = "Кеплер-86";
 
@@ -3549,6 +3558,9 @@
 
 // English: 623 Chimaera
 //"9B2E2D08-A102-41E9-B8B5-F91CD806D795" = "623 Chimaera";
+
+// English: K2-31
+//"9B86604E-7BA1-4F7F-BBD7-8A2158971EDD" = "K2-31";
 
 // English: 17P/Holmes
 "9BA9CEE1-8CA9-49A3-AE94-B93D14BB8717" = "17P/Holmes";
@@ -4879,6 +4891,9 @@
 // English: MOA-2011-BLG-293L
 "D5F06E7A-D4D6-4C8D-9EBC-BD42719A2401" = "MOA-2011-BLG-293L";
 
+// English: WASP-152
+//"D5F7B792-00AE-4517-97B4-FB027211593A" = "WASP-152";
+
 // English: Venus: Topography Map
 //"D5FBC573-5DE8-4C9A-BA09-FF208D227EFD" = "Venus: Topography Map";
 
@@ -5689,7 +5704,7 @@
 // English: GJ 1252
 "F7EAB149-39D6-40F3-B75D-FBC1D2CBD0BE" = "GJ 1252";
 
-// English: Landsat 7
+// English: Landsat 6 to 7
 "F7F60BA2-F2A8-CD21-0719-868BC55688C4" = "Ландсат 7";
 
 // English: Earth: Auroras

@@ -718,6 +718,9 @@
 // English: Ceres is a dwarf planet located in the main asteroid belt, between the orbits of Mars and Jupiter. Discovered in 1801 by Giuseppe Piazzi, it was initially considered a planet, later an asteroid, and finally a dwarf planet. Ceres was extensively studied by NASA's Dawn spacecraft between 2015 and 2018.
 "20E27C97-EF70-A424-A05A-6743529A0946" = "Ceres is a dwarf planet located in the main asteroid belt, between the orbits of Mars and Jupiter. Discovered in 1801 by Giuseppe Piazzi, it was initially considered a planet, later an asteroid, and finally a dwarf planet. Ceres was extensively studied by NASA's Dawn spacecraft between 2015 and 2018.";
 
+// English: K2-35, also known as EPIC 201549860, is a K-type main-sequence star located 829.8297 light-years away from Earth, and it has two planets, a super-Earth and a sub-Neptune
+"20E5191B-3087-4AB9-B0AC-33B36B63E577" = "K2-35, also known as EPIC 201549860, is a K-type main-sequence star located 829.8297 light-years away from Earth, and it has two planets, a super-Earth and a sub-Neptune";
+
 // English: 449P/Leonard is one of many comets discovered by Gregory J. Leonard. A periodic comet with a 6.82-year orbit around the Sun, it was later found out by Maik Meyer that it was a previously lost comet that was first seen by Robert McNaught and Malcolm Hartley by accident in 1987. It is one of the most recent recovered astronomical objects to date.
 "210486A3-9DEC-91E3-3C76-B3AF005D4DD7" = "449P/Leonard is one of many comets discovered by Gregory J. Leonard. A periodic comet with a 6.82-year orbit around the Sun, it was later found out by Maik Meyer that it was a previously lost comet that was first seen by Robert McNaught and Malcolm Hartley by accident in 1987. It is one of the most recent recovered astronomical objects to date.";
 
@@ -1015,6 +1018,9 @@
 // English: HD 300730, aka TOI-3362, is an F-type main sequence star located about 1196.35 lightyears from the solar system. the star is host to a single warm gas giant on an extremely eccentric 18-day orbit which slingshots the planet from as close as 0.029 au to 0.28 au (b= 1.14 Rj, 5.03 Mj). The planet is likely undergoing tidal migration and is doomed to become a hot jupiter.
 "2CC6A202-5B96-4B4C-84BF-1605F61A4A3F" = "HD 300730, aka TOI-3362, is an F-type main sequence star located about 1196.35 lightyears from the solar system. the star is host to a single warm gas giant on an extremely eccentric 18-day orbit which slingshots the planet from as close as 0.029 au to 0.28 au (b= 1.14 Rj, 5.03 Mj). The planet is likely undergoing tidal migration and is doomed to become a hot jupiter.";
 
+// English: HD 155193, also known as HIP 83953, is an F-type subgiant star located 188.83 light-years away from Earth, and a Jupiter-sized gaseous planet orbits the star, taking about a year to complete an orbit, and this add-on adds a fictional habitable planet to it
+"2CE88FCD-FCE4-417D-A1C8-7B1ABA4F2EC4" = "HD 155193, also known as HIP 83953, is an F-type subgiant star located 188.83 light-years away from Earth, and a Jupiter-sized gaseous planet orbits the star, taking about a year to complete an orbit, and this add-on adds a fictional habitable planet to it";
+
 // English: Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory
 "2D583BD6-AF34-97CD-1242-C605A51B4970" = "Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory";
 
@@ -1138,8 +1144,8 @@
 // English: This addon enhances Saturn's moon Enceladus, including: \n\n- xyzv trajectory from 2004 to 2018 to cover the Cassini mission, ensuring more accurate flybys. \n- 3D model based on Cassini data. \n- Alternative texture of enhanced colors.
 "318391BE-B70C-EBB7-9456-81A37AABDBC1" = "This addon enhances Saturn's moon Enceladus, including: \n\n- xyzv trajectory from 2004 to 2018 to cover the Cassini mission, ensuring more accurate flybys. \n- 3D model based on Cassini data. \n- Alternative texture of enhanced colors.";
 
-// English: Epsilon Tauri, also known as Ain is an orange giant in the constellation Taurus. It is located in the Hyades open cluster, the nearest one that we know of and has a planet called Amateru. Amateru is one of the five known planets in the Hyades as of now, which makes it special.
-"3197C36C-9518-4B2C-A91F-85264125625C" = "Epsilon Tauri, also known as Ain is an orange giant in the constellation Taurus. It is located in the Hyades open cluster, the nearest one that we know of and has a planet called Amateru. Amateru is one of the five known planets in the Hyades as of now, which makes it special.";
+// English: Epsilon Tauri, also known as Ain is an orange giant in the constellation Taurus. It is located in the Hyades open cluster, the nearest one that we know of and has a planet called Amateru. Amateru is one of the seven known planets in the Hyades as of now, which makes it special.
+"3197C36C-9518-4B2C-A91F-85264125625C" = "Epsilon Tauri, also known as Ain is an orange giant in the constellation Taurus. It is located in the Hyades open cluster, the nearest one that we know of and has a planet called Amateru. Amateru is one of the seven known planets in the Hyades as of now, which makes it special.";
 
 // English: This addon adds fictional rings around the Earth.
 "31F279A8-BE40-FB0E-1D42-BBE5CADD6EDF" = "This addon adds fictional rings around the Earth.";
@@ -3394,6 +3400,9 @@
 // English: Kepler-1326, also known as KOI-2728, is an F-type subgiant star about 2,323 light-years away in the constellation Cygnus. A single neptunian planet is orbiting at a distance of 0.26 AU from its star once every 42 days, where in 2020 was speculated to harbor a massive satellite only half its size, but since deemed unlikely to exist according to follow-up studies
 "95970870-6215-4449-9009-F15D78EC125D" = "Kepler-1326, also known as KOI-2728, is an F-type subgiant star about 2,323 light-years away in the constellation Cygnus. A single neptunian planet is orbiting at a distance of 0.26 AU from its star once every 42 days, where in 2020 was speculated to harbor a massive satellite only half its size, but since deemed unlikely to exist according to follow-up studies";
 
+// English: Beta Cancri, also known as 17 Cancri, HR 3249, HD 69267, Tarf, is a binary star system consisting of a K-type main-sequence star and a K-type giant 295.316 light-years away from Earth, a Jupiter-sized planet orbiting Star A with a mass about 7.8 times that of Jupiter
+"95ABA74F-E1B6-4432-A2F4-A2A916CC55E2" = "Beta Cancri, also known as 17 Cancri, HR 3249, HD 69267, Tarf, is a binary star system consisting of a K-type main-sequence star and a K-type giant 295.316 light-years away from Earth, a Jupiter-sized planet orbiting Star A with a mass about 7.8 times that of Jupiter";
+
 // English: Kepler-86, also known as KOI-3663 and PH2, is a Sun-like star about 1,133 light-years away in the constellation Cygnus. A single Saturn-sized planet is found orbiting within the star's habitable zone. It is the second exoplanet ever discovered by the Planet Hunters project
 "95AEED68-FC7A-405A-9BBB-7BC5ADD08F5E" = "Kepler-86, also known as KOI-3663 and PH2, is a Sun-like star about 1,133 light-years away in the constellation Cygnus. A single Saturn-sized planet is found orbiting within the star's habitable zone. It is the second exoplanet ever discovered by the Planet Hunters project";
 
@@ -3549,6 +3558,9 @@
 
 // English: 623 Chimaera is a main-belt asteroid about 44 km in diameter, discovered on 1907-Jan-22. It is a target of the UAE's MBR Explorer mission, with a flyby planned in June 2030.
 "9B2E2D08-A102-41E9-B8B5-F91CD806D795" = "623 Chimaera is a main-belt asteroid about 44 km in diameter, discovered on 1907-Jan-22. It is a target of the UAE's MBR Explorer mission, with a flyby planned in June 2030.";
+
+// English: K2-31， Also known as EPIC 204129699 and CD-23 12854, it is a triple star system located approximately 360 light-years away from Earth, consisting of a G-type main sequence star and two M-type red dwarfs. It is known that component A has a hot Jupiter with a mass of approximately 1.734 times that of Jupiter and an orbital period of only 30 hours
+"9B86604E-7BA1-4F7F-BBD7-8A2158971EDD" = "K2-31， Also known as EPIC 204129699 and CD-23 12854, it is a triple star system located approximately 360 light-years away from Earth, consisting of a G-type main sequence star and two M-type red dwarfs. It is known that component A has a hot Jupiter with a mass of approximately 1.734 times that of Jupiter and an orbital period of only 30 hours";
 
 // English: 17P/Holmes is a periodic comet with an orbital period of 6.88 years discovered in November 1892 by Edwin Holmes. Although normally a faint object, Comet Holmes became notable during its return in October 2007 when it became visible to the naked eye and also briefly became the largest object in the Solar System as its coma became as large as the Sun.
 "9BA9CEE1-8CA9-49A3-AE94-B93D14BB8717" = "17P/Holmes is a periodic comet with an orbital period of 6.88 years discovered in November 1892 by Edwin Holmes. Although normally a faint object, Comet Holmes became notable during its return in October 2007 when it became visible to the naked eye and also briefly became the largest object in the Solar System as its coma became as large as the Sun.";
@@ -4546,8 +4558,8 @@
 // English: This addon adds Uranus's polar auroras.
 "C6A9F6A9-707B-7E9E-8AF7-BCE409975ABA" = "This addon adds Uranus's polar auroras.";
 
-// English: S Ori 70 or S Ori J053810.1-023626 is a (sub) brown dwarf 1,150 light years in the constellation Orion. According to studies, the rogue planet is suspected to be 3 Jupiter masses and very young with just 3 million years of age.
-"C6E6C8B2-2CFC-41A6-866C-288D6D1406E3" = "S Ori 70 or S Ori J053810.1-023626 is a (sub) brown dwarf 1,150 light years in the constellation Orion. According to studies, the rogue planet is suspected to be 3 Jupiter masses and very young with just 3 million years of age.";
+// English: S Ori 70 or S Ori J053810.1-023626 is a (sub) brown dwarf 1,150 light years in the constellation Orion. According to studies, the rogue planet is suspected to be 3 Jupiter masses and very young with just 3 million years of age. However, this object remains unconfirmed as a result of no direct scientific data confirming nor disproving it.
+"C6E6C8B2-2CFC-41A6-866C-288D6D1406E3" = "S Ori 70 or S Ori J053810.1-023626 is a (sub) brown dwarf 1,150 light years in the constellation Orion. According to studies, the rogue planet is suspected to be 3 Jupiter masses and very young with just 3 million years of age. However, this object remains unconfirmed as a result of no direct scientific data confirming nor disproving it.";
 
 // English: SPOT-4 is a French Earth observations satellite that operated from 1998 to 2013. During its lifetime, it continuously scanned the Earth's surface in four different bandwidths, with resolutions ranging from 10 to 20 m. This satellite remains in orbit as a derelict object as of 2023
 "C71E7303-32D9-4DE6-8F2E-4C7BCB73E861" = "SPOT-4 is a French Earth observations satellite that operated from 1998 to 2013. During its lifetime, it continuously scanned the Earth's surface in four different bandwidths, with resolutions ranging from 10 to 20 m. This satellite remains in orbit as a derelict object as of 2023";
@@ -4878,6 +4890,9 @@
 
 // English: MOA-2011-BLG-293L is a distant Sun-like star about 25,114 light-years away in the constellation Sagittarius. Situated within the Galactic Core, it has a massive superjovian planet with a year slightly longer than Earth's
 "D5F06E7A-D4D6-4C8D-9EBC-BD42719A2401" = "MOA-2011-BLG-293L is a distant Sun-like star about 25,114 light-years away in the constellation Sagittarius. Situated within the Galactic Core, it has a massive superjovian planet with a year slightly longer than Earth's";
+
+// English: WASP-152, also known as K2-29, is a binary star system consisting of a G-type main-sequence star and a K-type main-sequence star, about 585.1 light-years away from Earth, and it is known that Component A has a Jupiter-sized gas giant, very close to the star, is a hot Jupiter that can complete an orbit in less than 4 days
+"D5F7B792-00AE-4517-97B4-FB027211593A" = "WASP-152, also known as K2-29, is a binary star system consisting of a G-type main-sequence star and a K-type main-sequence star, about 585.1 light-years away from Earth, and it is known that Component A has a Jupiter-sized gas giant, very close to the star, is a hot Jupiter that can complete an orbit in less than 4 days";
 
 // English: This addon adds, as an alternative surface, a topographic map for the planet Venus, showing relief formations and surface elevations. Based on data obtained by the Magellan orbiter.
 "D5FBC573-5DE8-4C9A-BA09-FF208D227EFD" = "This addon adds, as an alternative surface, a topographic map for the planet Venus, showing relief formations and surface elevations. Based on data obtained by the Magellan orbiter.";
@@ -5689,8 +5704,8 @@
 // English: GJ 1252, aka TOI-1078 located about 66.41 lightyears from the solar system, the star hosts a single, hot, airless super-Earth (b= 1.18 Re, 1.32 Me). As mentioned before, observations from Spitzer determined the planet has no large atmosphere and later observations from JWST could help further constrain the planet's possible atmosphere, though it likely has none.
 "F7EAB149-39D6-40F3-B75D-FBC1D2CBD0BE" = "GJ 1252, aka TOI-1078 located about 66.41 lightyears from the solar system, the star hosts a single, hot, airless super-Earth (b= 1.18 Re, 1.32 Me). As mentioned before, observations from Spitzer determined the planet has no large atmosphere and later observations from JWST could help further constrain the planet's possible atmosphere, though it likely has none.";
 
-// English: Landsat 7 is a NASA/USGS satellite dedicated in imaging the Earth's surface. Launched in 1999, it operated for 23 years until it was decommissioned from its primary mission following the successful launch of its successor, Landsat 9, in 2021
-"F7F60BA2-F2A8-CD21-0719-868BC55688C4" = "Landsat 7 is a NASA/USGS satellite dedicated in imaging the Earth's surface. Launched in 1999, it operated for 23 years until it was decommissioned from its primary mission following the successful launch of its successor, Landsat 9, in 2021";
+// English: Landsat 6 and 7 were the third-generation of NASA/USGS satellites dedicated in imaging the Earth's surface. Landsat 6 was destroyed after its launch in 1993, while Landsat 7 operated for 26 years between 1999 and 2025, after providing up-to-date and cloud-free images of the Earth for mapping and remote sensing. They are both replaced with Landsat 8 and 9
+"F7F60BA2-F2A8-CD21-0719-868BC55688C4" = "Landsat 6 and 7 were the third-generation of NASA/USGS satellites dedicated in imaging the Earth's surface. Landsat 6 was destroyed after its launch in 1993, while Landsat 7 operated for 26 years between 1999 and 2025, after providing up-to-date and cloud-free images of the Earth for mapping and remote sensing. They are both replaced with Landsat 8 and 9";
 
 // English: This addon adds Earth's polar auroras.
 "F8120336-675B-A499-4DE2-84C8529957CC" = "This addon adds Earth's polar auroras.";
