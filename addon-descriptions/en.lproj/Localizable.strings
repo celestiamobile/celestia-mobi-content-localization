@@ -280,6 +280,9 @@
 // English: HIP 5158, also known as CD-23 395, is a K-type main sequence star about 168.56 light-years away in the constellation Cetus. It has two confirmed superjovian planets, where one of which might actually be a low-end brown dwarf due to its mass (15 times that of Jupiter)
 "0D4654F7-666C-4E04-AE9B-2A898973F908" = "HIP 5158, also known as CD-23 395, is a K-type main sequence star about 168.56 light-years away in the constellation Cetus. It has two confirmed superjovian planets, where one of which might actually be a low-end brown dwarf due to its mass (15 times that of Jupiter)";
 
+// English: K2-30， Also known as TOI-4535, it is a G-type star located approximately 1096.729 light-years from Earth. A hot Jupiter orbits around this star with an orbital period of approximately four days
+"0D6912F4-23F9-4D1E-8A59-517A4CAF4F3A" = "K2-30， Also known as TOI-4535, it is a G-type star located approximately 1096.729 light-years from Earth. A hot Jupiter orbits around this star with an orbital period of approximately four days";
+
 // English: MN 102 is a WC-type star surrounded by a nebula about 11,036 light-years away in the constellation Aquila
 "0DA580D4-03BD-4409-B356-0866472F3301" = "MN 102 is a WC-type star surrounded by a nebula about 11,036 light-years away in the constellation Aquila";
 
@@ -441,6 +444,9 @@
 
 // English: Bespin is a habitable gas giant in the Outer Rim where tibanna gas is mined. It is the planet where Cloud City is located, and is the very site where Darth Vader revealed his true identity to Luke Skywalker in 3 ABY
 "157D08D3-0878-4C11-9AAE-74C1E31C835D" = "Bespin is a habitable gas giant in the Outer Rim where tibanna gas is mined. It is the planet where Cloud City is located, and is the very site where Darth Vader revealed his true identity to Luke Skywalker in 3 ABY";
+
+// English: K2-25, also known as TOI-5095, is a red dwarf star located 146.816 light-years away from Earth, and it has a planet the size of Neptune and about 24 times the mass of Earth
+"15F013C7-75CD-4194-93F9-80EE8AAD9980" = "K2-25, also known as TOI-5095, is a red dwarf star located 146.816 light-years away from Earth, and it has a planet the size of Neptune and about 24 times the mass of Earth";
 
 // English: 706765 (2010 TK₇) is a large near-Earth asteroid about 379 meters in diameter. Discovered by the Wide-field Infrared Survey Explorer in October 2010, it was found orbiting near the Sun-Earth Lagrange (L4) point, making it the first Earth trojan asteroid ever known.
 "1625B1BC-331D-5906-80E2-C2BB56B962C1" = "706765 (2010 TK₇) is a large near-Earth asteroid about 379 meters in diameter. Discovered by the Wide-field Infrared Survey Explorer in October 2010, it was found orbiting near the Sun-Earth Lagrange (L4) point, making it the first Earth trojan asteroid ever known.";
@@ -1873,6 +1879,9 @@
 // English: These are the candidate planets corresponding to the two additional weak radial velocity signals that were detected at 75 Ceti A, that have not yet been confirmed to be planets.\n\nNOTE: For the confirmed planet around 75 Ceti A, you can look for it in the Exoplanets: 0 to 9 category
 "50A090D8-58F3-4EE4-BD76-C0249A6FFF57" = "These are the candidate planets corresponding to the two additional weak radial velocity signals that were detected at 75 Ceti A, that have not yet been confirmed to be planets.\n\nNOTE: For the confirmed planet around 75 Ceti A, you can look for it in the Exoplanets: 0 to 9 category";
 
+// English: K2-27, 820 light-years from Earth, is a triple star system consisting of two G-type stars and an M-type star, of which K2-27 A is also known as EPIC 201546361, and K2-27 B is called TOI-5168, which has a planet slightly larger than Uranus, and this planet orbits K2-27 B, with an orbital period of about 6.8 Earth days，the mass is approximately 31 times that of Earth
+"50B6D1D4-35C5-4EDE-B0ED-1C58AE620A11" = "K2-27, 820 light-years from Earth, is a triple star system consisting of two G-type stars and an M-type star, of which K2-27 A is also known as EPIC 201546361, and K2-27 B is called TOI-5168, which has a planet slightly larger than Uranus, and this planet orbits K2-27 B, with an orbital period of about 6.8 Earth days，the mass is approximately 31 times that of Earth";
+
 // English: In 1999, a magnetic anomaly on the Moon's Tycho Crater led to the discovery of the first definitive evidence of intelligent extraterrestrial life that was buried there for more than three million years. It sent out a powerful radio signal aimed directly at Jupiter when Dr. Heywood Floyd and his colleagues examined it shortly afterwards.\n\nThis mysterious event led to the launch of the Discovery One mission to Jupiter exactly two years later, in 2001
 "50BC916C-FF47-46F3-B489-ECBC0527AF96" = "In 1999, a magnetic anomaly on the Moon's Tycho Crater led to the discovery of the first definitive evidence of intelligent extraterrestrial life that was buried there for more than three million years. It sent out a powerful radio signal aimed directly at Jupiter when Dr. Heywood Floyd and his colleagues examined it shortly afterwards.\n\nThis mysterious event led to the launch of the Discovery One mission to Jupiter exactly two years later, in 2001";
 
@@ -1974,6 +1983,9 @@
 
 // English: NGTS-1, also known as TOI-511, is a red dwarf star about 730.59 light-years away in the constellation Columba. A large gas giant but only about 80% the mass of Jupiter was discovered orbiting this star in 2017
 "55658AB3-D207-45C4-8E54-81737558C814" = "NGTS-1, also known as TOI-511, is a red dwarf star about 730.59 light-years away in the constellation Columba. A large gas giant but only about 80% the mass of Jupiter was discovered orbiting this star in 2017";
+
+// English: BEBOP-3, also known as TIC 289949453, is a binary star system consisting of an F-type main-sequence star and a red dwarf, the two stars can complete their orbit about every 13 days, 385.1267 light-years away from Earth, on August 14, 2025, a gas giant was discovered in this system, this planet has about half the mass of Jupiter, an orbital period of 547 days, and a high eccentricity (e=0.247)
+"556962E3-CC41-48A4-BBAC-DB30E1FDB97A" = "BEBOP-3, also known as TIC 289949453, is a binary star system consisting of an F-type main-sequence star and a red dwarf, the two stars can complete their orbit about every 13 days, 385.1267 light-years away from Earth, on August 14, 2025, a gas giant was discovered in this system, this planet has about half the mass of Jupiter, an orbital period of 547 days, and a high eccentricity (e=0.247)";
 
 // English: K2-24, also known as EPIC 203771098, is a G-type main-sequence star located about 559 light-years away from Earth, and two planets with a volume between Uranus and Saturn have been detected orbiting the star
 "556AD37D-334B-4F17-A2D2-BB1C31F97921" = "K2-24, also known as EPIC 203771098, is a G-type main-sequence star located about 559 light-years away from Earth, and two planets with a volume between Uranus and Saturn have been detected orbiting the star";
@@ -3754,6 +3766,9 @@
 // English: Spacedock One is a massive space station operated by Starfleet in the 23rd and 24th centuries. It began construction in 2257 and is fully operational by 2285. For most of its history, it served as a primary hub for Federation vessels above Earth, before it is retired and converted into a Fleet Museum above Athan Prime in 2401
 "A2E2B2C7-485A-4286-9F3A-E0467720C791" = "Spacedock One is a massive space station operated by Starfleet in the 23rd and 24th centuries. It began construction in 2257 and is fully operational by 2285. For most of its history, it served as a primary hub for Federation vessels above Earth, before it is retired and converted into a Fleet Museum above Athan Prime in 2401";
 
+// English: K2-28, also known as TOI-4526 and EPIC 206318379, is a red dwarf star located about 205.8339 light-years from Earth, it has a sub-Neptune with about 6 times the mass of Earth and an orbital period of only 2.26 days
+"A341AE59-7C7D-4124-BCB6-4842F9A61FF3" = "K2-28, also known as TOI-4526 and EPIC 206318379, is a red dwarf star located about 205.8339 light-years from Earth, it has a sub-Neptune with about 6 times the mass of Earth and an orbital period of only 2.26 days";
+
 // English: This addon adds three objects close to Saturn's rings, observed by Cassini in 2004 but never recovered since. It is unclear whether these are small solid moons or just transient clumps of dust. The addon includes S 2004 S 3, S 2004 S 4 and S 2004 S 6.\n\nThe three \"moons\" (green circles):
 "A3AA0CF8-1493-412A-B1C7-8880A8E48A38" = "This addon adds three objects close to Saturn's rings, observed by Cassini in 2004 but never recovered since. It is unclear whether these are small solid moons or just transient clumps of dust. The addon includes S 2004 S 3, S 2004 S 4 and S 2004 S 6.\n\nThe three \"moons\" (green circles):";
 
@@ -3819,6 +3834,9 @@
 
 // English: Nibiru, the infamous rogue planet first proposed by Nancy Lieder that was supposed to destroy Earth on 2012-Dec-21, depicted as a Jupiter-sized brown dwarf in an eccentric elliptical orbit around the Sun. Take note that this add-on is only for entertainment purposes only, and it does NOT....and WILL NOT....exist....ever!!! \n\nNOTE: This Nibiru is totally different from the Earth-like planet of the same name by Zecharia Sitchin in 1976
 "A5FD601A-5ADD-4B9E-A25B-835B597543FD" = "Nibiru, the infamous rogue planet first proposed by Nancy Lieder that was supposed to destroy Earth on 2012-Dec-21, depicted as a Jupiter-sized brown dwarf in an eccentric elliptical orbit around the Sun. Take note that this add-on is only for entertainment purposes only, and it does NOT....and WILL NOT....exist....ever!!! \n\nNOTE: This Nibiru is totally different from the Earth-like planet of the same name by Zecharia Sitchin in 1976";
+
+// English: K2-26, also known as EPIC 202083828, is a red dwarf star located 325.518 light-years from Earth, and a Neptune-sized planet was announced in 2016 with an orbital period of about 14.5 days
+"A62BB49E-BF88-4331-9273-9B69AEAE905B" = "K2-26, also known as EPIC 202083828, is a red dwarf star located 325.518 light-years from Earth, and a Neptune-sized planet was announced in 2016 with an orbital period of about 14.5 days";
 
 // English: NGTS-12b is a gas giant exoplanet discovered in 2020, orbiting the star NGTS-12 about 1456 light-years away from Earth. It is believed that the planet is nearing the end of its existence, as it will be swallowed by its parent star, which is entering a subgiant phase.
 "A64C5352-04ED-9308-E41D-DDF536BE2FFE" = "NGTS-12b is a gas giant exoplanet discovered in 2020, orbiting the star NGTS-12 about 1456 light-years away from Earth. It is believed that the planet is nearing the end of its existence, as it will be swallowed by its parent star, which is entering a subgiant phase.";
