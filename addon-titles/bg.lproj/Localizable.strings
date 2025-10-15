@@ -538,7 +538,7 @@
 // English: Kepler-85
 //"19970EB4-D0E0-4A41-8622-AE71F370D916" = "Kepler-85";
 
-// English: Neptune's Auroras
+// English: 668956 (2012 PM₃₅)
 "19E04A47-9E75-9BED-2F85-F30CDA5549C9" = "Нептун: Полярно сияние";
 
 // English: Luyten's Star
@@ -4261,6 +4261,9 @@
 // English: KMT-2020-BLG-0414L
 "B9AB5162-F114-4F5E-81A5-6D26E51A1948" = "KMT-2020-BLG-0414L";
 
+// English: 55 Cancri B
+//"B9B376BD-580A-4B1B-B735-54C104FA7848" = "55 Cancri B";
+
 // English: 153591 (2001 SN₂₆₃)
 "B9D623F9-2043-5502-3601-6356EF013B10" = "153591 (2001 SN₂₆₃)";
 
@@ -5047,7 +5050,7 @@
 // English: Jason 1 to 3
 "DB3B7505-2EDA-41AD-9CFE-842072365101" = "Jason 1 to 3";
 
-// English: 55 Cancri
+// English: 55 Cancri A
 "DB926972-EC77-714D-36BA-BA2244A7220A" = "55 Cancri";
 
 // English: IRIS

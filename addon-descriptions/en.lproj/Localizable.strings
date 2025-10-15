@@ -538,8 +538,8 @@
 // English: Kepler-85, aka KOI-2038, is a G-type main-sequence star located about 2590.6 lightyears from the solar system. A system of four planets consisting of two sub-Neptunes and two super-Earths are known to orbit this star.
 "19970EB4-D0E0-4A41-8622-AE71F370D916" = "Kepler-85, aka KOI-2038, is a G-type main-sequence star located about 2590.6 lightyears from the solar system. A system of four planets consisting of two sub-Neptunes and two super-Earths are known to orbit this star.";
 
-// English: This addon adds Neptune's polar auroras.
-"19E04A47-9E75-9BED-2F85-F30CDA5549C9" = "This addon adds Neptune's polar auroras.";
+// English: 668956 (2012 PM₃₅), also known as 2020 OG₁₀₆, is a small main-belt asteroid that made a very close encounter with Ceres in 2017. It flew past the dwarf planet at a distance of 235,000 km (146,000 mi) which is sufficient enough that its gravity was able to slightly perturb the asteroid's orbit and was temporarily lost until 2020. With an absolute magnitude of 17.1, 2012 PM₃₅ is estimated to be around 0.9–2.3 km in diameter.
+"19E04A47-9E75-9BED-2F85-F30CDA5549C9" = "668956 (2012 PM₃₅), also known as 2020 OG₁₀₆, is a small main-belt asteroid that made a very close encounter with Ceres in 2017. It flew past the dwarf planet at a distance of 235,000 km (146,000 mi) which is sufficient enough that its gravity was able to slightly perturb the asteroid's orbit and was temporarily lost until 2020. With an absolute magnitude of 17.1, 2012 PM₃₅ is estimated to be around 0.9–2.3 km in diameter.";
 
 // English: Luyten's Star is a red dwarf about 12.36 light-years away in the constellation Canis Minor. This system has four confirmed orbiting planets, one of which (Luyten b) is located on the star's habitable zone
 "1A03FAC1-7986-349B-DC02-F090801AB7D4" = "Luyten's Star is a red dwarf about 12.36 light-years away in the constellation Canis Minor. This system has four confirmed orbiting planets, one of which (Luyten b) is located on the star's habitable zone";
@@ -4260,6 +4260,9 @@
 
 // English: KMT-2020-BLG-0414L is a white dwarf star accompanied by a brown dwarf, about 4,300 light-years away in the constellation Sagittarius. A cold rocky planet slightly larger than Earth orbits about 2 AU from the star. As the first confirmed terrestrial planet around a white dwarf, it serves as an analog for Earth in the far future, when the Sun becomes a white dwarf.
 "B9AB5162-F114-4F5E-81A5-6D26E51A1948" = "KMT-2020-BLG-0414L is a white dwarf star accompanied by a brown dwarf, about 4,300 light-years away in the constellation Sagittarius. A cold rocky planet slightly larger than Earth orbits about 2 AU from the star. As the first confirmed terrestrial planet around a white dwarf, it serves as an analog for Earth in the far future, when the Sun becomes a white dwarf.";
+
+// English: Adds two candidate mini-neptunian planets around 55 Cancri B, which were first detected in 2025. Their existence is yet to be verified. Also included alternate maps for both worlds.
+"B9B376BD-580A-4B1B-B735-54C104FA7848" = "Adds two candidate mini-neptunian planets around 55 Cancri B, which were first detected in 2025. Their existence is yet to be verified. Also included alternate maps for both worlds.";
 
 // English: 153591 (2001 SN₂₆₃) is a near-Earth C-type asteroid. It was discovered on September 20, 2001 by the LINEAR project. 2001 SN₂₆₃ has two moons around it, which were discovered in 2008. It can also be recognized as a trinary asteroid system. It is the target of the ASTER mission of the Brazilian Space Agency, with a proposed launch for 2025.
 "B9D623F9-2043-5502-3601-6356EF013B10" = "153591 (2001 SN₂₆₃) is a near-Earth C-type asteroid. It was discovered on September 20, 2001 by the LINEAR project. 2001 SN₂₆₃ has two moons around it, which were discovered in 2008. It can also be recognized as a trinary asteroid system. It is the target of the ASTER mission of the Brazilian Space Agency, with a proposed launch for 2025.";
