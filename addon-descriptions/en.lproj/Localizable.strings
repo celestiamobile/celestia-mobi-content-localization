@@ -73,6 +73,9 @@
 // English: K2-8 is a K-type main sequence star located 1330.49 light-years away from Earth. Two Neptune sized celestial bodies have been discovered near this star. For every two orbits of the inner planet, the outer planet can orbit once
 "03C3AF56-765B-49C1-A262-D3D1890C9804" = "K2-8 is a K-type main sequence star located 1330.49 light-years away from Earth. Two Neptune sized celestial bodies have been discovered near this star. For every two orbits of the inner planet, the outer planet can orbit once";
 
+// English: K2-36, also known as EPIC 201713348, is a binary star system composed of two K-type stars, located about 359 light-years from Earth. Each of these two stars has a planet orbiting it. one planet is a super-Earth and the other is a mini-Neptune.
+"04078507-936F-4B88-B707-E0DF30D4ECCA" = "K2-36, also known as EPIC 201713348, is a binary star system composed of two K-type stars, located about 359 light-years from Earth. Each of these two stars has a planet orbiting it. one planet is a super-Earth and the other is a mini-Neptune.";
+
 // English: Kepler-24 is a G-type main sequence star located about 3923.92 lightyears from the solar system. a group of four mini-Neptunes orbit this star in a compact system.
 "04273FC4-05BC-1936-BC09-F502E07D7696" = "Kepler-24 is a G-type main sequence star located about 3923.92 lightyears from the solar system. a group of four mini-Neptunes orbit this star in a compact system.";
 
@@ -2743,6 +2746,9 @@
 // English: CD Ceti, also known as GJ 1057, is a nearby red dwarf star only about 28 light-years away in the constellation Cetus. It is one of the closest planetary systems ever discovered, harboring a superterran world about 3.95 times more massive than Earth
 "77FD8B82-8167-4E65-8966-DB3DBF2D43CB" = "CD Ceti, also known as GJ 1057, is a nearby red dwarf star only about 28 light-years away in the constellation Cetus. It is one of the closest planetary systems ever discovered, harboring a superterran world about 3.95 times more massive than Earth";
 
+// English: K2-37, also known as EPIC 203826434, is a G-type star located about 589.9 light-years from Earth. This star has three planets: one super-Earth and two sub-Neptunes.
+"785AFF85-54A7-4C85-B476-D01A4E878D23" = "K2-37, also known as EPIC 203826434, is a G-type star located about 589.9 light-years from Earth. This star has three planets: one super-Earth and two sub-Neptunes.";
+
 // English: LHS 1140 is a red dwarf star 48.8 light-years away in the constellation Cetus, which hosts two known planets. LHS 1140 b is a super-Earth in the habitable zone; initially thought to be a dense rocky planet, its density has since been revised downward, indicating that a large fraction of its mass is likely composed of water. LHS 1140 c is a hot rocky planet orbiting closer to the star.
 "7865703B-C7CF-5A32-886C-0011837F642E" = "LHS 1140 is a red dwarf star 48.8 light-years away in the constellation Cetus, which hosts two known planets. LHS 1140 b is a super-Earth in the habitable zone; initially thought to be a dense rocky planet, its density has since been revised downward, indicating that a large fraction of its mass is likely composed of water. LHS 1140 c is a hot rocky planet orbiting closer to the star.";
 
@@ -5202,6 +5208,9 @@
 
 // English: Kepler-278, also known as KOI-1229, is a K-type subgiant star about 1,463 light-years away in the constellation Lyra. Two neptunian planets are locked in widely eccentric orbits that take them within 0.1 to 0.4 AU from their host star
 "E0FE5FE4-B00A-4E68-A919-E62C88B0B950" = "Kepler-278, also known as KOI-1229, is a K-type subgiant star about 1,463 light-years away in the constellation Lyra. Two neptunian planets are locked in widely eccentric orbits that take them within 0.1 to 0.4 AU from their host star";
+
+// English: K2-99, also known as EPIC 212803289, is a G-type subgiant star located 1703.5 light-years from Earth. Two gas giant planets orbit it: one with only 87% of Jupiter's mass and an orbital period of just 18.24783 Earth days, and the other with a mass more than 8 times that of Jupiter and an orbital period of 522.2 Earth days.
+"E0FEEC1C-EEEC-45E7-A665-7007699B412E" = "K2-99, also known as EPIC 212803289, is a G-type subgiant star located 1703.5 light-years from Earth. Two gas giant planets orbit it: one with only 87% of Jupiter's mass and an orbital period of just 18.24783 Earth days, and the other with a mass more than 8 times that of Jupiter and an orbital period of 522.2 Earth days.";
 
 // English: HD 163607 is a G-type subgiant star about 221.52 light-years away in the constellation Draco. In 2010, two gas giants were discovered via radial velocity, with the outermost planet being twice the mass of Jupiter
 "E1127A46-AF03-4B45-BA50-632431B183FB" = "HD 163607 is a G-type subgiant star about 221.52 light-years away in the constellation Draco. In 2010, two gas giants were discovered via radial velocity, with the outermost planet being twice the mass of Jupiter";
