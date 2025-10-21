@@ -223,5 +223,8 @@
 // English: Stargate is a Military Sci-fi series produced by MGM that revolves around the ubiquitous Stargate that provides near instantaneous space travel with out the need for space ships.
 "F3536B74-5564-4BD4-874A-95B26833D0C1" = "Старгейт са военни научнофантастични серии, разпространявани от МГМ, които се развиват около устройството Старгейт, което осигурява почти мигновено пътуване в космоса, без да са необходими космически кораби.";
 
+// English: These are the spacecraft that provide real-time geopositioning and navigation across the globe via GPS/GNSS networks
+//"F8A5B429-0B42-424E-B5EC-21A711147F1B" = "These are the spacecraft that provide real-time geopositioning and navigation across the globe via GPS/GNSS networks";
+
 // English: A near-Earth object (NEO) is any small Solar System body whose orbit brings it into proximity with Earth.
 "FF1B03B8-4A0D-49D7-89AA-4DCF74FF95FB" = "Това са близкоземните астрономически обекти (БАО), които имат орбити близо до Земята .";
