@@ -587,21 +587,13 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       // remove ?code=... from URL
       const path = location.pathname + location.search.replace(/\b(code|state)=\w+/g, "").replace(/[?&]+$/, "");
       history.replaceState({}, "", path);
-      const response = await fetch("/submit-addon-get-token", { method: "POST", headers: { "content-type": "application/json", }, body: JSON.stringify({ code: codeParam }) });
+      const response = await fetch("/submit-addon-get-token", { method: "POST", headers: { "content-type": "application/json", }, body: JSON.stringify({ code: codeParam, errorAsHttpStatus: "true" }) });
       if (!response.ok) {
-        CelestiaCloudKitManager.page.showErrorText('Failed to get GitHub token');
+        CelestiaCloudKitManager.page.showErrorText(`Network error: ${response.status}`);
         return;
       }
       const data = await response.json();
-      if (!data || data.status != 0 || !data.info || !data.info.detail) {
-        if (data.info && data.info.reason) {
-          CelestiaCloudKitManager.page.showErrorText(data.info.reason)
-        } else {
-          CelestiaCloudKitManager.page.showErrorText('Unknown error getting GitHub token')
-        }
-        return;
-      }
-      const token = JSON.parse(data.info.detail).accessToken;
+      const token = data.accessToken;
       const { Octokit } = await import("https://esm.sh/@octokit/core");
       const { createPullRequest } = await import("https://cdn.skypack.dev/octokit-plugin-create-pull-request@4.2.2");
       const MyOctokit = Octokit.plugin(createPullRequest);

@@ -4,10 +4,6 @@ This is a dynamic add-on that replaces the existing ISS model in Celestia.
 Click the button below to update real-time ISS location. If the action is successful, restart Celestia for the changes to take effect.
 <br>
 Note: Before doing so, ensure that you have set Script System Access Policy to Allow in settings.
-<br>
-You can also install this <a href="https://www.icloud.com/shortcuts/3c266f065dd4498a9d5d5b65d24d0859">Shortcut</a> if you are on iOS to update automatically even when you are not running Celestia.
-During setup, you will be asked to select a folder. You should select the root Celestia folder in "On My iPhone" or "On My iPad".
-Run the Shortcut once and see if any error pops up. Then you can set up automation in Shortcuts.app for the add-on to be updated on a regular basis.
 </p>
 <p><button onclick="fetchLatestDataAndUpdateAddon()" class="button-outline">Update ISS Position</button></p>
 <p id="error-message-output" style="display: none;"></p>
@@ -72,19 +68,23 @@ celestia:print("Success, restart to take effect", 1.5, 0, 0, -10, 0)
         let errorOutput = document.getElementById('error-message-output');
         errorOutput.style.display = 'none';
         errorOutput.innerText = "";
-        fetch("https://celestia.mobi/resources/celestrakparsed?type=stations&name=ISS%20(ZARYA)")
-            .then(function (response) { return response.json() })
-            .then(function (result) {
-                if (result.status != 0) {
-                    errorOutput.style.display = 'block';
-                    errorOutput.innerText = "Failed to get latest position";
-                    isLoadingData = false;
-                    return;
+        fetch("https://celestia.mobi/resources/celestrakparsed?errorAsHttpStatus=true&type=stations&name=ISS%20(ZARYA)")
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Network error: ${response.status}`);
                 }
-                let orbitData = JSON.parse(result.info.detail);
-                updateAddon(orbitData);
+                return response.json();
+            })
+            .then(function (result) {
+                updateAddon(result);
                 errorOutput.style.display = 'block';
                 errorOutput.innerText = "Check Celestia for update status";
+            })
+            .catch(err => {
+                errorOutput.style.display = 'block';
+                errorOutput.innerText = err.message || "An unexpected error occurred";
+            })
+            .finally(() => {
                 isLoadingData = false;
             });
     }
