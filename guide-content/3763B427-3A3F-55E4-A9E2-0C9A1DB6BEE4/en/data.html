@@ -587,7 +587,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       // remove ?code=... from URL
       const path = location.pathname + location.search.replace(/\b(code|state)=\w+/g, "").replace(/[?&]+$/, "");
       history.replaceState({}, "", path);
-      const response = await fetch("/submit-addon-get-token", { method: "POST", headers: { "content-type": "application/json", }, body: JSON.stringify({ code: codeParam, errorAsHttpStatus: "true" }) });
+      const response = await fetch("/api/2/helpers/submit-addon-get-token", { method: "POST", headers: { "content-type": "application/json", }, body: JSON.stringify({ code: codeParam }) });
       if (!response.ok) {
         CelestiaCloudKitManager.page.showErrorText(`Network error: ${response.status}`);
         return;

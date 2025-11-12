@@ -68,7 +68,7 @@ celestia:print("Success, restart to take effect", 1.5, 0, 0, -10, 0)
         let errorOutput = document.getElementById('error-message-output');
         errorOutput.style.display = 'none';
         errorOutput.innerText = "";
-        fetch("https://celestia.mobi/resources/celestrakparsed?errorAsHttpStatus=true&type=stations&name=ISS%20(ZARYA)")
+        fetch("https://celestia.mobi/api/2/helpers/celestrak?type=stations&name=ISS%20(ZARYA)")
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`Network error: ${response.status}`);
