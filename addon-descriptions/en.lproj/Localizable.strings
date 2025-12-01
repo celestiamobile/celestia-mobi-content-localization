@@ -493,6 +493,9 @@
 // English: K2-16, also known as EPIC 201754305, is a K-type main-sequence star 1,103 light-years away from Earth, known to be surrounded by three planets, a super-Earth and two sub-Neptunes
 "17BB7600-2150-4002-A3C6-5826060622C4" = "K2-16, also known as EPIC 201754305, is a K-type main-sequence star 1,103 light-years away from Earth, known to be surrounded by three planets, a super-Earth and two sub-Neptunes";
 
+// English: HD 181433, also known as Gliese 756.1 and HIP 95467, is located in the constellation Pavo. It is a K-type star located 87.7266 light-years from Earth and is at the boundary between a red giant and a subgiant. As of 2008, three exoplanets have been discovered orbiting HD 181433: one is a mini-Neptune and the other two are gas giant planets.
+"17E20650-7540-4708-B395-40D0170D80EE" = "HD 181433, also known as Gliese 756.1 and HIP 95467, is located in the constellation Pavo. It is a K-type star located 87.7266 light-years from Earth and is at the boundary between a red giant and a subgiant. As of 2008, three exoplanets have been discovered orbiting HD 181433: one is a mini-Neptune and the other two are gas giant planets.";
+
 // English: Gliese 440, also known as LAWD 37 or L 145-141, is a nearby white dwarf 15.1 light-years away in the constellation Musca. Gaia astrometry shows hints of a candidate planet between Saturn and Jupiter in mass.
 "1807B69E-843F-4ACD-8B47-CFF822A91D29" = "Gliese 440, also known as LAWD 37 or L 145-141, is a nearby white dwarf 15.1 light-years away in the constellation Musca. Gaia astrometry shows hints of a candidate planet between Saturn and Jupiter in mass.";
 
@@ -3561,6 +3564,9 @@
 
 // English: Kepler-186 is a red dwarf star about 582 light-years away in the constellation Cygnus. It is orbited by five known rocky planets, although the existence of the fifth (a potentially habitable world) has not been fully verified in follow-up studies since 2019, but not ruled out entirely.
 "9843283A-5D31-F276-49D4-DF6793271940" = "Kepler-186 is a red dwarf star about 582 light-years away in the constellation Cygnus. It is orbited by five known rocky planets, although the existence of the fifth (a potentially habitable world) has not been fully verified in follow-up studies since 2019, but not ruled out entirely.";
+
+// English: GJ 1044, also known as BD-21 397, is a K-type main-sequence star located 77.43 light-years from Earth. As of 2023, two planets have been confirmed to orbit this star, and both of these planets are gas giants.
+"985BB889-4779-4FD4-B2B1-63099650AF66" = "GJ 1044, also known as BD-21 397, is a K-type main-sequence star located 77.43 light-years from Earth. As of 2023, two planets have been confirmed to orbit this star, and both of these planets are gas giants.";
 
 // English: WASP-19, also known as TOI-655, is a Sun-like star about 882 light-years away in the constellation Vela. A single super-Jovian planet was discovered in 2009, completing an orbit once every 18.93 hours
 "98A23DF9-31D5-4C44-B3B7-36431E06EB8F" = "WASP-19, also known as TOI-655, is a Sun-like star about 882 light-years away in the constellation Vela. A single super-Jovian planet was discovered in 2009, completing an orbit once every 18.93 hours";
