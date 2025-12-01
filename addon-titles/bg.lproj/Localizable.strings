@@ -946,6 +946,9 @@
 // English: Landsat 8 to 9
 "29A2623B-A41D-64AB-6465-41E162DF98D9" = "Ландсат 8 и 9";
 
+// English: K2-49
+//"29F72A8B-ED40-4E9A-A472-72BDE2412D36" = "K2-49";
+
 // English: TOI-5293
 "2A0E7434-B9B5-4D86-B23D-36762ABC03BA" = "TOI-5293";
 
@@ -1179,6 +1182,9 @@
 
 // English: Moon: Taurus-Littrow
 "32CE0F6D-39A4-4B6B-9553-C004A7656C79" = "Луната: Тавър-Литров";
+
+// English: K2-155
+//"32D6821D-2595-4D6C-AFD2-362488120376" = "K2-155";
 
 // English: AstroSat-1
 "3346F5A9-AF5E-4659-9ED2-E90413CA1CC1" = "АстроСат-1";
@@ -1831,6 +1837,9 @@
 // English: 5D/Brorsen
 "4E54BE29-0010-A3BE-1BDB-60AB3BEA3AFD" = "5D/Брорсен";
 
+// English: K2-42
+//"4E61CAEB-113D-47E9-B43D-E8EE24FE1D74" = "K2-42";
+
 // English: Giotto
 "4E7AD006-8874-6797-6307-CE0A9FC5EB42" = "Джото";
 
@@ -2193,6 +2202,9 @@
 
 // English: Van Allen Probes
 "5F6DB3D8-E801-2540-08EB-3A35A6A1851D" = "Van Allen Probes";
+
+// English: WASP-75
+//"5FA8A520-9FF7-4103-BC41-F52F8F4FBCB8" = "WASP-75";
 
 // English: Kepler-130
 "5FCAB43C-3F29-4385-8462-57A540A96A48" = "Кеплер-130";
@@ -2575,6 +2587,12 @@
 // English: Kepler-250
 "70243EBD-3F8C-4A11-8587-961A8CB27F58" = "Кеплер-250";
 
+// English: K2-47
+//"702E2C48-4CFC-49B6-B273-7B4CD1CBDD02" = "K2-47";
+
+// English: KELT-1
+//"707A0028-2418-4FC8-84C6-7BDBEB047544" = "KELT-1";
+
 // English: The Gelfling
 "70C10EB4-85A8-449F-852E-192FCA35A412" = "The Gelfling";
 
@@ -2694,6 +2712,9 @@
 
 // English: 21 Lutetia
 "75833854-19BD-EC16-A252-ACDE4BE87447" = "21 Lutetia";
+
+// English: K2-48
+//"759297CE-2D36-42EA-8579-2139513778BF" = "K2-48";
 
 // English: HAT-P-26
 "759EA5F2-6C91-D2D5-F798-F4EF4582CBC0" = "HAT-P-26";
@@ -3451,6 +3472,9 @@
 // English: ISIS 1 and 2
 "96099F08-9ECD-2A42-A787-638BFB172420" = "ISIS 1 and 2";
 
+// English: K2-46
+//"961EC54F-4509-43F6-BA77-1B9D67F5B6AB" = "K2-46";
+
 // English: Kepler-8
 "962F949F-413A-6DA8-BAB5-F592033EDF5F" = "Кеплер-8";
 
@@ -4023,6 +4047,9 @@
 
 // English: Minor Planets: 5 to 99
 "AC7DFD03-B027-4E62-B313-68EB647138BE" = "Астероиди от Астероидния пояс: 5 до 100";
+
+// English: K2-50
+//"AC85B22B-07F3-4CDC-AD0B-E271D95FFBE8" = "K2-50";
 
 // English: Saturn (1979-2018)
 "AC8D8F50-0955-AB25-1992-431B2B6CBF84" = "Сатурн (1979-2018)";
@@ -4980,6 +5007,9 @@
 
 // English: Kepler-1388
 //"D734BB45-509A-45F9-B514-E0C2AAF0DC77" = "Kepler-1388";
+
+// English: WASP-8
+//"D7651C4F-4585-41C2-A6C7-E5BB5CD6F7F1" = "WASP-8";
 
 // English: Luna 9
 "D782520B-A938-ECFB-C5D1-E36F1DB8F44D" = "Луна 9";
