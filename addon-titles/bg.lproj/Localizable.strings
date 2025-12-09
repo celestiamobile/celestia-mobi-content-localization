@@ -5146,6 +5146,9 @@
 // English: OPSEK
 "DCA9326B-612B-42B9-9066-7929B2566D28" = "OPSEK";
 
+// English: ALOS-1
+//"DCE7828C-8FA5-4427-83E7-16FBA2863510" = "ALOS-1";
+
 // English: Europa: Temperature anomaly
 "DD64F712-33D4-43E0-8CD4-F49EEE9F927C" = "Европа: Температурна аномалия";
 
