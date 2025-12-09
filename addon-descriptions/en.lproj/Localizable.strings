@@ -1276,8 +1276,8 @@
 // English: This addon adds the faint rings around the planet Jupiter.
 "368E4CAC-8C67-4351-454B-1E6BDF416BAF" = "This addon adds the faint rings around the planet Jupiter.";
 
-// English: 162421 (2000 ET₇₀) is a near-Earth asteroid discovered on March 8, 2000, by the LINEAR project. It is about 2.2 km in diameter. During a close approach to Earth in February 2012, it was observed by the Arecibo and Goldstone observatories, which made it possible to determine the asteroid's rotation and shape.
-"36987389-B91D-4A38-A78B-9DB9009EB0A5" = "162421 (2000 ET₇₀) is a near-Earth asteroid discovered on March 8, 2000, by the LINEAR project. It is about 2.2 km in diameter. During a close approach to Earth in February 2012, it was observed by the Arecibo and Goldstone observatories, which made it possible to determine the asteroid's rotation and shape.";
+// English: P/2019 LD₂ (ATLAS) is a Jupiter-family comet/centaur discovered by the Asteroid Terrestrial-impact Last Alert System (ATLAS) in June 2019. Initially thought to be the first known Jupiter trojan with cometary activity, it was later determined that its orbit is unstable due to frequent gravitational encounters with Jupiter, three of which occurred between 2017 and 2063. Its nucleus is estimated to be about 2.4 km in diameter.
+"36987389-B91D-4A38-A78B-9DB9009EB0A5" = "P/2019 LD₂ (ATLAS) is a Jupiter-family comet/centaur discovered by the Asteroid Terrestrial-impact Last Alert System (ATLAS) in June 2019. Initially thought to be the first known Jupiter trojan with cometary activity, it was later determined that its orbit is unstable due to frequent gravitational encounters with Jupiter, three of which occurred between 2017 and 2063. Its nucleus is estimated to be about 2.4 km in diameter.";
 
 // English: This addon adds Saturn's polar auroras.
 "36B69FAC-D4D5-47AC-B52D-D515F2E573B3" = "This addon adds Saturn's polar auroras.";
