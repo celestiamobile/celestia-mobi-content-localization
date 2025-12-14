@@ -244,6 +244,9 @@
 // English: This addon adds, as an alternative surface, a geologic map for the planet Mars.
 "0B987E9C-0632-4CFD-80CD-0B13D54AB073" = "This addon adds, as an alternative surface, a geologic map for the planet Mars.";
 
+// English: WASP-34, also known as Amansinaya, is a G-type star located about 391 light-years from Earth. It has two gas giant planets, one being a hot Jupiter and the other a cold Jupiter or a low-mass brown dwarf.
+"0BDAD3C9-225D-482D-9F1C-0288BA693319" = "WASP-34, also known as Amansinaya, is a G-type star located about 391 light-years from Earth. It has two gas giant planets, one being a hot Jupiter and the other a cold Jupiter or a low-mass brown dwarf.";
+
 // English: This addon adds an alternative texture of the planet Jupiter in ultraviolet.
 "0BE0650A-ABDF-44C3-6805-981B18577766" = "This addon adds an alternative texture of the planet Jupiter in ultraviolet.";
 
@@ -4959,6 +4962,9 @@
 
 // English: HAT-P-15, formally known as Berehynia, is a Sun-like star about 631.3 light-years away in the constellation Perseus. A Jupiter-sized planet, named Tryzub, completes an orbit once every 8.9 days
 "D571FD0F-3250-99AD-F5A9-43F78551D2A5" = "HAT-P-15, formally known as Berehynia, is a Sun-like star about 631.3 light-years away in the constellation Perseus. A Jupiter-sized planet, named Tryzub, completes an orbit once every 8.9 days";
+
+// English: HD 41004 is a binary star system composed of a K-type star and a red dwarf, located about 137 light-years from Earth. Component A (left) has a gas giant planet with a mass about 2.54 times that of Jupiter, while component B (right) has a low-mass brown dwarf with an orbital period of less than two Earth days.
+"D5A320D8-2F49-4393-8728-EE78F8FE55FA" = "HD 41004 is a binary star system composed of a K-type star and a red dwarf, located about 137 light-years from Earth. Component A (left) has a gas giant planet with a mass about 2.54 times that of Jupiter, while component B (right) has a low-mass brown dwarf with an orbital period of less than two Earth days.";
 
 // English: OGLE-2005-BLG-390Lb (nicknamed Hoth) is a super-Earth orbiting OGLE-2005-BLG-390L, a star 21,200 light-years from Earth near the center of the Milky Way, making it one of the most distant planets known. It is an icy exoplanet, far from the habitable zone of the star in which it orbits.
 "D5B4F486-296E-5DFF-DDA0-9150A885B1F5" = "OGLE-2005-BLG-390Lb (nicknamed Hoth) is a super-Earth orbiting OGLE-2005-BLG-390L, a star 21,200 light-years from Earth near the center of the Milky Way, making it one of the most distant planets known. It is an icy exoplanet, far from the habitable zone of the star in which it orbits.";
