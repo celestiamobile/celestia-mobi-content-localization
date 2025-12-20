@@ -70,6 +70,9 @@
 // English: Galaxies
 "56FF5D9F-44F1-CE1D-0615-5655E3C851EF" = "Galaxies";
 
+// English: Periodic Comets
+"578031A4-95F6-4EE5-A0EC-59D230134B4C" = "Periodic Comets";
+
 // English: Others
 "5A6E1D18-F280-CB5D-5622-C925B6E9B6E1" = "Others";
 
@@ -102,6 +105,9 @@
 
 // English: Planets & Systems
 "79907B53-C287-F6BC-01EB-B7D9B8A02161" = "Planets & Systems";
+
+// English: Non-periodic Comets
+"79E5EBE6-C72B-4A3D-B8C3-FFE8E0574C5B" = "Non-periodic Comets";
 
 // English: Confirmed (L)
 "7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "Confirmed (L)";

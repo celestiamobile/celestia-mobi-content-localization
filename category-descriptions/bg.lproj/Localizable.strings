@@ -70,6 +70,9 @@
 // English: Contains additional galaxies and visual improvements to ones that are included in the stock installation of Celestia. Since the code for galaxies cannot support models of their own yet, the visual improvements are classified as nebulae at the moment
 "56FF5D9F-44F1-CE1D-0615-5655E3C851EF" = "В тази категория ще намерите допълнителни галактики и подобренията на тези, които са включени в „Celestia“. Тъй като галактиките все още не поддържат използването на триизмерни модели, подобренията в момента са класифицирани като мъглявини";
 
+// English: These are comets that have orbital periods less than 200 years in length. This include Encke-type, Jupiter-family, Halley-type, and Chiron-type comets
+//"578031A4-95F6-4EE5-A0EC-59D230134B4C" = "These are comets that have orbital periods less than 200 years in length. This include Encke-type, Jupiter-family, Halley-type, and Chiron-type comets";
+
 // English: A collection of Solar System addons that does not fit in any specific subcategory
 "5A6E1D18-F280-CB5D-5622-C925B6E9B6E1" = "Това са добавките за Слънчевата система, които не са подходящи другите подкатегории";
 
@@ -102,6 +105,9 @@
 
 // English: This category hosts various fictional celestial objects that are not part of a worldbuilding project of sci-fi franchise with its own category.
 "79907B53-C287-F6BC-01EB-B7D9B8A02161" = "Това са различните измислени космически кораби, които не са част от научнофантастична поредица.";
+
+// English: These are all the comets that have orbital periods greater than 200 years in length. This include long-period, near-parabolic, and hyperbolic (Oort cloud) comets
+//"79E5EBE6-C72B-4A3D-B8C3-FFE8E0574C5B" = "These are all the comets that have orbital periods greater than 200 years in length. This include long-period, near-parabolic, and hyperbolic (Oort cloud) comets";
 
 // English: These are the confirmed star systems with planets that have names starting with L
 "7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "Това са потвърдените звездни системи с планети, чиито имена започват с L";
