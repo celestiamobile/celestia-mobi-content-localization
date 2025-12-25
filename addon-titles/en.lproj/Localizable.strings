@@ -637,6 +637,9 @@
 // English: M 20 (Trifid Nebula)
 "1CDA9B81-3B8F-79D9-59DA-9B0A3F0E10B8" = "M 20 (Trifid Nebula)";
 
+// English: Mir
+"1D013F0D-DF46-4B98-B191-BF2B8DA5389C" = "Mir";
+
 // English: KMT-2021-BLG-1077L
 "1D172496-EECC-4B8B-AFF8-C44E34D281FD" = "KMT-2021-BLG-1077L";
 
@@ -1414,8 +1417,8 @@
 // English: French Orbital Weapon
 "3B6D8413-CCD7-CCF5-4221-D723D06D55DB" = "French Orbital Weapon";
 
-// English: Mir
-"3B72676B-7D83-3860-D27E-26D2BE8C0FDA" = "Mir";
+// English: CoRoT-31
+"3B72676B-7D83-3860-D27E-26D2BE8C0FDA" = "CoRoT-31";
 
 // English: 66391 Moshup
 "3BD0DE85-37C2-E52F-EE6E-CC220DE711B9" = "66391 Moshup";
@@ -3370,8 +3373,8 @@
 // English: 8 Ursae Minoris
 "91C4E197-C967-4D42-9068-6EACE7F56741" = "8 Ursae Minoris";
 
-// English: New Moons of the Solar System
-"91D0DFCC-2CA4-9843-DE8E-88A25E91B1F5" = "New Moons of the Solar System";
+// English: Kepler-120
+"91D0DFCC-2CA4-9843-DE8E-88A25E91B1F5" = "Kepler-120";
 
 // English: Milky Way (DSC version)
 "91E6ABEB-7846-988F-FC79-6FD177841F4E" = "Milky Way (DSC version)";
