@@ -1357,6 +1357,9 @@
 // English: Defense Support Program
 //"37F9F01A-5C67-079A-DF5E-75E692CB0025" = "Defense Support Program";
 
+// English: Jupiter: Clouds
+//"37FFAC4A-755F-453B-BD0E-B0907A2C70F3" = "Jupiter: Clouds";
+
 // English: Lunar Orbiter 1 to 5
 //"3800A29B-9CC8-BDA6-2A62-5DD27A967755" = "Lunar Orbiter 1 to 5";
 
@@ -2050,8 +2053,8 @@
 // English: PSR J1939+2134
 //"5573B16A-3B58-41D3-83C9-8B058D752969" = "PSR J1939+2134";
 
-// English: Jupiter Rings Enhanced
-//"55BEFB53-A196-4EFB-A149-08E3B88DFE7F" = "Jupiter Rings Enhanced";
+// English: Jupiter: Rings (Enhanced)
+//"55BEFB53-A196-4EFB-A149-08E3B88DFE7F" = "Jupiter: Rings (Enhanced)";
 
 // English: Mercury: Surface Map
 //"55D37C62-DC85-852F-9772-5F99EB99CD6D" = "Mercury: Surface Map";
