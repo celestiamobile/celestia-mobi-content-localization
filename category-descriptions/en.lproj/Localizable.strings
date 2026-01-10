@@ -4,6 +4,9 @@
 // English: These are rocky/icy bodies that orbits the Sun between Jupiter and Neptune. They usually have characteristics of both asteroids and comets
 "04625752-0A61-4D42-B392-A93991FB0425" = "These are rocky/icy bodies that orbits the Sun between Jupiter and Neptune. They usually have characteristics of both asteroids and comets";
 
+// English: A large catalog containing approximately 4,000 known comets
+"067D4F18-4F37-4EB1-8161-FA65A07A95E0" = "A large catalog containing approximately 4,000 known comets";
+
 // English: Scripts that make full use of Celestia's potentials.
 "09877309-D214-43E2-AE37-C9F716D5EF78" = "Scripts that make full use of Celestia's potentials.";
 
@@ -112,8 +115,8 @@
 // English: These are the confirmed star systems with planets that have names starting with L
 "7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "These are the confirmed star systems with planets that have names starting with L";
 
-// English: A large catalog containing approximately 30,000 numbered minor planets (MBAs, NEOs, TNOs and centaurs)
-"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "A large catalog containing approximately 30,000 numbered minor planets (MBAs, NEOs, TNOs and centaurs)";
+// English: A catalog containing approximately 5000 minor planets (MBAs, NEOs, TNOs and centaurs). ~1600 objects have 3D models derived from light curve inversion.
+"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "A catalog containing approximately 5000 minor planets (MBAs, NEOs, TNOs and centaurs). ~1600 objects have 3D models derived from light curve inversion.";
 
 // English: A long time ago in a galaxy far, far away....
 "8237336C-8075-19CF-C43E-61EC0E3E86DF" = "A long time ago in a galaxy far, far away....";
