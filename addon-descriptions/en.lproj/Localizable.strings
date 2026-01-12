@@ -325,6 +325,9 @@
 // English: DongFangHong 1 (DFH-1) was the first artificial satellite of the People's Republic of China, which was launched successfully on 1970-Apr-24. A 173-kg polyhedron measuring 1 m in diameter, it carried a radio transmitter that broadcasted the revolutionary song of the same name around the world. Its mission lasted for 28 days, when it lost contact on 1970-May-22 due to battery failure. It is still in orbit as a derelict object to this day
 "0EE45EAC-530E-48A9-8675-0EFDC3B7283B" = "DongFangHong 1 (DFH-1) was the first artificial satellite of the People's Republic of China, which was launched successfully on 1970-Apr-24. A 173-kg polyhedron measuring 1 m in diameter, it carried a radio transmitter that broadcasted the revolutionary song of the same name around the world. Its mission lasted for 28 days, when it lost contact on 1970-May-22 due to battery failure. It is still in orbit as a derelict object to this day";
 
+// English: Kepler-146, also known as KOI-386, is an F-type star located 2,386.8 light-years from Earth, with two known sub-Neptune planets orbiting it.
+"0EF8A261-9FC9-4D7F-8F3B-3BFCD736B3B7" = "Kepler-146, also known as KOI-386, is an F-type star located 2,386.8 light-years from Earth, with two known sub-Neptune planets orbiting it.";
+
 // English: Kepler-1657 is a Sun-like star about 3,089 light-years away in the constellation Cygnus. A planet the size of Jupiter has an eccentric orbit that straddles its parent star's habitable zone at its aphelion
 "0F011B9B-F11E-4F50-B395-241442E2F415" = "Kepler-1657 is a Sun-like star about 3,089 light-years away in the constellation Cygnus. A planet the size of Jupiter has an eccentric orbit that straddles its parent star's habitable zone at its aphelion";
 
@@ -1986,6 +1989,9 @@
 
 // English: Mariner 10 was the first spacecraft to visit Mercury. Launched in 1973, it used Venus's gravity to slow itself down and months later it flew by Mercury three times from 1974 to 1975. Due to low propellant, the spacecraft was decommissioned on 1975-Mar-24, shortly after the third Mercury flyby occurred
 "5344EDDB-E7BA-1637-4DFE-2491FEAD852B" = "Mariner 10 was the first spacecraft to visit Mercury. Launched in 1973, it used Venus's gravity to slow itself down and months later it flew by Mercury three times from 1974 to 1975. Due to low propellant, the spacecraft was decommissioned on 1975-Mar-24, shortly after the third Mercury flyby occurred";
+
+// English: Kepler-121, also known as KOI-223 and KIC 4545187, is 1,689.75 light-years away from Earth. It is a K-type main-sequence star known to have two sub-Neptune planets.
+"5350FB6A-B0FA-45A5-AF23-8956C10184A7" = "Kepler-121, also known as KOI-223 and KIC 4545187, is 1,689.75 light-years away from Earth. It is a K-type main-sequence star known to have two sub-Neptune planets.";
 
 // English: 55565 Aya, formerly known as 2002 AW₁₉₇, is a classical Kuiper belt object (cubewano) and a possible dwarf planet about 768 km in diameter. It is named after the goddess of dawn in Akkadian mythology.
 "53639792-1156-5DF3-FE3C-3E241FD9016C" = "55565 Aya, formerly known as 2002 AW₁₉₇, is a classical Kuiper belt object (cubewano) and a possible dwarf planet about 768 km in diameter. It is named after the goddess of dawn in Akkadian mythology.";
@@ -4083,6 +4089,9 @@
 
 // English: Kepler-81, aka KOI-877, is a red dwarf located about 1147.39 lightyears from the solar system. three planets comprised of twin sized sub-Neptunes and a super-Earth are known to orbit this star
 "ABC84009-C2B9-46E4-9949-6ACFE17E2973" = "Kepler-81, aka KOI-877, is a red dwarf located about 1147.39 lightyears from the solar system. three planets comprised of twin sized sub-Neptunes and a super-Earth are known to orbit this star";
+
+// English: Kepler-143, also known as KOI-352, is a star 2,560 light-years from Earth. The primary is a G2-type star; Kepler-143b (2.47 R⊕, P = 16 d) and Kepler-143c (3.337 R⊕, P = 27 d) orbit it.
+"ABF251EB-5309-4437-BA21-1F909EBA3E91" = "Kepler-143, also known as KOI-352, is a star 2,560 light-years from Earth. The primary is a G2-type star; Kepler-143b (2.47 R⊕, P = 16 d) and Kepler-143c (3.337 R⊕, P = 27 d) orbit it.";
 
 // English: SiriusSat is a pair of Russian 1U-cubesats deployed from the ISS. Both satellites carry a particle detector designed to study space weather. It was launched Progress MS-09 on 2018-Jul-9, and were deployed from the station on 2018-Aug-15. They remain in low Earth orbit until 2020-Dec-9
 "ABFCB733-6B8F-4AA0-9747-EDE666DDB0E5" = "SiriusSat is a pair of Russian 1U-cubesats deployed from the ISS. Both satellites carry a particle detector designed to study space weather. It was launched Progress MS-09 on 2018-Jul-9, and were deployed from the station on 2018-Aug-15. They remain in low Earth orbit until 2020-Dec-9";
