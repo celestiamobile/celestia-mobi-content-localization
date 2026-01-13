@@ -1882,6 +1882,9 @@
 // English: K2-42， Also known as EPIC 201155177, it is a K-type main sequence star located 1309 light-years away from Earth. A sub Neptune or super Earth orbits around it, with an orbital period of approximately 6.7 days
 "4E61CAEB-113D-47E9-B43D-E8EE24FE1D74" = "K2-42， Also known as EPIC 201155177, it is a K-type main sequence star located 1309 light-years away from Earth. A sub Neptune or super Earth orbits around it, with an orbital period of approximately 6.7 days";
 
+// English: HD 18438, also known as HR 881, is a binary star system consisting of a star in the red giant phase and an F-type subgiant, located 734 light-years from Earth. Component A (that is, HD 18438 A) has a super-Jupiter or a brown dwarf, with a mass about 21 times that of Jupiter.
+"4E6B2313-D1F7-4BC3-8D6E-C4A956D6469F" = "HD 18438, also known as HR 881, is a binary star system consisting of a star in the red giant phase and an F-type subgiant, located 734 light-years from Earth. Component A (that is, HD 18438 A) has a super-Jupiter or a brown dwarf, with a mass about 21 times that of Jupiter.";
+
 // English: Giotto was an European spacecraft that flew as part of an international fleet of space probes called the \"Halley Armada\". The spacecraft flew by and studied Halley's Comet and in doing so became the first spacecraft to make close up observations of a comet on 1986-Mar-13. Six years later, it flew past another comet, called Grigg-Skjellerup, on 1992-Jul-10. Shortly after this encounter, Giotto was finally decommissioned
 "4E7AD006-8874-6797-6307-CE0A9FC5EB42" = "Giotto was an European spacecraft that flew as part of an international fleet of space probes called the \"Halley Armada\". The spacecraft flew by and studied Halley's Comet and in doing so became the first spacecraft to make close up observations of a comet on 1986-Mar-13. Six years later, it flew past another comet, called Grigg-Skjellerup, on 1992-Jul-10. Shortly after this encounter, Giotto was finally decommissioned";
 
@@ -2584,8 +2587,8 @@
 // English: 19521 Chaos is a classical Kuiper belt object (cubewano) that is about 600 km in diameter if it is a single spherical object. However, analysis of a stellar occultation in 2023 suggest that Chaos may be a binary or a contact binary object instead.
 "6D6E4CC7-546F-FEC2-4B82-E56CB196496E" = "19521 Chaos is a classical Kuiper belt object (cubewano) that is about 600 km in diameter if it is a single spherical object. However, analysis of a stellar occultation in 2023 suggest that Chaos may be a binary or a contact binary object instead.";
 
-// English: This add-on adds unconfirmed planets in the Kepler-154 planetary system, although NASA's planetary archive database only has Kepler-154g data, but this does not hinder the integrity of this add-on, Kepler-154h can be seen as a hypothetical object
-"6DA149EA-80AD-445B-8EEE-FA2E82ABA926" = "This add-on adds unconfirmed planets in the Kepler-154 planetary system, although NASA's planetary archive database only has Kepler-154g data, but this does not hinder the integrity of this add-on, Kepler-154h can be seen as a hypothetical object";
+// English: This add-on adds unconfirmed planets in the Kepler-154 planetary system
+"6DA149EA-80AD-445B-8EEE-FA2E82ABA926" = "This add-on adds unconfirmed planets in the Kepler-154 planetary system";
 
 // English: A fictional Cassini-type spacecraft launched in June 18, 2019 to study Uranus and its moons from 2030-2033, where it briefly orbited Oberon from 2031-2032. It is the fifth of eight missions as part of the Toutatis Program (2018-2047), although chronologically it was the seventh launched (after Toutatis-7, 3, 6 and 4)
 "6DA6BCAD-126C-45BF-8140-7014F2E18389" = "A fictional Cassini-type spacecraft launched in June 18, 2019 to study Uranus and its moons from 2030-2033, where it briefly orbited Oberon from 2031-2032. It is the fifth of eight missions as part of the Toutatis Program (2018-2047), although chronologically it was the seventh launched (after Toutatis-7, 3, 6 and 4)";
@@ -2622,6 +2625,9 @@
 
 // English: Naboo is a lush, bountiful planet located in the Outer Rim. It is mostly populated by humans and the Gungans who are now peacefully co-existing thanks to the efforts of Queen/Senator Padme Amidala in 32 BBY. It is also the homeworld of Emperor Palpatine (Darth Sidious)
 "6ED8337F-42F6-41DC-A511-62487EF4751E" = "Naboo is a lush, bountiful planet located in the Outer Rim. It is mostly populated by humans and the Gungans who are now peacefully co-existing thanks to the efforts of Queen/Senator Padme Amidala in 32 BBY. It is also the homeworld of Emperor Palpatine (Darth Sidious)";
+
+// English: IRAS 04125+2920, also known as TOI-6963 and TIDYE-1, is a binary star system composed of two red dwarfs, located 522.1 light-years from Earth. Component A hosts a low-density gaseous planet with an orbital period of about 8.83 days. It is the youngest exoplanet we have discovered so far, with an age of only 3 million years.
+"6EE5C8D0-9636-404F-A552-5B04D1A6CC31" = "IRAS 04125+2920, also known as TOI-6963 and TIDYE-1, is a binary star system composed of two red dwarfs, located 522.1 light-years from Earth. Component A hosts a low-density gaseous planet with an orbital period of about 8.83 days. It is the youngest exoplanet we have discovered so far, with an age of only 3 million years.";
 
 // English: 24 Leonis Minoris, aka HD 88986, is a binary system comprised of a G-type main sequence star and a red dwarf located about 108.77 lightyears from the solar system. A single, potentially transiting sub-Neptune was found around the primary component of the binary on a mildly eccentric 146 day orbit.
 "6F25FBB2-623C-4866-8EBE-0FBB420E4FC2" = "24 Leonis Minoris, aka HD 88986, is a binary system comprised of a G-type main sequence star and a red dwarf located about 108.77 lightyears from the solar system. A single, potentially transiting sub-Neptune was found around the primary component of the binary on a mildly eccentric 146 day orbit.";
@@ -3204,6 +3210,9 @@
 
 // English: 617 Patroclus is a large binary Jupiter L5 trojan asteroid. It is a dark D-type asteroid and a slow rotator, due to the 103-hour orbital period of its two components. It is one of five Jovian asteroids targeted by the Lucy spacecraft, and is scheduled for a flyby in 2033.
 "8938F47A-4BD1-F6EB-9834-FB4224F8469D" = "617 Patroclus is a large binary Jupiter L5 trojan asteroid. It is a dark D-type asteroid and a slow rotator, due to the 103-hour orbital period of its two components. It is one of five Jovian asteroids targeted by the Lucy spacecraft, and is scheduled for a flyby in 2033.";
+
+// English: Kepler-737, also known as KOI-947, is a K-type main-sequence star located about 673 light-years away from Earth. So far, one planet has been detected orbiting this star, with an orbital period of approximately 28.58 days. This addition describes it as a potentially habitable planet, but we have no information about the atmospheric conditions of this planet.
+"893B4176-7603-40B2-8059-D3F637DDF538" = "Kepler-737, also known as KOI-947, is a K-type main-sequence star located about 673 light-years away from Earth. So far, one planet has been detected orbiting this star, with an orbital period of approximately 28.58 days. This addition describes it as a potentially habitable planet, but we have no information about the atmospheric conditions of this planet.";
 
 // English: Part 3 of Celestia Origin's minor planet catalog, from 200 Dynamene to 299 Thora. Also includes the satellite of 283 Emma.
 "893FFAF9-B8FF-48ED-A1BB-9F806C89FA95" = "Part 3 of Celestia Origin's minor planet catalog, from 200 Dynamene to 299 Thora. Also includes the satellite of 283 Emma.";
@@ -5193,6 +5202,9 @@
 
 // English: This addon adds fictional textures for all planets of the 55 Cancri system. 55 Cancri, also known as Rho1 Cancri, was one of the first multi-planet systems discovered, and has a transiting carbon-rich super-Earth and four gas giants.\n\nThe previous version of this add-on has an issue, please uninstall and reinstall if you have an early version.
 "DB926972-EC77-714D-36BA-BA2244A7220A" = "This addon adds fictional textures for all planets of the 55 Cancri system. 55 Cancri, also known as Rho1 Cancri, was one of the first multi-planet systems discovered, and has a transiting carbon-rich super-Earth and four gas giants.\n\nThe previous version of this add-on has an issue, please uninstall and reinstall if you have an early version.";
+
+// English: HD 220074, also known as HIP 115218 and HR 8881, is a star in the red giant phase, located about 1,068 light-years from Earth. It has a massive gas giant planet (about 11 times the mass of Jupiter) with an orbital period of approximately 1.84 years.
+"DBEDC97F-47B0-49E9-BA01-79076CD6809D" = "HD 220074, also known as HIP 115218 and HR 8881, is a star in the red giant phase, located about 1,068 light-years from Earth. It has a massive gas giant planet (about 11 times the mass of Jupiter) with an orbital period of approximately 1.84 years.";
 
 // English: The Interface Region Imaging Spectrograph (IRIS) is a NASA solar observation satellite launched from a Pegasus-XL rocket on 2013-Jun-28. Its mission is to investigate the physical conditions of the solar limb, particularly the interface region made up of the chromosphere and transition region
 "DC1A92BE-13F5-E492-895F-6B09D9D00B67" = "The Interface Region Imaging Spectrograph (IRIS) is a NASA solar observation satellite launched from a Pegasus-XL rocket on 2013-Jun-28. Its mission is to investigate the physical conditions of the solar limb, particularly the interface region made up of the chromosphere and transition region";

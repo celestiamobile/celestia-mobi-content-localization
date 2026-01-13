@@ -1882,6 +1882,9 @@
 // English: K2-42
 //"4E61CAEB-113D-47E9-B43D-E8EE24FE1D74" = "K2-42";
 
+// English: HD 18438
+//"4E6B2313-D1F7-4BC3-8D6E-C4A956D6469F" = "HD 18438";
+
 // English: Giotto
 //"4E7AD006-8874-6797-6307-CE0A9FC5EB42" = "Giotto";
 
@@ -2584,8 +2587,8 @@
 // English: 19521 Chaos
 //"6D6E4CC7-546F-FEC2-4B82-E56CB196496E" = "19521 Chaos";
 
-// English: Kepler-154 (Unconfirmed Planets)
-//"6DA149EA-80AD-445B-8EEE-FA2E82ABA926" = "Kepler-154 (Unconfirmed Planets)";
+// English: Kepler-154 g
+//"6DA149EA-80AD-445B-8EEE-FA2E82ABA926" = "Kepler-154 g";
 
 // English: Toutatis-5
 //"6DA6BCAD-126C-45BF-8140-7014F2E18389" = "Toutatis-5";
@@ -2622,6 +2625,9 @@
 
 // English: Naboo
 //"6ED8337F-42F6-41DC-A511-62487EF4751E" = "Naboo";
+
+// English: IRAS 04125+2920
+//"6EE5C8D0-9636-404F-A552-5B04D1A6CC31" = "IRAS 04125+2920";
 
 // English: 24 Leonis Minoris
 //"6F25FBB2-623C-4866-8EBE-0FBB420E4FC2" = "24 Leonis Minoris";
@@ -3204,6 +3210,9 @@
 
 // English: 617 Patroclus
 //"8938F47A-4BD1-F6EB-9834-FB4224F8469D" = "617 Patroclus";
+
+// English: Kepler-737
+//"893B4176-7603-40B2-8059-D3F637DDF538" = "Kepler-737";
 
 // English: Minor Planets: 200 to 299
 //"893FFAF9-B8FF-48ED-A1BB-9F806C89FA95" = "Minor Planets: 200 to 299";
@@ -5193,6 +5202,9 @@
 
 // English: 55 Cancri A
 //"DB926972-EC77-714D-36BA-BA2244A7220A" = "55 Cancri A";
+
+// English: HD 220074
+//"DBEDC97F-47B0-49E9-BA01-79076CD6809D" = "HD 220074";
 
 // English: IRIS
 //"DC1A92BE-13F5-E492-895F-6B09D9D00B67" = "IRIS";
