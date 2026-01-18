@@ -463,6 +463,9 @@
 // English: K2-25, also known as TOI-5095, is a red dwarf star located 146.816 light-years away from Earth, and it has a planet the size of Neptune and about 24 times the mass of Earth
 "15F013C7-75CD-4194-93F9-80EE8AAD9980" = "K2-25, also known as TOI-5095, is a red dwarf star located 146.816 light-years away from Earth, and it has a planet the size of Neptune and about 24 times the mass of Earth";
 
+// English: OGLE-2015-BLG-0051L is a red dwarf star located 26,744.825 light-years from Earth, with a gas giant planet orbiting it. The planet has a mass 229 times that of Earth and an orbital period of about 1.9654 years.
+"15FC470A-24FC-457E-BA05-54FB82EFCF5F" = "OGLE-2015-BLG-0051L is a red dwarf star located 26,744.825 light-years from Earth, with a gas giant planet orbiting it. The planet has a mass 229 times that of Earth and an orbital period of about 1.9654 years.";
+
 // English: 706765 (2010 TK₇) is a large near-Earth asteroid about 379 meters in diameter. Discovered by the Wide-field Infrared Survey Explorer in October 2010, it was found orbiting near the Sun-Earth Lagrange (L4) point, making it the first Earth trojan asteroid ever known.
 "1625B1BC-331D-5906-80E2-C2BB56B962C1" = "706765 (2010 TK₇) is a large near-Earth asteroid about 379 meters in diameter. Discovered by the Wide-field Infrared Survey Explorer in October 2010, it was found orbiting near the Sun-Earth Lagrange (L4) point, making it the first Earth trojan asteroid ever known.";
 
@@ -1689,6 +1692,9 @@
 
 // English: Kepler-283, aka KOI-1298, is a K-type main sequence star located about 1,525.97 light years from the solar system. The star hosts two mini-Neptunes (b= 2.371 Re, c= 2.055), the outermost orbits within the host's habitable zone. There are no mass measurements of any of these planets\n\nNOTES: \n- Original textures are included as alt surfaces to the planets
 "4690B111-209A-421F-81AB-B6B72246B343" = "Kepler-283, aka KOI-1298, is a K-type main sequence star located about 1,525.97 light years from the solar system. The star hosts two mini-Neptunes (b= 2.371 Re, c= 2.055), the outermost orbits within the host's habitable zone. There are no mass measurements of any of these planets\n\nNOTES: \n- Original textures are included as alt surfaces to the planets";
+
+// English: HD 101930, also known as GJ 3683, is a binary star system primarily composed of two K-type stars, located 97.33 light-years from Earth. Component A has a planet similar in size to Saturn, with an orbital period of about 70.4 Earth days.
+"46A55F67-1F6E-4F84-8881-9911E27E059F" = "HD 101930, also known as GJ 3683, is a binary star system primarily composed of two K-type stars, located 97.33 light-years from Earth. Component A has a planet similar in size to Saturn, with an orbital period of about 70.4 Earth days.";
 
 // English: This addon adds a semi-fictional model and texture for the Uranian moon Ariel.
 "46FBDD3C-8F4D-AC07-BC8E-54322D4311F6" = "This addon adds a semi-fictional model and texture for the Uranian moon Ariel.";
@@ -4222,6 +4228,9 @@
 // English: HD 228766 is a distant binary star system of two massive O-type giant stars that were previously thought as Wolf-Rayet stars about 6,748 light-years away in the constellation Cygnus
 "B0804426-4E0E-4735-8F99-5D2BEFF092CC" = "HD 228766 is a distant binary star system of two massive O-type giant stars that were previously thought as Wolf-Rayet stars about 6,748 light-years away in the constellation Cygnus";
 
+// English: NGTS-13, also known as TOI-4916, is a G-type main-sequence star located 2,151.425 light-years from Earth. A hot Jupiter orbits this star with an orbital period of only 4 Earth days and has a mass approximately 4.84 times that of Jupiter.
+"B094D021-AB42-433A-B439-E20898C5F090" = "NGTS-13, also known as TOI-4916, is a G-type main-sequence star located 2,151.425 light-years from Earth. A hot Jupiter orbits this star with an orbital period of only 4 Earth days and has a mass approximately 4.84 times that of Jupiter.";
+
 // English: V838 Monocerotis is a variable supergiant star that underwent a nova eruption on 2002-Jan-6. Located about 19,200 light-years away in the constellation Monoceros, it is one of the most luminous stars ever known in the Milky Way galaxy. Although still uncertain, it is theorized that its nova eruption were caused by the merger of two stars in the system
 "B0A9A0B2-C535-4E18-B8AF-A571F09B381E" = "V838 Monocerotis is a variable supergiant star that underwent a nova eruption on 2002-Jan-6. Located about 19,200 light-years away in the constellation Monoceros, it is one of the most luminous stars ever known in the Milky Way galaxy. Although still uncertain, it is theorized that its nova eruption were caused by the merger of two stars in the system";
 
@@ -4867,8 +4876,8 @@
 // English: The Russian Orbital Service Station (ROSS) is a planned future space station intended to succeed the Russian Orbital Segment of the ISS. As of April 2023, it is expected to begin construction by 2027, and will become the first space station placed in polar orbit
 "CCFDD128-1A5F-4FDA-A556-86F774E6FBAA" = "The Russian Orbital Service Station (ROSS) is a planned future space station intended to succeed the Russian Orbital Segment of the ISS. As of April 2023, it is expected to begin construction by 2027, and will become the first space station placed in polar orbit";
 
-// English: NGTS-11, also known as TOI-1847, is a K-type main sequence star about 624.46 light-years away in the constellation Cetus. A gas giant planet about the size of Saturn completes an orbit around its star once every 33.05 days. There's also an additional unconfirmed neptunian planet orbiting three times as close
-"CD294646-6107-4EE4-9977-2F5F47A2AE39" = "NGTS-11, also known as TOI-1847, is a K-type main sequence star about 624.46 light-years away in the constellation Cetus. A gas giant planet about the size of Saturn completes an orbit around its star once every 33.05 days. There's also an additional unconfirmed neptunian planet orbiting three times as close";
+// English: NGTS-11, also known as TOI-1847, is a K-type main sequence star about 624.46 light-years away in the constellation Cetus. A gas giant planet about the size of Saturn completes an orbit around its star once every 33.05 days.The other one is the size of Neptune and completes an orbit every 12.7 days.
+"CD294646-6107-4EE4-9977-2F5F47A2AE39" = "NGTS-11, also known as TOI-1847, is a K-type main sequence star about 624.46 light-years away in the constellation Cetus. A gas giant planet about the size of Saturn completes an orbit around its star once every 33.05 days.The other one is the size of Neptune and completes an orbit every 12.7 days.";
 
 // English: Kepler-1155 is a Sun-like star about 4,953 light-years away in the constellation Lyra. It is home to a massive superterran planet about twice the size of Earth, receiving an equilibrium temperature almost similar to Venus
 "CD38B0A3-D802-0102-40E6-195265604B46" = "Kepler-1155 is a Sun-like star about 4,953 light-years away in the constellation Lyra. It is home to a massive superterran planet about twice the size of Earth, receiving an equilibrium temperature almost similar to Venus";
@@ -4969,11 +4978,11 @@
 // English: Kepler-22 is a sun-like star about 638±3 light-years away in the constellation of Cygnus, that is orbited by a planet found to be unequivocally within the star's habitable zone.
 "D13C17B0-7E57-7FD0-7A18-73907A81291C" = "Kepler-22 is a sun-like star about 638±3 light-years away in the constellation of Cygnus, that is orbited by a planet found to be unequivocally within the star's habitable zone.";
 
-// English: Gliese 251 is a red dwarf star about 18.21 light-years away in the constellation Gemini. It is orbited by a single super-Earth or mini-Neptune, discovered in 2020.
-"D189568B-E8D5-4524-AD11-91C6BFC8C2A4" = "Gliese 251 is a red dwarf star about 18.21 light-years away in the constellation Gemini. It is orbited by a single super-Earth or mini-Neptune, discovered in 2020.";
+// English: Gliese 251 is a red dwarf star about 18.21 light-years away in the constellation Gemini. It is orbited by a single super-Earth or mini-Neptune, discovered in 2020.Another was discovered in 2025, with an orbital period of 53.65 days.
+"D189568B-E8D5-4524-AD11-91C6BFC8C2A4" = "Gliese 251 is a red dwarf star about 18.21 light-years away in the constellation Gemini. It is orbited by a single super-Earth or mini-Neptune, discovered in 2020.Another was discovered in 2025, with an orbital period of 53.65 days.";
 
-// English: Gliese 96, also known as GJ 96, is a red dwarf star located 38.91578 light-years from Earth, and in 2018, a planet the size of Neptune was discovered in an orbit of 73.94 days, and its mass is 19.66 times that of Earth
-"D1B1FF37-DDB3-4505-A408-52FCD625632A" = "Gliese 96, also known as GJ 96, is a red dwarf star located 38.91578 light-years from Earth, and in 2018, a planet the size of Neptune was discovered in an orbit of 73.94 days, and its mass is 19.66 times that of Earth";
+// English: Gliese 96, also known as GJ 96, is a red dwarf star located 38.91578 light-years from Earth, and in 2018, a planet the size of Neptune was discovered in an orbit of 73.94 days, and its mass is 19.66 times that of Earth.However, the CARMENES RV data did not confirm this planetary signal. Instead, the most significant periodicity in the data (≈28.5 days) was linked to stellar activity (e.g., rotation modulation),  So,attributing the observed signal to stellar activity rather than an orbiting planet.
+"D1B1FF37-DDB3-4505-A408-52FCD625632A" = "Gliese 96, also known as GJ 96, is a red dwarf star located 38.91578 light-years from Earth, and in 2018, a planet the size of Neptune was discovered in an orbit of 73.94 days, and its mass is 19.66 times that of Earth.However, the CARMENES RV data did not confirm this planetary signal. Instead, the most significant periodicity in the data (≈28.5 days) was linked to stellar activity (e.g., rotation modulation),  So,attributing the observed signal to stellar activity rather than an orbiting planet.";
 
 // English: C/2024 L5 (ATLAS) is a comet discovered on 2024-Jun-14. Previously having a retrograde and centaur-like orbit, a close encounter with Saturn on 2022-Jan-24 placed it on a Solar System escape trajectory (hyperbolic). It is predicted to reach perihelion in 2025-Mar-10, in addition to passing within 0.6 AU of Jupiter in August 2026.
 "D1BAD854-C308-45B6-82EE-128BA1350756" = "C/2024 L5 (ATLAS) is a comet discovered on 2024-Jun-14. Previously having a retrograde and centaur-like orbit, a close encounter with Saturn on 2022-Jan-24 placed it on a Solar System escape trajectory (hyperbolic). It is predicted to reach perihelion in 2025-Mar-10, in addition to passing within 0.6 AU of Jupiter in August 2026.";
