@@ -151,6 +151,9 @@
 // English: Asterix
 //"06AA2998-6420-5339-71F7-C808E9C1514E" = "Asterix";
 
+// English: HD 97507
+//"06C31992-E49A-4867-8A6A-70C99A910E86" = "HD 97507";
+
 // English: TOI-1853
 //"06EB3688-E762-4ACB-BEC9-551553B0B14C" = "TOI-1853";
 
@@ -5100,6 +5103,9 @@
 
 // English: Theia
 //"D630F7F2-BF61-AC22-7846-3184FB5656F1" = "Theia";
+
+// English: TOI-2000 (Unconfirmed Planets)
+//"D647AA80-7EB8-48DA-BDEE-417E298D011A" = "TOI-2000 (Unconfirmed Planets)";
 
 // English: 11351 Leucus
 //"D6614083-4BA0-C9F2-CFFB-1FCDF7C093A1" = "11351 Leucus";
