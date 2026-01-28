@@ -790,8 +790,8 @@
 // English: HD 269434, also known as TOI-4507, is an F-type star located 577.9 light-years from Earth. A Saturn-sized planet orbits it with an orbital period of approximately 104.55 days.
 "2237B5F8-6B51-4019-919E-7D59AE72968E" = "HD 269434, also known as TOI-4507, is an F-type star located 577.9 light-years from Earth. A Saturn-sized planet orbits it with an orbital period of approximately 104.55 days.";
 
-// English: HD 206893, also known as HIP 107412, is 132.953 light-years away from Earth. It is a binary star system consisting of an F-type main-sequence star and an L-type brown dwarf. The known component A is surrounded by a gas giant planet with a mass of about 10.3 times that of Jupiter.
-"22C2D4CE-E444-4382-A3E0-F71D744B4C6F" = "HD 206893, also known as HIP 107412, is 132.953 light-years away from Earth. It is a binary star system consisting of an F-type main-sequence star and an L-type brown dwarf. The known component A is surrounded by a gas giant planet with a mass of about 10.3 times that of Jupiter.";
+// English: HD 206893, also known as HIP 107412, is about 132.953 light-years away from Earth. It is a binary star system consisting of an F-type main-sequence star and an L-type brown dwarf. Component A is known to be orbited by a gas giant with a mass of about 12.7 times that of Jupiter. In November 2025, a report indicated tentative astrometric residuals for HD 206893 B. If interpreted as signs of an exomoon, these residuals correspond to a candidate moon (HD 206893 B I) with an orbital period of about 0.76 years and a mass of roughly 0.4 times that of Jupiter. However, these residuals could also be due to systematic errors, and it cannot be confirmed at present.
+"22C2D4CE-E444-4382-A3E0-F71D744B4C6F" = "HD 206893, also known as HIP 107412, is about 132.953 light-years away from Earth. It is a binary star system consisting of an F-type main-sequence star and an L-type brown dwarf. Component A is known to be orbited by a gas giant with a mass of about 12.7 times that of Jupiter. In November 2025, a report indicated tentative astrometric residuals for HD 206893 B. If interpreted as signs of an exomoon, these residuals correspond to a candidate moon (HD 206893 B I) with an orbital period of about 0.76 years and a mass of roughly 0.4 times that of Jupiter. However, these residuals could also be due to systematic errors, and it cannot be confirmed at present.";
 
 // English: A cube with the Microsoft PowerPoint logo.
 "22FFD76A-A3A9-B8C1-0AF6-9088B4B86B69" = "A cube with the Microsoft PowerPoint logo.";
@@ -1071,6 +1071,9 @@
 
 // English: HD 155193, also known as HIP 83953, is an F-type subgiant star located 188.83 light-years away from Earth, and a Jupiter-sized gaseous planet orbits the star, taking about a year to complete an orbit, and this add-on adds a fictional habitable planet to it
 "2CE88FCD-FCE4-417D-A1C8-7B1ABA4F2EC4" = "HD 155193, also known as HIP 83953, is an F-type subgiant star located 188.83 light-years away from Earth, and a Jupiter-sized gaseous planet orbits the star, taking about a year to complete an orbit, and this add-on adds a fictional habitable planet to it";
+
+// English: Kepler-1552, also known as KOI-4103, is a K-type star located about 2,564.5235 light-years from Earth. A super-Earth or a sub-Neptune orbits it, with an orbital period of approximately 184.65 days.
+"2CF81D44-949A-402A-9ED8-7D2486DBE3A0" = "Kepler-1552, also known as KOI-4103, is a K-type star located about 2,564.5235 light-years from Earth. A super-Earth or a sub-Neptune orbits it, with an orbital period of approximately 184.65 days.";
 
 // English: Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory
 "2D583BD6-AF34-97CD-1242-C605A51B4970" = "Adds a 3D model for Gale Crater, which in 2012 became the landing site of NASA's Mars Science Laboratory";
@@ -1857,6 +1860,9 @@
 
 // English: CoRoT-2 is a binary star system consisting of a Sun-like star and a red dwarf about 699.79 light-years away in the constellation Aquila. The primary star is home to a massive super-Jovian planet that completes an orbit once every 1.74 days
 "4CB964B0-A5F6-21E7-BDA6-0A83C94A2E64" = "CoRoT-2 is a binary star system consisting of a Sun-like star and a red dwarf about 699.79 light-years away in the constellation Aquila. The primary star is home to a massive super-Jovian planet that completes an orbit once every 1.74 days";
+
+// English: K2-296, also known as EPIC 201238110, is a red dwarf star located about 521.775 light-years from Earth. A super-Earth or a sub-Neptune orbits it, with an orbital period of approximately 28 Earth days.
+"4CD7C010-6250-4823-9A91-CA5665521A59" = "K2-296, also known as EPIC 201238110, is a red dwarf star located about 521.775 light-years from Earth. A super-Earth or a sub-Neptune orbits it, with an orbital period of approximately 28 Earth days.";
 
 // English: Gliese 3512 is a nearby red dwarf star only about 30.95 light-years away in the constellation Ursa Major. It has two gas giant planets that are predicted to have low temperatures despite their relative close proximity to their host star
 "4CDD38ED-8668-4C69-9330-C09C99E79A38" = "Gliese 3512 is a nearby red dwarf star only about 30.95 light-years away in the constellation Ursa Major. It has two gas giant planets that are predicted to have low temperatures despite their relative close proximity to their host star";
@@ -2647,8 +2653,8 @@
 // English: Naboo is a lush, bountiful planet located in the Outer Rim. It is mostly populated by humans and the Gungans who are now peacefully co-existing thanks to the efforts of Queen/Senator Padme Amidala in 32 BBY. It is also the homeworld of Emperor Palpatine (Darth Sidious)
 "6ED8337F-42F6-41DC-A511-62487EF4751E" = "Naboo is a lush, bountiful planet located in the Outer Rim. It is mostly populated by humans and the Gungans who are now peacefully co-existing thanks to the efforts of Queen/Senator Padme Amidala in 32 BBY. It is also the homeworld of Emperor Palpatine (Darth Sidious)";
 
-// English: IRAS 04125+2920, also known as TOI-6963 and TIDYE-1, is a binary star system composed of two red dwarfs, located 522.1 light-years from Earth. Component A hosts a low-density gaseous planet with an orbital period of about 8.83 days. It is the youngest exoplanet we have discovered so far, with an age of only 3 million years.
-"6EE5C8D0-9636-404F-A552-5B04D1A6CC31" = "IRAS 04125+2920, also known as TOI-6963 and TIDYE-1, is a binary star system composed of two red dwarfs, located 522.1 light-years from Earth. Component A hosts a low-density gaseous planet with an orbital period of about 8.83 days. It is the youngest exoplanet we have discovered so far, with an age of only 3 million years.";
+// English: IRAS 04125+2902, also known as TOI-6963 and TIDYE-1, is a binary star system composed of two red dwarfs, located 522.1 light-years from Earth. Component A hosts a low-density gaseous planet with an orbital period of about 8.83 days. It is the youngest exoplanet we have discovered so far, with an age of only 3 million years.
+"6EE5C8D0-9636-404F-A552-5B04D1A6CC31" = "IRAS 04125+2902, also known as TOI-6963 and TIDYE-1, is a binary star system composed of two red dwarfs, located 522.1 light-years from Earth. Component A hosts a low-density gaseous planet with an orbital period of about 8.83 days. It is the youngest exoplanet we have discovered so far, with an age of only 3 million years.";
 
 // English: 24 Leonis Minoris, aka HD 88986, is a binary system comprised of a G-type main sequence star and a red dwarf located about 108.77 lightyears from the solar system. A single, potentially transiting sub-Neptune was found around the primary component of the binary on a mildly eccentric 146 day orbit.
 "6F25FBB2-623C-4866-8EBE-0FBB420E4FC2" = "24 Leonis Minoris, aka HD 88986, is a binary system comprised of a G-type main sequence star and a red dwarf located about 108.77 lightyears from the solar system. A single, potentially transiting sub-Neptune was found around the primary component of the binary on a mildly eccentric 146 day orbit.";
