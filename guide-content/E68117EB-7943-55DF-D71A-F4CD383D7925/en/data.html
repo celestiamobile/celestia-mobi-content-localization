@@ -1,48 +1,240 @@
-<h3 id="main-celestia-dependencies">Core dependencies</h3>
-<p>cspice fmt freetype2 gettext libepoxy libjpeg/libjpeg-turbo libpng lua/luajit miniaudio meshoptimizer icu boost</p>
-<h3 id="android-dependencies">Android</h3>
-<p><del><a href="https://appcenter.ms">AppCenter</a></del>
-<del><a href="https://chromium.googlesource.com/breakpad/breakpad/">Breakpad</a></del>
-<a href="https://github.com/google/gson.git">Gson</a>
-<a href="https://github.com/nlohmann/json.git">JSON</a>
-<a href="https://github.com/square/retrofit.git">Retrofit</a></p>
-<h4 id="added-in-11">Added in 1.1</h4>
-<p><del><a href="https://github.com/srikanth-lingala/zip4j.git">Zip4j</a></del>
-<del><a href="https://github.com/bumptech/glide.git">Glide</a></del></p>
-<h4 id="added-in-134">Added in 1.3.4</h4>
-<p><a href="https://jsoup.org">jsoup</a></p>
-<h4 id="added-in-143">Added in 1.4.3</h4>
-<p><a href="https://developer.android.com/games/agdk/download">Android Games Development Kit</a></p>
-<h4 id="added-in-170">Added in 1.7.0</h4>
-<p><a href="https://libzip.org">libzip</a></p>
-<h4 id="added-in-1710">Added in 1.7.10</h4>
-<p><a href="https://sentry.io">Sentry</a></p>
-<h3 id="ios-dependencies">iOS/macOS (Catalyst)</h3>
-<p><del><a href="https://appcenter.ms">AppCenter</a></del></p>
-<h4 id="added-in-11-1">Added in 1.1</h4>
-<p><del><a href="https://github.com/marmelroy/Zip.git">Zip</a></del>
-<del><a href="https://github.com/SDWebImage/SDWebImage.git">SDWebImage</a></del>
-<del><a href="https://github.com/kakashidinho/metalangle">MetalANGLE (Catalyst only)</a></del></p>
-<h4 id="added-in-143-1">Added in 1.4.3</h4>
-<p><del><a href="https://github.com/weichsel/ZIPFoundation">ZIPFoundation</a></del></p>
-<h4 id="added-in-170-1">Added in 1.7.0</h4>
-<p><a href="https://libzip.org">libzip</a></p>
-<h4 id="added-in-1710-1">Added in 1.7.10</h4>
-<p><a href="https://sentry.io">Sentry</a></p>
-<h3 id="macos-dependencies"><del>macOS (AppKit)</del></h3>
-<p><del><a href="https://appcenter.ms">AppCenter</a></del></p>
-<h3 id="visionos-dependencies">visionOS</del></h3>
-<p><a href="https://github.com/google/angle">ANGLE</a>
-<del><a href="https://github.com/weichsel/ZIPFoundation">ZIPFoundation</a></del></p>
-<h4 id="added-in-170-2">Added in 1.7.0</h4>
-<p><a href="https://libzip.org">libzip</a></p>
-<h3 id="windows-dependencies">Windows</h3>
-<p><a href="https://github.com/google/angle">ANGLE</a>
-<del><a href="https://appcenter.ms">AppCenter</a></del>
-<del><a href="https://www.newtonsoft.com/json">Json.NET</a></del>
-<a href="https://microsoft.github.io/microsoft-ui-xaml/">WinUI</a>
-<del><a href="https://github.com/windows-toolkit/WindowsCommunityToolkit">Windows Community Toolkit</a></del></p>
-<h4 id="added-in-20360">Added in 2.0.36.0</h4>
-<p><a href="https://libzip.org">libzip</a></p>
-<h4 id="added-in-2110">Added in 2.1.1.0</h4>
-<p><a href="https://sentry.io">Sentry</a></p>
+
+    <h3>Core Dependencies</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Dependency</th>
+                <th>License / Website</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>cspice</td>
+                <td><a href="https://naif.jpl.nasa.gov/naif/rules.html">License</a></td>
+            </tr>
+            <tr>
+                <td>fast_float</td>
+                <td><a href="https://github.com/fastfloat/fast_float/blob/main/LICENSE-MIT">License</a></td>
+            </tr>
+            <tr>
+                <td>fmt</td>
+                <td><a href="https://github.com/fmtlib/fmt/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>freetype2</td>
+                <td><a href="https://gitlab.freedesktop.org/freetype/freetype/-/blob/master/docs/FTL.TXT">License</a></td>
+            </tr>
+            <tr>
+                <td>gettext</td>
+                <td><a href="https://www.gnu.org/licenses/gpl-3.0.html">License</a></td>
+            </tr>
+            <tr>
+                <td>gperf</td>
+                <td><a href="https://www.gnu.org/licenses/gpl-3.0.html">License</a></td>
+            </tr>
+            <tr>
+                <td>libepoxy</td>
+                <td><a href="https://github.com/anholt/libepoxy/blob/master/COPYING">License</a></td>
+            </tr>
+            <tr>
+                <td>libjpeg-turbo</td>
+                <td><a href="https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/LICENSE.md">License</a></td>
+            </tr>
+            <tr>
+                <td>libpng</td>
+                <td><a href="https://github.com/pnggroup/libpng/blob/libpng16/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>luajit</td>
+                <td><a href="https://github.com/LuaJIT/LuaJIT/blob/v2.1/COPYRIGHT">License</a></td>
+            </tr>
+            <tr>
+                <td>miniaudio</td>
+                <td><a href="https://github.com/mackron/miniaudio/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>meshoptimizer</td>
+                <td><a href="https://github.com/zeux/meshoptimizer/blob/master/LICENSE.md">License</a></td>
+            </tr>
+            <tr>
+                <td>ICU</td>
+                <td><a href="https://github.com/unicode-org/icu/blob/main/icu4c/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>Boost</td>
+                <td><a href="https://www.boost.org/LICENSE_1_0.txt">License</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Android</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Dependency</th>
+                <th>License / Website</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="text-decoration: line-through;">
+                <td>AppCenter</td>
+                <td><a href="https://github.com/microsoft/appcenter-sdk-android/blob/develop/license.txt">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>Breakpad</td>
+                <td><a href="https://chromium.googlesource.com/breakpad/breakpad/+/refs/heads/main/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>Gson</td>
+                <td><a href="https://github.com/google/gson/blob/main/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>JSON for Modern C++</td>
+                <td><a href="https://github.com/nlohmann/json/blob/develop/LICENSE.MIT">License</a></td>
+            </tr>
+            <tr>
+                <td>Retrofit</td>
+                <td><a href="https://github.com/square/retrofit/blob/trunk/LICENSE.txt">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>Zip4j (Added in 1.1)</td>
+                <td><a href="https://github.com/srikanth-lingala/zip4j/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>Glide (Added in 1.1)</td>
+                <td><a href="https://github.com/bumptech/glide/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>jsoup (Added in 1.3.4)</td>
+                <td><a href="https://github.com/jhy/jsoup/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>libzip (Added in 1.7.0)</td>
+                <td><a href="https://github.com/nih-at/libzip/blob/main/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>Sentry (Added in 1.7.10)</td>
+                <td><a href="https://github.com/getsentry/sentry-java/blob/main/LICENSE">License</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>iOS/macOS (Catalyst)</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Dependency</th>
+                <th>License / Website</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="text-decoration: line-through;">
+                <td>AppCenter</td>
+                <td><a href="https://github.com/microsoft/appcenter-sdk-apple/blob/develop/LICENSE.txt">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>Zip (Added in 1.1)</td>
+                <td><a href="https://github.com/marmelroy/Zip/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>SDWebImage (Added in 1.1)</td>
+                <td><a href="https://github.com/SDWebImage/SDWebImage/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>MetalANGLE (Catalyst only) (Added in 1.1)</td>
+                <td><a href="https://github.com/kakashidinho/metalangle/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>ZIPFoundation (Added in 1.4.3)</td>
+                <td><a href="https://github.com/weichsel/ZIPFoundation/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>libzip (Added in 1.7.0)</td>
+                <td><a href="https://github.com/nih-at/libzip/blob/main/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>Sentry (Added in 1.7.10)</td>
+                <td><a href="https://github.com/getsentry/sentry-cocoa/blob/main/LICENSE">License</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 style="text-decoration: line-through;">macOS (AppKit)</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Dependency</th>
+                <th>License / Website</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="text-decoration: line-through;">
+                <td>AppCenter</td>
+                <td><a href="https://github.com/microsoft/appcenter-sdk-apple/blob/develop/LICENSE.txt">License</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>visionOS</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Dependency</th>
+                <th>License / Website</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>ANGLE</td>
+                <td><a href="https://github.com/google/angle/blob/main/LICENSE">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>ZIPFoundation</td>
+                <td><a href="https://github.com/weichsel/ZIPFoundation/blob/master/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>libzip (Added in 1.7.0)</td>
+                <td><a href="https://github.com/nih-at/libzip/blob/main/LICENSE">License</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Windows</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Dependency</th>
+                <th>License / Website</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>ANGLE</td>
+                <td><a href="https://github.com/google/angle/blob/main/LICENSE">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>AppCenter</td>
+                <td><a href="https://github.com/microsoft/appcenter-sdk-dotnet/blob/develop/license.txt">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>Json.NET</td>
+                <td><a href="https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md">License</a></td>
+            </tr>
+            <tr>
+                <td>WinUI</td>
+                <td><a href="https://github.com/microsoft/microsoft-ui-xaml/blob/main/LICENSE">License</a></td>
+            </tr>
+            <tr style="text-decoration: line-through;">
+                <td>Windows Community Toolkit</td>
+                <td><a href="https://github.com/CommunityToolkit/WindowsCommunityToolkit/blob/main/License.md">License</a></td>
+            </tr>
+            <tr>
+                <td>libzip (Added in 2.0.36.0)</td>
+                <td><a href="https://github.com/nih-at/libzip/blob/main/LICENSE">License</a></td>
+            </tr>
+            <tr>
+                <td>Sentry (Added in 2.1.1.0)</td>
+                <td><a href="https://github.com/getsentry/sentry-dotnet/blob/main/LICENSE">License</a></td>
+            </tr>
+        </tbody>
+    </table>
