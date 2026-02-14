@@ -1282,6 +1282,9 @@
 // English: The Shenzhou spacecraft is a Chinese crewed spacecraft developed under Project 921, which started development in 1992. It resembles the Soyuz in design, but noticeably larger. It first flew unmanned in 1999, and it carried its first taikonaut to space in 2003 during its fifth mission. Since 2021, the Shenzhou is the primary transport vehicle for taikonaut crews to and from the Tiangong Space Station
 "35A1A439-7AE9-440B-842E-C36FD25BF5D0" = "The Shenzhou spacecraft is a Chinese crewed spacecraft developed under Project 921, which started development in 1992. It resembles the Soyuz in design, but noticeably larger. It first flew unmanned in 1999, and it carried its first taikonaut to space in 2003 during its fifth mission. Since 2021, the Shenzhou is the primary transport vehicle for taikonaut crews to and from the Tiangong Space Station";
 
+// English: NGTS-36, also known as TOI-2449, is an F-type star located 511.3676 light-years from Earth. A warm Jupiter orbits it, with a mass about 222 times that of Earth and an orbital period of approximately 106 Earth days.
+"35A344B8-661F-4819-A515-F93C7B0D8D6F" = "NGTS-36, also known as TOI-2449, is an F-type star located 511.3676 light-years from Earth. A warm Jupiter orbits it, with a mass about 222 times that of Earth and an orbital period of approximately 106 Earth days.";
+
 // English: Qatar-3 is a Sun-like star about 2,449 light-years away in the constellation Andromeda. A single gas giant planet slightly larger than Jupiter completes an orbit around its star once every 2.51 days
 "35A6F167-9E51-4A91-A6BA-11BCA1D130C9" = "Qatar-3 is a Sun-like star about 2,449 light-years away in the constellation Andromeda. A single gas giant planet slightly larger than Jupiter completes an orbit around its star once every 2.51 days";
 
@@ -1557,6 +1560,9 @@
 
 // English: Kepler-404 is a Sun-like star about 2,713 light-years away in the constellation Lyra. Two rocky planets, both larger than Earth, orbit their parent star at a distance of less than 0.13 AU, roughly 1/3 that of Mercury's distance to the Sun
 "4026A322-68D3-5EF7-D3BD-EBAC3F089291" = "Kepler-404 is a Sun-like star about 2,713 light-years away in the constellation Lyra. Two rocky planets, both larger than Earth, orbit their parent star at a distance of less than 0.13 AU, roughly 1/3 that of Mercury's distance to the Sun";
+
+// English: NGTS-35, also known as TOI-6669, is a K-type main-sequence star located 598 light-years from Earth. A gaseous planet orbits it with an orbital period of about 25 Earth days and an eccentricity of e=0.16.
+"4043A14E-E73B-4206-B406-2B6069EF9E99" = "NGTS-35, also known as TOI-6669, is a K-type main-sequence star located 598 light-years from Earth. A gaseous planet orbits it with an orbital period of about 25 Earth days and an eccentricity of e=0.16.";
 
 // English: 2021 PB₁₃₀ is a main-belt asteroid of the Eulalia group about 1.54 km in diameter.
 "4063151D-1049-4F83-9E3E-EF8FE680226E" = "2021 PB₁₃₀ is a main-belt asteroid of the Eulalia group about 1.54 km in diameter.";
@@ -2295,6 +2301,9 @@
 
 // English: This add-on presents nine alternate surfaces of Earth, providing spectacular views of the planet as it might have looked like between 65 and 240 million years ago
 "5FD420AD-2E0A-0500-7267-2771A36543CC" = "This add-on presents nine alternate surfaces of Earth, providing spectacular views of the planet as it might have looked like between 65 and 240 million years ago";
+
+// English: Kepler-1632, also known as KOI-5475, is an F-type star about 2,387 light-years away from Earth. An exoplanet, which may be located in the habitable zone, orbits this star with a period of about 1.23 years and may have liquid water. However, so far, we know nothing about its composition—it could be a terrestrial planet, a hot hydrogen ocean planet, or a super-Venus.
+"5FEC5E3D-8DDF-49F4-8EF9-0DCB98EF7C79" = "Kepler-1632, also known as KOI-5475, is an F-type star about 2,387 light-years away from Earth. An exoplanet, which may be located in the habitable zone, orbits this star with a period of about 1.23 years and may have liquid water. However, so far, we know nothing about its composition—it could be a terrestrial planet, a hot hydrogen ocean planet, or a super-Venus.";
 
 // English: TOI-1062 is a G-type star located about 267.87 lightyears from the solar system. The star is accompanied by two planets, a rocky-dominate ocean planet (b= 2.27 Re) and a Neptunian planet (c= 9.78 Me). As mentioned earlier, TOI-1062 b's composition is likely dominated by a rocky core and mantle, with an outer liquid layer followed by an atmosphere, this gives the planet a mass of 10.15 Earth Masses. TOI-1062 c doesn't transit the star from our perspective so all we have is mass and we can't say for certain what its true composition is. Both worlds also have slightly eccentric orbits.
 "5FECD1AA-471D-48DE-8097-A97EEF97F47D" = "TOI-1062 is a G-type star located about 267.87 lightyears from the solar system. The star is accompanied by two planets, a rocky-dominate ocean planet (b= 2.27 Re) and a Neptunian planet (c= 9.78 Me). As mentioned earlier, TOI-1062 b's composition is likely dominated by a rocky core and mantle, with an outer liquid layer followed by an atmosphere, this gives the planet a mass of 10.15 Earth Masses. TOI-1062 c doesn't transit the star from our perspective so all we have is mass and we can't say for certain what its true composition is. Both worlds also have slightly eccentric orbits.";
@@ -3382,6 +3391,9 @@
 // English: 54 Piscium is a nearby binary star system comprising of a K-type main sequence star and a brown dwarf only about 36.32 light-years away in the constellation Pisces. The larger star has a planet the size of Jupiter (but only 1/4 of its mass) that completes an orbit once every 13.79 days
 "8FEA34D5-704D-430D-B2E5-5AEDBA1A76DA" = "54 Piscium is a nearby binary star system comprising of a K-type main sequence star and a brown dwarf only about 36.32 light-years away in the constellation Pisces. The larger star has a planet the size of Jupiter (but only 1/4 of its mass) that completes an orbit once every 13.79 days";
 
+// English: Kepler-777, also known as KOI-1141 and KIC 8346392, is a K-type main-sequence star located 1,463.5 light-years from Earth, around which a super-Earth orbits with a period of only 5.724 days.
+"90044B87-C22E-48BA-924E-EF32477E7233" = "Kepler-777, also known as KOI-1141 and KIC 8346392, is a K-type main-sequence star located 1,463.5 light-years from Earth, around which a super-Earth orbits with a period of only 5.724 days.";
+
 // English: 4660 Nereus (1982 DB) is a 330 meter-wide asteroid discovered by Eleanor F. Helin on February 28, 1982. A month after its discovery, the asteroid passed about 4.1 million km away from Earth.
 "90308B06-A51A-42C9-BD9E-7509B1643738" = "4660 Nereus (1982 DB) is a 330 meter-wide asteroid discovered by Eleanor F. Helin on February 28, 1982. A month after its discovery, the asteroid passed about 4.1 million km away from Earth.";
 
@@ -4240,6 +4252,9 @@
 // English: To see it, you have to go in the Time/Reset Time and set the year 2998.\nThis add-on shows relative fantasy space rendering, not the real Earth image.\nSome facts about the three texture map of this add-on:\nThe Earth surface map shows the consequences of the greenhouse effect: entire countries, important cities (like Venice or new York) under meters of water.\nThe Earth Night map shows a probable but fictional future aspect of the night side: very big cities, but recent:after the ice caps disasters, a very large number of cities will be rebuilt.\nThe cloud map, based on the Stormy Earth add-on, shows the consequences of the pollution: a very big CO2-H2O cloud cap, like Venus, but a bit smaller.\nNote: This addons puts another Earth over top of the actual Earth rather then replacing the Earth resulting in objects in Low Earth Orbit being inside the Future Earth.
 "AFA4B6E9-AC8B-383F-C91B-8A0CE62A6D10" = "To see it, you have to go in the Time/Reset Time and set the year 2998.\nThis add-on shows relative fantasy space rendering, not the real Earth image.\nSome facts about the three texture map of this add-on:\nThe Earth surface map shows the consequences of the greenhouse effect: entire countries, important cities (like Venice or new York) under meters of water.\nThe Earth Night map shows a probable but fictional future aspect of the night side: very big cities, but recent:after the ice caps disasters, a very large number of cities will be rebuilt.\nThe cloud map, based on the Stormy Earth add-on, shows the consequences of the pollution: a very big CO2-H2O cloud cap, like Venus, but a bit smaller.\nNote: This addons puts another Earth over top of the actual Earth rather then replacing the Earth resulting in objects in Low Earth Orbit being inside the Future Earth.";
 
+// English: HD 5583, also known as TYC 2285-548-1, is a K-type star located 719.29 light-years away from Earth, with a hot Jupiter orbiting it every 139.23 days.
+"AFCABC03-0FD4-4E73-B760-EDD937A0B9E5" = "HD 5583, also known as TYC 2285-548-1, is a K-type star located 719.29 light-years away from Earth, with a hot Jupiter orbiting it every 139.23 days.";
+
 // English: 2008 EV₅ is a near-Earth asteroid discovered on March 4, 2008. It is believed to have originated from a much larger body in the asteroid belt, so after some cratering or rupture event, the fragments generated may have created 2008 EV₅. On December 23, 2008, it passed 8.4 lunar distances from Earth (0.022 AU, 3.2 million km). This asteroid was considered a possible target for NASA's Asteroid Redirect Mission, but the mission was canceled in 2017.
 "AFF3D399-465E-45C3-BC28-1DA9D95848D3" = "2008 EV₅ is a near-Earth asteroid discovered on March 4, 2008. It is believed to have originated from a much larger body in the asteroid belt, so after some cratering or rupture event, the fragments generated may have created 2008 EV₅. On December 23, 2008, it passed 8.4 lunar distances from Earth (0.022 AU, 3.2 million km). This asteroid was considered a possible target for NASA's Asteroid Redirect Mission, but the mission was canceled in 2017.";
 
@@ -4702,6 +4717,9 @@
 // English: YSES 1, also known as TYC 8998-760-1, is a young K-type pre-main sequence star about 309.45 light-years away in the constellation Musca. Estimated to be around 17 million years old, the star is the first known multiplanetary system discovered via direct imaging, where two super-jovian planets were spotted orbiting about 162 and 320 AU away from their host
 "C45CAE70-69F2-4B08-B2D5-89E04567D9F7" = "YSES 1, also known as TYC 8998-760-1, is a young K-type pre-main sequence star about 309.45 light-years away in the constellation Musca. Estimated to be around 17 million years old, the star is the first known multiplanetary system discovered via direct imaging, where two super-jovian planets were spotted orbiting about 162 and 320 AU away from their host";
 
+// English: TOI-2093 is a K-type main-sequence star located about 269.45 light-years from the solar system. Two planets are currently known to orbit this star: and inner non-transiting sub-Neptune mass planet and an outer transiting sub-Neptune.
+"C486EBE3-84BD-479C-884B-01D15496BF1F" = "TOI-2093 is a K-type main-sequence star located about 269.45 light-years from the solar system. Two planets are currently known to orbit this star: and inner non-transiting sub-Neptune mass planet and an outer transiting sub-Neptune.";
+
 // English: CFBDSIR 2149-0403 is a floating planetary-mass object and possible rogue planet. It is located in the constellation Aquarius, with best estimates indicating that it is about 130 light-years away from Earth. It was discovered in 2012 by the Canada-France Brown Dwarfs Survey, and confirmed by WISE data. It is estimated to have between 4 and 7 Jupiter masses.
 "C4A6A1E0-A8E8-424A-A3CF-90AD335AFC31" = "CFBDSIR 2149-0403 is a floating planetary-mass object and possible rogue planet. It is located in the constellation Aquarius, with best estimates indicating that it is about 130 light-years away from Earth. It was discovered in 2012 by the Canada-France Brown Dwarfs Survey, and confirmed by WISE data. It is estimated to have between 4 and 7 Jupiter masses.";
 
@@ -4929,6 +4947,9 @@
 
 // English: 10253 Westerwald is a main-belt asteroid about 2.3 km in diameter, discovered on 1973-Sep-29. It is the target of the UAE's MBR Explorer mission, with a flyby planned in February 2030.
 "CDB39525-DD58-4969-9C71-E9375D4452A7" = "10253 Westerwald is a main-belt asteroid about 2.3 km in diameter, discovered on 1973-Sep-29. It is the target of the UAE's MBR Explorer mission, with a flyby planned in February 2030.";
+
+// English: Gliese 617, also known as HD 147379, is a binary star system composed of two red dwarfs, located about 35 light-years from Earth, with a planet larger than Neptune orbiting the star, having an orbital period of about 86.5 days.
+"CDBFA098-6C80-4DAA-97A6-9F5C4F2520CA" = "Gliese 617, also known as HD 147379, is a binary star system composed of two red dwarfs, located about 35 light-years from Earth, with a planet larger than Neptune orbiting the star, having an orbital period of about 86.5 days.";
 
 // English: The Iota Piscium system, known in Orion's Arm as Lucida, hosts 6 major planets, including the terraformed world of Corona with its artificial aurora ring, and a number of dwarf planets, asteroids, and megastructures.
 "CDD67746-C1C9-40C5-B032-FADDF7947F3B" = "The Iota Piscium system, known in Orion's Arm as Lucida, hosts 6 major planets, including the terraformed world of Corona with its artificial aurora ring, and a number of dwarf planets, asteroids, and megastructures.";
@@ -5275,6 +5296,9 @@
 // English: The Advanced Land Observing Satellite (ALOS) 1, also called Daichi, was an Earth observations satellite operated by JAXA from 2006 to 2011. Weighing over 3,810 kg at launch, it has three sensors designed for cartography and disaster monitoring across the Asia-Pacific region. A malfunction in its solar array led to the termination of the mission, shortly after it monitored the devastating 2011 Tōhoku earthquake and tsunami. It remains in LEO as derelict space debris (as of 2025)
 "DCE7828C-8FA5-4427-83E7-16FBA2863510" = "The Advanced Land Observing Satellite (ALOS) 1, also called Daichi, was an Earth observations satellite operated by JAXA from 2006 to 2011. Weighing over 3,810 kg at launch, it has three sensors designed for cartography and disaster monitoring across the Asia-Pacific region. A malfunction in its solar array led to the termination of the mission, shortly after it monitored the devastating 2011 Tōhoku earthquake and tsunami. It remains in LEO as derelict space debris (as of 2025)";
 
+// English: NGTS-37, also known as TOI-2382, is 1,141.198 light-years away from Earth. It is an F-type star, with a hot Jupiter orbiting it. The orbital period is only 4.66 days, and its mass is about 235 times that of Earth.
+"DD0BF89A-1478-416F-BDF2-EAE9E488C9FA" = "NGTS-37, also known as TOI-2382, is 1,141.198 light-years away from Earth. It is an F-type star, with a hot Jupiter orbiting it. The orbital period is only 4.66 days, and its mass is about 235 times that of Earth.";
+
 // English: This addon adds, as an alternative surface, a map of Europa's temperature anomaly.
 "DD64F712-33D4-43E0-8CD4-F49EEE9F927C" = "This addon adds, as an alternative surface, a map of Europa's temperature anomaly.";
 
@@ -5403,6 +5427,9 @@
 
 // English: Gliese 876 is a red dwarf about 15.24 light-years away in the constellation Aquarius. A total of four planets (one superterran, one neptunian, and two super-Jovians) are found orbiting within 0.4 au from this star
 "E13198AE-6428-391C-432A-4998675C9A20" = "Gliese 876 is a red dwarf about 15.24 light-years away in the constellation Aquarius. A total of four planets (one superterran, one neptunian, and two super-Jovians) are found orbiting within 0.4 au from this star";
+
+// English: TOI-4495, also known as KIC 1414111, is about 429.8 light-years away from Earth. In 2024, a sub-Neptune planet was announced to have been discovered, orbiting its star once every 2.5 days.
+"E13E1297-32F1-4231-9FB6-CF6BC8877641" = "TOI-4495, also known as KIC 1414111, is about 429.8 light-years away from Earth. In 2024, a sub-Neptune planet was announced to have been discovered, orbiting its star once every 2.5 days.";
 
 // English: ASC-1 to 3 were three communications satellites operated by the American Satellite Corp. and later PanAmSat launched between 1985 and 1991. The first satellite is one of three spacecraft deployed from the payload bay of STS-51-I (Discovery). They provided television broadcasting and network until 2006, when the last of the satellites were decommissioned and replaced by newer fleets
 "E15DB7EE-2445-4405-84EB-B09B3684FF8E" = "ASC-1 to 3 were three communications satellites operated by the American Satellite Corp. and later PanAmSat launched between 1985 and 1991. The first satellite is one of three spacecraft deployed from the payload bay of STS-51-I (Discovery). They provided television broadcasting and network until 2006, when the last of the satellites were decommissioned and replaced by newer fleets";
@@ -5848,8 +5875,8 @@
 // English: Kepler-1606, also known as KOI-4450, is a G-type star located about 2776.978 light-years from Earth, and its planet is considered a potentially habitable world, orbiting the star with an orbital period of about 196.4352 days
 "F38682FF-52BA-4799-BC8E-B891C9C7A845" = "Kepler-1606, also known as KOI-4450, is a G-type star located about 2776.978 light-years from Earth, and its planet is considered a potentially habitable world, orbiting the star with an orbital period of about 196.4352 days";
 
-// English: TOI-2076 is a K-type star located about 136.59 lightyears from the solar system. The star has 3 warm Neptune-like planets orbiting within 0.2 AU (b= 2.518 Re, c= 3.497 Re, 3.232 Re). planets b and c exhibit TTVs and are near a 2:1 MMR, However, the model of said TTVs was not accurate enough to derive planet masses, and with no RV measurements, none of the planet's accurate masses are known.
-"F3B3D4C7-655A-4750-8EB1-9EAEB37A53EA" = "TOI-2076 is a K-type star located about 136.59 lightyears from the solar system. The star has 3 warm Neptune-like planets orbiting within 0.2 AU (b= 2.518 Re, c= 3.497 Re, 3.232 Re). planets b and c exhibit TTVs and are near a 2:1 MMR, However, the model of said TTVs was not accurate enough to derive planet masses, and with no RV measurements, none of the planet's accurate masses are known.";
+// English: TOI-2076 is a K-type main-sequence star located about 136.59 lightyears from the solar system. A compact collection of planets comprised of a hot super-Earth, a sub-Neptune and two roughly Neptune sized planets are currently known to orbit this star. TOI-2076 b and c are near a 2:1 resonance with c and d being near a 5:3 resonance. A possible resonate chain could be completed by a candidate super-Earth.
+"F3B3D4C7-655A-4750-8EB1-9EAEB37A53EA" = "TOI-2076 is a K-type main-sequence star located about 136.59 lightyears from the solar system. A compact collection of planets comprised of a hot super-Earth, a sub-Neptune and two roughly Neptune sized planets are currently known to orbit this star. TOI-2076 b and c are near a 2:1 resonance with c and d being near a 5:3 resonance. A possible resonate chain could be completed by a candidate super-Earth.";
 
 // English: PSR B1828-11 is a pulsar about 10,264 light-years away in the constellation Scutum. In 2006, it was theorized that a Pluto-sized object made out of quarks is orbiting only 65,000 km away from the neutron star. This hypothesis was listed in SIMBAD as controversial
 "F3F8F05D-1A45-BDAB-12FD-03AF2D7260C1" = "PSR B1828-11 is a pulsar about 10,264 light-years away in the constellation Scutum. In 2006, it was theorized that a Pluto-sized object made out of quarks is orbiting only 65,000 km away from the neutron star. This hypothesis was listed in SIMBAD as controversial";
