@@ -135,12 +135,12 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     { key: 'remove', display: 'Remove This Add-on?', elementName: 'submission-remove', type: 'checkbox', hint: 'Mark this add-on for removal', overrideFilename: 'category', fileContentProvider: function(checked) { if (checked) return 'remove'; else return null; } },
     { key: 'title', display: 'Title', elementName: 'submission-title', type: 'short-text', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'category', display: 'Category', elementName: 'submission-category', type: 'reference-select', values: categories, hint: 'Required for new add-ons. ID of the category', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
-    { key: 'type', display: 'Type', elementName: 'submission-type', type: 'text-select', values: [{ name: 'Add-on', id: 'addon' }, { name: 'Script', id: 'script' }], hint: 'Choose Script for script add-ons. Choose None when updating an add-on and you want to keep the existing type', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'type', display: 'Type', elementName: 'submission-type', type: 'text-select', values: [{ name: 'None', id: 'none' }, { name: 'Add-on', id: 'addon' }, { name: 'Script', id: 'script' }], hint: 'Choose Script for script add-ons. Choose None when updating an add-on and you want to keep the existing type', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'id_requirement', display: 'ID Requirement', elementName: 'submission-id-requirement', type: 'short-text', hint: 'Required for updating or removing an existing add-on' },
     { key: 'authors', display: 'Authors', elementName: 'submission-authors', type: 'short-text-list', hint: 'Required for new add-ons. Authors of the add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'description', display: 'Description', elementName: 'submission-description', type: 'long-text', hint: 'Required for new add-ons. Plain text description of the add-on', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
-    { key: 'demo_object_name', display: 'Demo Object Name', elementName: 'submission-demo-object-name', type: 'short-text', hint: 'Name of the object for Go to', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, targetSelect: 'submission-type', targetSelectValue: 'addon'  },
-    { key: 'main_script_name', display: 'Main Script Name', elementName: 'submission-main-script-name', type: 'short-text', hint: 'File name of the main script file', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, targetSelect: 'submission-type', targetSelectValue: 'script' },
+    { key: 'demo_object_name', display: 'Demo Object Name', elementName: 'submission-demo-object-name', type: 'short-text', hint: 'Path of the object for Go to. If provided, it must match one of the objects defined in ssc/stc/dsc files in this add-on and should be in the format of path', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, targetSelect: 'submission-type', targetSelectValue: ['addon', 'none'] },
+    { key: 'main_script_name', display: 'Main Script Name', elementName: 'submission-main-script-name', type: 'short-text', hint: 'File name of the main script file', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, targetSelect: 'submission-type', targetSelectValue: ['script', 'none'] },
     { key: 'release_date', display: 'Release Date', elementName: 'submission-release-date', type: 'date', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'last_update_date', display: 'Last Update Date', elementName: 'submission-last-update-date', type: 'date', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'cover_image', display: 'Cover Image', elementName: 'submission-cover-image', type: 'file', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, fileExtension: 'jpg'},
@@ -550,11 +550,19 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       if (Array.isArray(element.targetSelect)) {
         for (var j = 0; j < element.targetSelect.length; j++) {
           selects.push(document.getElementById(element.targetSelect[j]));
-          selectValues.push(element.targetSelectValue[j]);
+          if (Array.isArray(targetSelectValue[j])) {
+            selectValues.push(element.targetSelectValue[j]);
+          } else {
+            selectValues.push([element.targetSelectValue[j]])
+          }
         }
       } else if (element.targetSelect) {
         selects.push(document.getElementById(element.targetSelect));
-        selectValues.push(element.targetSelectValue);
+        if (Array.isArray(element.targetSelectValue)) {
+          selectValues.push(element.targetSelectValue);
+        } else {
+          selectValues.push([element.targetSelectValue])
+        }
       }
 
       function updateControlVisibility() {
@@ -566,7 +574,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
           }
         }
         for (var j = 0; j < selects.length; j++) {
-          if (selects[j].value != selectValues[j]) {
+          if (!selectValues[j].includes(selects[j].value)) {
             allSatisfy = false;
             break;
           }
