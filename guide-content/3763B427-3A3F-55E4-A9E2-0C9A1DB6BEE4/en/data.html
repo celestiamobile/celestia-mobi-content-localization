@@ -135,7 +135,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     { key: 'remove', display: 'Remove This Add-on?', elementName: 'submission-remove', type: 'checkbox', hint: 'Mark this add-on for removal', overrideFilename: 'category', fileContentProvider: function(checked) { if (checked) return 'remove'; else return null; } },
     { key: 'title', display: 'Title', elementName: 'submission-title', type: 'short-text', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'category', display: 'Category', elementName: 'submission-category', type: 'reference-select', values: categories, hint: 'Required for new add-ons. ID of the category', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
-    { key: 'type', display: 'Type', elementName: 'submission-type', type: 'text-select', values: [{ name: 'None', id: 'none' }, { name: 'Add-on', id: 'addon' }, { name: 'Script', id: 'script' }], hint: 'Choose Script for script add-ons. Choose None when updating an add-on and you want to keep the existing type', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'type', display: 'Type', elementName: 'submission-type', type: 'text-select', values: [{ name: 'None', id: 'none' }, { name: 'Add-on', id: 'addon' }, { name: 'Script', id: 'script' }], hint: 'Choose Script for script add-ons. Must be "None" for updating an add-on and must NOT be "None" for creating a new add-on', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'id_requirement', display: 'ID Requirement', elementName: 'submission-id-requirement', type: 'short-text', hint: 'Required for updating or removing an existing add-on' },
     { key: 'authors', display: 'Authors', elementName: 'submission-authors', type: 'short-text-list', hint: 'Required for new add-ons. Authors of the add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'description', display: 'Description', elementName: 'submission-description', type: 'long-text', hint: 'Required for new add-ons. Plain text description of the add-on', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
@@ -192,7 +192,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
         var input = document.getElementById(element.elementName);
         if (input.selectedIndex >= 0) {
           const value = input.options[input.selectedIndex].value;
-          if (value.length != 0) {
+          if (value.length != 0 && value != 'none') {
             var fullFilename = filename;
             if (element.fileExtension)
               fullFilename = `${filename}.${element.fileExtension}`;
