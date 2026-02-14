@@ -135,11 +135,11 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     { key: 'remove', display: 'Remove This Add-on?', elementName: 'submission-remove', type: 'checkbox', hint: 'Mark this add-on for removal', overrideFilename: 'category', fileContentProvider: function(checked) { if (checked) return 'remove'; else return null; } },
     { key: 'title', display: 'Title', elementName: 'submission-title', type: 'short-text', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'category', display: 'Category', elementName: 'submission-category', type: 'reference-select', values: categories, hint: 'Required for new add-ons. ID of the category', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
-    { key: 'type', display: 'Type', elementName: 'submission-type', type: 'text-select', values: [{ name: 'None', id: '' }, { name: 'Add-on', id: 'addon' }, { name: 'Script', id: 'script' }], hint: 'Choose Script for script add-ons. Choose None when updating an add-on and you want to keep the existing type', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'type', display: 'Type', elementName: 'submission-type', type: 'text-select', values: [{ name: 'Add-on', id: 'addon' }, { name: 'Script', id: 'script' }], hint: 'Choose Script for script add-ons. Choose None when updating an add-on and you want to keep the existing type', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'id_requirement', display: 'ID Requirement', elementName: 'submission-id-requirement', type: 'short-text', hint: 'Required for updating or removing an existing add-on' },
     { key: 'authors', display: 'Authors', elementName: 'submission-authors', type: 'short-text-list', hint: 'Required for new add-ons. Authors of the add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'description', display: 'Description', elementName: 'submission-description', type: 'long-text', hint: 'Required for new add-ons. Plain text description of the add-on', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
-    { key: 'demo_object_name', display: 'Demo Object Name', elementName: 'submission-demo-object-name', type: 'short-text', hint: 'Name of the object for Go to', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
+    { key: 'demo_object_name', display: 'Demo Object Name', elementName: 'submission-demo-object-name', type: 'short-text', hint: 'Name of the object for Go to', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, targetSelect: 'submission-type', targetSelectValue: 'addon'  },
     { key: 'main_script_name', display: 'Main Script Name', elementName: 'submission-main-script-name', type: 'short-text', hint: 'File name of the main script file', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, targetSelect: 'submission-type', targetSelectValue: 'script' },
     { key: 'release_date', display: 'Release Date', elementName: 'submission-release-date', type: 'date', hint: 'Required for new add-ons', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'last_update_date', display: 'Last Update Date', elementName: 'submission-last-update-date', type: 'date', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
@@ -557,36 +557,36 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
         selectValues.push(element.targetSelectValue);
       }
 
-      let allSatisfy = true;
-      for (var j = 0; j < checkboxes.length; j++) {
-        if (checkboxes[j].checked != checkboxValues[j]) {
-          allSatisfy = false;
-          break;
+      function updateControlVisibility() {
+        let allSatisfy = true;
+        for (var j = 0; j < checkboxes.length; j++) {
+          if (checkboxes[j].checked != checkboxValues[j]) {
+            allSatisfy = false;
+            break;
+          }
         }
-      }
-      for (var j = 0; j < selects.length; j++) {
-        if (selects[j].value != selectValues[j]) {
-          allSatisfy = false;
-          break;
+        for (var j = 0; j < selects.length; j++) {
+          if (selects[j].value != selectValues[j]) {
+            allSatisfy = false;
+            break;
+          }
         }
-      }
-      if (!allSatisfy) {
         for (var j = 0; j < controls.length; j++) {
-          controls[j].style.display = 'none';
+          controls[j].style.display = allSatisfy ? '' : 'none';
         }
       }
+
+      updateControlVisibility();
+
       for (var j = 0; j < checkboxes.length; j++) {
         checkboxes[j].addEventListener('change', function() {
-          let allSatisfyAfterChange = true;
-          for (var k = 0; k < checkboxes.length; k++) {
-            if (checkboxes[k].checked != checkboxValues[k]) {
-              allSatisfyAfterChange = false;
-              break;
-            }
-          }
-          for (var k = 0; k < controls.length; k++) {
-            controls[k].style.display = !allSatisfyAfterChange ? 'none' : '';
-          }
+          updateControlVisibility();
+        });
+      }
+
+      for (var j = 0; j < selects.length; j++) {
+        selects[j].addEventListener('change', function() {
+          updateControlVisibility();
         });
       }
     }

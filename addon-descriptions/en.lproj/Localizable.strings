@@ -985,6 +985,9 @@
 // English: TOI-5293 is a binary system comprised of two red dwarfs located about 529.08 lightyears from the solar system. the primary star, TOI-5293 A, has a single, warm, low-density gas giant that completes a full orbit every 2.93 days (A b= 11.9 Re, 170.4 Me)
 "2A0E7434-B9B5-4D86-B23D-36762ABC03BA" = "TOI-5293 is a binary system comprised of two red dwarfs located about 529.08 lightyears from the solar system. the primary star, TOI-5293 A, has a single, warm, low-density gas giant that completes a full orbit every 2.93 days (A b= 11.9 Re, 170.4 Me)";
 
+// English: NGTS-33, also known as TOI-6442, is an A-type star located about 1,428 light-years from Earth. A hot Jupiter orbits this star with a period of 2.8 days, and it has a mass approximately 3.6 times that of Jupiter.
+"2A21C0F1-229E-4172-91E5-A664D8626359" = "NGTS-33, also known as TOI-6442, is an A-type star located about 1,428 light-years from Earth. A hot Jupiter orbits this star with a period of 2.8 days, and it has a mass approximately 3.6 times that of Jupiter.";
+
 // English: The Infrared Space Observatory (ISO) is a European space telescope that operated from 1995 to 1998. It is designed as a successor to the IRAS observatory which operated in 1983. After shutting down upon the completion its mission, it is predicted to continue orbiting the Earth as a derelict object for another 20 to 30 years
 "2A25B09A-94B9-401D-9762-E9ACCF0AE503" = "The Infrared Space Observatory (ISO) is a European space telescope that operated from 1995 to 1998. It is designed as a successor to the IRAS observatory which operated in 1983. After shutting down upon the completion its mission, it is predicted to continue orbiting the Earth as a derelict object for another 20 to 30 years";
 
@@ -1453,6 +1456,9 @@
 // English: 2MASS J21171431-2940034 is a 7-Jupiter-mass T0-type sub-brown dwarf located just over 62 light years away, in the Beta Pictoris moving group. In 2024, a transit signal was observed, suggesting the existence of a transiting exoplanet/exomoon 77% the size of Earth orbiting the star every 1.5 days
 "3B3F07D3-9D12-4C4B-A3CA-97B46EB0EFF9" = "2MASS J21171431-2940034 is a 7-Jupiter-mass T0-type sub-brown dwarf located just over 62 light years away, in the Beta Pictoris moving group. In 2024, a transit signal was observed, suggesting the existence of a transiting exoplanet/exomoon 77% the size of Earth orbiting the star every 1.5 days";
 
+// English: Gliese 902, also known as HIP 116745 and HD 222237, is a K-type main-sequence star located 37.33 light-years away from Earth. This star has a known exoplanet, a super-Jupiter named HD 222237 b, which was discovered in 2024 through radial velocity. The planet has a mass five times that of Jupiter and takes about 40 years to complete one orbit.
+"3B4310F7-7DA6-4E72-9587-7E6B533B5705" = "Gliese 902, also known as HIP 116745 and HD 222237, is a K-type main-sequence star located 37.33 light-years away from Earth. This star has a known exoplanet, a super-Jupiter named HD 222237 b, which was discovered in 2024 through radial velocity. The planet has a mass five times that of Jupiter and takes about 40 years to complete one orbit.";
+
 // English: HD 38801, also known as BD-08 1218, is a K-type subgiant star located 324.2 light-years from Earth. In 2010, a gas giant planet was discovered orbiting it, with an orbital period of 686.8 days.
 "3B646D9D-ABC8-4CA8-BB53-635DE132C457" = "HD 38801, also known as BD-08 1218, is a K-type subgiant star located 324.2 light-years from Earth. In 2010, a gas giant planet was discovered orbiting it, with an orbital period of 686.8 days.";
 
@@ -1873,8 +1879,8 @@
 // English: Gliese 3512 is a nearby red dwarf star only about 30.95 light-years away in the constellation Ursa Major. It has two gas giant planets that are predicted to have low temperatures despite their relative close proximity to their host star
 "4CDD38ED-8668-4C69-9330-C09C99E79A38" = "Gliese 3512 is a nearby red dwarf star only about 30.95 light-years away in the constellation Ursa Major. It has two gas giant planets that are predicted to have low temperatures despite their relative close proximity to their host star";
 
-// English: TOI-1807 is a K-type star located about 139.04 lightyears from the solar system. A single hot super-Earth (b= 1.37 Re, 2.57 Me) orbits this star every 13.19 hours.\n\nRemaster Update:\n- New base textures\n- New Atmosphere parameters\n- Original texture included as alternate surface
-"4CDFBF24-3F0B-49F6-99DE-5855D3B3465E" = "TOI-1807 is a K-type star located about 139.04 lightyears from the solar system. A single hot super-Earth (b= 1.37 Re, 2.57 Me) orbits this star every 13.19 hours.\n\nRemaster Update:\n- New base textures\n- New Atmosphere parameters\n- Original texture included as alternate surface";
+// English: TOI-1807 is a K-type main-sequence star located about 139.04 lightyears from the solar system. A single hot super-Earth orbits this star every 13.19 hours.
+"4CDFBF24-3F0B-49F6-99DE-5855D3B3465E" = "TOI-1807 is a K-type main-sequence star located about 139.04 lightyears from the solar system. A single hot super-Earth orbits this star every 13.19 hours.";
 
 // English: An addon that has a barycenter with every spectral type of brown dwarf and main sequence star ranging from Y9 to L0 for the brown dwarves and M9V to O0V.
 "4D023002-8F85-44E8-96D2-812D97057DE2" = "An addon that has a barycenter with every spectral type of brown dwarf and main sequence star ranging from Y9 to L0 for the brown dwarves and M9V to O0V.";
@@ -4417,6 +4423,9 @@
 // English: Medical Frigate from ESBA. NOTE: This add-on requires the Tatooine, Endor and Death Staradd-on!
 "B89F1A6A-ADCA-755D-9352-8B9D0924FF5F" = "Medical Frigate from ESBA. NOTE: This add-on requires the Tatooine, Endor and Death Staradd-on!";
 
+// English: HD 2638, also known as HIP 2350, is a binary star system composed of a G-type star and a red dwarf, located 179.5 light-years from Earth. In 2005, a research team discovered an exoplanet orbiting component A, which has 48% of Jupiter's mass and an orbital period of about just 3 days.
+"B8A163D9-56A7-4097-9F46-E4ACEDC563F2" = "HD 2638, also known as HIP 2350, is a binary star system composed of a G-type star and a red dwarf, located 179.5 light-years from Earth. In 2005, a research team discovered an exoplanet orbiting component A, which has 48% of Jupiter's mass and an orbital period of about just 3 days.";
+
 // English: HD 152843 is a spectral type G0 star about 352 light-years away, with two Neptune-sized objects orbiting it
 "B8E65D48-D667-4DDE-B92A-AD5CF816B974" = "HD 152843 is a spectral type G0 star about 352 light-years away, with two Neptune-sized objects orbiting it";
 
@@ -5431,6 +5440,9 @@
 // English: TOI-4495, also known as KIC 1414111, is about 429.8 light-years away from Earth. In 2024, a sub-Neptune planet was announced to have been discovered, orbiting its star once every 2.5 days.
 "E13E1297-32F1-4231-9FB6-CF6BC8877641" = "TOI-4495, also known as KIC 1414111, is about 429.8 light-years away from Earth. In 2024, a sub-Neptune planet was announced to have been discovered, orbiting its star once every 2.5 days.";
 
+// English: HD 1397, also known as TOI-120 and HIP 1419, is a G-type subgiant star located about 260 light-years from Earth. A gas giant planet orbits this star with an orbital period of approximately 11.53 Earth days and an eccentricity of e=0.216.
+"E146BBD1-EC2D-4B95-964E-63606DF70260" = "HD 1397, also known as TOI-120 and HIP 1419, is a G-type subgiant star located about 260 light-years from Earth. A gas giant planet orbits this star with an orbital period of approximately 11.53 Earth days and an eccentricity of e=0.216.";
+
 // English: ASC-1 to 3 were three communications satellites operated by the American Satellite Corp. and later PanAmSat launched between 1985 and 1991. The first satellite is one of three spacecraft deployed from the payload bay of STS-51-I (Discovery). They provided television broadcasting and network until 2006, when the last of the satellites were decommissioned and replaced by newer fleets
 "E15DB7EE-2445-4405-84EB-B09B3684FF8E" = "ASC-1 to 3 were three communications satellites operated by the American Satellite Corp. and later PanAmSat launched between 1985 and 1991. The first satellite is one of three spacecraft deployed from the payload bay of STS-51-I (Discovery). They provided television broadcasting and network until 2006, when the last of the satellites were decommissioned and replaced by newer fleets";
 
@@ -5475,6 +5487,9 @@
 
 // English: Kepler-27, while known to have three confirmed planets, has two additional candidate Neptune sized planets that are projected to orbit within it's habitable zone.
 "E2C68184-F69F-46FF-9F3C-F4B98526ED31" = "Kepler-27, while known to have three confirmed planets, has two additional candidate Neptune sized planets that are projected to orbit within it's habitable zone.";
+
+// English: While TOI-2076 doesn't possess any notable multiplanetary resonate chains, it could have an alternating 2:1, 5:3 resonance pattern if a planet at 6 Days is present within this system. A signal was found within TESS data that is consistent with a super-Earth sized object at roughly 6.25 Days but the signal could not be validated as confirmed.
+"E315BD54-C7F8-4C10-9BF3-2CE716E48BC7" = "While TOI-2076 doesn't possess any notable multiplanetary resonate chains, it could have an alternating 2:1, 5:3 resonance pattern if a planet at 6 Days is present within this system. A signal was found within TESS data that is consistent with a super-Earth sized object at roughly 6.25 Days but the signal could not be validated as confirmed.";
 
 // English: K2-21, Also known as EPIC 206011691, K2-21 is a red dwarf star located 272.564 light-years from Earth, it has two sub-Neptunes, with an orbital period of 9.32 days on the inner planet and 15.5 days on the outer planet
 "E3408C51-1300-4992-A522-9B05D1F05B28" = "K2-21, Also known as EPIC 206011691, K2-21 is a red dwarf star located 272.564 light-years from Earth, it has two sub-Neptunes, with an orbital period of 9.32 days on the inner planet and 15.5 days on the outer planet";
@@ -5523,6 +5538,9 @@
 
 // English: This addon adds an alternative texture from Europa, seen through radio waves.
 "E59443D7-DFFB-413F-B78E-CC0CFE27DC6F" = "This addon adds an alternative texture from Europa, seen through radio waves.";
+
+// English: NGTS-32 is a G-type subgiant star located approximately 2,826 light-years from Earth. It is known to have one planet (a hot Jupiter) with an orbital period of only 3.3 Earth days and a mass of only 57% of Jupiter's.
+"E5B4B8D4-C2C0-4A22-9219-417B671484E8" = "NGTS-32 is a G-type subgiant star located approximately 2,826 light-years from Earth. It is known to have one planet (a hot Jupiter) with an orbital period of only 3.3 Earth days and a mass of only 57% of Jupiter's.";
 
 // English: Adds 40 space debris objects in Earth orbits. For more information read the Readme file contained in the zip file.
 "E5BAA778-08E6-5CF4-D248-528DC8A95A45" = "Adds 40 space debris objects in Earth orbits. For more information read the Readme file contained in the zip file.";
