@@ -1651,8 +1651,8 @@
 // English: Kepler-57, aka KOI-1270, is a K-type main sequence star located about 2141.26 lightyears from the solar system. two planets, one similar in size to Neptune but more massive and a sub-Neptune are known to orbit this star.
 "42AB3A90-F72B-4F67-859F-BDCF65450FFE" = "Kepler-57, aka KOI-1270, is a K-type main sequence star located about 2141.26 lightyears from the solar system. two planets, one similar in size to Neptune but more massive and a sub-Neptune are known to orbit this star.";
 
-// English: This addon adds an alternative texture of the planet Uranus in infrared.
-"42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "This addon adds an alternative texture of the planet Uranus in infrared.";
+// English: This add-on adds, as an alternative surface, a infrared map of Uranus, based on observations from the Keck Observatory.
+"42D1D30E-1E86-1E65-531D-F45F7E0A0A41" = "This add-on adds, as an alternative surface, a infrared map of Uranus, based on observations from the Keck Observatory.";
 
 // English: This add-on adds over 77300 stars and 29 open clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.
 "42D26A52-CA95-D59C-06C6-16E653D1196B" = "This add-on adds over 77300 stars and 29 open clusters to the Large Magellanic Cloud. These stars are real, and the data is from SIMBAD. Specifically, the coordinates and names of the stars are real, and the spectral types (if known) have been included.";
@@ -3652,8 +3652,8 @@
 // English: KOI-2700 is a K-type main sequence star about 1,669 light-years away in the constellation Cygnus. Its sole planet is one of the smallest exoplanets ever discovered, which is only slightly larger than our own Moon, where it completes a single orbit around its star once every 21.84 hours at a distance of 2.39 million km
 "97A54DE9-5C55-4DE6-85AC-309E0B34C078" = "KOI-2700 is a K-type main sequence star about 1,669 light-years away in the constellation Cygnus. Its sole planet is one of the smallest exoplanets ever discovered, which is only slightly larger than our own Moon, where it completes a single orbit around its star once every 21.84 hours at a distance of 2.39 million km";
 
-// English: This addon adds the \"LunarLambert\" parameter to gas/ice giants, making them visually more beautiful.\n\nComparison: On each planet, the left without LunarLambert (default). On the right, LunarLambert activated:
-"97AA656D-197A-43A2-BAD7-390A1AD14FBF" = "This addon adds the \"LunarLambert\" parameter to gas/ice giants, making them visually more beautiful.\n\nComparison: On each planet, the left without LunarLambert (default). On the right, LunarLambert activated:";
+// English: This add-on adds a 4K texture for Uranus, based in part on Voyager 2 coverage in 1986. It also adds the faint outer rings Mu and Nu, discovered by Hubble observations between 2003-2005, as well as the broad, inner and also faint ring Zeta/1986U2R, first seen by Voyager. Lastly, it includes five additional \"Locations\" in the rings.
+"97AA656D-197A-43A2-BAD7-390A1AD14FBF" = "This add-on adds a 4K texture for Uranus, based in part on Voyager 2 coverage in 1986. It also adds the faint outer rings Mu and Nu, discovered by Hubble observations between 2003-2005, as well as the broad, inner and also faint ring Zeta/1986U2R, first seen by Voyager. Lastly, it includes five additional \"Locations\" in the rings.";
 
 // English: OGLE-2016-BLG-0007L, also known as MOA-2016-BLG-088L, is a distant K-type main-sequence star about 14,000 light-years away in the constellation Sagittarius. An Earth-sized rocky planet orbits its star at a distance of 10 AU, roughly similar to Saturn's distance to our Sun
 "97BDFA92-CD7E-4C66-8974-D58D754885F9" = "OGLE-2016-BLG-0007L, also known as MOA-2016-BLG-088L, is a distant K-type main-sequence star about 14,000 light-years away in the constellation Sagittarius. An Earth-sized rocky planet orbits its star at a distance of 10 AU, roughly similar to Saturn's distance to our Sun";
