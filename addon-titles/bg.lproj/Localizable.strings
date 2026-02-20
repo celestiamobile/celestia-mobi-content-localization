@@ -2227,8 +2227,8 @@
 // English: Utapau
 "5C565AC8-FA53-4597-9DAC-2B0E7F5E4DDC" = "Utapau";
 
-// English: Triton
-//"5C992851-48EE-473F-96BA-F10E921A6CB1" = "Triton";
+// English: Triton: VT Surface Map
+//"5C992851-48EE-473F-96BA-F10E921A6CB1" = "Triton: VT Surface Map";
 
 // English: Kepler-643
 "5CD5E18C-9A92-0CAB-E394-2B08459569C7" = "Кеплер-643";
@@ -3856,7 +3856,7 @@
 // English: Upper Scorpius (Rogue Planets)
 "A11D43E0-06D3-43CC-8219-0C8A1C5B6787" = "Upper Scorpius (Rogue Planets)";
 
-// English: Neptune (2020)
+// English: Neptune: Outer Satellites
 "A1325AD2-D38F-F888-DDB9-B6ED1409B97F" = "Нептун (2020)";
 
 // English: K2-17

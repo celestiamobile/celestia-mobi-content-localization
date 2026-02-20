@@ -2227,8 +2227,8 @@
 // English: Utapau is a remote subterranean planet located in the Outer Rim. The homeworld of the Pau'ans, this is where Obi-Wan Kenobi managed to defeat General Grievous in the final years of the Clone Wars, only to narrowly escape death himself when Order 66 was executed by the clones
 "5C565AC8-FA53-4597-9DAC-2B0E7F5E4DDC" = "Utapau is a remote subterranean planet located in the Outer Rim. The homeworld of the Pau'ans, this is where Obi-Wan Kenobi managed to defeat General Grievous in the final years of the Clone Wars, only to narrowly escape death himself when Order 66 was executed by the clones";
 
-// English: This addon enhances Neptune's moon Triton, including:\n\n- Virtual texture (VT) in real colors. \n- Alternative VT surface in enhanced colors.
-"5C992851-48EE-473F-96BA-F10E921A6CB1" = "This addon enhances Neptune's moon Triton, including:\n\n- Virtual texture (VT) in real colors. \n- Alternative VT surface in enhanced colors.";
+// English: This addon adds a high-resolution virtual texture (VT) for Triton, which replaces the default texture. Includes surface map (true color and enhanced colors), normal map and cloud map (with visible plumes!), created from imagery from the Voyager 2 (Enhanced colors is an alternative texture).
+"5C992851-48EE-473F-96BA-F10E921A6CB1" = "This addon adds a high-resolution virtual texture (VT) for Triton, which replaces the default texture. Includes surface map (true color and enhanced colors), normal map and cloud map (with visible plumes!), created from imagery from the Voyager 2 (Enhanced colors is an alternative texture).";
 
 // English: Kepler-643 is a K-type main-sequence star about 3,578 light-years away in the constellation Lyra. Its sole gas giant planet orbits in a very eccentric trajectory, ranging in distances from 0.08 to 0.17 AU around its star
 "5CD5E18C-9A92-0CAB-E394-2B08459569C7" = "Kepler-643 is a K-type main-sequence star about 3,578 light-years away in the constellation Lyra. Its sole gas giant planet orbits in a very eccentric trajectory, ranging in distances from 0.08 to 0.17 AU around its star";
@@ -3856,8 +3856,8 @@
 // English: This is a catalog of 63 rogue planets that were discovered within the Upper Scorpius OB Association which are about 400-440 light-years away from Earth
 "A11D43E0-06D3-43CC-8219-0C8A1C5B6787" = "This is a catalog of 63 rogue planets that were discovered within the Upper Scorpius OB Association which are about 400-440 light-years away from Earth";
 
-// English: An alternate surface map depicting Neptune as it was seen by the Hubble Space Telescope in 2020
-"A1325AD2-D38F-F888-DDB9-B6ED1409B97F" = "An alternate surface map depicting Neptune as it was seen by the Hubble Space Telescope in 2020";
+// English: This add-on adds XYZV trajectories in the period 1957-2100 for the 8 known (as of 2026) irregular outer satellites of Neptune. These satellites undergo gravitational perturbations, primarily from the Sun, which change their respective orbital elements. With this add-on, they are precisely simulated, which is not possible with simple default Keplerian orbits.
+"A1325AD2-D38F-F888-DDB9-B6ED1409B97F" = "This add-on adds XYZV trajectories in the period 1957-2100 for the 8 known (as of 2026) irregular outer satellites of Neptune. These satellites undergo gravitational perturbations, primarily from the Sun, which change their respective orbital elements. With this add-on, they are precisely simulated, which is not possible with simple default Keplerian orbits.";
 
 // English: K2-17 is a star of spectral type K5, 409.5 light-years from Earth, and it has a planet K2-17 b, discovered in 2015. Its orbital period is only 17.96 days, and its diameter is about one-fifth that of Jupiter. It may be a mini-Neptune or a rocky planet with a thick atmosphere
 "A13DDD48-0401-49A2-BB17-61D837D725F5" = "K2-17 is a star of spectral type K5, 409.5 light-years from Earth, and it has a planet K2-17 b, discovered in 2015. Its orbital period is only 17.96 days, and its diameter is about one-fifth that of Jupiter. It may be a mini-Neptune or a rocky planet with a thick atmosphere";
