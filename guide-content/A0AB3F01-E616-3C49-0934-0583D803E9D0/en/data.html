@@ -1,16 +1,27 @@
-<p>Mobile Celestia has the same support for scripts and URLs as desktop 
+<p>celestia.mobi frontends have the same support for scripts and URLs as desktop 
 Celestia.</p>
 <h3 id="scripts">Scripts</h3>
-<p>Favorites -&gt; Scripts lists all the Celestia&#39;s built in scripts 
-and scripts in the public folder. To learn how to put scripts in the 
+<p>Favorites → Scripts on mobile and File → Scripts menu on desktop lists all the Celestia's built in scripts 
+and scripts in the public folder like the script add-ons you download from celestia.mobi. You can also add scripts to the public folder manually. To learn how to put scripts in the 
 public folder, go to <a 
-href="https://celestia.mobi/resources/guide?guide=D1A96BFA-00BB-0089-F361-10DD886C8A4F&amp;lang=en">Use 
+href="celguide://guide?guide=D1A96BFA-00BB-0089-F361-10DD886C8A4F">Use 
 Add-ons and Scripts</a>.</p>
-<p>Mobile Celestia can also open scripts directly, open your file browser 
+<p>Celestia can also open scripts directly, open your file browser 
 and find a .cel/.celx file, you should be able to choose to open it in 
 Celestia.</p>
 <h3 id="urls">URLs</h3>
-<p>URLs can be opened in the same way, type an cel:// URL in the address 
-bar in the web browser, the system should prompt you to open the URL in 
+<h4>cel:// URLs (Bookmarks)</h4>
+<p>cel:// URLs (Bookmarks) capture the state of Celestia so that you can return to it later. Celestia has a built-in bookmarks manager, you can access bookmarks from Bookmarks menu on desktop and from Favorites on mobile. You can also type an cel:// URL in the address 
+bar in the web browser, and the system should prompt you to open the URL in 
 Celestia.</p>
+<h4>celaddon:// and celguide:// URLs</h4>
+<p>celaddon:// and celguide:// are URL schemes in celestia.mobi frontends to open add-ons or articles. Typically add-ons have this URL celaddon://item?item=ADDON_ID, articles have this URL celguide://guide?guide=ARTICLE_ID.</p>
+<h4>celestia:// URLs</h4>
+<p>celestia:// is a new URL scheme in celestia.mobi frontends to accomplish various tasks.</p>
+<p class="secondary-text-box">celestia://addon/ADDON_ID</p>
+<p>Opens an add-on with the given ADDON_ID.</p>
+<p class="secondary-text-box">celestia://article/ARTICLE_ID</p>
+<p>Opens an article with the given ARTICLE_ID.</p>
+<p class="secondary-text-box">celestia://object/OBJECT_PATH?action=ACTION</p>
+<p>ACTION is optional, if not specified, the URL opens the info view of the object with the given OBJECT_PATH. ACTION can be one of the following: select, go, center, follow, chase, track, syncOrbit, lock, and land.</p>
 
