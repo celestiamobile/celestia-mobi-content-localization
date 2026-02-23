@@ -2080,6 +2080,9 @@
 // English: Rho Indi is a G-type subgiant star about 87.12 light-years away in the constellation Indus. A gas giant planet about twice the mass of Jupiter was discovered, orbiting about 3.18 AU away from its host star.
 "54599D27-ED40-444E-B0AB-F848D1E9A1F6" = "Rho Indi is a G-type subgiant star about 87.12 light-years away in the constellation Indus. A gas giant planet about twice the mass of Jupiter was discovered, orbiting about 3.18 AU away from its host star.";
 
+// English: This is a catalog of 30 isolated stellar mass black holes that were discovered using the microlensing method, between 2001 to 2024.\n\nList of black holes included in the addon, to help you find each one:\n\n•OGLE-2007-BLG-275L\n•OGLE-2005-BLG-143L\n•OGLE3-ULENS-PAR-03L\n•OGLE-2008-BLG-310L\n•OGLE-2000-BUL-43L\n•OGLE3-ULENS-PAR-39L\n•OGLE BLG131.1 141016L\n•Gaia18cbf L\n•OGLE-2005-SMC-001L B\n•MACHO-98-BLG-6L\n•OGLE3-ULENS-PAR-12L\n•GaiaDR3-ULENS 088L\n•OGLE3-ULENS-PAR-30L\n•OGLE3-ULENS-PAR-04L\n•OGLE-2004-BLG-131L\n•OGLE-2005-BLG-165L\n•OGLE3-ULENS-PAR-15L\n•GaiaDR3-ULENS 069L\n•GaiaDR3-ULENS 259L\n•OGLE-2006-BLG-377L\n•OGLE-2012-BLG-0169L\n•MACHO-96-BLG-5L\n•OGLE-2011-BLG-0462L\n•OGLE3-ULENS-PAR-05L\n•OGLE-2005-BLG-363L\n•OGLE-2005-SMC-001L A\n•MACHO-99-BLG-22L\n•OGLE3-ULENS-PAR-13L\n•OGLE3-ULENS-PAR-02L\n•Gaia18ajz L
+"5461087B-5C93-4300-821C-992C6F624A96" = "This is a catalog of 30 isolated stellar mass black holes that were discovered using the microlensing method, between 2001 to 2024.\n\nList of black holes included in the addon, to help you find each one:\n\n•OGLE-2007-BLG-275L\n•OGLE-2005-BLG-143L\n•OGLE3-ULENS-PAR-03L\n•OGLE-2008-BLG-310L\n•OGLE-2000-BUL-43L\n•OGLE3-ULENS-PAR-39L\n•OGLE BLG131.1 141016L\n•Gaia18cbf L\n•OGLE-2005-SMC-001L B\n•MACHO-98-BLG-6L\n•OGLE3-ULENS-PAR-12L\n•GaiaDR3-ULENS 088L\n•OGLE3-ULENS-PAR-30L\n•OGLE3-ULENS-PAR-04L\n•OGLE-2004-BLG-131L\n•OGLE-2005-BLG-165L\n•OGLE3-ULENS-PAR-15L\n•GaiaDR3-ULENS 069L\n•GaiaDR3-ULENS 259L\n•OGLE-2006-BLG-377L\n•OGLE-2012-BLG-0169L\n•MACHO-96-BLG-5L\n•OGLE-2011-BLG-0462L\n•OGLE3-ULENS-PAR-05L\n•OGLE-2005-BLG-363L\n•OGLE-2005-SMC-001L A\n•MACHO-99-BLG-22L\n•OGLE3-ULENS-PAR-13L\n•OGLE3-ULENS-PAR-02L\n•Gaia18ajz L";
+
 // English: The Black Acropolis is a pair of ancient Dyson swarms in a \"snailshell\" configuration, first built 312 million years ago by the vanished Tkzeph empire. In the present day of the Orion's Arm setting, the system is inhabited by another alien species known as the Ultimates.
 "54723AF6-F916-41AC-8D6A-143C9AF75515" = "The Black Acropolis is a pair of ancient Dyson swarms in a \"snailshell\" configuration, first built 312 million years ago by the vanished Tkzeph empire. In the present day of the Orion's Arm setting, the system is inhabited by another alien species known as the Ultimates.";
 
@@ -2356,6 +2359,9 @@
 // English: Part 12 of Celestia Origin's minor planet catalog, from 1201 Strenua to 1400 Tirela. Also includes the satellite of 1333 Cevenola.\n\nNOTES:\n- The asteroid 1252 Celestia is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 1201 Strenua.
 "6057D09A-3E86-48E2-BA45-61DFAD947C0E" = "Part 12 of Celestia Origin's minor planet catalog, from 1201 Strenua to 1400 Tirela. Also includes the satellite of 1333 Cevenola.\n\nNOTES:\n- The asteroid 1252 Celestia is found in the default Celestia.\n- The \"Go-to Object\" button will take you to the first asteroid, 1201 Strenua.";
 
+// English: WASP-2 is a binary star system, consisting of a K-type main-sequence star and a red dwarf. The known component A has a hot Jupiter with an orbital period of only 2.15 days and a mass of 84.7% that of Jupiter.
+"6078E445-E1B3-4A65-BC28-4BFAC24BEC4A" = "WASP-2 is a binary star system, consisting of a K-type main-sequence star and a red dwarf. The known component A has a hot Jupiter with an orbital period of only 2.15 days and a mass of 84.7% that of Jupiter.";
+
 // English: Ross 128 is a red dwarf about 11 light-years away in the constellation Virgo. It is host to one potentially habitable terran planet, orbiting along the inner edge of the star's Goldilocks zone
 "60A874BB-EE54-E2DA-6C41-2489DB599A18" = "Ross 128 is a red dwarf about 11 light-years away in the constellation Virgo. It is host to one potentially habitable terran planet, orbiting along the inner edge of the star's Goldilocks zone";
 
@@ -2478,6 +2484,9 @@
 
 // English: Comet Machholz 1, also known as 96P/Machholz, is a periodic sungrazing comet about 6.4 km in diameter, which completes one orbit around the Sun every 5.29 years. Its unusual composition compared to other comets led some scientists to theorize it was a former interstellar object captured by the Sun. It is the third comet discovered by astronomer Donald Machholz
 "645EF06A-B4F9-4D56-9F8C-9CEBDAF52806" = "Comet Machholz 1, also known as 96P/Machholz, is a periodic sungrazing comet about 6.4 km in diameter, which completes one orbit around the Sun every 5.29 years. Its unusual composition compared to other comets led some scientists to theorize it was a former interstellar object captured by the Sun. It is the third comet discovered by astronomer Donald Machholz";
+
+// English: HD 52265, also known as HR 2622, is a G-type main-sequence star located about 97.86 light-years from Earth. This star is known to host a Jupiter-like planet with an orbital period of approximately 118 days.
+"649BB914-71D5-4C48-9F32-3EF53B6F0605" = "HD 52265, also known as HR 2622, is a G-type main-sequence star located about 97.86 light-years from Earth. This star is known to host a Jupiter-like planet with an orbital period of approximately 118 days.";
 
 // English: Kepler-107 is a G-type main sequence star located about 1741.82 light-years from the solar system. a compact frou planet system composed of two super-Earths, a sub-Earth sized planet, and a sub-Neptune are known to orbit this star.
 "649CCCDC-90FC-4390-B5B6-B620D57C03FC" = "Kepler-107 is a G-type main sequence star located about 1741.82 light-years from the solar system. a compact frou planet system composed of two super-Earths, a sub-Earth sized planet, and a sub-Neptune are known to orbit this star.";
@@ -2887,6 +2896,9 @@
 // English: This addon adds, as an alternative surface, a topographic map for the planet Mercury, showing relief formations and surface elevations. Based on detailed data obtained by the MESSENGER orbiter.
 "77095D9D-EBCB-4B30-AEAB-B5A973AF702F" = "This addon adds, as an alternative surface, a topographic map for the planet Mercury, showing relief formations and surface elevations. Based on detailed data obtained by the MESSENGER orbiter.";
 
+// English: TOI-6692, also known as TIC 234609409, is a G-type star located approximately 1,012.8 light-years from Earth. It is known to have a gas giant planet with a mass about 197 times that of Earth and an orbital period of around 131 days.
+"7712F737-6727-4F74-91C3-CF0D0BE10073" = "TOI-6692, also known as TIC 234609409, is a G-type star located approximately 1,012.8 light-years from Earth. It is known to have a gas giant planet with a mass about 197 times that of Earth and an orbital period of around 131 days.";
+
 // English: Ran is a young (~400-800 Myr), nearby (3.220 parsecs / 10.50 light-years) K2 V star with three debris disks, one confirmed planet known as Ægir (Epsilon Eridani b) orbiting at ~3.73 AU, and one speculated planet orbiting at ~47.8 AU, whose existence was inferred from the morphology of the cold disk. This add-on adds both planets, although the second, unconfirmed planet requires Unconfirmed Exoplanets. Not intended to be complementary with SevenSpheres' Epsilon Eridani add-on.
 "77549EB9-951E-31E6-3DFD-A4A032DE9676" = "Ran is a young (~400-800 Myr), nearby (3.220 parsecs / 10.50 light-years) K2 V star with three debris disks, one confirmed planet known as Ægir (Epsilon Eridani b) orbiting at ~3.73 AU, and one speculated planet orbiting at ~47.8 AU, whose existence was inferred from the morphology of the cold disk. This add-on adds both planets, although the second, unconfirmed planet requires Unconfirmed Exoplanets. Not intended to be complementary with SevenSpheres' Epsilon Eridani add-on.";
 
@@ -3087,6 +3099,9 @@
 
 // English: NGC 3132 (also known as the Southern Ring Nebula, NGC 3132, or Caldwell 74) is a bright and extensively studied planetary nebula in the constellation Vela. Its distance from Earth is estimated at about 2,000 light-years
 "7F7332F1-D9EF-F508-0C1A-131C1691DF2D" = "NGC 3132 (also known as the Southern Ring Nebula, NGC 3132, or Caldwell 74) is a bright and extensively studied planetary nebula in the constellation Vela. Its distance from Earth is estimated at about 2,000 light-years";
+
+// English: TOI-7166, also known as LP 577-37, is a red dwarf star located about 115 light-years from Earth. A super-Earth or sub-Neptune orbits this star with an orbital period of approximately 12.9 Earth days.
+"7F82EEEF-9FF9-44E6-82EB-17C7CDFB61DF" = "TOI-7166, also known as LP 577-37, is a red dwarf star located about 115 light-years from Earth. A super-Earth or sub-Neptune orbits this star with an orbital period of approximately 12.9 Earth days.";
 
 // English: Adds a 3D model for the Gusev Crater, the landing site of the first of NASA's Mars Exploration Rovers, Spirit, which operated from 2004 to 2010
 "7F98A89C-EB9F-7AA6-0510-43698EC82F94" = "Adds a 3D model for the Gusev Crater, the landing site of the first of NASA's Mars Exploration Rovers, Spirit, which operated from 2004 to 2010";
@@ -3871,6 +3886,9 @@
 // English: Kepler-517, also known as KOI-303, is a binary star system of a Sun-like star and a red dwarf about 926.28 light-years away in the constellation Cygnus. A single neptunian planet is orbiting at a distance of 0.28 AU from the larger star (component A), where in 2020 was speculated to harbor a subterran-mass satellite, but since deemed unlikely to exist according to follow-up studies
 "9FCE96AD-8EF2-4972-ADBB-A9C102DA585C" = "Kepler-517, also known as KOI-303, is a binary star system of a Sun-like star and a red dwarf about 926.28 light-years away in the constellation Cygnus. A single neptunian planet is orbiting at a distance of 0.28 AU from the larger star (component A), where in 2020 was speculated to harbor a subterran-mass satellite, but since deemed unlikely to exist according to follow-up studies";
 
+// English: TWA 7, also known as TYC 7190-2111, is a red dwarf star located about 111 light-years from Earth. A Jupiter-like planet orbits this star, with a mass similar to Saturn, taking approximately 552 years to complete one orbit.
+"9FED25B4-11F0-47A9-AABF-98229904CBDE" = "TWA 7, also known as TYC 7190-2111, is a red dwarf star located about 111 light-years from Earth. A Jupiter-like planet orbits this star, with a mass similar to Saturn, taking approximately 552 years to complete one orbit.";
+
 // English: MOA-2010-BLG-477L is a white dwarf star about 6,491 light-years away in the constellation Sagittarius. One superjovian planet orbiting at a distance of 2.79 AU from its star was discovered through microlensing
 "A0048CEB-9B70-4D40-9B05-17256AE3911A" = "MOA-2010-BLG-477L is a white dwarf star about 6,491 light-years away in the constellation Sagittarius. One superjovian planet orbiting at a distance of 2.79 AU from its star was discovered through microlensing";
 
@@ -4144,6 +4162,9 @@
 // English: This addon enhances Saturn's moon Rhea, including:\n\n- xyzv trajectory from 2004 to 2018 to cover the Cassini mission, ensuring more accurate flybys.\n- 3D model based on Cassini data.\n- Alternative texture of enhanced colors.\n- Also includes the (HYPOTHETICAL!) Rhea ring system proposed in 2008. Note that the rings are very, very thin. So, in Celestia, you'll need to get very close to Rhea's equator in order to see them.
 "A98FD77F-9820-1D18-B530-1A693D95AF2C" = "This addon enhances Saturn's moon Rhea, including:\n\n- xyzv trajectory from 2004 to 2018 to cover the Cassini mission, ensuring more accurate flybys.\n- 3D model based on Cassini data.\n- Alternative texture of enhanced colors.\n- Also includes the (HYPOTHETICAL!) Rhea ring system proposed in 2008. Note that the rings are very, very thin. So, in Celestia, you'll need to get very close to Rhea's equator in order to see them.";
 
+// English: HD 50499, also known as HIP 32970, is a G-type star located about 151 light-years from Earth. This star has two known planets, both of which are gas giants.
+"A9A43C06-113B-4302-A91A-51C5B1E54766" = "HD 50499, also known as HIP 32970, is a G-type star located about 151 light-years from Earth. This star has two known planets, both of which are gas giants.";
+
 // English: HN Pegasi, also known as Gliese 836.7, GJ 9751, HR 8314, is a G-type main-sequence star located 59.126 light-years from Earth, and it has a brown dwarf named HN Pegasi b. Its mass is 21.9987 Jupiters, it takes 20692.2 years to complete one orbit of its star, and is 773.0 AU from its star. Its discovery was announced in 2006
 "A9A50317-FB0C-4521-8CFF-941CE7A8EFDE" = "HN Pegasi, also known as Gliese 836.7, GJ 9751, HR 8314, is a G-type main-sequence star located 59.126 light-years from Earth, and it has a brown dwarf named HN Pegasi b. Its mass is 21.9987 Jupiters, it takes 20692.2 years to complete one orbit of its star, and is 773.0 AU from its star. Its discovery was announced in 2006";
 
@@ -4224,6 +4245,9 @@
 
 // English: This addon adds a fictional model and texture for Nereid (Neptune's moon)
 "ACE3ED4C-9DFD-BC1C-0B37-CFC18B089439" = "This addon adds a fictional model and texture for Nereid (Neptune's moon)";
+
+// English: WASP-62, also known as TOI-102 and Naledi, is an F-type star located approximately 575.749 light-years from Earth. A known hot Jupiter named Krotoa orbits this star, with an orbital period of only 4.4 days.
+"ACF30B42-ACFD-4B30-91D2-1C525BEB86A7" = "WASP-62, also known as TOI-102 and Naledi, is an F-type star located approximately 575.749 light-years from Earth. A known hot Jupiter named Krotoa orbits this star, with an orbital period of only 4.4 days.";
 
 // English: TOI-4633 is a binary system comprised of two G-type main sequence stars located about 309.1 lightyears from the solar system. at least one planet is known to orbit one of the stars in the system, a sub-Neptune with rather high though very unconstrained mass on a long period orbit near the edge of it's host's habitable zone. There is also an additional candidate gas giant on a 35 day orbit around one of the stars in this system. Due to the proximity of the host stars, it is currently unknown which planet orbits which star or if they both orbit the same star. In this case, they are both modeled around the primary.
 "AD102457-7C07-4298-8459-27A96552B15A" = "TOI-4633 is a binary system comprised of two G-type main sequence stars located about 309.1 lightyears from the solar system. at least one planet is known to orbit one of the stars in the system, a sub-Neptune with rather high though very unconstrained mass on a long period orbit near the edge of it's host's habitable zone. There is also an additional candidate gas giant on a 35 day orbit around one of the stars in this system. Due to the proximity of the host stars, it is currently unknown which planet orbits which star or if they both orbit the same star. In this case, they are both modeled around the primary.";
@@ -5521,6 +5545,9 @@
 // English: This add-on adds four fictional moons around existing (real) planets within the Kepler-186 system, alongside three other fictional planets (g, h, and i)
 "E26133D5-AF4C-4784-8FFC-F5602EDCD8CA" = "This add-on adds four fictional moons around existing (real) planets within the Kepler-186 system, alongside three other fictional planets (g, h, and i)";
 
+// English: MP Muscae, also known as PDS 66, is a K-type star located about 319.285 light-years from Earth. A Jupiter-like planet is known to orbit this star, with an orbital period of about 3 years and a mass approximately 5 times that of Jupiter.
+"E26ADD3A-AAE5-4D1F-B978-245834A34977" = "MP Muscae, also known as PDS 66, is a K-type star located about 319.285 light-years from Earth. A Jupiter-like planet is known to orbit this star, with an orbital period of about 3 years and a mass approximately 5 times that of Jupiter.";
+
 // English: This addon enhances Saturn's moon Iapetus, including:\n\n- Month-long xyzv trajectory covering Cassini's close flyby of 2007-Sep-10 with better accuracy.\n- 3D model based on Cassini data.
 "E2826B02-E531-2818-4115-F7A4993D609B" = "This addon enhances Saturn's moon Iapetus, including:\n\n- Month-long xyzv trajectory covering Cassini's close flyby of 2007-Sep-10 with better accuracy.\n- 3D model based on Cassini data.";
 
@@ -5547,6 +5574,9 @@
 
 // English: TOI-1136 is a young (700 Myr) G-type star located about 275.26 lightyears away from the solar system, This star is known to have at least six planets orbiting it consisting of a hot oceanic planet and 5 Neptune-like planets, all of the planets in this system are of similar mass (< 10 Me) with an exception for TOI-1136 b. This system features a large resonant chain, including a second-order MMR with TOI-1136 f and g.
 "E36D96BF-2030-47A5-8ADB-0C173DAA60A5" = "TOI-1136 is a young (700 Myr) G-type star located about 275.26 lightyears away from the solar system, This star is known to have at least six planets orbiting it consisting of a hot oceanic planet and 5 Neptune-like planets, all of the planets in this system are of similar mass (< 10 Me) with an exception for TOI-1136 b. This system features a large resonant chain, including a second-order MMR with TOI-1136 f and g.";
+
+// English: TOI-5789, also known as HD 191785 A, is a K-type star located about 66.66 light-years from Earth. This star is known to have four planets: two super-Earths and two sub-Neptunes.
+"E373E731-3BCB-47CD-8EC1-DA5975BE21E8" = "TOI-5789, also known as HD 191785 A, is a K-type star located about 66.66 light-years from Earth. This star is known to have four planets: two super-Earths and two sub-Neptunes.";
 
 // English: Qatar-4 is a K-type main sequence star about 1,083 light-years away in the constellation Andromeda. A single gas giant planet about 5 times more massive than Jupiter completes an orbit around its star once every 1.8 days
 "E39D5F18-091D-4D90-B4C8-6D7EC87D58DB" = "Qatar-4 is a K-type main sequence star about 1,083 light-years away in the constellation Andromeda. A single gas giant planet about 5 times more massive than Jupiter completes an orbit around its star once every 1.8 days";
@@ -5715,6 +5745,9 @@
 
 // English: Kepler-97, aka KOI-292, is an G-type main sequence star located about 1322.83 lightyears from the solar system. a single hot super-Earth orbits this star every 2.59 days, one study suggested a long period super-Jupiter existed in this system, though a later paper claimed it was a false positive.
 "EB357403-08D8-4E3E-80EB-51D76F430FE1" = "Kepler-97, aka KOI-292, is an G-type main sequence star located about 1322.83 lightyears from the solar system. a single hot super-Earth orbits this star every 2.59 days, one study suggested a long period super-Jupiter existed in this system, though a later paper claimed it was a false positive.";
+
+// English: WASP-59, also known as TOI-5969, is a binary star system consisting of two K-type stars, located about 379.39 light-years from Earth. The known component A hosts a warm Jupiter with an orbital period of approximately 7.47 Earth days.
+"EB790B74-73C0-4387-B987-3392021AA042" = "WASP-59, also known as TOI-5969, is a binary star system consisting of two K-type stars, located about 379.39 light-years from Earth. The known component A hosts a warm Jupiter with an orbital period of approximately 7.47 Earth days.";
 
 // English: 588 Achilles is a large D-type asteroid, and a Jupiter trojan of the Greek camp. It was discovered by Max Wolf in February 1906, making it the first Jupiter Trojan discovered. The asteroid measures about 133 km (83 mi) in diameter.
 "EB82536A-1293-4F03-86BF-15FC07D14192" = "588 Achilles is a large D-type asteroid, and a Jupiter trojan of the Greek camp. It was discovered by Max Wolf in February 1906, making it the first Jupiter Trojan discovered. The asteroid measures about 133 km (83 mi) in diameter.";

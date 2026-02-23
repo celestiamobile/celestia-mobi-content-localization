@@ -2080,6 +2080,9 @@
 // English: Rho Indi
 "54599D27-ED40-444E-B0AB-F848D1E9A1F6" = "Rho Indi";
 
+// English: Isolated Stellar Mass Black Hole
+//"5461087B-5C93-4300-821C-992C6F624A96" = "Isolated Stellar Mass Black Hole";
+
 // English: Black Acropolis
 "54723AF6-F916-41AC-8D6A-143C9AF75515" = "Black Acropolis";
 
@@ -2356,6 +2359,9 @@
 // English: Minor Planets: 1201 to 1400
 //"6057D09A-3E86-48E2-BA45-61DFAD947C0E" = "Minor Planets: 1201 to 1400";
 
+// English: WASP-2
+//"6078E445-E1B3-4A65-BC28-4BFAC24BEC4A" = "WASP-2";
+
 // English: Ross 128
 "60A874BB-EE54-E2DA-6C41-2489DB599A18" = "Рос 128";
 
@@ -2478,6 +2484,9 @@
 
 // English: 96P/Machholz
 "645EF06A-B4F9-4D56-9F8C-9CEBDAF52806" = "96P/Machholz";
+
+// English: HD 52265
+//"649BB914-71D5-4C48-9F32-3EF53B6F0605" = "HD 52265";
 
 // English: Kepler-107
 //"649CCCDC-90FC-4390-B5B6-B620D57C03FC" = "Kepler-107";
@@ -2887,6 +2896,9 @@
 // English: Mercury: VT Topography Map
 //"77095D9D-EBCB-4B30-AEAB-B5A973AF702F" = "Mercury: VT Topography Map";
 
+// English: TOI-6692
+//"7712F737-6727-4F74-91C3-CF0D0BE10073" = "TOI-6692";
+
 // English: Epsilon Eridani (Ran) by Chara
 "77549EB9-951E-31E6-3DFD-A4A032DE9676" = "Epsilon Eridani (Ran) by Chara";
 
@@ -3087,6 +3099,9 @@
 
 // English: NGC 3132 (Southern Ring Nebula)
 "7F7332F1-D9EF-F508-0C1A-131C1691DF2D" = "NGC 3132 (Southern Ring Nebula)";
+
+// English: TOI-7166
+//"7F82EEEF-9FF9-44E6-82EB-17C7CDFB61DF" = "TOI-7166";
 
 // English: Gusev Crater
 "7F98A89C-EB9F-7AA6-0510-43698EC82F94" = "Кратерът Гусев";
@@ -3871,6 +3886,9 @@
 // English: Kepler-517
 "9FCE96AD-8EF2-4972-ADBB-A9C102DA585C" = "Кеплер-517";
 
+// English: TWA 7
+//"9FED25B4-11F0-47A9-AABF-98229904CBDE" = "TWA 7";
+
 // English: MOA-2010-BLG-477L
 "A0048CEB-9B70-4D40-9B05-17256AE3911A" = "MOA-2010-BLG-477L";
 
@@ -4144,6 +4162,9 @@
 // English: Rhea
 "A98FD77F-9820-1D18-B530-1A693D95AF2C" = "Рея";
 
+// English: HD 50499
+//"A9A43C06-113B-4302-A91A-51C5B1E54766" = "HD 50499";
+
 // English: HN Pegasi
 //"A9A50317-FB0C-4521-8CFF-941CE7A8EFDE" = "HN Pegasi";
 
@@ -4224,6 +4245,9 @@
 
 // English: Nereid
 "ACE3ED4C-9DFD-BC1C-0B37-CFC18B089439" = "Нереида";
+
+// English: WASP-62
+//"ACF30B42-ACFD-4B30-91D2-1C525BEB86A7" = "WASP-62";
 
 // English: TOI-4633
 //"AD102457-7C07-4298-8459-27A96552B15A" = "TOI-4633";
@@ -5521,6 +5545,9 @@
 // English: Kepler-186 (fictional)
 "E26133D5-AF4C-4784-8FFC-F5602EDCD8CA" = "Кеплер-186";
 
+// English: MP Muscae
+//"E26ADD3A-AAE5-4D1F-B978-245834A34977" = "MP Muscae";
+
 // English: Iapetus
 "E2826B02-E531-2818-4115-F7A4993D609B" = "Япет (триизмерен модел)";
 
@@ -5547,6 +5574,9 @@
 
 // English: TOI-1136
 "E36D96BF-2030-47A5-8ADB-0C173DAA60A5" = "TOI-1136";
+
+// English: TOI-5789
+//"E373E731-3BCB-47CD-8EC1-DA5975BE21E8" = "TOI-5789";
 
 // English: Qatar-4
 "E39D5F18-091D-4D90-B4C8-6D7EC87D58DB" = "Катар-4";
@@ -5715,6 +5745,9 @@
 
 // English: Kepler-97
 "EB357403-08D8-4E3E-80EB-51D76F430FE1" = "Кеплер-97";
+
+// English: WASP-59
+//"EB790B74-73C0-4387-B987-3392021AA042" = "WASP-59";
 
 // English: 588 Achilles
 "EB82536A-1293-4F03-86BF-15FC07D14192" = "588 Ахил";
