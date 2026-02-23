@@ -49,6 +49,9 @@
 // English: Kepler-29 is a G-type main sequence star located about 2778.4 lightyears from the solar system. Two low density mini-Neptunes accompany this star.
 "024C9CC8-8D70-47DD-910F-68EFA76368CE" = "Kepler-29 is a G-type main sequence star located about 2778.4 lightyears from the solar system. Two low density mini-Neptunes accompany this star.";
 
+// English: NGTS-22, also known as HATS-54 and TOI-1920, is a G-type main sequence star located about 2,493.548 light-years from Earth. This star is known to host a low-density hot Jupiter with an orbital period of only 2.54 Earth days.
+"025618B6-AB46-4262-AC57-07943BF9733F" = "NGTS-22, also known as HATS-54 and TOI-1920, is a G-type main sequence star located about 2,493.548 light-years from Earth. This star is known to host a low-density hot Jupiter with an orbital period of only 2.54 Earth days.";
+
 // English: Part 6 of Celestia Origin's minor planet catalog, from 500 Selinur to 599 Luisa.
 "028A5E63-4549-41B1-AA1A-E1CB7498033C" = "Part 6 of Celestia Origin's minor planet catalog, from 500 Selinur to 599 Luisa.";
 
@@ -147,6 +150,9 @@
 
 // English: 82 (G.) Eridani is a Sun-like star 19.7 light-years away in the constellation Eridanus, with a debris disk and several planet candidates. As of 2023, two of these planets have been definitely confirmed and a third is likely, while several previous candidates are now doubtful after non-detections.
 "0698DDE1-2C11-2D5C-70A9-6691CBA7F6C7" = "82 (G.) Eridani is a Sun-like star 19.7 light-years away in the constellation Eridanus, with a debris disk and several planet candidates. As of 2023, two of these planets have been definitely confirmed and a third is likely, while several previous candidates are now doubtful after non-detections.";
+
+// English: HD 137010 b is a candidate planet identified in K2 observation data through a single transit signal. It orbits a Sun-like star and is about 146 light-years away from Earth. The research team measured that the transit took approximately 10 hours to cross the star, and by combining this with system models, they inferred that the candidate planet's orbital period is close to one year, making it observationally similar to Earth's orbit.
+"06A38F09-38AE-4670-BF2E-B57CFA1D7AE2" = "HD 137010 b is a candidate planet identified in K2 observation data through a single transit signal. It orbits a Sun-like star and is about 146 light-years away from Earth. The research team measured that the transit took approximately 10 hours to cross the star, and by combining this with system models, they inferred that the candidate planet's orbital period is close to one year, making it observationally similar to Earth's orbit.";
 
 // English: Asterix is the first French satellite. It was launched on 26 November 1965 by a Diamant A rocket from the CIEES launch site at Hammaguir, Algeria. With Asterix France became the sixth country to have an artificial satellite and the third country to launch a satellite on its own rocket. Its main purpose was to test the Diamant launcher, though it was also designed to study the ionosphere. Asterix orbits Earth as of 2022 and is expected to do so for centuries. But communication with the satellite was lost just 2 days after its launch.
 "06AA2998-6420-5339-71F7-C808E9C1514E" = "Asterix is the first French satellite. It was launched on 26 November 1965 by a Diamant A rocket from the CIEES launch site at Hammaguir, Algeria. With Asterix France became the sixth country to have an artificial satellite and the third country to launch a satellite on its own rocket. Its main purpose was to test the Diamant launcher, though it was also designed to study the ionosphere. Asterix orbits Earth as of 2022 and is expected to do so for centuries. But communication with the satellite was lost just 2 days after its launch.";
@@ -294,6 +300,9 @@
 
 // English: K2-30， Also known as TOI-4535, it is a G-type star located approximately 1096.729 light-years from Earth. A hot Jupiter orbits around this star with an orbital period of approximately four days
 "0D6912F4-23F9-4D1E-8A59-517A4CAF4F3A" = "K2-30， Also known as TOI-4535, it is a G-type star located approximately 1096.729 light-years from Earth. A hot Jupiter orbits around this star with an orbital period of approximately four days";
+
+// English: NGTS-27, also known as TOI-3218, is a G-type star located 3,188.855 light-years from Earth. It is known to have a hot Jupiter with a mass approximately 188 times that of Earth and an orbital period of about 3.37 days.
+"0D9A770E-BB12-4274-8056-56FF780C91F7" = "NGTS-27, also known as TOI-3218, is a G-type star located 3,188.855 light-years from Earth. It is known to have a hot Jupiter with a mass approximately 188 times that of Earth and an orbital period of about 3.37 days.";
 
 // English: MN 102 is a WC-type star surrounded by a nebula about 11,036 light-years away in the constellation Aquila
 "0DA580D4-03BD-4409-B356-0866472F3301" = "MN 102 is a WC-type star surrounded by a nebula about 11,036 light-years away in the constellation Aquila";
@@ -660,6 +669,9 @@
 
 // English: WASP-76, also known as TOI-2403, is a binary star system located 636.97 light-years away from Earth. Its main star A has a hot Jupiter, and astronomers have discovered at least 11 different elements in its atmosphere, indicating that it may have consumed a smaller rocky planet. It is estimated that the temperature on the sunny side of WASP-76b exceeded 2400 ° C, which is high enough to cause molecules to thermally decompose into atoms and be carried to higher altitudes in the atmosphere, and hot enough to vaporize metals
 "1D216996-016E-4C41-B4CF-686100A41931" = "WASP-76, also known as TOI-2403, is a binary star system located 636.97 light-years away from Earth. Its main star A has a hot Jupiter, and astronomers have discovered at least 11 different elements in its atmosphere, indicating that it may have consumed a smaller rocky planet. It is estimated that the temperature on the sunny side of WASP-76b exceeded 2400 ° C, which is high enough to cause molecules to thermally decompose into atoms and be carried to higher altitudes in the atmosphere, and hot enough to vaporize metals";
+
+// English: HD 114783, also known as GJ 3769 and HIP 64457, is a K-type orange dwarf star located about 68.74 light-years from Earth. This star is known to have two Jupiter-like planets, both of which are more massive than Jupiter.
+"1D22190E-1E5C-4D5D-80AC-2A0858CAE748" = "HD 114783, also known as GJ 3769 and HIP 64457, is a K-type orange dwarf star located about 68.74 light-years from Earth. This star is known to have two Jupiter-like planets, both of which are more massive than Jupiter.";
 
 // English: 2I/Borisov, also known as C/2019 Q4, is only the second interstellar object ever known. Discovered by Gennadiy Borisov in 30 August 2019, the comet moved relative to the Sun at 32 km/s and was visible from Earth until July 2020.
 "1D334C27-F66D-C20E-0115-AE94733A42B9" = "2I/Borisov, also known as C/2019 Q4, is only the second interstellar object ever known. Discovered by Gennadiy Borisov in 30 August 2019, the comet moved relative to the Sun at 32 km/s and was visible from Earth until July 2020.";
@@ -1162,6 +1174,9 @@
 // English: 90568 Goibniu (formerly known as 2004 GV₉) is a large classical Kuiper belt object (cubewano) that was discovered in 2004 by NEAT. Measuring about 680 km in diameter, it is named after the Irish god of metallurgy and hospitality
 "3074E162-1B3F-AC55-EEDF-EE367A381B94" = "90568 Goibniu (formerly known as 2004 GV₉) is a large classical Kuiper belt object (cubewano) that was discovered in 2004 by NEAT. Measuring about 680 km in diameter, it is named after the Irish god of metallurgy and hospitality";
 
+// English: NGTS-21 is a K-type star located about 1,907 light-years from Earth. It is known to host a hot Jupiter with a mass roughly 750 times that of Earth and an orbital period of just 1.54 days.
+"30804908-A451-49D9-85C7-9668CCC822B7" = "NGTS-21 is a K-type star located about 1,907 light-years from Earth. It is known to host a hot Jupiter with a mass roughly 750 times that of Earth and an orbital period of just 1.54 days.";
+
 // English: 81P/Wild, also known as Wild 2, is currently a periodic comet with an orbital period of 6.4 years. It was a former Halley-type comet until an encounter with Jupiter in 1974 reduced its orbital period from 43 years to about 6 years. It was the primary target of NASA's Stardust mission, which performed a flyby of the comet in January 2004 to collect samples from the coma, which were returned to Earth two years later.
 "30B8A608-C3E4-3E95-0A96-5B73BE3FAA19" = "81P/Wild, also known as Wild 2, is currently a periodic comet with an orbital period of 6.4 years. It was a former Halley-type comet until an encounter with Jupiter in 1974 reduced its orbital period from 43 years to about 6 years. It was the primary target of NASA's Stardust mission, which performed a flyby of the comet in January 2004 to collect samples from the coma, which were returned to Earth two years later.";
 
@@ -1516,6 +1531,9 @@
 // English: HD 192263, also known as HIP 99711 and Phoenicia, is a K-type main-sequence star about 64 light-years away from Earth. It has a gaseous planet named Beirut, which has a mass approximately 209.76 times that of Earth and an orbital period of only 24.34 days.
 "3DDEE3B5-38DE-4AD2-8ED6-CE937096EEB5" = "HD 192263, also known as HIP 99711 and Phoenicia, is a K-type main-sequence star about 64 light-years away from Earth. It has a gaseous planet named Beirut, which has a mass approximately 209.76 times that of Earth and an orbital period of only 24.34 days.";
 
+// English: NGTS-18, also known as TOI-6273 and TIC 142211778, is a G-type main-sequence star located about 3,689.55 light-years from Earth. It is known to host a hot Jupiter with an orbital period of just 3 Earth days.
+"3DE206C0-8A4A-4CB0-B5A1-C2A159F329C5" = "NGTS-18, also known as TOI-6273 and TIC 142211778, is a G-type main-sequence star located about 3,689.55 light-years from Earth. It is known to host a hot Jupiter with an orbital period of just 3 Earth days.";
+
 // English: Qatar-1, also known as TOI-1465 and Gaia-TROI-123, is a K-type main sequence star about 608.65 light-years away in the constellation Draco. It has a super-jovian planet only about 3.47 million km away from its host star, and completes an orbit once every 1.42 days
 "3DF58DA3-596E-4DEE-BC9B-F5F7DCCE4E7F" = "Qatar-1, also known as TOI-1465 and Gaia-TROI-123, is a K-type main sequence star about 608.65 light-years away in the constellation Draco. It has a super-jovian planet only about 3.47 million km away from its host star, and completes an orbit once every 1.42 days";
 
@@ -1555,6 +1573,9 @@
 // English: This adds the planet Coruscant around Jestr's Star.
 "3FB53655-DD0F-18FD-3AE5-E89422C3D0EF" = "This adds the planet Coruscant around Jestr's Star.";
 
+// English: NGTS-15, also known as TIC 1333933, is a G-type main-sequence star located about 2,626 light-years from Earth. This star has a planet with a mass roughly 238 times that of Earth and an orbital period of only 3.27 Earth days.
+"3FD56A29-2B7A-41BA-B5A7-F18C1773B3C4" = "NGTS-15, also known as TIC 1333933, is a G-type main-sequence star located about 2,626 light-years from Earth. This star has a planet with a mass roughly 238 times that of Earth and an orbital period of only 3.27 Earth days.";
+
 // English: Hubble 12 (also known as PN G111.8-02.8) is a planetary nebula about 9,392 light-years away in the constellation Cassiopeia.
 "400B3B1F-8F84-A14D-ECE1-E362159E810E" = "Hubble 12 (also known as PN G111.8-02.8) is a planetary nebula about 9,392 light-years away in the constellation Cassiopeia.";
 
@@ -1575,6 +1596,9 @@
 
 // English: MAVEN is a NASA spacecraft orbiting Mars to study the loss of its atmospheric gases to space, providing insight into the history of the planet's climate and water. It was launched in 2013, and arrived on Mars about 10 months later, around the same time as India's Mangalyaan-1 probe. It studied the Martian atmosphere until contact was lost in December 2025.
 "40631F75-BF4C-538E-F272-D815093D5CA3" = "MAVEN is a NASA spacecraft orbiting Mars to study the loss of its atmospheric gases to space, providing insight into the history of the planet's climate and water. It was launched in 2013, and arrived on Mars about 10 months later, around the same time as India's Mangalyaan-1 probe. It studied the Martian atmosphere until contact was lost in December 2025.";
+
+// English: NGTS-17, also known as TIC 1309019, is a G-type main-sequence star located 3,499.529 light-years from Earth. It is known to host a hot Jupiter with a mass of about 76.4% that of Jupiter, orbiting the star every 3.24 days.
+"4081505E-D39D-4C0A-BF34-2054ACD7B618" = "NGTS-17, also known as TIC 1309019, is a G-type main-sequence star located 3,499.529 light-years from Earth. It is known to host a hot Jupiter with a mass of about 76.4% that of Jupiter, orbiting the star every 3.24 days.";
 
 // English: This addon adds Cepheus Flare, a huge complex of star-forming areas in the constellation of Cepheus. Cepheus Flare is about 1,100-1,200 light years from Earth, and includes the following clouds: NGC 7023 (Iris Nebula), L1148-1158, L1177, L1217/L1219, L1221, L1228, L1235 and L1251.
 "408276E0-F285-4F0A-9E03-ACCE6777A10D" = "This addon adds Cepheus Flare, a huge complex of star-forming areas in the constellation of Cepheus. Cepheus Flare is about 1,100-1,200 light years from Earth, and includes the following clouds: NGC 7023 (Iris Nebula), L1148-1158, L1177, L1217/L1219, L1221, L1228, L1235 and L1251.";
@@ -2020,6 +2044,9 @@
 // English: Adds 2000 stars in 91 different OB Associations in the Milky Way Galaxy.
 "5209E230-E5EA-3E89-CCCA-7634E2D41CA9" = "Adds 2000 stars in 91 different OB Associations in the Milky Way Galaxy.";
 
+// English: NGTS-30, also known as TOI-4862, is a G-type star located 762.9 light-years from Earth, a warm Jupiter orbits it with a period of 98.3 days.
+"52C4469A-266C-4BB5-B580-3FF5F316B682" = "NGTS-30, also known as TOI-4862, is a G-type star located 762.9 light-years from Earth, a warm Jupiter orbits it with a period of 98.3 days.";
+
 // English: Lacaille 9352, also known as Gliese 887, is a red dwarf about 10.7 light-years away in the constellation Piscis Austrinus. It is one of the brightest red dwarf stars in the night sky, and has a total of two superterran planets orbiting it
 "530116F0-702D-1B4B-3648-79B3F941EED6" = "Lacaille 9352, also known as Gliese 887, is a red dwarf about 10.7 light-years away in the constellation Piscis Austrinus. It is one of the brightest red dwarf stars in the night sky, and has a total of two superterran planets orbiting it";
 
@@ -2296,6 +2323,9 @@
 // English: WASP-75, also known as K2-40, is a binary star system consisting of an F-type star and a red dwarf. This system is 966.8468 light-years away from Earth. The known component A has a Jupiter-sized planet with a mass about 1.07 times that of Jupiter, and it takes 2.5 days to complete one orbit of its star.
 "5FA8A520-9FF7-4103-BC41-F52F8F4FBCB8" = "WASP-75, also known as K2-40, is a binary star system consisting of an F-type star and a red dwarf. This system is 966.8468 light-years away from Earth. The known component A has a Jupiter-sized planet with a mass about 1.07 times that of Jupiter, and it takes 2.5 days to complete one orbit of its star.";
 
+// English: NGTS-20, also known as TOI-5152, is a G-type subgiant star located approximately 1,194.4 light-years from Earth. It is known to host a warm Jupiter with a mass about 2.98 times that of Jupiter, an orbital period of approximately 54 days, and an eccentricity of e=0.432.
+"5FB46BFB-9E9A-4332-AA73-36101A8A335A" = "NGTS-20, also known as TOI-5152, is a G-type subgiant star located approximately 1,194.4 light-years from Earth. It is known to host a warm Jupiter with a mass about 2.98 times that of Jupiter, an orbital period of approximately 54 days, and an eccentricity of e=0.432.";
+
 // English: Kepler-130, also known as KOI-282, is a binary star system of a Sun-like star and a red dwarf star about 1,042 light-years away in the constellation Lyra. A total of three planets (two terrans and one neptunian) were discovered orbiting the larger star in the system (component A)
 "5FCAB43C-3F29-4385-8462-57A540A96A48" = "Kepler-130, also known as KOI-282, is a binary star system of a Sun-like star and a red dwarf star about 1,042 light-years away in the constellation Lyra. A total of three planets (two terrans and one neptunian) were discovered orbiting the larger star in the system (component A)";
 
@@ -2509,6 +2539,9 @@
 // English: Messier 109 (also known as NGC 3992) is an SBc-type barred spiral galaxy about 121 million light-years away in the constellation Ursa Major. This galaxy is the most distant object ever catalogued by Charles Messier\n\n(NOTE: Disable \"Galaxies\" in settings to obtain the best view of the object's 3D model)
 "67E50077-BE0A-2021-8D8B-62F2EDAF0672" = "Messier 109 (also known as NGC 3992) is an SBc-type barred spiral galaxy about 121 million light-years away in the constellation Ursa Major. This galaxy is the most distant object ever catalogued by Charles Messier\n\n(NOTE: Disable \"Galaxies\" in settings to obtain the best view of the object's 3D model)";
 
+// English: NGTS-14, also known as TOI-6821, is a binary star system consisting of a K-type main-sequence star and a red dwarf, located approximately 1,060 light-years from Earth. The known component A hosts a super-Neptune with a mass about 29 times that of Earth and an orbital period of only 3.5 Earth days.
+"67F8BEDC-E284-4DF9-B015-3E52085F12C8" = "NGTS-14, also known as TOI-6821, is a binary star system consisting of a K-type main-sequence star and a red dwarf, located approximately 1,060 light-years from Earth. The known component A hosts a super-Neptune with a mass about 29 times that of Earth and an orbital period of only 3.5 Earth days.";
+
 // English: Kepler-40, aka KOI-428, is an F-type subgiant star located about 8051.24 lightyears form the solar system. this distant, aging star hosts a single hot super-Jupiter on a 6.8 day orbit.
 "67FF3773-0EEB-4EEC-B87B-9E3E9FAA52F9" = "Kepler-40, aka KOI-428, is an F-type subgiant star located about 8051.24 lightyears form the solar system. this distant, aging star hosts a single hot super-Jupiter on a 6.8 day orbit.";
 
@@ -2661,6 +2694,9 @@
 
 // English: HIP 67522, also known as HD 120411 and TOI-6551, is a young G-type star located 406.83 light-years from Earth that often flares and bombards its two Jupiter-sized planets, the inner one that evaporates millions of tons of matter per second and is expected to shrink to the size of Neptune within 100 million years
 "6EAF3ACE-8E06-4339-AD51-4B17BF222A57" = "HIP 67522, also known as HD 120411 and TOI-6551, is a young G-type star located 406.83 light-years from Earth that often flares and bombards its two Jupiter-sized planets, the inner one that evaporates millions of tons of matter per second and is expected to shrink to the size of Neptune within 100 million years";
+
+// English: NGTS-29, also known as TOI-2447, is a G-type star located about 478 light-years from Earth, with a warm sub-Saturn orbiting it that has a mass approximately 125 times that of Earth.
+"6EB0161F-5897-4680-957F-1043F274B035" = "NGTS-29, also known as TOI-2447, is a G-type star located about 478 light-years from Earth, with a warm sub-Saturn orbiting it that has a mass approximately 125 times that of Earth.";
 
 // English: The Milky Way is an SBc-type barred spiral galaxy with a isophotal diameter estimated at 87,400 light-years across. It is estimated to contain more than 100-400 billion stars, including the Sun itself.\n\nThis addon includes two models that depict its actual photographic view as seen from Earth and an artistic interpretation of what our galaxy might look like when viewed from the outside
 "6EB74087-3502-C384-D95C-66A96C929A9C" = "The Milky Way is an SBc-type barred spiral galaxy with a isophotal diameter estimated at 87,400 light-years across. It is estimated to contain more than 100-400 billion stars, including the Sun itself.\n\nThis addon includes two models that depict its actual photographic view as seen from Earth and an artistic interpretation of what our galaxy might look like when viewed from the outside";
@@ -2859,6 +2895,9 @@
 
 // English: Kepler-952, also known as KOI-1790 is a large Sun-like star about 4,419 light-years away in the constellation Lyra. A warm subjovian planet completes a 130-day orbit around its star
 "77AF939A-CB9E-4BE1-80C7-874EB25F14E3" = "Kepler-952, also known as KOI-1790 is a large Sun-like star about 4,419 light-years away in the constellation Lyra. A warm subjovian planet completes a 130-day orbit around its star";
+
+// English: Kepler-249, also known as KOI-899 or KIC 7907423, is a red dwarf star located about 624.4 light-years from Earth. It is known to have three planets, all of which are super-Earths.
+"77B0D09B-6795-4E03-AAA8-CF5D0FFCC4E5" = "Kepler-249, also known as KOI-899 or KIC 7907423, is a red dwarf star located about 624.4 light-years from Earth. It is known to have three planets, all of which are super-Earths.";
 
 // English: The Owl Nebula (also known as Messier 97 or NGC 3587) is a starburst (\"planetary\") nebula approximately 2,030 light years away in the northern constellation Ursa Major
 "77B2AE5B-3333-150A-B679-55188F76E772" = "The Owl Nebula (also known as Messier 97 or NGC 3587) is a starburst (\"planetary\") nebula approximately 2,030 light years away in the northern constellation Ursa Major";
@@ -4381,6 +4420,9 @@
 // English: Kepler-95, also known as KOI-122, is a G-type main sequence star located 1472.22 light-years away from Earth. In 2014, a Neptune sized celestial body was discovered with a mass approximately 13 times that of Earth
 "B5F1F502-8325-448C-B25F-F754EDFE7494" = "Kepler-95, also known as KOI-122, is a G-type main sequence star located 1472.22 light-years away from Earth. In 2014, a Neptune sized celestial body was discovered with a mass approximately 13 times that of Earth";
 
+// English: NGTS-24, also known as TOI-4270, is a G-type subgiant star located about 2,365 light-years from Earth. This star is known to have a hot Jupiter with an orbital period of only 3.4655 Earth days.
+"B6193005-012A-4021-B43D-9A8381C22C25" = "NGTS-24, also known as TOI-4270, is a G-type subgiant star located about 2,365 light-years from Earth. This star is known to have a hot Jupiter with an orbital period of only 3.4655 Earth days.";
+
 // English: The study confirming TOI-1685 b (as an Ocean world) speaks of a second planet candidate, a possible mini-Neptune orbiting at 9.03 days (c= 9.21 Me), though they stated that they could not confidently confirm it as a planet due to the proposed orbit being close to the first harmonic of it's hosts rotational period
 "B630BCE1-B82F-4BCD-BA81-1FF7D068103D" = "The study confirming TOI-1685 b (as an Ocean world) speaks of a second planet candidate, a possible mini-Neptune orbiting at 9.03 days (c= 9.21 Me), though they stated that they could not confidently confirm it as a planet due to the proposed orbit being close to the first harmonic of it's hosts rotational period";
 
@@ -4602,6 +4644,9 @@
 
 // English: HAT-P-20, also known as TOI-5096, is a binary star system consisting of a K-type main-sequence star and a red dwarf about 232.2 light-years away in the constellation Gemini. Two confirmed planets, a Jovian and a super-Jovian, was discovered, the smaller one completing an orbit once every 3 days.
 "BF433881-BCD5-7826-F740-11EF9E2CCDC8" = "HAT-P-20, also known as TOI-5096, is a binary star system consisting of a K-type main-sequence star and a red dwarf about 232.2 light-years away in the constellation Gemini. Two confirmed planets, a Jovian and a super-Jovian, was discovered, the smaller one completing an orbit once every 3 days.";
+
+// English: HD 13931, also known as HIP 10626, is a G-type star located about 154 light-years from Earth. This star is known to have a Jupiter-like planet with a mass approximately 2.8 times that of Jupiter, which takes 12 years to complete one orbit.
+"BF6963D0-D4B0-458E-BE10-8B043DF5EEDE" = "HD 13931, also known as HIP 10626, is a G-type star located about 154 light-years from Earth. This star is known to have a Jupiter-like planet with a mass approximately 2.8 times that of Jupiter, which takes 12 years to complete one orbit.";
 
 // English: TOI-2364 is a K-type star about 716.28 light-years away from the solar system, the star has a hot Saturn-like planet that completes an orbit every 4 days. The planet is smaller than Saturn at 8.61 Earth Radii and less massive at 71.5 Earth Masses. This is one of many planets confirmed in the second TESS Grand Unified Hot Jupiter Survey\n\nUPDATE V1.1:\n\n- Fixed an issue
 "BF7F3012-C535-4623-ACAE-2026F8076F62" = "TOI-2364 is a K-type star about 716.28 light-years away from the solar system, the star has a hot Saturn-like planet that completes an orbit every 4 days. The planet is smaller than Saturn at 8.61 Earth Radii and less massive at 71.5 Earth Masses. This is one of many planets confirmed in the second TESS Grand Unified Hot Jupiter Survey\n\nUPDATE V1.1:\n\n- Fixed an issue";
@@ -5272,6 +5317,9 @@
 // English: This addon adds fictional textures for all planets of the 55 Cancri system. 55 Cancri, also known as Rho1 Cancri, was one of the first multi-planet systems discovered, and has a transiting carbon-rich super-Earth and four gas giants.\n\nThe previous version of this add-on has an issue, please uninstall and reinstall if you have an early version.
 "DB926972-EC77-714D-36BA-BA2244A7220A" = "This addon adds fictional textures for all planets of the 55 Cancri system. 55 Cancri, also known as Rho1 Cancri, was one of the first multi-planet systems discovered, and has a transiting carbon-rich super-Earth and four gas giants.\n\nThe previous version of this add-on has an issue, please uninstall and reinstall if you have an early version.";
 
+// English: NGTS-26, also known as TIC 392747437, is a G-type star located about 3,610.55 light-years from Earth. It is known to host a puffy hot Jupiter with an orbital period of only 4.5 Earth days.
+"DBC5E8EE-7CC4-490F-BED3-47012A8DEB7D" = "NGTS-26, also known as TIC 392747437, is a G-type star located about 3,610.55 light-years from Earth. It is known to host a puffy hot Jupiter with an orbital period of only 4.5 Earth days.";
+
 // English: HD 220074, also known as HIP 115218 and HR 8881, is a star in the red giant phase, located about 1,068 light-years from Earth. It has a massive gas giant planet (about 11 times the mass of Jupiter) with an orbital period of approximately 1.84 years.
 "DBEDC97F-47B0-49E9-BA01-79076CD6809D" = "HD 220074, also known as HIP 115218 and HR 8881, is a star in the red giant phase, located about 1,068 light-years from Earth. It has a massive gas giant planet (about 11 times the mass of Jupiter) with an orbital period of approximately 1.84 years.";
 
@@ -5440,8 +5488,8 @@
 // English: Gliese 876 is a red dwarf about 15.24 light-years away in the constellation Aquarius. A total of four planets (one superterran, one neptunian, and two super-Jovians) are found orbiting within 0.4 au from this star
 "E13198AE-6428-391C-432A-4998675C9A20" = "Gliese 876 is a red dwarf about 15.24 light-years away in the constellation Aquarius. A total of four planets (one superterran, one neptunian, and two super-Jovians) are found orbiting within 0.4 au from this star";
 
-// English: TOI-4495, also known as KIC 1414111, is about 429.8 light-years away from Earth. In 2024, a sub-Neptune planet was announced to have been discovered, orbiting its star once every 2.5 days.
-"E13E1297-32F1-4231-9FB6-CF6BC8877641" = "TOI-4495, also known as KIC 1414111, is about 429.8 light-years away from Earth. In 2024, a sub-Neptune planet was announced to have been discovered, orbiting its star once every 2.5 days.";
+// English: TOI-4495, also known as KIC 1414111, is an F-type star located 429.8 light-years from Earth. So far, two hot Neptunes have been detected orbiting it.
+"E13E1297-32F1-4231-9FB6-CF6BC8877641" = "TOI-4495, also known as KIC 1414111, is an F-type star located 429.8 light-years from Earth. So far, two hot Neptunes have been detected orbiting it.";
 
 // English: HD 1397, also known as TOI-120 and HIP 1419, is a G-type subgiant star located about 260 light-years from Earth. A gas giant planet orbits this star with an orbital period of approximately 11.53 Earth days and an eccentricity of e=0.216.
 "E146BBD1-EC2D-4B95-964E-63606DF70260" = "HD 1397, also known as TOI-120 and HIP 1419, is a G-type subgiant star located about 260 light-years from Earth. A gas giant planet orbits this star with an orbital period of approximately 11.53 Earth days and an eccentricity of e=0.216.";
@@ -5517,6 +5565,9 @@
 
 // English: Kepler-303, also known as KOI-1515, is a K-type main sequence star about 688.24 light-years away in the constellation Lyra. In 2014, a total of two terrestrial planets were discovered, both in extremely close proximity with their host star
 "E46BEBCA-33D9-4BBA-845C-314EF53BB00B" = "Kepler-303, also known as KOI-1515, is a K-type main sequence star about 688.24 light-years away in the constellation Lyra. In 2014, a total of two terrestrial planets were discovered, both in extremely close proximity with their host star";
+
+// English: HD 50554, also known as HIP 33212 and TOI-6965, is an F-type main-sequence star located approximately 101.336 light-years from Earth. This star is known to have a gas giant planet with an orbital period of about 3.39 years and a mass roughly 5.85 times that of Jupiter.
+"E4A707A6-D41F-460D-B840-273E95F5CF52" = "HD 50554, also known as HIP 33212 and TOI-6965, is an F-type main-sequence star located approximately 101.336 light-years from Earth. This star is known to have a gas giant planet with an orbital period of about 3.39 years and a mass roughly 5.85 times that of Jupiter.";
 
 // English: WASP-157, also known as K2-41, is a G-type main-sequence star approximately 1,100 light-years away from Earth, orbited by a gas giant planet whose mass is only half that of Jupiter, but its volume is comparable to Jupiter's.
 "E4ABA435-6F20-4266-AA81-4A8A56434068" = "WASP-157, also known as K2-41, is a G-type main-sequence star approximately 1,100 light-years away from Earth, orbited by a gas giant planet whose mass is only half that of Jupiter, but its volume is comparable to Jupiter's.";
@@ -5680,6 +5731,9 @@
 // English: HD 40307, also known as Gliese 2046, is a K-type main-sequence star about 42.2 light-years away in the constellation Pictor. It has four confirmed exoplanets discovered, in addition to two unconfirmed, one of which was a former candidate planet for potential habitability
 "EC277CC4-AF7B-84F2-6D2D-D31F907FACE4" = "HD 40307, also known as Gliese 2046, is a K-type main-sequence star about 42.2 light-years away in the constellation Pictor. It has four confirmed exoplanets discovered, in addition to two unconfirmed, one of which was a former candidate planet for potential habitability";
 
+// English: HD 1461, also known as GJ 9009 and HR 72, is a G-type main-sequence star located about 76.546 light-years from Earth. This star has two known planets (sub-Neptunes).
+"EC706D39-9D0D-4EB1-A84E-DB67449B8662" = "HD 1461, also known as GJ 9009 and HR 72, is a G-type main-sequence star located about 76.546 light-years from Earth. This star has two known planets (sub-Neptunes).";
+
 // English: HD 149026, also known as Ogma, is a Sun-like star about 248 light-years away in the constellation Hercules. A Saturn-sized planet, named Smertrios, completes an orbit once every 3 days
 "EC88D07C-965A-AD25-46A4-ADBD2F23788F" = "HD 149026, also known as Ogma, is a Sun-like star about 248 light-years away in the constellation Hercules. A Saturn-sized planet, named Smertrios, completes an orbit once every 3 days";
 
@@ -5802,6 +5856,9 @@
 
 // English: The Tantive IV, a CR90 Corvette owned by Senator Bail and later Princess Leia Organa, being pursued by the Star Destroyer Devastator in orbit above Tatooine
 "F0CCEB03-99A3-C821-8C40-85687C8825EA" = "The Tantive IV, a CR90 Corvette owned by Senator Bail and later Princess Leia Organa, being pursued by the Star Destroyer Devastator in orbit above Tatooine";
+
+// English: NGTS-23, also known as TIC 77287067, is an F-type main-sequence star located about 3,431 light-years from Earth. It is known to host a hot Jupiter with an orbital period of only 4 Earth days.
+"F0D0DC5B-4BB7-4C56-B3B0-E40B3E8780A4" = "NGTS-23, also known as TIC 77287067, is an F-type main-sequence star located about 3,431 light-years from Earth. It is known to host a hot Jupiter with an orbital period of only 4 Earth days.";
 
 // English: The Millennium Falcon in orbit above Tatooine
 "F0FF25C4-CD08-51E4-D92E-5A15201E06B9" = "The Millennium Falcon in orbit above Tatooine";
@@ -6012,6 +6069,9 @@
 
 // English: 41 Lyncis, also known formally as Intercrus, is a K-type giant star about 280.83 light-years away in the constellation Lynx. A Jupiter-sized planet was discovered orbiting this star in 2008, later receiving the name Arkas during the first NameExoWorlds campaign in 2014
 "F8B1A47B-5F53-49A9-AC85-04AF485262C1" = "41 Lyncis, also known formally as Intercrus, is a K-type giant star about 280.83 light-years away in the constellation Lynx. A Jupiter-sized planet was discovered orbiting this star in 2008, later receiving the name Arkas during the first NameExoWorlds campaign in 2014";
+
+// English: NGTS-25, also known as TIC 290742484, is a K-type main-sequence star located about 1,716.61 light-years from Earth. This star is known to have a Jupiter-sized planet with a mass approximately 203 times that of Earth and an orbital period of only 2.82 days.
+"F8B96301-B69C-462F-9842-85CFCBA70C3B" = "NGTS-25, also known as TIC 290742484, is a K-type main-sequence star located about 1,716.61 light-years from Earth. This star is known to have a Jupiter-sized planet with a mass approximately 203 times that of Earth and an orbital period of only 2.82 days.";
 
 // English: This addon adds several fictional moons to Planet 9.
 "F8DFF436-8E4E-14D2-278A-A3461CF629D9" = "This addon adds several fictional moons to Planet 9.";
