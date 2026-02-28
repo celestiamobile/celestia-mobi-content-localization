@@ -199,6 +199,9 @@
 // English: TrES-5
 //"08BD810E-7BAD-4950-A586-4580DC4E3C06" = "TrES-5";
 
+// English: TOI-2267
+//"08DF82BA-5CA6-4B48-BA6E-73B2CB0A1E56" = "TOI-2267";
+
 // English: 162173 Ryugu
 //"09016A28-FD59-495A-B38B-E4003789E2AF" = "162173 Ryugu";
 
@@ -435,6 +438,9 @@
 
 // English: Venus (2017)
 //"1310C0AE-150C-5D38-3F15-072A2F5B2098" = "Venus (2017)";
+
+// English: Gliese 253
+//"1312C029-65FC-44F3-97E9-FD37284D6A74" = "Gliese 253";
 
 // English: Hayabusa 2
 //"133C0733-1699-7F0E-C7E5-AB2A2AC174B2" = "Hayabusa 2";
@@ -700,6 +706,9 @@
 // English: GlobalStar
 //"1E5CF474-7378-4A77-B25B-6B09FDEB56FE" = "GlobalStar";
 
+// English: Kepler-236
+//"1EA69C97-F39B-48FB-B1F5-9D7DE0ECDDA7" = "Kepler-236";
+
 // English: Jupiter Icy Moons Orbiter
 //"1EA85219-0D66-4CFA-B188-C26A6BE9D2B8" = "Jupiter Icy Moons Orbiter";
 
@@ -915,6 +924,9 @@
 
 // English: Kepler-409
 //"27057B73-BE4B-AB88-546E-F916660EA119" = "Kepler-409";
+
+// English: KOINTREAU-1
+//"2711F0C1-2A8F-40BB-9C89-E1DF1B522229" = "KOINTREAU-1";
 
 // English: Abell 5
 //"2743C39F-AE80-F760-A975-5AF4EE330834" = "Abell 5";
@@ -1696,6 +1708,9 @@
 // English: Abell 6
 //"43991F22-074A-CC01-ED08-1283E3074C8E" = "Abell 6";
 
+// English: Kepler-1040
+//"43A9288B-6641-436F-97BF-D46CC8FEA3C5" = "Kepler-1040";
+
 // English: M 8 (Lagoon Nebula)
 //"43A9CCD6-A296-BCDD-A8E5-6DA0ED0C4192" = "M 8 (Lagoon Nebula)";
 
@@ -1788,6 +1803,9 @@
 
 // English: (2023 DZ₂)
 //"483E2742-3C0B-4F76-A647-6AE27F375605" = "(2023 DZ₂)";
+
+// English: HAT-P-37
+//"4868D304-9CD1-447D-BFDE-DB7BBA47CD37" = "HAT-P-37";
 
 // English: K2-72
 //"48D517D8-CC1C-7ACE-DF6A-A13F3DD1558F" = "K2-72";
@@ -2373,6 +2391,9 @@
 
 // English: Gliese 12
 //"612BD451-5FDB-4412-9AA4-8D1A355548E2" = "Gliese 12";
+
+// English: WASP-4
+//"61588F69-154E-43DC-86A2-21920103D18F" = "WASP-4";
 
 // English: Mars 2 to 7
 //"6167C2C5-6C7D-4204-8459-DDB71FE9754D" = "Mars 2 to 7";
@@ -3028,6 +3049,9 @@
 // English: Kepler-70
 //"7C1645AC-07F5-48C8-9FD4-E4A5CC34A5E9" = "Kepler-70";
 
+// English: TOI-5734
+//"7C246D82-3658-4FFF-B01B-947EFECE7BF9" = "TOI-5734";
+
 // English: HAT-P-33
 //"7C2E1025-3B1C-492F-A343-EBEE39B04CB4" = "HAT-P-33";
 
@@ -3225,6 +3249,9 @@
 
 // English: 90482 Orcus
 //"866419F4-8CD5-1EB2-1C53-32A879ACF186" = "90482 Orcus";
+
+// English: Kepler-888
+//"86A1B4FB-97A3-47DB-B25C-9D7F8139BFEC" = "Kepler-888";
 
 // English: Ascraeus Mons
 //"86D6204B-0D91-4444-613B-1594672259AE" = "Ascraeus Mons";
@@ -3925,6 +3952,9 @@
 // English: Augmented Target Docking Adapter
 //"A14C2F7F-5711-4362-860D-B01F30590C0E" = "Augmented Target Docking Adapter";
 
+// English: HD 147018
+//"A15E2F7E-9041-47E9-BDCA-53AFE86C8DD9" = "HD 147018";
+
 // English: Kepler-438
 //"A16CA5CC-2A46-4756-1276-8AC2908193DC" = "Kepler-438";
 
@@ -4179,6 +4209,9 @@
 
 // English: Vulcanoids
 //"AA1AA420-A514-5C51-B2B6-32B728E2E00D" = "Vulcanoids";
+
+// English: TOI-3261
+//"AA7F49D4-95EC-484F-AB81-870D587807D2" = "TOI-3261";
 
 // English: HD 20782
 //"AA985FD0-E858-43BE-B777-66247CCB1954" = "HD 20782";
@@ -5130,6 +5163,9 @@
 
 // English: Kepler-442
 //"D2874DBB-11F4-680D-6BC4-7991F1770CC3" = "Kepler-442";
+
+// English: HD 55820
+//"D28C552E-C06C-40FD-9B4E-6B3E4204D337" = "HD 55820";
 
 // English: Kepler-160
 //"D2C0544B-C86B-4BB0-8396-77B9B2F1EDA0" = "Kepler-160";
