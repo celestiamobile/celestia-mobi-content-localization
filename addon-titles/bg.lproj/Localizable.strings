@@ -4390,6 +4390,9 @@
 // English: (2020 CD₃)
 "B191DD38-5F71-DD43-4976-C08E78B9060C" = "2020 CD₃";
 
+// English: K2-53
+//"B1C695CD-3FF8-4319-8671-3BFE26600276" = "K2-53";
+
 // English: Ceti Alpha
 "B1CC3CD1-6F0C-39B4-E46A-670B396DAFAF" = "Ceti Alpha";
 
@@ -5418,6 +5421,9 @@
 
 // English: NGTS-37
 //"DD0BF89A-1478-416F-BDF2-EAE9E488C9FA" = "NGTS-37";
+
+// English: K2-55
+//"DD13363A-633E-477B-9B5E-A1F92F404859" = "K2-55";
 
 // English: Europa: Temperature anomaly
 "DD64F712-33D4-43E0-8CD4-F49EEE9F927C" = "Европа: Температурна аномалия";
