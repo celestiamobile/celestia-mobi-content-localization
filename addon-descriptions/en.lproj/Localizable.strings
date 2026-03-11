@@ -574,6 +574,9 @@
 // English: The Dumbbell Nebula (NGC 6853, Messier 27) is a planetary nebula in the constellation Vulpecula 1360 light-years away from Earth.
 "1913AE9D-EBF1-6DF3-116E-87C2CB22826F" = "The Dumbbell Nebula (NGC 6853, Messier 27) is a planetary nebula in the constellation Vulpecula 1360 light-years away from Earth.";
 
+// English: K2-59, also known as EPIC 206027655, is a K-type star located about 1,024.424 light-years from Earth. This star has two sub-Neptunes.
+"192BF4D5-807D-4FDD-A306-E361EA29E28C" = "K2-59, also known as EPIC 206027655, is a K-type star located about 1,024.424 light-years from Earth. This star has two sub-Neptunes.";
+
 // English: K2-10 is a Sun-like star only about 895.25 light-years away in the constellation Leo. A Neptune-sized planet was discovered orbiting at a distance of 0.17 AU from its host star, completing one circuit once every 12.09 days
 "195CB6C4-8255-4CCA-9554-04A1D232C30E" = "K2-10 is a Sun-like star only about 895.25 light-years away in the constellation Leo. A Neptune-sized planet was discovered orbiting at a distance of 0.17 AU from its host star, completing one circuit once every 12.09 days";
 
@@ -1758,6 +1761,9 @@
 
 // English: This addon adds fictional textures for the planets of the Pi Mensae system. Pi Mensae has a super-Jovian planet in a wide orbit discovered in 2001, and an inner super-Earth discovered by TESS in 2018. The planets are on mutually misaligned orbits.
 "45E958E2-8F0B-5447-60CB-6482BBA727C7" = "This addon adds fictional textures for the planets of the Pi Mensae system. Pi Mensae has a super-Jovian planet in a wide orbit discovered in 2001, and an inner super-Earth discovered by TESS in 2018. The planets are on mutually misaligned orbits.";
+
+// English: K2-58, also known as EPIC 206026904, is a G-type star located about 595.86 light-years from Earth. This star has three known planets: one mini-Neptune and two super-Earths.
+"4626FEA7-E934-44E9-A925-E7A287893C73" = "K2-58, also known as EPIC 206026904, is a G-type star located about 595.86 light-years from Earth. This star has three known planets: one mini-Neptune and two super-Earths.";
 
 // English: A fictional space observatory launched in November 3, 2018 to observe the small celestial bodies within the Asteroid Belt. It is the second of eight missions as part of the Toutatis Program (2018-2047)
 "465867E5-59B4-2E54-E36C-F64D7FF6A64C" = "A fictional space observatory launched in November 3, 2018 to observe the small celestial bodies within the Asteroid Belt. It is the second of eight missions as part of the Toutatis Program (2018-2047)";
@@ -3385,6 +3391,9 @@
 // English: 4942 Munroe is a large asteroid in the inner main belt. According to the NEOWISE survey, it measures around 3.4 km, but analysis of its albedo (0.936) indicate a size of 6-10 km, comparable to the Chicxulub impactor that killed the dinosaurs 65 million years ago. It is named after Randall Munroe, a former NASA roboticist and cartoonist of the webcomic, \"xkcd\"
 "8A9941DF-0FB8-ADCF-2DFD-A9712B16EECE" = "4942 Munroe is a large asteroid in the inner main belt. According to the NEOWISE survey, it measures around 3.4 km, but analysis of its albedo (0.936) indicate a size of 6-10 km, comparable to the Chicxulub impactor that killed the dinosaurs 65 million years ago. It is named after Randall Munroe, a former NASA roboticist and cartoonist of the webcomic, \"xkcd\"";
 
+// English: K2-62, also known as EPIC 206096602, is a K-type main-sequence star located about 368 light-years from Earth. This star has two known planets, all of which are super-Earths.
+"8AB5C378-6C81-44D8-B7E5-D3CC4C26C31F" = "K2-62, also known as EPIC 206096602, is a K-type main-sequence star located about 368 light-years from Earth. This star has two known planets, all of which are super-Earths.";
+
 // English: The Cyclone Global Navigation Satellite System (CYGNSS) is a series of eight Earth science satellites aiming to improve hurricane forecasting by better understanding the interactions between the sea and the air near the core of a storm. This $152 million mission was launched in a single Pegasus-XL rocket in 2016-Dec-15, and is actively continuing its operations as of 2022
 "8AB7B388-F659-882F-9094-56227838E8B7" = "The Cyclone Global Navigation Satellite System (CYGNSS) is a series of eight Earth science satellites aiming to improve hurricane forecasting by better understanding the interactions between the sea and the air near the core of a storm. This $152 million mission was launched in a single Pegasus-XL rocket in 2016-Dec-15, and is actively continuing its operations as of 2022";
 
@@ -4300,6 +4309,9 @@
 // English: WASP-62, also known as TOI-102 and Naledi, is an F-type star located approximately 575.749 light-years from Earth. A known hot Jupiter named Krotoa orbits this star, with an orbital period of only 4.4 days.
 "ACF30B42-ACFD-4B30-91D2-1C525BEB86A7" = "WASP-62, also known as TOI-102 and Naledi, is an F-type star located approximately 575.749 light-years from Earth. A known hot Jupiter named Krotoa orbits this star, with an orbital period of only 4.4 days.";
 
+// English: K2-61, also known as EPIC 206044803, is an F-type star located about 1338.4 light-years from Earth. This star has a super-Earth or mini-Neptune that is very close, taking only 2.57 days to complete an orbit.
+"ACF80D4D-80A6-4A62-A1AA-F425A646D50B" = "K2-61, also known as EPIC 206044803, is an F-type star located about 1338.4 light-years from Earth. This star has a super-Earth or mini-Neptune that is very close, taking only 2.57 days to complete an orbit.";
+
 // English: TOI-4633 is a binary system comprised of two G-type main sequence stars located about 309.1 lightyears from the solar system. at least one planet is known to orbit one of the stars in the system, a sub-Neptune with rather high though very unconstrained mass on a long period orbit near the edge of it's host's habitable zone. There is also an additional candidate gas giant on a 35 day orbit around one of the stars in this system. Due to the proximity of the host stars, it is currently unknown which planet orbits which star or if they both orbit the same star. In this case, they are both modeled around the primary.
 "AD102457-7C07-4298-8459-27A96552B15A" = "TOI-4633 is a binary system comprised of two G-type main sequence stars located about 309.1 lightyears from the solar system. at least one planet is known to orbit one of the stars in the system, a sub-Neptune with rather high though very unconstrained mass on a long period orbit near the edge of it's host's habitable zone. There is also an additional candidate gas giant on a 35 day orbit around one of the stars in this system. Due to the proximity of the host stars, it is currently unknown which planet orbits which star or if they both orbit the same star. In this case, they are both modeled around the primary.";
 
@@ -4689,6 +4701,9 @@
 
 // English: HD 98649 is a Sun-like star about 137.72 light-years away in the constellation Crater. A gas giant planet about 6.7 the mass of Jupiter has a very eccentric orbit which takes it as close as 1.0 AU from its star to as far away as 11.5 AU
 "BDEC384E-03EA-4650-9FDA-C9D798C1E505" = "HD 98649 is a Sun-like star about 137.72 light-years away in the constellation Crater. A gas giant planet about 6.7 the mass of Jupiter has a very eccentric orbit which takes it as close as 1.0 AU from its star to as far away as 11.5 AU";
+
+// English: K2-60, also known as TOI-4547 and PHOI-4, is a G-type main-sequence star located about 1,626.55 light-years from Earth. This star has a hot sub-Saturn that completes an orbit in just 3 Earth days.
+"BE409977-0FAE-4BA8-9B8E-4386A8B3C1DB" = "K2-60, also known as TOI-4547 and PHOI-4, is a G-type main-sequence star located about 1,626.55 light-years from Earth. This star has a hot sub-Saturn that completes an orbit in just 3 Earth days.";
 
 // English: This is just a large collection of stars made by the Globular Cluster Generator that can be used for fictional systems. The stc file contains a total of over 99000 stars. These stars are place a short distance outside of the Milky Way.
 "BE4A5434-7152-A21C-5588-FC09A4C82288" = "This is just a large collection of stars made by the Globular Cluster Generator that can be used for fictional systems. The stc file contains a total of over 99000 stars. These stars are place a short distance outside of the Milky Way.";
