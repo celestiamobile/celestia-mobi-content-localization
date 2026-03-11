@@ -379,6 +379,9 @@
 // English: 450P/LONEOS is a 7-km wide periodic comet with a 22-year orbit around the Sun (as of 2022). Discovered in 2004, it was formerly a centaur until a close encounter with Saturn in 1992 significantly decreased its semi-major axis by 5.2 AU, which began its transition into a Jupiter-family comet in the next few centuries.
 "109C57E8-204A-3815-2A69-C77D0539F033" = "450P/LONEOS is a 7-km wide periodic comet with a 22-year orbit around the Sun (as of 2022). Discovered in 2004, it was formerly a centaur until a close encounter with Saturn in 1992 significantly decreased its semi-major axis by 5.2 AU, which began its transition into a Jupiter-family comet in the next few centuries.";
 
+// English: K2-57, also known as EPIC 206026136, is a K-type main-sequence star about 864 light-years from Earth. This star has a mini-Neptune that orbits it once every 9 Earth days.
+"109D4843-C198-48A1-B6F6-30A33C9869BC" = "K2-57, also known as EPIC 206026136, is a K-type main-sequence star about 864 light-years from Earth. This star has a mini-Neptune that orbits it once every 9 Earth days.";
+
 // English: Spaceman Spiff, from Calvin and Hobbes, trying to escape the gravitational pull of Saturn
 "10C5FC4C-FEDE-4882-A704-73D28C3499EA" = "Spaceman Spiff, from Calvin and Hobbes, trying to escape the gravitational pull of Saturn";
 
@@ -882,6 +885,9 @@
 
 // English: This add-on modifies Celestia so that Blue Venus is displayed in place of the actual Venus textures. This addon was also updated in 2022 to feature a MIE defined atmosphere over its original atmosphere.
 "2592FCEC-29C1-4A4B-ADE9-CAD4594EE5AC" = "This add-on modifies Celestia so that Blue Venus is displayed in place of the actual Venus textures. This addon was also updated in 2022 to feature a MIE defined atmosphere over its original atmosphere.";
+
+// English: MACHO-1997-BLG-41 is a star system detected by microlensing in the constellation Sagittarius. It was announced in 1997 as being a binary system of red dwarf stars, with a 3.5 Jupiter-mass planet orbiting the both. However, this planet was disproven, as it was found that it is better explained by binary lens model accounting for orbital motion rather than a planet.
+"25B1CE20-F131-41DB-A239-17246842A6C1" = "MACHO-1997-BLG-41 is a star system detected by microlensing in the constellation Sagittarius. It was announced in 1997 as being a binary system of red dwarf stars, with a 3.5 Jupiter-mass planet orbiting the both. However, this planet was disproven, as it was found that it is better explained by binary lens model accounting for orbital motion rather than a planet.";
 
 // English: Romulus was the homeworld of the Romulans located in Sector Z-6 in the Beta Quadrant, alongside its co-orbiting planet, Remus. Both were destroyed when their parent star went supernova in 2387
 "25BDD024-A0EC-4EF3-8294-FA2894CC2978" = "Romulus was the homeworld of the Romulans located in Sector Z-6 in the Beta Quadrant, alongside its co-orbiting planet, Remus. Both were destroyed when their parent star went supernova in 2387";
@@ -2128,8 +2134,8 @@
 // English: NASA's Mars Exploration Rovers, named Spirit and Opportunity, were two identical rovers that explored the Martian surface from 2004 to 2018. Designed to only last 90 days, the rovers managed to operate for many years. Spirit was active until 2010, while Opportunity did so until 2018. The latter rover currently holds the record as the longest surface mission ever attempted on Mars.
 "54D2D839-2379-7CC1-FFEF-D2BDBDC8C8A8" = "NASA's Mars Exploration Rovers, named Spirit and Opportunity, were two identical rovers that explored the Martian surface from 2004 to 2018. Designed to only last 90 days, the rovers managed to operate for many years. Spirit was active until 2010, while Opportunity did so until 2018. The latter rover currently holds the record as the longest surface mission ever attempted on Mars.";
 
-// English: GU Psc is an M-type red dwarf 155.3 light-years away from Earth, orbiting a superstar (about 11 times the mass of Jupiter), a planet with a semi-major axis of 2,000 AU, which takes 149,000 years to complete an orbit
-"54E77620-1D31-49D1-8E54-4B67E4201F3F" = "GU Psc is an M-type red dwarf 155.3 light-years away from Earth, orbiting a superstar (about 11 times the mass of Jupiter), a planet with a semi-major axis of 2,000 AU, which takes 149,000 years to complete an orbit";
+// English: GU Psc is an M-type red dwarf star located approximately 155.3 light-years away from Earth. A planetary-mass object about 11 times the mass of Jupiter (GU Psc b) orbits it. This companion has a semi-major axis of 2,000 astronomical units (AU) and takes approximately 163,000 years to complete one orbit.
+"54E77620-1D31-49D1-8E54-4B67E4201F3F" = "GU Psc is an M-type red dwarf star located approximately 155.3 light-years away from Earth. A planetary-mass object about 11 times the mass of Jupiter (GU Psc b) orbits it. This companion has a semi-major axis of 2,000 astronomical units (AU) and takes approximately 163,000 years to complete one orbit.";
 
 // English: Barnard 335 is a molecular cloud located about 540 light years from Earth in the constellation Aquila. It is one of the most studied molecular clouds, and contains a single protostar.
 "55105449-175C-4BA3-83B1-6E92607F1294" = "Barnard 335 is a molecular cloud located about 540 light years from Earth in the constellation Aquila. It is one of the most studied molecular clouds, and contains a single protostar.";
@@ -3913,6 +3919,9 @@
 // English: Kepler-117, also known as KOI-209, is a distant F-type main-sequence star about 4,960 light-years away in the constellation Cygnus. It hosts two planets, one superjovian and one neptunian, orbiting between 0.14 and 0.27 AU from their star
 "9F5D3AD6-1FF3-5FE7-D207-8F57E6323770" = "Kepler-117, also known as KOI-209, is a distant F-type main-sequence star about 4,960 light-years away in the constellation Cygnus. It hosts two planets, one superjovian and one neptunian, orbiting between 0.14 and 0.27 AU from their star";
 
+// English: Gliese 341 (also known as TOI-741 and HIP 45908) is an M1V-type red dwarf star located in the constellation Carina, approximately 34 light-years away from Earth. Currently, only one planet has been confirmed in this system: Gliese 341 b. It was first detected via the transit method in 2023 and confirmed in 2025. This is a rocky planet, similar in size to Earth (about 90% of Earth's radius) and with a mass close to Earth's (approximately 72% of Earth's mass). Its orbit is extremely close to its host star, at a distance of only about 0.06 astronomical units (merely 6% of the Earth-Sun distance), completing one orbit in just 7.58 days.
+"9F924205-1F4E-40C2-B018-F55806E5A40E" = "Gliese 341 (also known as TOI-741 and HIP 45908) is an M1V-type red dwarf star located in the constellation Carina, approximately 34 light-years away from Earth. Currently, only one planet has been confirmed in this system: Gliese 341 b. It was first detected via the transit method in 2023 and confirmed in 2025. This is a rocky planet, similar in size to Earth (about 90% of Earth's radius) and with a mass close to Earth's (approximately 72% of Earth's mass). Its orbit is extremely close to its host star, at a distance of only about 0.06 astronomical units (merely 6% of the Earth-Sun distance), completing one orbit in just 7.58 days.";
+
 // English: TOI-4860 is a red dwarf located about 262.3 lightyears from the solar system. A single transiting hot Jupiter with a low density orbits this star every one and a half days.
 "9F9E4423-DE08-49E4-9CF2-0853ED216248" = "TOI-4860 is a red dwarf located about 262.3 lightyears from the solar system. A single transiting hot Jupiter with a low density orbits this star every one and a half days.";
 
@@ -4479,6 +4488,9 @@
 
 // English: Ross 458, also known as Gliese 494 and DT Virginis, is a binary star system of two red dwarf stars about 37.55 light-years away in the constellation Virgo. A sub-brown dwarf or super-Jovian planet was discovered orbiting both stars, but it is so far away from its parent stars that it takes about 48,780 years to complete one full circle.
 "B53D4331-31D4-B89B-4E1E-B2F3428B7E0C" = "Ross 458, also known as Gliese 494 and DT Virginis, is a binary star system of two red dwarf stars about 37.55 light-years away in the constellation Virgo. A sub-brown dwarf or super-Jovian planet was discovered orbiting both stars, but it is so far away from its parent stars that it takes about 48,780 years to complete one full circle.";
+
+// English: K2-229, also known as EPIC 228801451, is a K-type main-sequence star located about 335 light-years from Earth. As of February 2026, three planets have been confirmed orbiting K2-229: one super-Earth and two mini-Neptunes.
+"B582C756-9FBC-474B-89AB-93E756961B42" = "K2-229, also known as EPIC 228801451, is a K-type main-sequence star located about 335 light-years from Earth. As of February 2026, three planets have been confirmed orbiting K2-229: one super-Earth and two mini-Neptunes.";
 
 // English: Kepler-109, aka KOI-123, is a G-type main sequence star located about 1570.1 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.
 "B5D8E84E-666F-486B-A030-30302DDB7A20" = "Kepler-109, aka KOI-123, is a G-type main sequence star located about 1570.1 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.";

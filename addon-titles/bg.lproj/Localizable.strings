@@ -379,6 +379,9 @@
 // English: 450P/LONEOS
 "109C57E8-204A-3815-2A69-C77D0539F033" = "624 Хектор";
 
+// English: K2-57
+//"109D4843-C198-48A1-B6F6-30A33C9869BC" = "K2-57";
+
 // English: Spaceman Spiff
 //"10C5FC4C-FEDE-4882-A704-73D28C3499EA" = "Spaceman Spiff";
 
@@ -882,6 +885,9 @@
 
 // English: Blue Venus
 "2592FCEC-29C1-4A4B-ADE9-CAD4594EE5AC" = "Синята Венера";
+
+// English: MACHO-1997-BLG-41
+//"25B1CE20-F131-41DB-A239-17246842A6C1" = "MACHO-1997-BLG-41";
 
 // English: Romulus and Remus
 "25BDD024-A0EC-4EF3-8294-FA2894CC2978" = "Ромул и Рем";
@@ -3913,6 +3919,9 @@
 // English: Kepler-117
 "9F5D3AD6-1FF3-5FE7-D207-8F57E6323770" = "Irregular Moons";
 
+// English: Gliese 341
+//"9F924205-1F4E-40C2-B018-F55806E5A40E" = "Gliese 341";
+
 // English: TOI-4860
 "9F9E4423-DE08-49E4-9CF2-0853ED216248" = "TOI-4860";
 
@@ -4479,6 +4488,9 @@
 
 // English: Ross 458
 "B53D4331-31D4-B89B-4E1E-B2F3428B7E0C" = "Рос 458";
+
+// English: K2-229
+//"B582C756-9FBC-474B-89AB-93E756961B42" = "K2-229";
 
 // English: Kepler-109
 //"B5D8E84E-666F-486B-A030-30302DDB7A20" = "Kepler-109";
