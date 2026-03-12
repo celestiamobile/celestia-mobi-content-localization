@@ -64,7 +64,20 @@
     <p><img class="full-width-image" src="{11}"></p>
     <p style="height:0.6em"></p>
 </div>
-<style>.tutorial-button { width:calc(100% - 18px);text-align:center; } @media only screen and (max-width: 1068px) { .tutorial-button { width:calc(100% - 22px); } } .mobile-only {display:none} .xbox-only {display:none} .visionos-only{display: none} .ios .mobile-only { display:block } .android .mobile-only { display:block } .xbox .xbox-only { display:block } .visionos .visionos-only{ display: block}</style>
+<div class="quest-only">
+    <h3>Beta</h3>
+    <p>Celestia for Quest is currently in beta. Features and functionality may change.</p>
+    <h3>Overlay</h3>
+    <p>Celestia has a 2D overlay where you can access key features. You can use the back button inside or under 2D overlay to navigation to previous page. If you close the overlay, you can reopen it from the menu button on your controller.</p>
+    <h3>Game Controller</h3>
+    <p>Game controller support is still in development. To use game controller, you need to first close the overlay. Only Quest controller is tested and has partial support.</p>
+    <h3>Free Flight Mode</h3>
+    <p>With a game controller connected, you can explore with free flight mode of Celestia. The setting is in Camera Control → Flight Mode. To learn more about flight modes, visit <a href="celguide://guide?guide=7013117F-362E-7138-59BB-B9ED52ADECF1">here</a>.</p>
+    <h3>Time/Travel Speed Control</h3>
+    <p>You can control time and the speed of traveling with the actions attached to the bottom of the dashboard view. For time control, "Faster" and "Slower" change the speed of time by 10x per tap. For travel speed control, "Faster" and "Slower" work with long presses.</p>
+    <p style="height:0.6em"></p>
+</div>
+<style>.tutorial-button { width:calc(100% - 18px);text-align:center; } @media only screen and (max-width: 1068px) { .tutorial-button { width:calc(100% - 22px); } } .mobile-only {display:none} .xbox-only {display:none} .visionos-only{display: none} .quest-only{display: none} .ios .mobile-only { display:block } .android .mobile-only { display:block } .xbox .xbox-only { display:block } .visionos .visionos-only{ display: block} .quest .quest-only { display: block } </style>
 <script>function runDemoScript() { Celestia.sendMessage("runDemo", JSON.stringify({}), 4);}</script>
 <p><button onclick="runDemoScript()" class="button-filled tutorial-button">Демонстрация</button></p>
 <p><button onclick="location.href='celguide://guide?guide=BE1B5023-46B6-1F10-F15F-3B3F02F30300'" class="button-filled tutorial-button">Контрол с мишка и клавиатура</button></p>
