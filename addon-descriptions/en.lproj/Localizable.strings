@@ -124,6 +124,9 @@
 // English: Pr0211 is a binary star system of two K-type main sequence stars within the Praesepe/Beehive Cluster about 599 light-years away in the constellation Cancer. The primary star (component A) has two superjovian planets, one is only 4 million km away from its host while the other is located about 8.7 AU distant
 "05101896-AC79-4EA3-B6C6-E60EC1EC2FD1" = "Pr0211 is a binary star system of two K-type main sequence stars within the Praesepe/Beehive Cluster about 599 light-years away in the constellation Cancer. The primary star (component A) has two superjovian planets, one is only 4 million km away from its host while the other is located about 8.7 AU distant";
 
+// English: The Interstellar Mapping and Acceleration Probe (IMAP) is a NASA heliophysics mission dedicated in studying solar wind and its interaction with the overall heliosphere and interstellar medium, of which its real-time measurements will help in refining solar weather prediction. It was launched in September 2025 to Earth-Sun Lagrange (L1) point, and the fifth mission in the Solar Terrestrial Probes program after TIMED, Hinode, STEREO, and MMS
+"051D4A9C-C1BE-4FFE-9D0B-7EA54BB585AA" = "The Interstellar Mapping and Acceleration Probe (IMAP) is a NASA heliophysics mission dedicated in studying solar wind and its interaction with the overall heliosphere and interstellar medium, of which its real-time measurements will help in refining solar weather prediction. It was launched in September 2025 to Earth-Sun Lagrange (L1) point, and the fifth mission in the Solar Terrestrial Probes program after TIMED, Hinode, STEREO, and MMS";
+
 // English: Queqiao is a series of Chinese lunar orbiters sent to support communications relay for any landers touching down on the Far Side of the Moon. Two such orbiters were launched between 2018 and 2024, months prior to the arrival of Chang'e 4 and 6 themselves on the lunar surface
 "052D75BC-25F4-B11F-9F4F-7BAF278F5ECB" = "Queqiao is a series of Chinese lunar orbiters sent to support communications relay for any landers touching down on the Far Side of the Moon. Two such orbiters were launched between 2018 and 2024, months prior to the arrival of Chang'e 4 and 6 themselves on the lunar surface";
 
@@ -6175,8 +6178,8 @@
 // English: Landsat 6 and 7 were the third-generation of NASA/USGS satellites dedicated in imaging the Earth's surface. Landsat 6 was destroyed after its launch in 1993, while Landsat 7 operated for 26 years between 1999 and 2025, after providing up-to-date and cloud-free images of the Earth for mapping and remote sensing. They are both replaced with Landsat 8 and 9
 "F7F60BA2-F2A8-CD21-0719-868BC55688C4" = "Landsat 6 and 7 were the third-generation of NASA/USGS satellites dedicated in imaging the Earth's surface. Landsat 6 was destroyed after its launch in 1993, while Landsat 7 operated for 26 years between 1999 and 2025, after providing up-to-date and cloud-free images of the Earth for mapping and remote sensing. They are both replaced with Landsat 8 and 9";
 
-// English: This addon adds Earth's polar auroras.
-"F8120336-675B-A499-4DE2-84C8529957CC" = "This addon adds Earth's polar auroras.";
+// English: This add-on adds Earth's polar auroras.
+"F8120336-675B-A499-4DE2-84C8529957CC" = "This add-on adds Earth's polar auroras.";
 
 // English: Kepler-1653, also known as KOI-4550, is a K-type main sequence star about 2,462 light-years away in the constellation Cygnus. A superterran (or a neptunian) planet about 58% larger than Earth is currently included in the optimistic list of the Potentially Habitable Catalog as of 2022
 "F85558E6-324C-496A-AE7B-29D66AC97E6F" = "Kepler-1653, also known as KOI-4550, is a K-type main sequence star about 2,462 light-years away in the constellation Cygnus. A superterran (or a neptunian) planet about 58% larger than Earth is currently included in the optimistic list of the Potentially Habitable Catalog as of 2022";
