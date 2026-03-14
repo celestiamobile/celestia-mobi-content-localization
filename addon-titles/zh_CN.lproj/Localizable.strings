@@ -1276,6 +1276,9 @@
 // English: K2-155
 //"32D6821D-2595-4D6C-AFD2-362488120376" = "K2-155";
 
+// English: Kepler-817
+//"32FA8738-60BA-4956-BE1A-EC2D1AC729B1" = "Kepler-817";
+
 // English: AstroSat-1
 //"3346F5A9-AF5E-4659-9ED2-E90413CA1CC1" = "AstroSat-1";
 
@@ -1359,6 +1362,9 @@
 
 // English: Gliese 880
 //"3609FFC4-D07F-42B4-B7CB-F4D53C8D774F" = "Gliese 880";
+
+// English: Kepler-1118
+//"36227149-669A-4636-BF80-1FD50D8DEDC3" = "Kepler-1118";
 
 // English: Kepler-5
 //"364A4EFE-620D-79C3-BEB7-BE54F45B5217" = "Kepler-5";
@@ -3802,6 +3808,9 @@
 // English: NISAR
 //"98B80351-BFB3-4B59-9B17-C9A1746ADFAA" = "NISAR";
 
+// English: HD 202206
+//"98DF85A2-4C4B-45E9-9D23-D794C30EBF94" = "HD 202206";
+
 // English: GJ 3323
 //"990691C9-9E39-98DE-0FDA-E97437417BDC" = "GJ 3323";
 
@@ -4026,6 +4035,9 @@
 
 // English: Project Artemis
 //"A2437ED3-5A19-425F-B95F-BE251D9ECD97" = "Project Artemis";
+
+// English: VY Canis Majoris
+//"A27B79EB-DB61-44D6-A630-89BC375C17C3" = "VY Canis Majoris";
 
 // English: Apollo-Soyuz Test Project
 //"A27E7094-A182-478B-86D9-F2829D5A03F5" = "Apollo-Soyuz Test Project";
@@ -5388,6 +5400,9 @@
 
 // English: 2024 RW₁
 //"D99CED4E-B6EF-47E6-ABBA-BD6EB63D950A" = "2024 RW₁";
+
+// English: HD 143811
+//"D9AD430E-5ED8-4F1A-979F-CF5B62FB7FC4" = "HD 143811";
 
 // English: KPS-1
 //"D9E32FD6-8458-4A5B-94AF-F36DD5BF52AB" = "KPS-1";
