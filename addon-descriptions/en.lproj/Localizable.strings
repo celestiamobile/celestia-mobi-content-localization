@@ -3700,6 +3700,9 @@
 // English: Kepler-100, aka KOI-41, is a G-type main sequence star located about 1002.42 lightyears from the solar system. four planets are known to orbit this star: a super-Earth, two sub-Neptunes and a non transiting planet around 40% more massive than Neptune.
 "94F185CA-3572-48F5-B75E-2DDE5046B47D" = "Kepler-100, aka KOI-41, is a G-type main sequence star located about 1002.42 lightyears from the solar system. four planets are known to orbit this star: a super-Earth, two sub-Neptunes and a non transiting planet around 40% more massive than Neptune.";
 
+// English: HD 37605, also known as HIP 26664 and LTT 11695, is a K-type main-sequence star with a mass of 0.98 times that of the Sun and a radius of 0.89 times that of the Sun. It is an inactive and metal-rich star located in the constellation Orion, 152.2 light-years from Earth. This star is known to have two gas giant planets with orbital periods of 55 days and 2720 days, respectively.
+"953F7168-2B7B-4CFD-B9AE-FBEA7B82E302" = "HD 37605, also known as HIP 26664 and LTT 11695, is a K-type main-sequence star with a mass of 0.98 times that of the Sun and a radius of 0.89 times that of the Sun. It is an inactive and metal-rich star located in the constellation Orion, 152.2 light-years from Earth. This star is known to have two gas giant planets with orbital periods of 55 days and 2720 days, respectively.";
+
 // English: WASP-41, also known as TOI-780, is a Sun-like star about 533 light-years away in the constellation Centaurus. Two planets larger than Jupiter were discovered, one of which completes an orbit at a distance of 5.8 million km and the other at 1.03 AU (roughly the same distance as Earth to the Sun)
 "95621A22-89FF-4A48-BD35-538B4441435A" = "WASP-41, also known as TOI-780, is a Sun-like star about 533 light-years away in the constellation Centaurus. Two planets larger than Jupiter were discovered, one of which completes an orbit at a distance of 5.8 million km and the other at 1.03 AU (roughly the same distance as Earth to the Sun)";
 
@@ -5830,8 +5833,8 @@
 // English: This addon adds, as an alternative surface, a topographic map for the planet Mercury.
 "E83FDA9D-4DE7-43B6-BF6C-9369212BF5A5" = "This addon adds, as an alternative surface, a topographic map for the planet Mercury.";
 
-// English: HD 158259, also known as TOI-1462, is a G-type main-sequence star located 88.2 light-years from Earth. It has six planets (one super-Earth and four mini-Neptunes) that are two to six times more massive than Earth. The whole system is very compact, and the orbits of all five planets are very close to the stars
-"E856A0F4-C002-4E98-98F3-12699BCD826F" = "HD 158259, also known as TOI-1462, is a G-type main-sequence star located 88.2 light-years from Earth. It has six planets (one super-Earth and four mini-Neptunes) that are two to six times more massive than Earth. The whole system is very compact, and the orbits of all five planets are very close to the stars";
+// English: HD 158259, also known as TOI-1462, is a G-type main-sequence star located 88.2 light-years from Earth. It has five planets (one super-Earth and four mini-Neptunes) that are two to six times more massive than Earth. The whole system is very compact, and the orbits of all five planets are very close to the stars
+"E856A0F4-C002-4E98-98F3-12699BCD826F" = "HD 158259, also known as TOI-1462, is a G-type main-sequence star located 88.2 light-years from Earth. It has five planets (one super-Earth and four mini-Neptunes) that are two to six times more massive than Earth. The whole system is very compact, and the orbits of all five planets are very close to the stars";
 
 // English: Kepler-1181, aka KOI-2303, is an F-type main sequence star located about 3059.25 lightyears from the solar system. two hot super-Earths (b= 1.59 Re, c= 1.74 Re) orbit this star at a distance no greater than 0.93 AU.
 "E8803DD0-6992-4269-9EC4-E92C4AAA761A" = "Kepler-1181, aka KOI-2303, is an F-type main sequence star located about 3059.25 lightyears from the solar system. two hot super-Earths (b= 1.59 Re, c= 1.74 Re) orbit this star at a distance no greater than 0.93 AU.";
