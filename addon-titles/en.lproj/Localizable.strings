@@ -85,6 +85,9 @@
 // English: AU Microscopii
 "04308C3F-BC02-20E3-B0F2-AE7C1EA04C9E" = "AU Microscopii";
 
+// English: Comets: MAPS
+"04412BD1-0C80-45FB-B871-6DAEA00D232E" = "Comets: MAPS";
+
 // English: Suomi NPP
 "045BECA3-10E3-4A1C-AAAC-E1FD69161246" = "Suomi NPP";
 
@@ -1546,8 +1549,8 @@
 // English: Bogano
 "3C4DC4F9-E445-4A5E-B49A-FBBAB3AF6AE9" = "Bogano";
 
-// English: Kepler-1658
-"3C507C33-D07E-4C0A-BA96-65A09265351E" = "Kepler-1658";
+// English: Kepler-1658 b
+"3C507C33-D07E-4C0A-BA96-65A09265351E" = "Kepler-1658 b";
 
 // English: IC 466
 "3C68812E-8928-427E-8DB1-85438DD306DB" = "IC 466";
@@ -1776,6 +1779,9 @@
 
 // English: Titania
 "45802CA9-891D-CBE9-DEC9-2E75F9F54340" = "Titania";
+
+// English: Kepler-879
+"45C2FBDC-3E4A-4E4D-8C56-9007432342E0" = "Kepler-879";
 
 // English: Pi Mensae
 "45E958E2-8F0B-5447-60CB-6482BBA727C7" = "Pi Mensae";
@@ -3082,6 +3088,9 @@
 // English: Telstar 1 and 2
 "7A76C6EB-EBEC-42E6-9A13-556293D301A1" = "Telstar 1 and 2";
 
+// English: GJ 4274
+"7A86573E-0084-4BC7-A0D4-A2042FB7454E" = "GJ 4274";
+
 // English: Kepler-118
 "7ACF6501-2104-74A9-7BFD-8D474EA3CAA1" = "Kepler-118";
 
@@ -4147,6 +4156,9 @@
 // English: TOI-220
 "A59818FE-D0D0-4FD5-A432-F2CED977D9FC" = "TOI-220";
 
+// English: KELT-26
+"A5989D09-5F75-4C62-997A-596FA673A19F" = "KELT-26";
+
 // English: Kepler-105 d
 "A59C4E2C-7AE8-4A76-B0B9-533187F1B5FA" = "Kepler-105 d";
 
@@ -4525,6 +4537,9 @@
 // English: SpaceX Starship
 "B4371B5B-CC90-8026-4CBB-98B02A8E7219" = "SpaceX Starship";
 
+// English: HATS-59
+"B45166C4-409B-45DB-AE1F-6CEF96EA54F2" = "HATS-59";
+
 // English: Fomalhaut
 "B48363E7-F82F-6714-123D-F8EF0B6B5D2C" = "Fomalhaut";
 
@@ -4590,6 +4605,9 @@
 
 // English: KOI-7235
 "B7266580-B32B-2DFF-6785-D350E8E76001" = "KOI-7235";
+
+// English: HAT-P-44
+"B7A92165-BA46-4C04-B13A-AE3E8DAEBDBE" = "HAT-P-44";
 
 // English: Kepler-454 Ae
 "B7BBEAA0-892C-40EB-84DB-170A3579CC9B" = "Kepler-454 Ae";
@@ -5299,6 +5317,9 @@
 // English: Sprites Nebulae for M31 (Andromeda's galaxy)
 "D49AC941-3614-2F14-7322-5E149B717BC6" = "Sprites Nebulae for M31 (Andromeda's galaxy)";
 
+// English: 18 Delphini
+"D4BDF27F-6E77-43F7-8936-B168ECEA63F1" = "18 Delphini";
+
 // English: BlackSky GLOBAL
 "D4CBBCBF-0AC1-4DD1-AD11-A92342397FED" = "BlackSky GLOBAL";
 
@@ -5809,6 +5830,9 @@
 // English: Gliese 514
 "E6E7FD0D-3C33-4CE3-9759-DA9C4D61DDEB" = "Gliese 514";
 
+// English: WASP-5
+"E72EC668-8A89-4A06-BB75-D7DBEC90F3AB" = "WASP-5";
+
 // English: Meteosat 12 to 17
 "E75CF0A3-33E9-481D-BCE0-0EA768AE5851" = "Meteosat 12 to 17";
 
@@ -6304,6 +6328,9 @@
 // English: Mars (1960s)
 "FB2C0174-D843-41A9-AD74-0005935DB21E" = "Mars (1960s)";
 
+// English: TOI-421
+"FB3BC1C5-DEA9-4094-9F8A-8EB0EBBAD971" = "TOI-421";
+
 // English: Kepler-192
 "FB4CAB93-0CA8-44DA-B52D-D88E8B0C0432" = "Kepler-192";
 
@@ -6420,6 +6447,9 @@
 
 // English: 594913 ꞌAylóꞌchaxnim
 "FF932EBA-CF0D-F119-BEF5-921B4A1DE33F" = "594913 ꞌAylóꞌchaxnim";
+
+// English: Kepler-158
+"FFBA8136-8741-4ADA-AA68-B1320002F00A" = "Kepler-158";
 
 // English: WASP-132
 "FFD17249-3FFF-B27A-407E-8BB08C66E640" = "WASP-132";
