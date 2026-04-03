@@ -1,6 +1,9 @@
 // English: A long time ago in a galaxy far, far away. This add-on provides a catalog of stars, planets and clusters known to exist in the Star Wars universe, both Legends and Disney Canon alike! The galaxy itself is positioned about 923 million light-years away from Earth in the constellation Pegasus
 "000CB09B-CB61-4303-AC0C-B0C5BECE6B9E" = "A long time ago in a galaxy far, far away. This add-on provides a catalog of stars, planets and clusters known to exist in the Star Wars universe, both Legends and Disney Canon alike! The galaxy itself is positioned about 923 million light-years away from Earth in the constellation Pegasus";
 
+// English: ClG J1004+4112 is a galaxy cluster about 6.8 billion light-years away in the constellation Leo Minor, lensing the quasar SDSS J1004+4112. Three supernova events occured near the lensing system in nearby galaxies. A possible planet population was also detected in the foreground galaxy cluster in 2019.\n\nList of lens and background galaxies included in the addon, to help you find each one: \n\n•SDSS J100434.18+411243.6 (lens)\n\n•PSO J151.1416+41.2116 (lens)\n\n•SDSS J100433.73+411242.7 (lens)\n\n•[SGM2010] J100433.075+411230.34 (background)\n\n•[SGM2010] J100430.645+411410.67 (background)\n\n•[SGM2010] J100431.047+411413.10 (background)
+"0034BC98-3E59-419A-BF4F-AADFC1BAFBD3" = "ClG J1004+4112 is a galaxy cluster about 6.8 billion light-years away in the constellation Leo Minor, lensing the quasar SDSS J1004+4112. Three supernova events occured near the lensing system in nearby galaxies. A possible planet population was also detected in the foreground galaxy cluster in 2019.\n\nList of lens and background galaxies included in the addon, to help you find each one: \n\n•SDSS J100434.18+411243.6 (lens)\n\n•PSO J151.1416+41.2116 (lens)\n\n•SDSS J100433.73+411242.7 (lens)\n\n•[SGM2010] J100433.075+411230.34 (background)\n\n•[SGM2010] J100430.645+411410.67 (background)\n\n•[SGM2010] J100431.047+411413.10 (background)";
+
 // English: Cha 110913−773444 is either a sub-brown dwarf or a rogue planet about 529 light-years in the constellation Chamaeleon. Like OTS 44, it is surrounded by a protoplanetary disk about 6.0 AU across
 "00921074-7740-5C09-7111-3E149E221D59" = "Cha 110913−773444 is either a sub-brown dwarf or a rogue planet about 529 light-years in the constellation Chamaeleon. Like OTS 44, it is surrounded by a protoplanetary disk about 6.0 AU across";
 
@@ -3318,6 +3321,9 @@
 
 // English: Kepler-888, also known as KOI-1535, is a G-type main-sequence star located about 1,389.376 light-years from Earth. A sub-Neptune orbits this star, completing one orbit in 70.65 days.
 "86A1B4FB-97A3-47DB-B25C-9D7F8139BFEC" = "Kepler-888, also known as KOI-1535, is a G-type main-sequence star located about 1,389.376 light-years from Earth. A sub-Neptune orbits this star, completing one orbit in 70.65 days.";
+
+// English: AR Scorpii is binary star system about 380 light-years away in the constellation Scorpius. It contains an highly magnetized \"pulsar\" white dwarf orbited by a red dwarf in a 3.56 hour orbit.
+"86C8FCFA-DB76-4669-ADEA-CC4CA236DB78" = "AR Scorpii is binary star system about 380 light-years away in the constellation Scorpius. It contains an highly magnetized \"pulsar\" white dwarf orbited by a red dwarf in a 3.56 hour orbit.";
 
 // English: Adds a 3D model for Ascraeus Mons, a large shield volcano that is part of a chain of three massive Martian volcanoes called the Tharsis Montes
 "86D6204B-0D91-4444-613B-1594672259AE" = "Adds a 3D model for Ascraeus Mons, a large shield volcano that is part of a chain of three massive Martian volcanoes called the Tharsis Montes";
