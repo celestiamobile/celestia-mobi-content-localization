@@ -1186,6 +1186,9 @@
 // English: AC Herculis is a binary star system, consisting of a dying post-AGB star and a main sequence star, located about 4,572 light-years away in the constellation Hercules. Both stars are surrounded by a debris disk and a large planet that (if its existence is confirmed) would be the very first polar circumbinary planet ever found
 "2F1E7999-B973-4675-BC4C-CC0B0ECE3ADF" = "AC Herculis is a binary star system, consisting of a dying post-AGB star and a main sequence star, located about 4,572 light-years away in the constellation Hercules. Both stars are surrounded by a debris disk and a large planet that (if its existence is confirmed) would be the very first polar circumbinary planet ever found";
 
+// English: KELT-25, also known as KOI-626, is an A-type star located about 1443.42 light-years from the solar system in the Canis Major constellation. This star has a puffy hot Jupiter that takes only 4.4 days to orbit once.
+"2F5DC209-BBF2-42F9-90F5-16AE25B24EE4" = "KELT-25, also known as KOI-626, is an A-type star located about 1443.42 light-years from the solar system in the Canis Major constellation. This star has a puffy hot Jupiter that takes only 4.4 days to orbit once.";
+
 // English: 59 Virginis b, also known as Gliese 504b is a gas giant exoplanet discovered in 2013 with data from the Kepler space telescope. This exoplanet is located around the star 59 Virginis 57 light-years away from Earth in the constellation Virgo. This exoplanet is believed to have a pink color.
 "2F7268ED-094F-4BFA-DB28-F1889627C2FD" = "59 Virginis b, also known as Gliese 504b is a gas giant exoplanet discovered in 2013 with data from the Kepler space telescope. This exoplanet is located around the star 59 Virginis 57 light-years away from Earth in the constellation Virgo. This exoplanet is believed to have a pink color.";
 
@@ -1791,6 +1794,9 @@
 
 // English: This addon adds fictional textures for the planets of the Pi Mensae system. Pi Mensae has a super-Jovian planet in a wide orbit discovered in 2001, and an inner super-Earth discovered by TESS in 2018. In 2022, the third planet Pi Mensae d was discovered using the radial velocity method, with an orbital period of 125 days. The planets are on mutually misaligned orbits
 "45E958E2-8F0B-5447-60CB-6482BBA727C7" = "This addon adds fictional textures for the planets of the Pi Mensae system. Pi Mensae has a super-Jovian planet in a wide orbit discovered in 2001, and an inner super-Earth discovered by TESS in 2018. In 2022, the third planet Pi Mensae d was discovered using the radial velocity method, with an orbital period of 125 days. The planets are on mutually misaligned orbits";
+
+// English: KELT-4 is a triple star system, consisting of an F-type star and two K-type stars, located about 715.6 light-years from the Solar System in the constellation Leo. Component A has a low-density hot Jupiter, which completes an orbit in just 3 days.
+"45F42392-1722-4B4F-9956-146137D2A92D" = "KELT-4 is a triple star system, consisting of an F-type star and two K-type stars, located about 715.6 light-years from the Solar System in the constellation Leo. Component A has a low-density hot Jupiter, which completes an orbit in just 3 days.";
 
 // English: K2-58, also known as EPIC 206026904, is a G-type star located about 595.86 light-years from Earth. This star has three known planets: one mini-Neptune and two super-Earths.
 "4626FEA7-E934-44E9-A925-E7A287893C73" = "K2-58, also known as EPIC 206026904, is a G-type star located about 595.86 light-years from Earth. This star has three known planets: one mini-Neptune and two super-Earths.";
@@ -2803,6 +2809,9 @@
 // English: 24 Leonis Minoris, aka HD 88986, is a binary system comprised of a G-type main sequence star and a red dwarf located about 108.77 lightyears from the solar system. A single, potentially transiting sub-Neptune was found around the primary component of the binary on a mildly eccentric 146 day orbit.
 "6F25FBB2-623C-4866-8EBE-0FBB420E4FC2" = "24 Leonis Minoris, aka HD 88986, is a binary system comprised of a G-type main sequence star and a red dwarf located about 108.77 lightyears from the solar system. A single, potentially transiting sub-Neptune was found around the primary component of the binary on a mildly eccentric 146 day orbit.";
 
+// English: KELT-7, also known as TOI-1682, is an F-type main-sequence star located about 447.53 light-years from the Solar System in the constellation Auriga. This star has an puffy hot Jupiter with a density of only two-thirds that of Saturn, and it takes 2.7 Earth days to complete one orbit.
+"6F2F970A-B2B3-4101-84D4-11A9D4A73FDC" = "KELT-7, also known as TOI-1682, is an F-type main-sequence star located about 447.53 light-years from the Solar System in the constellation Auriga. This star has an puffy hot Jupiter with a density of only two-thirds that of Saturn, and it takes 2.7 Earth days to complete one orbit.";
+
 // English: TOI-1117, also known as TIC 295541511, is a G-type main-sequence star located 549.27 light-years from Earth and detected the star's three sub-Neptune planets in mid-2025, and all three sub-Neptunes are very close to their main stars
 "6F3FA2CF-78A5-45D5-8D89-F9A5FA702DCE" = "TOI-1117, also known as TIC 295541511, is a G-type main-sequence star located 549.27 light-years from Earth and detected the star's three sub-Neptune planets in mid-2025, and all three sub-Neptunes are very close to their main stars";
 
@@ -2892,6 +2901,9 @@
 
 // English: A Venus cloud map made from that one iconic image taken by Mariner 10 in 1973.
 "739912BC-C3D8-D8F6-2288-7A003F88777C" = "A Venus cloud map made from that one iconic image taken by Mariner 10 in 1973.";
+
+// English: KELT-3, also known as BD 41 2024, is a binary star system consisting of an F-type star and a K-type star, located about 681 light-years from Earth in the constellation Leo Minor. Component A has a bloated hot Jupiter with a mass 1.94 times that of Jupiter, orbiting in just 2.7 Earth days, with an eccentricity of 0.202.
+"7399ABBB-9BDA-4BB4-A6A2-74B3D9A79C99" = "KELT-3, also known as BD 41 2024, is a binary star system consisting of an F-type star and a K-type star, located about 681 light-years from Earth in the constellation Leo Minor. Component A has a bloated hot Jupiter with a mass 1.94 times that of Jupiter, orbiting in just 2.7 Earth days, with an eccentricity of 0.202.";
 
 // English: Sirius is the brightest star in the night sky. With a visual apparent magnitude of −1.46, Sirius is almost twice as bright as Canopus, the next brightest star. It is a binary star system consisting of an A-type main-sequence star and a white dwarf orbiting each other once every 50 years. It is only about 8.61 light-years away in the constellation Canis Major
 "73C8714E-3A3C-4C1C-AC6C-F160737E9A21" = "Sirius is the brightest star in the night sky. With a visual apparent magnitude of −1.46, Sirius is almost twice as bright as Canopus, the next brightest star. It is a binary star system consisting of an A-type main-sequence star and a white dwarf orbiting each other once every 50 years. It is only about 8.61 light-years away in the constellation Canis Major";
@@ -3498,6 +3510,9 @@
 
 // English: Roberts 22, also known as MR 22 and AFGL 4104, is a protoplanetary nebula about 4,664 light-years away in the constellation Carina. Its central star is a post-AGB star that is once thought to be a Wolf-Rayet star
 "8D43E447-CBED-44D4-8EA9-6086C6343B36" = "Roberts 22, also known as MR 22 and AFGL 4104, is a protoplanetary nebula about 4,664 light-years away in the constellation Carina. Its central star is a post-AGB star that is once thought to be a Wolf-Rayet star";
+
+// English: KELT-2, also known as HD 42176, is a binary star system consisting of an F-type main-sequence star and a K-type main-sequence star, located 439 light-years from Earth in the constellation Auriga. Component A is known to have a hot Jupiter with an orbital period of only 4.11 days.
+"8D839CC9-87D4-418A-9301-B815C1E75582" = "KELT-2, also known as HD 42176, is a binary star system consisting of an F-type main-sequence star and a K-type main-sequence star, located 439 light-years from Earth in the constellation Auriga. Component A is known to have a hot Jupiter with an orbital period of only 4.11 days.";
 
 // English: Mustafar is a small planet in the Outer Rim that is strongly affected by the gravitational and tidal forces caused by two close gas giant planets, Jestefad and Lefrani, resulting in its surface being dotted by numerous active volcanoes and molten rock. This is where Anakin Skywalker and Obi-Wan Kenobi dueled to the death in 19 BBY
 "8DA6B017-E5B2-4EEE-AFA2-24EAF45909C9" = "Mustafar is a small planet in the Outer Rim that is strongly affected by the gravitational and tidal forces caused by two close gas giant planets, Jestefad and Lefrani, resulting in its surface being dotted by numerous active volcanoes and molten rock. This is where Anakin Skywalker and Obi-Wan Kenobi dueled to the death in 19 BBY";
