@@ -3379,8 +3379,8 @@
 // English: 2025 MN45 is a rapidly rotating main belt asteroid discovered by the Vera C. Rubin Observatory. As of 2026, it has the shortest known rotation period of any asteroid larger than 500 meters in diameter.
 "8839F1B2-B9F8-4601-983E-5F48F8FEEF24" = "2025 MN45 is a rapidly rotating main belt asteroid discovered by the Vera C. Rubin Observatory. As of 2026, it has the shortest known rotation period of any asteroid larger than 500 meters in diameter.";
 
-// English: ROXs 42B is a binary star system of two red dwarf stars about 470.18 light-years away in the constellation Ophiuchus. At an average distance of 150 AU, both stars are orbited by a massive gas giant planet about 2.5 times the size of Jupiter
-"8842EF22-0CD6-4648-9DDF-EF39197DE03F" = "ROXs 42B is a binary star system of two red dwarf stars about 470.18 light-years away in the constellation Ophiuchus. At an average distance of 150 AU, both stars are orbited by a massive gas giant planet about 2.5 times the size of Jupiter";
+// English: ROXs 42 B is a binary star system of two red dwarf stars about 470.18 light-years away in the constellation Ophiuchus. At an average distance of 150 AU, both stars are orbited by a massive gas giant planet about 2.5 times the size of Jupiter
+"8842EF22-0CD6-4648-9DDF-EF39197DE03F" = "ROXs 42 B is a binary star system of two red dwarf stars about 470.18 light-years away in the constellation Ophiuchus. At an average distance of 150 AU, both stars are orbited by a massive gas giant planet about 2.5 times the size of Jupiter";
 
 // English: WASP-46 is a Sun-like star about 1,237 light-years away in the constellation Indus. It has a gas giant planet (larger than Jupiter) that orbits once every 1.43 days around its star
 "88434452-4258-4A63-A6CC-B62108F7AEA7" = "WASP-46 is a Sun-like star about 1,237 light-years away in the constellation Indus. It has a gas giant planet (larger than Jupiter) that orbits once every 1.43 days around its star";
@@ -5403,6 +5403,9 @@
 
 // English: TOI-2000 showed two additional peaks at 17.3 and 90.7 days in the RV data for the system, which could indicate the presence of a sub-Saturn mass and a sub-Jupiter mass gas giant respectively, but more data is needed to confirm these additional signals.
 "D647AA80-7EB8-48DA-BDEE-417E298D011A" = "TOI-2000 showed two additional peaks at 17.3 and 90.7 days in the RV data for the system, which could indicate the presence of a sub-Saturn mass and a sub-Jupiter mass gas giant respectively, but more data is needed to confirm these additional signals.";
+
+// English: 1RXS J160929.1-210524 is a K-type main-sequence star, about 450 light-years away from Earth, located in the constellation Scorpius. This star is about 11 million years old. On September 8, 2008, a super-Jupiter was announced to have been discovered, with a semi-major axis of about 330 AU. This planet is the eighth directly imaged exoplanet.
+"D657C97B-8991-48FA-ACE0-6A382B7E5A48" = "1RXS J160929.1-210524 is a K-type main-sequence star, about 450 light-years away from Earth, located in the constellation Scorpius. This star is about 11 million years old. On September 8, 2008, a super-Jupiter was announced to have been discovered, with a semi-major axis of about 330 AU. This planet is the eighth directly imaged exoplanet.";
 
 // English: 11351 Leucus is a mid-sized Jupiter L4 trojan, approximately 40 km in diameter. It is a target of the Lucy mission, scheduled for a flyby in April 2028. The assumed D-type asteroid is an exceptionally slow rotator with a rotation period of 466 hours, in addition to having a elongated shape.
 "D6614083-4BA0-C9F2-CFFB-1FCDF7C093A1" = "11351 Leucus is a mid-sized Jupiter L4 trojan, approximately 40 km in diameter. It is a target of the Lucy mission, scheduled for a flyby in April 2028. The assumed D-type asteroid is an exceptionally slow rotator with a rotation period of 466 hours, in addition to having a elongated shape.";
