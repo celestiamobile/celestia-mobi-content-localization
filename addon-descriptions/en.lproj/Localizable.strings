@@ -844,6 +844,9 @@
 // English: A cube with the Microsoft PowerPoint logo.
 "22FFD76A-A3A9-B8C1-0AF6-9088B4B86B69" = "A cube with the Microsoft PowerPoint logo.";
 
+// English: 17 Scorpii, also known as Chi Scorpii and HD 145897, is a single, K-type giant star about 448 light-years away in the constellation Scorpius. A superjovian planet was discovered orbiting this star in 2020 via the radial velocity method, with an orbital period of 573.4 days. It is estimated that the mass of this planet is at least 4.32 times that of Jupiter.
+"2312AA92-17DF-48AC-84C4-4FE2FB1D3510" = "17 Scorpii, also known as Chi Scorpii and HD 145897, is a single, K-type giant star about 448 light-years away in the constellation Scorpius. A superjovian planet was discovered orbiting this star in 2020 via the radial velocity method, with an orbital period of 573.4 days. It is estimated that the mass of this planet is at least 4.32 times that of Jupiter.";
+
 // English: 88055 Ghaf is a main-belt asteroid about 5.4 km in diameter, discovered on 2000-Nov-1. It is the target of the UAE's MBR Explorer mission, with a flyby planned in July 2032.
 "2317BC8F-B503-4515-AE84-CBE4F0539A4E" = "88055 Ghaf is a main-belt asteroid about 5.4 km in diameter, discovered on 2000-Nov-1. It is the target of the UAE's MBR Explorer mission, with a flyby planned in July 2032.";
 
@@ -5725,6 +5728,9 @@
 // English: ASC-1 to 3 were three communications satellites operated by the American Satellite Corp. and later PanAmSat launched between 1985 and 1991. The first satellite is one of three spacecraft deployed from the payload bay of STS-51-I (Discovery). They provided television broadcasting and network until 2006, when the last of the satellites were decommissioned and replaced by newer fleets
 "E15DB7EE-2445-4405-84EB-B09B3684FF8E" = "ASC-1 to 3 were three communications satellites operated by the American Satellite Corp. and later PanAmSat launched between 1985 and 1991. The first satellite is one of three spacecraft deployed from the payload bay of STS-51-I (Discovery). They provided television broadcasting and network until 2006, when the last of the satellites were decommissioned and replaced by newer fleets";
 
+// English: The Communications Technology Satellite (CTS), also known as Hermes, is an experimental Canadian communications satellite launched to geosynchronous orbit. It relayed communications and TV broadcasts from 1976 until its decommissioning in 1979, while demonstrating technological innovations at the same time
+"E16B8502-98C4-4415-A46A-E62096850A5C" = "The Communications Technology Satellite (CTS), also known as Hermes, is an experimental Canadian communications satellite launched to geosynchronous orbit. It relayed communications and TV broadcasts from 1976 until its decommissioning in 1979, while demonstrating technological innovations at the same time";
+
 // English: Upsilon Andromedae, also known as Titawin, is a binary star system comprising an F-type main-sequence star and a red dwarf, about 44 light-years away in the constellation Andromeda. The primary star has a total of three confirmed exoplanets, one hot Jupiter (Saffar), which is known to have a blue color, and two super-Jupiters (Samh and Majriti).
 "E172F6E7-E470-D886-C2FD-E10D8A2FCE23" = "Upsilon Andromedae, also known as Titawin, is a binary star system comprising an F-type main-sequence star and a red dwarf, about 44 light-years away in the constellation Andromeda. The primary star has a total of three confirmed exoplanets, one hot Jupiter (Saffar), which is known to have a blue color, and two super-Jupiters (Samh and Majriti).";
 
@@ -6358,8 +6364,8 @@
 // English: This addon adds, as an alternative surface, a Mercury texture with enhanced color.
 "FA51D68A-59E9-416F-A484-C6B9AABC4E29" = "This addon adds, as an alternative surface, a Mercury texture with enhanced color.";
 
-// English: Tau Ceti is a Sun-like star about 11.9 light-years away in the constellation Cetus. Four confirmed planets (2 terrans, 2 superterrans) are discovered, of which the outermost two were formerly considered to be potentially habitable until 2020, when new models of the star's habitable zone determined that both orbit outside of it
-"FA6CF095-3F59-E60A-A4C4-F4C162814770" = "Tau Ceti is a Sun-like star about 11.9 light-years away in the constellation Cetus. Four confirmed planets (2 terrans, 2 superterrans) are discovered, of which the outermost two were formerly considered to be potentially habitable until 2020, when new models of the star's habitable zone determined that both orbit outside of it";
+// English: Tau Ceti is a Sun-like star about 11.9 light-years away in the constellation Cetus. Previously, around four to seven planets were thought to exist within this star, including two potentially habitable candidates (e and f). Follow-up studies until 2025 failed to verify their existence, apart from a debris disk about 10–50 AU across
+"FA6CF095-3F59-E60A-A4C4-F4C162814770" = "Tau Ceti is a Sun-like star about 11.9 light-years away in the constellation Cetus. Previously, around four to seven planets were thought to exist within this star, including two potentially habitable candidates (e and f). Follow-up studies until 2025 failed to verify their existence, apart from a debris disk about 10–50 AU across";
 
 // English: Kepler-12 is a G-type subgiant star about 2,950 light-years away in the constellation Draco. A super-Jovian planet is found orbiting its star once every 4.43 days
 "FB21C4D7-2C3E-4E8D-88C0-E8EC28CB1795" = "Kepler-12 is a G-type subgiant star about 2,950 light-years away in the constellation Draco. A super-Jovian planet is found orbiting its star once every 4.43 days";
