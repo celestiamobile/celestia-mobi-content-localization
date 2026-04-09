@@ -802,6 +802,9 @@
 // English: K2-35, also known as EPIC 201549860, is a K-type main-sequence star located 829.8297 light-years away from Earth, and it has two planets, a super-Earth and a sub-Neptune
 "20E5191B-3087-4AB9-B0AC-33B36B63E577" = "K2-35, also known as EPIC 201549860, is a K-type main-sequence star located 829.8297 light-years away from Earth, and it has two planets, a super-Earth and a sub-Neptune";
 
+// English: This addon adds 9 stars and 1 nebulae in the galactic center, and 7 nebulae in the disk of the Whirlpool Galaxy.\n\nList of stars and nebulae included in the addon, to help you find each one:\n\n•[LPS2002] 1 (star)\n\n•[LPS2002] 2 (star)\n\n•[LPS2002] 3 (star)\n\n•[LPS2002] 4 (star)\n\n•[LPS2002] 5 (star)\n\n•[LPS2002] 6 (star)\n\n•[LPS2002] 7 (star)\n\n•[LPS2002] 8 (star)\n\n•[LPS2002] 9 (star)\n\n•CCM 77 (nebulae)\n\n•PAWS GMC 750 (nebulae)\n\n•PAWS GMC 749 (nebulae)\n\n•PAWS GMC 1122 (nebulae)\n\n•PAWS GMC 765 (nebulae)\n\n•PAWS GMC 756 (nebulae)\n\n•PAWS GMC 973 (nebulae)\n\n•[PHB96] 70 (nebulae)
+"20E766E5-4582-42A6-AA84-EA6E1D5D7F47" = "This addon adds 9 stars and 1 nebulae in the galactic center, and 7 nebulae in the disk of the Whirlpool Galaxy.\n\nList of stars and nebulae included in the addon, to help you find each one:\n\n•[LPS2002] 1 (star)\n\n•[LPS2002] 2 (star)\n\n•[LPS2002] 3 (star)\n\n•[LPS2002] 4 (star)\n\n•[LPS2002] 5 (star)\n\n•[LPS2002] 6 (star)\n\n•[LPS2002] 7 (star)\n\n•[LPS2002] 8 (star)\n\n•[LPS2002] 9 (star)\n\n•CCM 77 (nebulae)\n\n•PAWS GMC 750 (nebulae)\n\n•PAWS GMC 749 (nebulae)\n\n•PAWS GMC 1122 (nebulae)\n\n•PAWS GMC 765 (nebulae)\n\n•PAWS GMC 756 (nebulae)\n\n•PAWS GMC 973 (nebulae)\n\n•[PHB96] 70 (nebulae)";
+
 // English: 449P/Leonard is one of many comets discovered by Gregory J. Leonard. A periodic comet with a 6.82-year orbit around the Sun, it was later found out by Maik Meyer that it was a previously lost comet that was first seen by Robert McNaught and Malcolm Hartley by accident in 1987. It is one of the most recent recovered astronomical objects to date.
 "210486A3-9DEC-91E3-3C76-B3AF005D4DD7" = "449P/Leonard is one of many comets discovered by Gregory J. Leonard. A periodic comet with a 6.82-year orbit around the Sun, it was later found out by Maik Meyer that it was a previously lost comet that was first seen by Robert McNaught and Malcolm Hartley by accident in 1987. It is one of the most recent recovered astronomical objects to date.";
 
@@ -2061,6 +2064,9 @@
 
 // English: SU Cassiopeiae is a distant cepheid variable star about 1,506 light-years away in the constellation Cassiopeia. In 1996, it is found to have a brown dwarf companion circling around it once every 1.11 days
 "4FBC5D8F-A56D-41C8-A3C5-DD5440819626" = "SU Cassiopeiae is a distant cepheid variable star about 1,506 light-years away in the constellation Cassiopeia. In 1996, it is found to have a brown dwarf companion circling around it once every 1.11 days";
+
+// English: Gargantua is a supermassive black hole. It has a mass of 6.7e+38 kg. It's from the interstellar movie.
+"4FC5F069-D9B4-4CF4-9282-441EE24FBC47" = "Gargantua is a supermassive black hole. It has a mass of 6.7e+38 kg. It's from the interstellar movie.";
 
 // English: Kepler-421, also known as KOI-1274, is a binary star system of a K-type main-sequence star and a Sun-like star about 1,124 light-years away in the constellation Lyra. The smaller orange star (component A) has a planet slightly larger than Uranus, but orbiting at a distance comparable to Earth's proximity to the Sun
 "4FE4C5F9-7810-4A53-9BBD-CB25DF429E7D" = "Kepler-421, also known as KOI-1274, is a binary star system of a K-type main-sequence star and a Sun-like star about 1,124 light-years away in the constellation Lyra. The smaller orange star (component A) has a planet slightly larger than Uranus, but orbiting at a distance comparable to Earth's proximity to the Sun";
