@@ -4663,6 +4663,9 @@
 // English: XO-5, also known as Absolutno and TOI-5373, is a G-type main-sequence star located about 907.9 light-years from Earth. It has a hot Jupiter with an orbital period of only 4.188 days.
 "B8778DD6-CA42-44AD-AD0D-4FA47E3AF1D9" = "XO-5, also known as Absolutno and TOI-5373, is a G-type main-sequence star located about 907.9 light-years from Earth. It has a hot Jupiter with an orbital period of only 4.188 days.";
 
+// English: ROXs 21, also known as SR 12 , is a binary star system of two M-type pre-main-sequence stars about 366 light-years away in the constellation Ophiuchus. A wide-separation planetary-mass companion with a mass approximately 11~15 times that of Jupiter was discovered via direct imaging in 2011, orbiting at a separation of about 1,100 AU from the binary pair.
+"B879FB2F-4B9B-4A9B-A474-37325A8EED93" = "ROXs 21, also known as SR 12 , is a binary star system of two M-type pre-main-sequence stars about 366 light-years away in the constellation Ophiuchus. A wide-separation planetary-mass companion with a mass approximately 11~15 times that of Jupiter was discovered via direct imaging in 2011, orbiting at a separation of about 1,100 AU from the binary pair.";
+
 // English: Medical Frigate from ESBA. NOTE: This add-on requires the Tatooine, Endor and Death Staradd-on!
 "B89F1A6A-ADCA-755D-9352-8B9D0924FF5F" = "Medical Frigate from ESBA. NOTE: This add-on requires the Tatooine, Endor and Death Staradd-on!";
 
@@ -6300,6 +6303,9 @@
 
 // English: 2013 UT₁₅ is an extreme Trans-Neptunian object discovered on August 2, 2013. It has an orbital period of 2,742 years.
 "F6EF1578-20B5-22FA-A310-496A8D90A194" = "2013 UT₁₅ is an extreme Trans-Neptunian object discovered on August 2, 2013. It has an orbital period of 2,742 years.";
+
+// English: Delorme 1, also known as 2MASS J01033563-5515561 (AB) and TYC 8474-204-1, is a binary star system of two M5.5-type pre-main-sequence stars about 154 light-years away in the constellation Phoenix. A planetary-mass companion with a mass approximately 12~14 times that of Jupiter was discovered via direct imaging in 2013, orbiting the binary pair at a projected separation of about 84 AU. The object hosts a circumplanetary disk with a carbon-rich atmosphere, featuring strong emission from HCN and C₂H₂, while oxygen-bearing species such as CO, CO₂, and H₂O are notably absent, suggesting an elevated C/O ratio. Extended H₂ emission indicates outflow activity consistent with a disk wind.
+"F761989B-76B1-4BC1-8CDA-616CE69F7EB1" = "Delorme 1, also known as 2MASS J01033563-5515561 (AB) and TYC 8474-204-1, is a binary star system of two M5.5-type pre-main-sequence stars about 154 light-years away in the constellation Phoenix. A planetary-mass companion with a mass approximately 12~14 times that of Jupiter was discovered via direct imaging in 2013, orbiting the binary pair at a projected separation of about 84 AU. The object hosts a circumplanetary disk with a carbon-rich atmosphere, featuring strong emission from HCN and C₂H₂, while oxygen-bearing species such as CO, CO₂, and H₂O are notably absent, suggesting an elevated C/O ratio. Extended H₂ emission indicates outflow activity consistent with a disk wind.";
 
 // English: NGC 6440H is a millisecond pulsar about 27,723 light-years away in the constellation Sagittarius. A member of the NGC 6440 globular cluster, it is found with a rare super-Jovian planet orbiting the dead star.\nNOTE: Not to be confused with its nearby pulsar neighbor, NGC 6440 X-2, which also has a large Jovian planet orbiting it
 "F796D289-296F-49C5-ABC3-0BBC4A9E33FE" = "NGC 6440H is a millisecond pulsar about 27,723 light-years away in the constellation Sagittarius. A member of the NGC 6440 globular cluster, it is found with a rare super-Jovian planet orbiting the dead star.\nNOTE: Not to be confused with its nearby pulsar neighbor, NGC 6440 X-2, which also has a large Jovian planet orbiting it";
