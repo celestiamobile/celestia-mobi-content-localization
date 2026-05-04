@@ -112,8 +112,8 @@
 // English: How to Navigate to Spacecraft that Don't Appear in Celestia?
 "6E1BB6B2-178D-F3DF-0C25-E7DE6741CBB5" = "Търсене на невидимите космически апарати в „Celestia“?";
 
-// English: CEL/CELX Scripting Documentation
-"6F7D2F2A-BD35-924D-D068-2B7E61022445" = "Документация за скриптовете CEL и CELX";
+// English: CELX Scripting Documentation
+//"6F7D2F2A-BD35-924D-D068-2B7E61022445" = "CELX Scripting Documentation";
 
 // English: Flight Mode
 "7013117F-362E-7138-59BB-B9ED52ADECF1" = "Режим полет";
