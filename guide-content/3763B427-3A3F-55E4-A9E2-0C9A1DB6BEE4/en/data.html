@@ -140,6 +140,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     { key: 'authors', display: 'Authors', elementName: 'submission-authors', type: 'short-text-list', hint: 'Required for new add-ons. Authors of the add-on', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'remove_dependencies', display: 'Remove Dependency Requirements', elementName: 'submission-remove-dependencies', type: 'checkbox', hint: 'Mark this checkbox if you want to remove the dependency requirements', fileContentProvider: function(checked) { if (checked) return 'remove'; else return null; }, targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'dependencies', display: 'Dependencies', elementName: 'submission-dependencies', type: 'short-text-list', hint: 'IDs of add-ons that this add-on depends on', targetCheckBox: ['submission-remove', 'submission-remove-dependencies'], targetCheckBoxValue: [false, false] },
+    { key: 'rank', display: 'Rank', elementName: 'submission-rank', type: 'int', hint: 'Rank of the add-on. Add-ons with higher ranks are shown first in a category. Normal add-ons have rank 0', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'description', display: 'Description', elementName: 'submission-description', type: 'long-text', hint: 'Required for new add-ons. Plain text description of the add-on', targetCheckBox: 'submission-remove', targetCheckBoxValue: false },
     { key: 'demo_object_name', display: 'Demo Object Name', elementName: 'submission-demo-object-name', type: 'short-text', hint: 'Path of the object for Go to. If provided, it must match one of the objects or ancestor of objects defined in ssc/stc/dsc files in this add-on and should be in the format of path', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, targetSelect: 'submission-type', targetSelectValue: ['addon', 'none'] },
     { key: 'main_script_name', display: 'Main Script Name', elementName: 'submission-main-script-name', type: 'short-text', hint: 'File name of the main script file', targetCheckBox: 'submission-remove', targetCheckBoxValue: false, targetSelect: 'submission-type', targetSelectValue: ['script', 'none'] },
@@ -177,6 +178,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       case 'short-text':
       case 'long-text':
       case 'reference':
+      case 'int':
         var input = document.getElementById(element.elementName);
         if (input.value.length != 0) {
           var fullFilename = filename;
@@ -297,10 +299,13 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       case 'short-text':
       case 'long-text':
       case 'reference':
+      case 'int':
         var input = document.getElementById(element.elementName);
         if (input.value.length != 0) {
           if (element.type == 'reference') {
             fields[element.key] = { value: { recordName: input.value, action: 'NONE' } };
+          } else if (element.type == 'int') {
+            fields[element.key] = { value: parseInt(input.value) };
           } else {
             fields[element.key] = { value: input.value };
           }
@@ -397,9 +402,15 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     switch (element.type) {
     case 'short-text':
     case 'reference':
+    case 'int':
       var input = document.createElement('input');
       input.classList.add('addon-submission-text-input');
-      input.type = 'text';
+      if (element.type == 'int') {
+        input.type = 'number';
+        input.step = '1';
+      } else {
+        input.type = 'text';
+      }
       input.id = element.elementName;
       input.name = element.elementName;
       controls.push(input);
