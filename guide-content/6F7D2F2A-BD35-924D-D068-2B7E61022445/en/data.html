@@ -20,6 +20,7 @@
   color: var(--fg);
   font: 16px/1.6 var(--font);
   -webkit-font-smoothing: antialiased;
+  margin-top: 1em;
 }
 .theme-dark .celx-doc {
   --bg: #0d1117;
@@ -86,12 +87,12 @@
   .celx-doc .toc { grid-template-columns: 1fr 1fr; }
 }
 </style>
-<div class="celx-doc" style="margin-top:1em;">
+<div class="celx-doc">
 <div class="preface">
     <strong>Quick start:</strong> a <code>.celx</code> script runs as a Lua coroutine. Time-blocking is done with <code>wait(seconds)</code>; the script can call any of the methods below to manipulate the scene. The top-level objects available at script start are <code>celestia</code> (the simulation), and accessors that fetch others like <code>celestia:getobserver()</code> for the camera.
   </div>
   <nav class="toc">
-    <a href="#celestia">celestia<small>132</small></a>
+    <a href="#celestia">celestia<small>133</small></a>
     <a href="#observer">observer<small>41</small></a>
     <a href="#object">object<small>40</small></a>
     <a href="#position">position<small>12</small></a>
@@ -106,7 +107,7 @@
     <a href="#celscript">celscript<small>2</small></a>
     <a href="#gl">gl<small>19</small></a>
   </nav>
-  <h2 id="celestia">celestia <span class="badge">132 methods</span></h2>
+  <h2 id="celestia">celestia <span class="badge">133 methods</span></h2>
   <p>Top-level scripting object — find/select objects, configure rendering, manage time, audio, and event handlers.</p>
     <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">bindtranslationdomain()</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/a2dba1e519f5e854a5aa1b11e731b84ef6e7576f" target="_blank" rel="noopener" title="Introduced in commit a2dba1e519f5e854a5aa1b11e731b84ef6e7576f">since <code>a2dba1e</code></a></span></div>
@@ -651,6 +652,15 @@
     <div class="returns-label">returns</div>
     <ul class="params returns">
     <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span></li>
+    </ul>
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">language()</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/dbf2b11ca131ecfe019cffdfa45cf35a6d8dc124" target="_blank" rel="noopener" title="Introduced in commit dbf2b11ca131ecfe019cffdfa45cf35a6d8dc124">since <code>dbf2b11</code></a></span></div>
+      <div class="desc">Active gettext language code (`zh_CN`, `de`, `ja`, …) or `en` when no translation is loaded. Mirrors the value of `_("LANGUAGE")` in the C++ source.</div>
+
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">string</span> <span class="pdesc">Locale code such as &quot;zh_CN&quot;, &quot;de&quot;, or &quot;en&quot;.</span></li>
     </ul>
     </div>
     <div class="method">
