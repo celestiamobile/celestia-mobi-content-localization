@@ -5362,6 +5362,9 @@
 // English: This system focuses on the habitable world of Kelari, which along with three other worlds (Muhrashi, Chiloque, and Juiravan) share a common barycenter. This system should have been chaotic over a few millenia, but it held stable gravitationally by going near their common Lagrange points in space
 "D0D84442-1D8B-636C-90B3-606CA1CC8EFE" = "This system focuses on the habitable world of Kelari, which along with three other worlds (Muhrashi, Chiloque, and Juiravan) share a common barycenter. This system should have been chaotic over a few millenia, but it held stable gravitationally by going near their common Lagrange points in space";
 
+// English: WASP-100, also known as TOI-106, is a binary star system consisting of an F-type star and a red dwarf, located about 1,200 light-years from the Solar System in the constellation Reticulum. Component A has a hot Jupiter, which completes an orbit in just 2.85 days.
+"D0EB2013-181E-4C46-82E4-92FC241DF009" = "WASP-100, also known as TOI-106, is a binary star system consisting of an F-type star and a red dwarf, located about 1,200 light-years from the Solar System in the constellation Reticulum. Component A has a hot Jupiter, which completes an orbit in just 2.85 days.";
+
 // English: Kojima-1L is the closest known microlensing system to date, at 1,399 light-years away from Earth. The planet has a mass similar to that of Neptune.
 "D0F0F11F-3076-4C49-191C-833B67B3AB25" = "Kojima-1L is the closest known microlensing system to date, at 1,399 light-years away from Earth. The planet has a mass similar to that of Neptune.";
 

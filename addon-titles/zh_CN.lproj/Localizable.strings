@@ -178,8 +178,8 @@
 // English: WASP-18
 //"070A3416-B02A-638F-CA7B-54836E11724C" = "WASP-18";
 
-// English: (Unconfirmed Exoplanets)
-//"07167CDD-7E3B-17CE-12DA-3718A6FC242B" = "(Unconfirmed Exoplanets)";
+// English: Unconfirmed Exoplanets
+//"07167CDD-7E3B-17CE-12DA-3718A6FC242B" = "Unconfirmed Exoplanets";
 
 // English: 165347 Philplait
 //"077D7536-D0B3-E22A-DE2E-5D7E8CD1258F" = "165347 Philplait";
@@ -5361,6 +5361,9 @@
 
 // English: ABU: 107 Piscium
 //"D0D84442-1D8B-636C-90B3-606CA1CC8EFE" = "ABU: 107 Piscium";
+
+// English: WASP-100
+//"D0EB2013-181E-4C46-82E4-92FC241DF009" = "WASP-100";
 
 // English: Kojima-1L
 //"D0F0F11F-3076-4C49-191C-833B67B3AB25" = "Kojima-1L";
