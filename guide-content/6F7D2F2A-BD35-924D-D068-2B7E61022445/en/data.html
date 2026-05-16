@@ -92,7 +92,7 @@
     <strong>Quick start:</strong> a <code>.celx</code> script runs as a Lua coroutine. Time-blocking is done with <code>wait(seconds)</code>; the script can call any of the methods below to manipulate the scene. The top-level objects available at script start are <code>celestia</code> (the simulation), and accessors that fetch others like <code>celestia:getobserver()</code> for the camera.
   </div>
   <nav class="toc">
-    <a href="#celestia">celestia<small>133</small></a>
+    <a href="#celestia">celestia<small>136</small></a>
     <a href="#observer">observer<small>41</small></a>
     <a href="#object">object<small>40</small></a>
     <a href="#position">position<small>12</small></a>
@@ -107,8 +107,28 @@
     <a href="#celscript">celscript<small>2</small></a>
     <a href="#gl">gl<small>19</small></a>
   </nav>
-  <h2 id="celestia">celestia <span class="badge">133 methods</span></h2>
+  <h2 id="celestia">celestia <span class="badge">136 methods</span></h2>
   <p>Top-level scripting object — find/select objects, configure rendering, manage time, audio, and event handlers.</p>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">addimageoverlay(<i>1…10 args</i>)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/5b1ec24f27fa31bd8ea212fb0b810c9f601a76da" target="_blank" rel="noopener" title="Introduced in commit 5b1ec24f27fa31bd8ea212fb0b810c9f601a76da">since <code>5b1ec24</code></a></span></div>
+      <div class="desc">Append an image overlay without clearing existing ones. Same argument list as <code>overlay()</code>. Returns an id that can be passed to <code>removeimageoverlay()</code>.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">duration</span> <span class="ptype">number</span> <span class="punit">seconds</span> <span class="pdef">default: 3.0</span> <span class="pdesc">How long the image stays visible.</span></li>
+    <li><span class="ppos">arg 2</span> <span class="pname">xoffset</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Horizontal pixel offset from the anchor corner.</span></li>
+    <li><span class="ppos">arg 3</span> <span class="pname">yoffset</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Vertical pixel offset from the anchor corner.</span></li>
+    <li><span class="ppos">arg 4</span> <span class="pname">alpha</span> <span class="ptype">number | nil</span> <span class="punit">0.0–1.0</span> <span class="pdesc">Global alpha override applied to all corners. Pass <code>nil</code> to keep each corner's own alpha.</span></li>
+    <li><span class="ppos">arg 5</span> <span class="pname">filename</span> <span class="ptype">string</span> <span class="pdesc">Image file path. Relative paths resolve against the <code>images/</code> data folder.</span></li>
+    <li><span class="ppos">arg 6</span> <span class="pname">fitscreen</span> <span class="ptype">boolean | number</span> <span class="pdef">default: false</span> <span class="pdesc">When true, scale the image to fill the screen.</span></li>
+    <li><span class="ppos">arg 7</span> <span class="pname">fadeafter</span> <span class="ptype">number</span> <span class="punit">seconds</span> <span class="pdesc">Seconds into the display at which fading begins. Defaults to <code>duration</code> (no fade).</span></li>
+    <li><span class="ppos">arg 8</span> <span class="pname">width</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Override rendered width. 0 or omitted uses the texture's intrinsic width. Ignored when <code>fitscreen</code> is true.</span></li>
+    <li><span class="ppos">arg 9</span> <span class="pname">height</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Override rendered height. 0 or omitted uses the texture's intrinsic height. Ignored when <code>fitscreen</code> is true.</span></li>
+    <li><span class="ppos">arg 10</span> <span class="pname">colors</span> <span class="ptype">table | nil</span> <span class="pdesc">Per-corner color table. Supported keys: <code>color</code>, <code>colortop</code>, <code>colorbottom</code>, <code>colortopleft</code>, <code>colortopright</code>, <code>colorbottomright</code>, <code>colorbottomleft</code>. Values are named colors or <code>"#rrggbb"</code> / <code>"#rrggbbaa"</code> strings.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">number | nil</span> <span class="pdesc">Image id (pass to <code>removeimageoverlay()</code>), or <code>nil</code> if the image could not be loaded.</span></li>
+    </ul>
+    </div>
     <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">bindtranslationdomain()</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/a2dba1e519f5e854a5aa1b11e731b84ef6e7576f" target="_blank" rel="noopener" title="Introduced in commit a2dba1e519f5e854a5aa1b11e731b84ef6e7576f">since <code>a2dba1e</code></a></span></div>
       <div class="desc">Bind a gettext translation domain for the current script.</div>
@@ -116,6 +136,11 @@
     <li><span class="ppos">arg 1</span> <span class="pname">domain</span> <span class="ptype">string</span></li>
     <li><span class="ppos">arg 2</span> <span class="pname">directory</span> <span class="ptype">string</span></li>
     </ul>
+
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">clearimageoverlays()</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/5b1ec24f27fa31bd8ea212fb0b810c9f601a76da" target="_blank" rel="noopener" title="Introduced in commit 5b1ec24f27fa31bd8ea212fb0b810c9f601a76da">since <code>5b1ec24</code></a></span></div>
+      <div class="desc">Drop every currently-displayed overlay image immediately.</div>
 
     </div>
     <div class="method">
@@ -764,15 +789,19 @@
     </ul>
     </div>
     <div class="method">
-      <div class="sig"><span class="scope">celestia</span>:<span class="name">overlay(<i>1…6 args</i>)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/d149798b86bc00bde53ee3c6ef5b31759aa36152" target="_blank" rel="noopener" title="Introduced in commit d149798b86bc00bde53ee3c6ef5b31759aa36152">since <code>d149798</code></a></span></div>
-      <div class="desc">Display an image overlay (image, position, fade-in/out durations).</div>
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">overlay(<i>1…10 args</i>)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/d149798b86bc00bde53ee3c6ef5b31759aa36152" target="_blank" rel="noopener" title="Introduced in commit d149798b86bc00bde53ee3c6ef5b31759aa36152">since <code>d149798</code></a></span></div>
+      <div class="desc">Display an image overlay, replacing any currently-shown overlays. Use <code>addimageoverlay</code> if you need to stack multiple images or retain the id for later removal.</div>
     <ul class="params">
-    <li><span class="ppos">arg 1</span> <span class="pname">filename</span> <span class="ptype">string</span> <span class="punit">seconds</span> <span class="pdef">default: 3.0</span> <span class="pdesc">Image file path.</span></li>
-    <li><span class="ppos">arg 2</span> <span class="pname">duration</span> <span class="ptype">number</span> <span class="punit">seconds</span> <span class="pdef">default: 0</span> <span class="pdesc">How long the image stays visible.</span></li>
-    <li><span class="ppos">arg 3</span> <span class="pname">xoffset</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">must be a number (yoffset)</span></li>
-    <li><span class="ppos">arg 4</span> <span class="pname">yoffset</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 1</span> <span class="pdesc">must be a number (alpha)</span></li>
-    <li><span class="ppos">arg 5</span> <span class="pname">alpha</span> <span class="ptype">string</span> <span class="punit">0.0–1.0</span> <span class="pdesc">must be a string (filename)</span></li>
-    <li><span class="ppos">arg 6</span> <span class="pname">fitscreen</span> <span class="ptype">boolean | number</span> <span class="pdef">default: 0</span> <span class="pdesc">must be a number or a boolean(fitscreen)</span></li>
+    <li><span class="ppos">arg 1</span> <span class="pname">duration</span> <span class="ptype">number</span> <span class="punit">seconds</span> <span class="pdef">default: 3.0</span> <span class="pdesc">How long the image stays visible.</span></li>
+    <li><span class="ppos">arg 2</span> <span class="pname">xoffset</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Horizontal pixel offset from the anchor corner.</span></li>
+    <li><span class="ppos">arg 3</span> <span class="pname">yoffset</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Vertical pixel offset from the anchor corner.</span></li>
+    <li><span class="ppos">arg 4</span> <span class="pname">alpha</span> <span class="ptype">number | nil</span> <span class="punit">0.0–1.0</span> <span class="pdesc">Global alpha override applied to all corners. Pass <code>nil</code> to keep each corner's own alpha.</span></li>
+    <li><span class="ppos">arg 5</span> <span class="pname">filename</span> <span class="ptype">string</span> <span class="pdesc">Image file path. Relative paths resolve against the <code>images/</code> data folder.</span></li>
+    <li><span class="ppos">arg 6</span> <span class="pname">fitscreen</span> <span class="ptype">boolean | number</span> <span class="pdef">default: false</span> <span class="pdesc">When true, scale the image to fill the screen.</span></li>
+    <li><span class="ppos">arg 7</span> <span class="pname">fadeafter</span> <span class="ptype">number</span> <span class="punit">seconds</span> <span class="pdesc">Seconds into the display at which fading begins. Defaults to <code>duration</code> (no fade).</span> <span class="psince"><a href="https://github.com/CelestiaProject/Celestia/commit/38382ba83a13f83a1751a29fafc573785a185b90" target="_blank" rel="noopener" title="Argument added in commit 38382ba83a13f83a1751a29fafc573785a185b90">since <code>38382ba</code></a></span></li>
+    <li><span class="ppos">arg 8</span> <span class="pname">width</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Override rendered width. 0 or omitted uses the texture's intrinsic width. Ignored when <code>fitscreen</code> is true.</span> <span class="psince"><a href="https://github.com/CelestiaProject/Celestia/commit/38382ba83a13f83a1751a29fafc573785a185b90" target="_blank" rel="noopener" title="Argument added in commit 38382ba83a13f83a1751a29fafc573785a185b90">since <code>38382ba</code></a></span></li>
+    <li><span class="ppos">arg 9</span> <span class="pname">height</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Override rendered height. 0 or omitted uses the texture's intrinsic height. Ignored when <code>fitscreen</code> is true.</span> <span class="psince"><a href="https://github.com/CelestiaProject/Celestia/commit/38382ba83a13f83a1751a29fafc573785a185b90" target="_blank" rel="noopener" title="Argument added in commit 38382ba83a13f83a1751a29fafc573785a185b90">since <code>38382ba</code></a></span></li>
+    <li><span class="ppos">arg 10</span> <span class="pname">colors</span> <span class="ptype">table | nil</span> <span class="pdesc">Per-corner color table. Supported keys: <code>color</code> (all corners), <code>colortop</code> / <code>colorbottom</code> (two corners each), <code>colortopleft</code>, <code>colortopright</code>, <code>colorbottomright</code>, <code>colorbottomleft</code>. Values are named colors or <code>"#rrggbb"</code> / <code>"#rrggbbaa"</code> strings. Missing keys default to white.</span> <span class="psince"><a href="https://github.com/CelestiaProject/Celestia/commit/38382ba83a13f83a1751a29fafc573785a185b90" target="_blank" rel="noopener" title="Argument added in commit 38382ba83a13f83a1751a29fafc573785a185b90">since <code>38382ba</code></a></span></li>
     </ul>
 
     </div>
@@ -857,6 +886,17 @@
     <div class="returns-label">returns</div>
     <ul class="params returns">
     <li><span class="ppos">ret 1</span> <span class="ptype">string</span></li>
+    </ul>
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">removeimageoverlay(…)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/5b1ec24f27fa31bd8ea212fb0b810c9f601a76da" target="_blank" rel="noopener" title="Introduced in commit 5b1ec24f27fa31bd8ea212fb0b810c9f601a76da">since <code>5b1ec24</code></a></span></div>
+      <div class="desc">Drop a single overlay image previously added by <code>overlay()</code> or <code>addimageoverlay()</code>.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">The id returned by <code>overlay()</code> or <code>addimageoverlay()</code>.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if an image with that id was found and removed.</span></li>
     </ul>
     </div>
     <div class="method">
