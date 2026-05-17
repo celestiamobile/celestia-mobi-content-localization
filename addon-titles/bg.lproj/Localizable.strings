@@ -1522,6 +1522,9 @@
 // English: ABU: 40 Eridani A
 "38A60CBB-373C-3275-C292-4271680A6557" = "6 Хеба";
 
+// English: HAT-P-36
+//"38C5748A-23B5-4283-8165-6DDB07D04E54" = "HAT-P-36";
+
 // English: (2023 NT₁)
 "390CAE67-99B6-45B0-961D-CCF11D8F16D3" = "(2023 NT₁)";
 
@@ -1599,6 +1602,9 @@
 
 // English: Kepler-1658 b
 "3C507C33-D07E-4C0A-BA96-65A09265351E" = "Кеплер-1658";
+
+// English: HAT-P-50
+//"3C5B2A88-9199-46BF-8B43-25CA6AD9714A" = "HAT-P-50";
 
 // English: IC 466
 "3C68812E-8928-427E-8DB1-85438DD306DB" = "IC 466";
@@ -2157,6 +2163,9 @@
 
 // English: Gliese 667
 "5148494E-8B00-D97E-FA21-A9BC5D1730CC" = "Глийзе 667";
+
+// English: HAT-P-35
+//"5176FBA0-C6D9-4233-951B-A0477E3D40BA" = "HAT-P-35";
 
 // English: Enceladus (Geyser Plumes)
 "519DBD97-8968-C552-60C0-D298400FA7BF" = "Enceladus (Geyser Plumes)";
@@ -5395,6 +5404,9 @@
 // English: WD 0806-661
 "D1EB6480-6320-42A7-9842-C1785FB4F41C" = "WD 0806-661";
 
+// English: Space Opera (with sound)
+//"D1ECEA5D-C6A7-4CD2-BDA6-E08DBD7E7168" = "Space Opera (with sound)";
+
 // English: Earth: Pyramids of Giza
 //"D241B953-588B-4118-99D8-F3EF36DD9720" = "Earth: Pyramids of Giza";
 
@@ -6339,6 +6351,9 @@
 
 // English: ppp-GAMSCHIIR patches
 "F4ED5A92-3086-48E6-8B70-BA8EC18DA657" = "ppp-GAMSCHIIR patches";
+
+// English: HAT-P-57
+//"F55DD168-4F5B-4ECA-AB7D-84DCE4F0AFA6" = "HAT-P-57";
 
 // English: Coruscant
 "F55E2350-0051-44BA-8471-D7F68B1E1300" = "Коръсант";

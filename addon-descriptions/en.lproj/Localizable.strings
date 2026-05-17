@@ -1522,6 +1522,9 @@
 // English: Kidian (also known as Vulcanus) is the only known planet orbiting 40 Eridani A, where humanity established one of its first Exodus Colonies in 2398. However it is believed that they were preceded by the lost Children of Kastiel decades earlier. The discovery of the ArcWays led to the arrival of the second major colony in 2831, renewing direct contact with Earth after centuries of isolation
 "38A60CBB-373C-3275-C292-4271680A6557" = "Kidian (also known as Vulcanus) is the only known planet orbiting 40 Eridani A, where humanity established one of its first Exodus Colonies in 2398. However it is believed that they were preceded by the lost Children of Kastiel decades earlier. The discovery of the ArcWays led to the arrival of the second major colony in 2831, renewing direct contact with Earth after centuries of isolation";
 
+// English: HAT-P-36, also known as Tuiren, is a G-type main-sequence star located approximately 968.45 light-years from the Solar System in the constellation Canes Venatici. This star has a hot Jupiter named Bran, which completes an orbit in just 31 hours.
+"38C5748A-23B5-4283-8165-6DDB07D04E54" = "HAT-P-36, also known as Tuiren, is a G-type main-sequence star located approximately 968.45 light-years from the Solar System in the constellation Canes Venatici. This star has a hot Jupiter named Bran, which completes an orbit in just 31 hours.";
+
 // English: 2023 NT₁ is a 30-m wide near-Earth asteroid of the Apollo group that came within 94,662 km from Earth on 2023-Jul-13. However, it was not discovered until 2 days after closest approach due to it coming from the daylight direction. Its next encounter with Earth will not occur until 2044
 "390CAE67-99B6-45B0-961D-CCF11D8F16D3" = "2023 NT₁ is a 30-m wide near-Earth asteroid of the Apollo group that came within 94,662 km from Earth on 2023-Jul-13. However, it was not discovered until 2 days after closest approach due to it coming from the daylight direction. Its next encounter with Earth will not occur until 2044";
 
@@ -1599,6 +1602,9 @@
 
 // English: Kepler-1658 is an F-type subgiant star about 2,629 light-years away in the constellation Cygnus. A Jupiter-sized planet is found orbiting its star once every 4.31 days
 "3C507C33-D07E-4C0A-BA96-65A09265351E" = "Kepler-1658 is an F-type subgiant star about 2,629 light-years away in the constellation Cygnus. A Jupiter-sized planet is found orbiting its star once every 4.31 days";
+
+// English: HAT-P-50, also known as TOI-492, is a binary star system composed of an F-type star and a K-type star, located about 1,705 light-years from the Solar System in Canis Minor. Component A hosts a hot Jupiter with an orbital period of approximately 3 Earth days.
+"3C5B2A88-9199-46BF-8B43-25CA6AD9714A" = "HAT-P-50, also known as TOI-492, is a binary star system composed of an F-type star and a K-type star, located about 1,705 light-years from the Solar System in Canis Minor. Component A hosts a hot Jupiter with an orbital period of approximately 3 Earth days.";
 
 // English: IC 466 is a very dense emission nebula containing the Be-type star PDS 241. It is about 16,514 light-years away in the constellation Monoceros
 "3C68812E-8928-427E-8DB1-85438DD306DB" = "IC 466 is a very dense emission nebula containing the Be-type star PDS 241. It is about 16,514 light-years away in the constellation Monoceros";
@@ -2157,6 +2163,9 @@
 
 // English: Gliese 667 is a triple star system consisting of two K-type main-sequence stars and a red dwarf about 23.62 light-years away in the constellation Scorpio. Three superterran planets were discovered orbiting around the system's red dwarf star, one of which is considered to be potentially habitable
 "5148494E-8B00-D97E-FA21-A9BC5D1730CC" = "Gliese 667 is a triple star system consisting of two K-type main-sequence stars and a red dwarf about 23.62 light-years away in the constellation Scorpio. Three superterran planets were discovered orbiting around the system's red dwarf star, one of which is considered to be potentially habitable";
+
+// English: HAT-P-35, also known as TOI-489, is a triple star system consisting of an F-type star and two red dwarfs. It is approximately 1,677 light-years away from the Solar System, located in the constellation Hydra. Component A has a hot Jupiter with an orbital period of only 3.6 days.
+"5176FBA0-C6D9-4233-951B-A0477E3D40BA" = "HAT-P-35, also known as TOI-489, is a triple star system consisting of an F-type star and two red dwarfs. It is approximately 1,677 light-years away from the Solar System, located in the constellation Hydra. Component A has a hot Jupiter with an orbital period of only 3.6 days.";
 
 // English: Adds the eruption plumes coming out from the geysers located in the South Pole of Enceladus
 "519DBD97-8968-C552-60C0-D298400FA7BF" = "Adds the eruption plumes coming out from the geysers located in the South Pole of Enceladus";
@@ -5395,6 +5404,9 @@
 // English: WD 0806-661, also known as GJ 3483, is a white dwarf star about 62.8 light-years away in the constellation Volans. In 2011, a massive superjovian planet or a low-end brown dwarf was discovered by the Spitzer Space Telescope orbiting at a distance of 2,500 AU from its host star. It is one of the candidate systems to receive formal names as part of the third NameExoWorlds campaign in 2022
 "D1EB6480-6320-42A7-9842-C1785FB4F41C" = "WD 0806-661, also known as GJ 3483, is a white dwarf star about 62.8 light-years away in the constellation Volans. In 2011, a massive superjovian planet or a low-end brown dwarf was discovered by the Spitzer Space Telescope orbiting at a distance of 2,500 AU from its host star. It is one of the candidate systems to receive formal names as part of the third NameExoWorlds campaign in 2022";
 
+// English: Adapted from Space Opera and re-written in celx by Claude. Requires Celestia 1.9.16 or later for Android/iOS/macOS, 2.1.31 or later for Microsoft Store. Avoid zooming, resizing window, or rotating screen during the script.\n\nBackground music: \"Brittle Rille\" by Kevin MacLeod\nNarration: Microsoft Azure Speech (en: en-GB-RyanNeural, zh_CN: zh-CN-XiaoxiaoNeural)
+"D1ECEA5D-C6A7-4CD2-BDA6-E08DBD7E7168" = "Adapted from Space Opera and re-written in celx by Claude. Requires Celestia 1.9.16 or later for Android/iOS/macOS, 2.1.31 or later for Microsoft Store. Avoid zooming, resizing window, or rotating screen during the script.\n\nBackground music: \"Brittle Rille\" by Kevin MacLeod\nNarration: Microsoft Azure Speech (en: en-GB-RyanNeural, zh_CN: zh-CN-XiaoxiaoNeural)";
+
 // English: This add-on includes the three largest pyramids at the Giza complex in Egypt, which was built between 2600 and 2510 BC during the reign of the pharaohs from the Old Kingdom; Khufu, Khafre, and Menkaure
 "D241B953-588B-4118-99D8-F3EF36DD9720" = "This add-on includes the three largest pyramids at the Giza complex in Egypt, which was built between 2600 and 2510 BC during the reign of the pharaohs from the Old Kingdom; Khufu, Khafre, and Menkaure";
 
@@ -6339,6 +6351,9 @@
 
 // English: You need to download this for my GA-MSCHIIR (Galactic Anticentre Massive Stars, Clusters and H II regions) addons to work, if you have also installed nussun's OB associations addon. You should probably download it anyway.
 "F4ED5A92-3086-48E6-8B70-BA8EC18DA657" = "You need to download this for my GA-MSCHIIR (Galactic Anticentre Massive Stars, Clusters and H II regions) addons to work, if you have also installed nussun's OB associations addon. You should probably download it anyway.";
+
+// English: HAT-P-57, also known as TOI-7058, is a triple star system, consisting of an A-type main-sequence star, a K-type star, and a red dwarf, located about 920 light-years from the Solar System in the constellation Ophiuchus. Component A has an ultra-hot Jupiter, which takes only 2.465 days to complete one orbit.
+"F55DD168-4F5B-4ECA-AB7D-84DCE4F0AFA6" = "HAT-P-57, also known as TOI-7058, is a triple star system, consisting of an A-type main-sequence star, a K-type star, and a red dwarf, located about 920 light-years from the Solar System in the constellation Ophiuchus. Component A has an ultra-hot Jupiter, which takes only 2.465 days to complete one orbit.";
 
 // English: Coruscant is a city-covered planet that has became the capital of both the Old Republic and the Galactic Empire for many millenia. It is located within the Core Worlds region of the Galaxy, and is believed to be humanity's own planet of origin
 "F55E2350-0051-44BA-8471-D7F68B1E1300" = "Coruscant is a city-covered planet that has became the capital of both the Old Republic and the Galactic Empire for many millenia. It is located within the Core Worlds region of the Galaxy, and is believed to be humanity's own planet of origin";
