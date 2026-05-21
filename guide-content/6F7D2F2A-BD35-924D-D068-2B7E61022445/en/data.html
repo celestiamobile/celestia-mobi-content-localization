@@ -92,7 +92,7 @@
     <strong>Quick start:</strong> a <code>.celx</code> script runs as a Lua coroutine. Time-blocking is done with <code>wait(seconds)</code>; the script can call any of the methods below to manipulate the scene. The top-level objects available at script start are <code>celestia</code> (the simulation), and accessors that fetch others like <code>celestia:getobserver()</code> for the camera.
   </div>
   <nav class="toc">
-    <a href="#celestia">celestia<small>136</small></a>
+    <a href="#celestia">celestia<small>146</small></a>
     <a href="#observer">observer<small>41</small></a>
     <a href="#object">object<small>40</small></a>
     <a href="#position">position<small>12</small></a>
@@ -107,7 +107,7 @@
     <a href="#celscript">celscript<small>2</small></a>
     <a href="#gl">gl<small>19</small></a>
   </nav>
-  <h2 id="celestia">celestia <span class="badge">136 methods</span></h2>
+  <h2 id="celestia">celestia <span class="badge">146 methods</span></h2>
   <p>Top-level scripting object — find/select objects, configure rendering, manage time, audio, and event handlers.</p>
     <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">addimageoverlay(<i>1…10 args</i>)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/0cf8ebe0dadd23027c84003e35d4206b47a6e6f5" target="_blank" rel="noopener" title="Introduced in commit 0cf8ebe0dadd23027c84003e35d4206b47a6e6f5">since <code>0cf8ebe</code></a></span></div>
@@ -130,6 +130,22 @@
     </ul>
     </div>
     <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">addvideooverlay(<i>1…6 args</i>)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a" target="_blank" rel="noopener" title="Introduced in commit c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a">since <code>c6af9b5</code></a></span></div>
+      <div class="desc">Start playing a video file as a screen overlay. Only <code>filename</code> is required; the other arguments default to 0 / <code>false</code>. Requires Celestia built with FFmpeg support; returns <code>nil</code> if the file cannot be decoded or FFmpeg is not enabled.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">filename</span> <span class="ptype">string</span> <span class="pdesc">Path to a video file (any format FFmpeg can decode).</span></li>
+    <li><span class="ppos">arg 2</span> <span class="pname">xoffset</span> <span class="ptype">number</span> <span class="pdef">default: 0</span> <span class="pdesc">Horizontal anchor: 0 = centred, ±1 = screen edge.</span></li>
+    <li><span class="ppos">arg 3</span> <span class="pname">yoffset</span> <span class="ptype">number</span> <span class="pdef">default: 0</span> <span class="pdesc">Vertical anchor: 0 = centred, ±1 = screen edge.</span></li>
+    <li><span class="ppos">arg 4</span> <span class="pname">width</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Render width. 0 uses the video's native width.</span></li>
+    <li><span class="ppos">arg 5</span> <span class="pname">height</span> <span class="ptype">number</span> <span class="punit">pixels</span> <span class="pdef">default: 0</span> <span class="pdesc">Render height. 0 uses the video's native height.</span></li>
+    <li><span class="ppos">arg 6</span> <span class="pname">loop</span> <span class="ptype">boolean</span> <span class="pdef">default: false</span> <span class="pdesc">If false, the overlay auto-removes when playback ends.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">number | nil</span> <span class="pdesc">Video overlay id, or <code>nil</code> on failure. Pass the id to other video overlay methods.</span></li>
+    </ul>
+    </div>
+    <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">bindtranslationdomain()</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/a2dba1e519f5e854a5aa1b11e731b84ef6e7576f" target="_blank" rel="noopener" title="Introduced in commit a2dba1e519f5e854a5aa1b11e731b84ef6e7576f">since <code>a2dba1e</code></a></span></div>
       <div class="desc">Bind a gettext translation <code>domain</code> to a directory containing <code>.mo</code> files. Only effective when Celestia was built with NLS support; otherwise this is a no-op.</div>
     <ul class="params">
@@ -144,6 +160,11 @@
     <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">clearimageoverlays()</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/0cf8ebe0dadd23027c84003e35d4206b47a6e6f5" target="_blank" rel="noopener" title="Introduced in commit 0cf8ebe0dadd23027c84003e35d4206b47a6e6f5">since <code>0cf8ebe</code></a></span></div>
       <div class="desc">Drop every currently-displayed overlay image immediately.</div>
+
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">clearvideooverlays()</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a" target="_blank" rel="noopener" title="Introduced in commit c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a">since <code>c6af9b5</code></a></span></div>
+      <div class="desc">Stop and remove every active video overlay.</div>
 
     </div>
     <div class="method">
@@ -835,6 +856,17 @@
 
     </div>
     <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">pausevideooverlay(…)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a" target="_blank" rel="noopener" title="Introduced in commit c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a">since <code>c6af9b5</code></a></span></div>
+      <div class="desc">Pause playback of a video overlay. The texture freezes on the current frame; <code>resumevideooverlay</code> continues from that point.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">Id returned by <code>addvideooverlay()</code>.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if the overlay was found.</span></li>
+    </ul>
+    </div>
+    <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">play(<i>2…6 args</i>)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6de578de608cbc668f4caa9e55e04fba1628800" target="_blank" rel="noopener" title="Introduced in commit c6de578de608cbc668f4caa9e55e04fba1628800">since <code>c6de578</code></a></span></div>
       <div class="desc">Legacy multi-purpose audio call. Prefer `playaudio`.</div>
     <ul class="params">
@@ -909,6 +941,17 @@
     </ul>
     </div>
     <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">removevideooverlay(…)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a" target="_blank" rel="noopener" title="Introduced in commit c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a">since <code>c6af9b5</code></a></span></div>
+      <div class="desc">Stop and remove a single video overlay previously started with <code>addvideooverlay()</code>.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">Id returned by <code>addvideooverlay()</code>.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if an overlay with that id was found and removed.</span></li>
+    </ul>
+    </div>
+    <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">requestkeyboard(…)</span><span class="since" title="Available in Celestia 1.5.1 or later">since 1.5.1</span></div>
       <div class="desc">Request or release keyboard input routing to the script. When <code>true</code>, keystrokes are passed to the script's <code>charEntered</code> callback instead of being handled by Celestia; a <code>charEntered</code> global must exist or an error is raised. When <code>false</code>, normal keyboard handling is restored.</div>
     <ul class="params">
@@ -934,6 +977,17 @@
     </ul>
     </div>
     <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">resumevideooverlay(…)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a" target="_blank" rel="noopener" title="Introduced in commit c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a">since <code>c6af9b5</code></a></span></div>
+      <div class="desc">Resume a paused video overlay from the frozen frame.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">Id returned by <code>addvideooverlay()</code>.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if the overlay was found.</span></li>
+    </ul>
+    </div>
+    <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">runscript(…)</span><span class="since" title="Available in Celestia 1.6.1 or later">since 1.6.1</span></div>
       <div class="desc">Run an external script file.</div>
     <ul class="params">
@@ -951,6 +1005,18 @@
     <div class="returns-label">returns</div>
     <ul class="params returns">
     <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span></li>
+    </ul>
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">seekvideooverlay(…, …)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a" target="_blank" rel="noopener" title="Introduced in commit c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a">since <code>c6af9b5</code></a></span></div>
+      <div class="desc">Seek the video overlay to a specific playback time. Works while playing or paused; when paused, the overlay stays paused on the seeked-to frame.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">Id returned by <code>addvideooverlay()</code>.</span></li>
+    <li><span class="ppos">arg 2</span> <span class="pname">seconds</span> <span class="ptype">number</span> <span class="punit">seconds</span> <span class="pdesc">Playback offset from the start of the file.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if the overlay was found.</span></li>
     </ul>
     </div>
     <div class="method">
@@ -1061,6 +1127,32 @@
     <li><span class="ppos">arg 1</span> <span class="pname">gain</span> <span class="ptype">number</span> <span class="punit">0.0–1.0</span></li>
     </ul>
 
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">setimageoverlayoffset(…, …, …)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/394d2c7c71b6d6a7ad927632f798264b3faab4d9" target="_blank" rel="noopener" title="Introduced in commit 394d2c7c71b6d6a7ad927632f798264b3faab4d9">since <code>394d2c7</code></a></span></div>
+      <div class="desc">Update the offset of an active image overlay without recreating it.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">Id returned by <code>addimageoverlay()</code>.</span></li>
+    <li><span class="ppos">arg 2</span> <span class="pname">xoffset</span> <span class="ptype">number</span> <span class="pdesc">Horizontal anchor: 0 = centred, ±1 = screen edge.</span></li>
+    <li><span class="ppos">arg 3</span> <span class="pname">yoffset</span> <span class="ptype">number</span> <span class="pdesc">Vertical anchor: 0 = centred, ±1 = screen edge.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if an overlay with that id was found.</span></li>
+    </ul>
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">setimageoverlaysize(…, …, …)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/394d2c7c71b6d6a7ad927632f798264b3faab4d9" target="_blank" rel="noopener" title="Introduced in commit 394d2c7c71b6d6a7ad927632f798264b3faab4d9">since <code>394d2c7</code></a></span></div>
+      <div class="desc">Update the rendered size of an active image overlay. 0 in either dimension falls back to the texture's intrinsic size along that axis.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">Id returned by <code>addimageoverlay()</code>.</span></li>
+    <li><span class="ppos">arg 2</span> <span class="pname">width</span> <span class="ptype">number</span> <span class="punit">pixels</span></li>
+    <li><span class="ppos">arg 3</span> <span class="pname">height</span> <span class="ptype">number</span> <span class="punit">pixels</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if an overlay with that id was found.</span></li>
+    </ul>
     </div>
     <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">setlabelcolor(…, …, …, …)</span><span class="since" title="Available in Celestia 1.5.1 or later">since 1.5.1</span></div>
@@ -1251,6 +1343,32 @@
     <li><span class="ppos">arg 2</span> <span class="pname">observer</span> <span class="ptype">observer</span> <span class="pdesc">Optional. Observer whose view to navigate. Defaults to the active observer.</span></li>
     </ul>
 
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">setvideooverlayoffset(…, …, …)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a" target="_blank" rel="noopener" title="Introduced in commit c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a">since <code>c6af9b5</code></a></span></div>
+      <div class="desc">Update the offset of an active video overlay without recreating it.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">Id returned by <code>addvideooverlay()</code>.</span></li>
+    <li><span class="ppos">arg 2</span> <span class="pname">xoffset</span> <span class="ptype">number</span> <span class="pdesc">Horizontal anchor: 0 = centred, ±1 = screen edge.</span></li>
+    <li><span class="ppos">arg 3</span> <span class="pname">yoffset</span> <span class="ptype">number</span> <span class="pdesc">Vertical anchor: 0 = centred, ±1 = screen edge.</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if an overlay with that id was found.</span></li>
+    </ul>
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">celestia</span>:<span class="name">setvideooverlaysize(…, …, …)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a" target="_blank" rel="noopener" title="Introduced in commit c6af9b5e11dbaaa71de73d026d4722bb7bf7a13a">since <code>c6af9b5</code></a></span></div>
+      <div class="desc">Update the rendered size of an active video overlay. 0 in either dimension falls back to the video's native size along that axis.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">id</span> <span class="ptype">number</span> <span class="pdesc">Id returned by <code>addvideooverlay()</code>.</span></li>
+    <li><span class="ppos">arg 2</span> <span class="pname">width</span> <span class="ptype">number</span> <span class="punit">pixels</span></li>
+    <li><span class="ppos">arg 3</span> <span class="pname">height</span> <span class="ptype">number</span> <span class="punit">pixels</span></li>
+    </ul>
+    <div class="returns-label">returns</div>
+    <ul class="params returns">
+    <li><span class="ppos">ret 1</span> <span class="ptype">boolean</span> <span class="pdesc">True if an overlay with that id was found.</span></li>
+    </ul>
     </div>
     <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">setwindowbordersvisible(…)</span><span class="since" title="Available in Celestia 1.6.1 or later">since 1.6.1</span></div>
