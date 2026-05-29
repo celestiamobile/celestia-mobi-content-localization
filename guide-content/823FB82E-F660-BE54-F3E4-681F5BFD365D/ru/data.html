@@ -1,5 +1,5 @@
 <p></p>
-<table class="mobile-only">
+<figure style="margin-left:0;margin-right:0"><table class="mobile-only">
     <style>.tutorial-icon { width:32px;height:32px } .theme-dark .tutorial-icon { filter:invert(1) }</style>
     <tr>
         <td><img class="tutorial-icon" src="{0}"></td>
@@ -25,7 +25,7 @@
             iconElements[i].src = iconElements[i].src.replace('$%7Bf%7D', 'icon.svg');
         }
     </script>
-</table>
+</table></figure>
 <p></p>
 <style>.tutorial-button { width:calc(100% - 18px);text-align:center; } @media only screen and (max-width: 1068px) { .tutorial-button { width:calc(100% - 22px); } } .catalyst .mobile-only { display:none } .uwp .mobile-only { display:none } .xbox .mobile-only { display:none }</style>
 <script>function runDemoScript() { Celestia.sendMessage("runDemo", JSON.stringify({}), 4);}</script>
