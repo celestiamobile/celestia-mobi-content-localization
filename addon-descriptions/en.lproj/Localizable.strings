@@ -1210,6 +1210,9 @@
 // English: TOI-1803 is a K-type main-sequence star 388.2 light-years away from Earth, with a total of two planets orbiting it, both of which are mini-Neptunes
 "2E98DCA2-C37A-46E5-B447-EEC62009BF71" = "TOI-1803 is a K-type main-sequence star 388.2 light-years away from Earth, with a total of two planets orbiting it, both of which are mini-Neptunes";
 
+// English: Beta Aurigae, also known as Menkalinan, is a binary star system about 81 light-years away in the constellation Auriga. The two components are A-type subgiant stars orbiting each other every 3.96 days in an Algol-type eclipsing binary. Its combined apparent visual magnitude is 1.9, making it the second-brightest star in Auriga after Capella. No exoplanets have been confirmed orbiting this system.
+"2EA4E7BA-A83E-4AF0-B818-5E96E357B169" = "Beta Aurigae, also known as Menkalinan, is a binary star system about 81 light-years away in the constellation Auriga. The two components are A-type subgiant stars orbiting each other every 3.96 days in an Algol-type eclipsing binary. Its combined apparent visual magnitude is 1.9, making it the second-brightest star in Auriga after Capella. No exoplanets have been confirmed orbiting this system.";
+
 // English: The addon adds a lot of massive bright stars, nebulae and clusters in the Milky Way that are obscured by a lot of dust in the way.
 "2EA6D9A9-1DA9-AA6F-91DC-C384D60813D0" = "The addon adds a lot of massive bright stars, nebulae and clusters in the Milky Way that are obscured by a lot of dust in the way.";
 
