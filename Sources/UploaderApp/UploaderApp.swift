@@ -1,5 +1,4 @@
 import ArgumentParser
-import AsyncHTTPClient
 import Foundation
 import OpenCloudKit
 import Parser
@@ -61,7 +60,6 @@ struct UploaderApp: AsyncParsableCommand {
 
     func run() async throws {
         let parser = Parser()
-        let httpClient = HTTPClient(eventLoopGroupProvider: .singleton, configuration: .init(connectionPool: .init(idleTimeout: .seconds(60))))
 
         let config: CKContainerConfig
         if let keyID, let keyFilePath {
@@ -76,53 +74,53 @@ struct UploaderApp: AsyncParsableCommand {
         CloudKitHandler.configure(config)
         let handler = CloudKitHandler()
 
-        if let dataKey {
-            let oldDataCollection = try parser.parseDataDirectory(at: oldPath)
-            let newDataCollection = try parser.parseDataDirectory(at: newPath)
-            var dataById = [String: Data]()
-            var dataToDuplicate = [(data: Data, targetId: String, language: String, reference: String, id: String)]()
-            for (id, newData) in newDataCollection {
-                guard newData.new.isEmpty else {
-                    throw ActionError.unsupported
-                }
-                guard let oldData = oldDataCollection[id] else {
-                    throw ActionError.unsupported
-                }
-                guard oldData.new.isEmpty else {
-                    throw ActionError.unsupported
-                }
-                for (language, dataWithId) in newData.existing {
-                    if let oldDataWithId = oldData.existing[language] {
-                        guard oldDataWithId.id == dataWithId.id else {
-                            throw ActionError.unsupported
+        try await withHTTPClient { httpClient in
+            if let dataKey {
+                let oldDataCollection = try parser.parseDataDirectory(at: oldPath)
+                let newDataCollection = try parser.parseDataDirectory(at: newPath)
+                var dataById = [String: Data]()
+                var dataToDuplicate = [(data: Data, targetId: String, language: String, reference: String, id: String)]()
+                for (id, newData) in newDataCollection {
+                    guard newData.new.isEmpty else {
+                        throw ActionError.unsupported
+                    }
+                    guard let oldData = oldDataCollection[id] else {
+                        throw ActionError.unsupported
+                    }
+                    guard oldData.new.isEmpty else {
+                        throw ActionError.unsupported
+                    }
+                    for (language, dataWithId) in newData.existing {
+                        if let oldDataWithId = oldData.existing[language] {
+                            guard oldDataWithId.id == dataWithId.id else {
+                                throw ActionError.unsupported
+                            }
+                            if dataWithId.data != oldDataWithId.data {
+                                dataById[dataWithId.id] = dataWithId.data
+                            }
+                        } else {
+                            dataToDuplicate.append((dataWithId.data, dataWithId.id, language, newData.reference, id))
                         }
-                        if dataWithId.data != oldDataWithId.data {
-                            dataById[dataWithId.id] = dataWithId.data
-                        }
-                    } else {
-                        dataToDuplicate.append((dataWithId.data, dataWithId.id, language, newData.reference, id))
                     }
                 }
-            }
-            if !dataById.isEmpty {
-                try await handler.uploadDataChanges(dataById: dataById, dataKey: dataKey)
-            }
-            if !dataToDuplicate.isEmpty {
-                try await handler.duplicateData(dataInformations: dataToDuplicate, mainKey: mainKey, dataKey: dataKey, httpClient: httpClient)
-            }
-        } else {
-            let oldStringsByLocales = try parser.parseDirectory(at: oldPath)
-            let newStringsByLocales = try parser.parseDirectory(at: newPath)
-            let oldStringsByKeys = try parser.convertToStringsByKeys(oldStringsByLocales)
-            let newStringsByKeys = try parser.convertToStringsByKeys(newStringsByLocales)
+                if !dataById.isEmpty {
+                    try await handler.uploadDataChanges(dataById: dataById, dataKey: dataKey)
+                }
+                if !dataToDuplicate.isEmpty {
+                    try await handler.duplicateData(dataInformations: dataToDuplicate, mainKey: mainKey, dataKey: dataKey, httpClient: httpClient)
+                }
+            } else {
+                let oldStringsByLocales = try parser.parseDirectory(at: oldPath)
+                let newStringsByLocales = try parser.parseDirectory(at: newPath)
+                let oldStringsByKeys = try parser.convertToStringsByKeys(oldStringsByLocales)
+                let newStringsByKeys = try parser.convertToStringsByKeys(newStringsByLocales)
 
-            let addedOnes = newStringsByKeys.filter({ oldStringsByKeys[$0.key] == nil })
-            let removedOnes = oldStringsByKeys.filter({ newStringsByKeys[$0.key] == nil })
-            let changedOnes = newStringsByKeys.filter({ oldStringsByKeys[$0.key] != nil && oldStringsByKeys[$0.key] != $0.value })
+                let addedOnes = newStringsByKeys.filter({ oldStringsByKeys[$0.key] == nil })
+                let removedOnes = oldStringsByKeys.filter({ newStringsByKeys[$0.key] == nil })
+                let changedOnes = newStringsByKeys.filter({ oldStringsByKeys[$0.key] != nil && oldStringsByKeys[$0.key] != $0.value })
 
-            try await handler.uploadChanges(addedStrings: addedOnes, removedStrings: removedOnes, changedStrings: changedOnes, mainKey: mainKey, englishKey: englishKey, keywordsKey: keywordsKey)
+                try await handler.uploadChanges(addedStrings: addedOnes, removedStrings: removedOnes, changedStrings: changedOnes, mainKey: mainKey, englishKey: englishKey, keywordsKey: keywordsKey)
+            }
         }
-
-        try await httpClient.shutdown()
     }
 }
