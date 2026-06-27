@@ -122,5 +122,7 @@ struct UploaderApp: AsyncParsableCommand {
 
             try await handler.uploadChanges(addedStrings: addedOnes, removedStrings: removedOnes, changedStrings: changedOnes, mainKey: mainKey, englishKey: englishKey, keywordsKey: keywordsKey)
         }
+
+        try await httpClient.shutdown()
     }
 }
