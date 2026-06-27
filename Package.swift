@@ -1,5 +1,4 @@
-// swift-tools-version: 6.0
-// The swift-tools-version declares the minimum version of Swift required to build this package.
+// swift-tools-version: 6.2
 
 import PackageDescription
 
@@ -11,14 +10,14 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/levinli303/OpenCloudKit.git", from: "1.0.1"),
         .package(url: "https://github.com/apple/swift-argument-parser", from: "1.2.0"),
-        .package(url: "https://github.com/levinli303/mwrequest.git", from: "1.0.4"),
+        .package(url: "https://github.com/levinli303/async-request.git", from: "1.1.2", traits: ["AsyncHTTPClient"]),
     ],
     targets: [
         .target(
             name: "Parser",
             dependencies: [
                 .product(name: "OpenCloudKit", package: "OpenCloudKit"),
-                .product(name: "MWRequest", package: "MWRequest"),
+                .product(name: "AsyncRequest", package: "async-request"),
             ]
         ),
         .executableTarget(

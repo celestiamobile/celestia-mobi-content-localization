@@ -1,5 +1,5 @@
+import AsyncRequest
 import Foundation
-import MWRequest
 import OpenCloudKit
 
 enum CloudKitHandlerError: Error {
@@ -44,7 +44,7 @@ public class CloudKitHandler {
         CloudKit.shared.configure(with: CKConfig(containers: [config]))
     }
 
-    private func duplicateData(dataInformation: (data: Data, targetId: String, language: String, reference: String, id: String), mainKey: String, dataKey: String) async throws {
+    private func duplicateData(dataInformation: (data: Data, targetId: String, language: String, reference: String, id: String), mainKey: String, dataKey: String, httpClient: any RequestClient) async throws {
         let db = CKContainer.default().publicCloudDatabase
         let referenceRecordID = CKRecord.ID(recordName: dataInformation.reference)
         let referenceRecordResults = try await db.records(for: [referenceRecordID])
@@ -59,7 +59,7 @@ public class CloudKitHandler {
                 throw CloudKitHandlerError.dataMissing
             }
             if let asset = value as? CKAsset {
-                let data = try await AsyncDataRequestHandler.get(url: asset.fileURL.absoluteString)
+                let data = try await AsyncDataRequestHandler.get(url: asset.fileURL.absoluteString, httpClient: httpClient)
                 let tempPath = (temporaryDirectory as NSString).appendingPathComponent(UUID().uuidString)
                 let fileURL = URL(fileURLWithPath: tempPath)
                 try data.write(to: fileURL)
@@ -67,7 +67,7 @@ public class CloudKitHandler {
             } else if let assets = value as? [CKAsset] {
                 var newAssets = [CKAsset]()
                 for asset in assets {
-                    let data = try await AsyncDataRequestHandler.get(url: asset.fileURL.absoluteString)
+                    let data = try await AsyncDataRequestHandler.get(url: asset.fileURL.absoluteString, httpClient: httpClient)
                     let tempPath = (temporaryDirectory as NSString).appendingPathComponent(UUID().uuidString)
                     let fileURL = URL(fileURLWithPath: tempPath)
                     try data.write(to: fileURL)
@@ -120,9 +120,9 @@ public class CloudKitHandler {
         }
     }
 
-    public func duplicateData(dataInformations: [(data: Data, targetId: String, language: String, reference: String, id: String)], mainKey: String, dataKey: String) async throws {
+    public func duplicateData(dataInformations: [(data: Data, targetId: String, language: String, reference: String, id: String)], mainKey: String, dataKey: String, httpClient: any RequestClient) async throws {
         for dataInformation in dataInformations {
-            try await duplicateData(dataInformation: dataInformation, mainKey: mainKey, dataKey: dataKey)
+            try await duplicateData(dataInformation: dataInformation, mainKey: mainKey, dataKey: dataKey, httpClient: httpClient)
         }
     }
 

@@ -1,4 +1,5 @@
 import ArgumentParser
+import AsyncHTTPClient
 import Foundation
 import OpenCloudKit
 import Parser
@@ -60,6 +61,7 @@ struct UploaderApp: AsyncParsableCommand {
 
     func run() async throws {
         let parser = Parser()
+        let httpClient = HTTPClient(eventLoopGroupProvider: .singleton, configuration: .init(connectionPool: .init(idleTimeout: .seconds(60))))
 
         let config: CKContainerConfig
         if let keyID, let keyFilePath {
@@ -106,7 +108,7 @@ struct UploaderApp: AsyncParsableCommand {
                 try await handler.uploadDataChanges(dataById: dataById, dataKey: dataKey)
             }
             if !dataToDuplicate.isEmpty {
-                try await handler.duplicateData(dataInformations: dataToDuplicate, mainKey: mainKey, dataKey: dataKey)
+                try await handler.duplicateData(dataInformations: dataToDuplicate, mainKey: mainKey, dataKey: dataKey, httpClient: httpClient)
             }
         } else {
             let oldStringsByLocales = try parser.parseDirectory(at: oldPath)
