@@ -15,8 +15,6 @@
   }
 </style>
 <script type="text/javascript" src="{0}"></script>
-<script type="text/javascript" src="{1}"></script>
-<div id="apple-sign-in-button"></div>
 <div id="github-sign-in-button" style="display:none;"><button class="button-filled" id="github-sign-in-button-button" style="margin-top:0.4em;">Sign in with GitHub</button></div>
 <div id="addon-submission-area"><div id="addon-submission-form"></div><br><button id="addon-submit-button" disabled class="button-filled">Submit</button><p id="addon-submission-status" style="display:none;margin-top:0.5em;"></p></div>
 <p id="error-information-text" style="display:none;margin-top:0.5em;"></p>
@@ -34,12 +32,7 @@ CelestiaCloudKitManager.page = (function() {
   self.showError = function(error) {
     // First log to the console in case anyone needs a stack trace.
     console.error(error);
-    if (error.ckErrorCode) {
-      const message = error.reason ? `Reason: ${error.reason}` : (error.message || 'An error occurred.');
-      self.showErrorText(message);
-    } else {
-      self.showErrorText(text);
-    }
+    self.showErrorText(error.message || 'An error occurred.');
   };
   self.hideError = function() {
     const errorElement = document.getElementById('error-information-text');
@@ -47,67 +40,6 @@ CelestiaCloudKitManager.page = (function() {
   }
   return self;
 })();
-
-CelestiaCloudKitManager.onLoaded = function() {
-  try {
-    CloudKit.configure({
-      containers: [{
-        containerIdentifier: 'iCloud.space.celestia.Celestia',
-        apiTokenAuth: {
-          apiToken: '5cd9568a75b0c14ffde25fefa29bd3e307f06c66eb65030aeac40e8fe62f2994',
-          persist: true, // Sets a cookie.
-          signInButton: {
-            id: 'apple-sign-in-button',
-            theme: 'black' // Other options: 'white', 'white-with-outline'.
-          }
-        },
-        environment: 'production',
-      }]
-    });
-
-    CelestiaCloudKitManager.container = CloudKit.getDefaultContainer();
-    window.dispatchEvent(new Event('cloudkitconfigured'));
-  } catch (e) {
-    CelestiaCloudKitManager.page.showError(e);
-  }
-};
-
-CelestiaCloudKitManager.isLoggedIn = false;
-CelestiaCloudKitManager.setUpAuth = function() {
-  // Get the container.
-  const container = CelestiaCloudKitManager.container;
-  function gotoAuthenticatedState(userInfo) {
-    CelestiaCloudKitManager.isLoggedIn = true;
-    container
-      .whenUserSignsOut()
-      .then(gotoUnauthenticatedState);
-  }
-
-  function gotoUnauthenticatedState(error) {
-    CelestiaCloudKitManager.isLoggedIn = false;
-    container
-      .whenUserSignsIn()
-      .then(gotoAuthenticatedState)
-      .catch(gotoUnauthenticatedState);
-  }
-
-  // Check a user is signed in and render the appropriate button.
-  return container.setUpAuth()
-    .then(function(userInfo) {
-      // Either a sign-in or a sign-out button was added to the DOM.
-      // userInfo is the signed-in user or null.
-      if(userInfo) {
-        gotoAuthenticatedState(userInfo);
-      } else {
-        gotoUnauthenticatedState();
-      }
-  });
-}
-
-CelestiaCloudKitManager.onConfigured = function() {
-  CelestiaCloudKitManager.loadCategories();
-  CelestiaCloudKitManager.setUpAuth();
-}
 
 CelestiaCloudKitManager.loadCategories = function() {
   fetch('/api/resource/categories').then(function(response) {
@@ -276,117 +208,51 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
     submitButton.disabled = true;
     submissionStatus.style.display = 'block';
     submissionStatus.innerText = 'Generating zip...';
-    zip.generateAsync({ type: "base64" }).then(function(content) {
+    zip.generateAsync({ type: "blob" }).then(async function(content) {
       function uuidv4() {
         return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
           (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
         );
       }
-      submissionStatus.innerText = `Creating pull request...`;
-      GitHubManager.submitByCreatePullRequest(`${uuidv4()}.zip`, content, submissionStatus);
+      const filename = `${uuidv4()}.txt`;
+      try {
+        submissionStatus.innerText = 'Requesting upload URL...';
+        const token = GitHubManager.accessToken;
+        if (!token) {
+          throw new Error('GitHub is not logged in');
+        }
+        const presignResponse = await fetch(`/api/2/helpers/submit-addon-get-upload-url?accessToken=${encodeURIComponent(token)}`);
+        if (!presignResponse.ok) {
+          throw new Error(`Failed to get upload URL: ${presignResponse.status}`);
+        }
+        const presignData = await presignResponse.json();
+        const uploadUrl = presignData.uploadUrl || (presignData.info && presignData.info.uploadUrl);
+        const downloadUrl = presignData.downloadUrl || (presignData.info && presignData.info.downloadUrl);
+        if (!uploadUrl || !downloadUrl) {
+          throw new Error('Malformed upload URL response');
+        }
+
+        submissionStatus.innerText = 'Uploading add-on...';
+        const uploadResponse = await fetch(uploadUrl, {
+          method: 'PUT',
+          headers: { 'x-ms-blob-type': 'BlockBlob' },
+          body: content,
+        });
+        if (!uploadResponse.ok) {
+          throw new Error(`Failed to upload add-on: ${uploadResponse.status}`);
+        }
+
+        submissionStatus.innerText = 'Creating pull request...';
+        GitHubManager.submitByCreatePullRequest(filename, downloadUrl, submissionStatus);
+      } catch (e) {
+        submissionStatus.style.display = 'none';
+        submitButton.disabled = false;
+        CelestiaCloudKitManager.page.showError(e);
+      }
     });
   }
-  async function uploadRecord() {
-    const record = {};
-    record.recordType = 'PendingResourceItem';
-    const fields = {};
-    for (var i = 0; i < submissionElements.length; i++) {
-      const element = submissionElements[i];
-      if (element.ignored) continue;
-      if (document.getElementById(element.elementName).style.display == 'none') continue;
-
-      switch (element.type) {
-      case 'short-text':
-      case 'long-text':
-      case 'reference':
-      case 'int':
-        var input = document.getElementById(element.elementName);
-        if (input.value.length != 0) {
-          if (element.type == 'reference') {
-            fields[element.key] = { value: { recordName: input.value, action: 'NONE' } };
-          } else if (element.type == 'int') {
-            fields[element.key] = { value: parseInt(input.value) };
-          } else {
-            fields[element.key] = { value: input.value };
-          }
-        }
-        break;
-      case 'reference-select':
-        var input = document.getElementById(element.elementName);
-        if (input.selectedIndex >= 0) {
-          const value = input.options[input.selectedIndex].value;
-          if (value.length != 0) {
-            fields[element.key] = { value: { recordName: value, action: 'NONE' } };
-          }
-        }
-        break;
-      case 'text-select':
-        var input = document.getElementById(element.elementName);
-        if (input.selectedIndex >= 0) {
-          const value = input.options[input.selectedIndex].value;
-          if (value.length != 0) {
-            fields[element.key] = { value: value };
-          }
-        }
-        break;
-      case 'file':
-      case 'file-list':
-        var input = document.getElementById(element.elementName);
-        if (input.files.length > 0) {
-          if (element.type == 'file-list') {
-            fields[element.key] = { value: Array.from(input.files) };
-          } else {
-            fields[element.key] = { value: input.files[0] };
-          }
-        }
-        break;
-      case 'date':
-        var input = document.getElementById(element.elementName);
-        if (input.valueAsDate != null)
-          fields[element.key] = { value: input.valueAsNumber };
-        break;
-      case 'checkbox':
-        var input = document.getElementById(element.elementName);
-        fields[element.key] = { value: input.checked ? 1 : 0 };
-        break;
-      case 'short-text-list':
-      case 'long-text-list':
-        var index = 0;
-        var el = document.getElementById(`${element.elementName}${index}`);
-        var array = [];
-        while (el != null) {
-          array.push(el.value);
-          index += 1;
-          el = document.getElementById(`${element.elementName}${index}`);
-        }
-        if (array.length > 0)
-          fields[element.key] = { value: array };
-        break;
-      default:
-        break;
-      }
-    }
-    submitButton.disabled = true;
-    submissionStatus.style.display = 'block';
-    submissionStatus.innerText = 'Uploading...';
-    const db = CelestiaCloudKitManager.container.publicCloudDatabase;
-    record.fields = fields;
-    let response = await db.saveRecords(record);
-    if (response.hasErrors) {
-      submissionStatus.style.display = 'none';
-      CelestiaCloudKitManager.page.showError(response.errors[0]);
-    } else {
-      const savedRecord = response.records[0];
-      submissionStatus.innerText = `Uploaded ID ${savedRecord.recordName}, creating pull request...`;
-      GitHubManager.submitByCreatePullRequest(savedRecord.recordName, null, submissionStatus);
-    }
-  }
   submitButton.onclick = async function() {
-    if (CelestiaCloudKitManager.isLoggedIn) {
-      await uploadRecord();
-    } else {
-      await uploadZip();
-    }
+    await uploadZip();
   }
   for (var i = 0; i < submissionElements.length; i++) {
     const controls = [];
@@ -631,6 +497,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       }
       const data = await response.json();
       const token = data.accessToken;
+      GitHubManager.accessToken = token;
       const { Octokit } = await import("https://esm.sh/@octokit/core");
       const { createPullRequest } = await import("https://cdn.skypack.dev/octokit-plugin-create-pull-request@4.2.2");
       const MyOctokit = Octokit.plugin(createPullRequest);
@@ -661,7 +528,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       submissionStatus.innerText = 'GitHub is not logged in';
       return;
     }
-    const path = content ? `pending_zip/${filename}` : `pending/${filename}`;
+    const path = `pending_zip_url/${filename}`;
     const pr = await GitHubManager.octokit.createPullRequest({
       owner: "celestiamobile",
       repo: "celestia-addon-validator",
@@ -671,12 +538,8 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       forceFork: false /* optional: force creating fork even when user has write rights */,
       changes: [
         {
-          /* optional: if `files` is not passed, an empty commit is created instead */
           files: {
-            [path]: content ? {
-              content: content,
-              encoding: "base64",
-            } : "",
+            [path]: content,
           },
           commit:
             "wip",
@@ -691,10 +554,8 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
   };
 </script>
 <script>
-  window.addEventListener('cloudkitloaded', CelestiaCloudKitManager.onLoaded);
-  window.addEventListener('cloudkitconfigured', CelestiaCloudKitManager.onConfigured);
   window.addEventListener("DOMContentLoaded", async function() {
+    CelestiaCloudKitManager.loadCategories();
     await GitHubManager.onPageLoaded();
   });
 </script>
-<script async="" src="https://cdn.apple-cloudkit.com/ck/2/cloudkit.js"></script>
