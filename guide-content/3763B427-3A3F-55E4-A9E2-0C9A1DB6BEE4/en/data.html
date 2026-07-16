@@ -504,6 +504,22 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
   githubSignInElement.onclick = function() {
     window.location.href = 'https://github.com/login/oauth/authorize?client_id=1cfca660a17fe68fdfdf&scope=repo';
   };
+  GitHubManager.importWithRetry = async function(urls, attempts) {
+    const list = Array.isArray(urls) ? urls : [urls];
+    let lastError = null;
+    for (var attempt = 0; attempt < (attempts || 3); attempt++) {
+      for (var i = 0; i < list.length; i++) {
+        try {
+          return await import(list[i]);
+        } catch (e) {
+          lastError = e;
+        }
+      }
+      // Back off briefly before retrying (300ms, 600ms, ...).
+      await new Promise(function(resolve) { setTimeout(resolve, 300 * (attempt + 1)); });
+    }
+    throw lastError || new Error('Failed to import module');
+  };
   GitHubManager.onPageLoaded = async function() {
     const codeParam = new URL(location.href).searchParams.get("code");
     if (codeParam) {
@@ -518,15 +534,26 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       const data = await response.json();
       const token = data.accessToken;
       GitHubManager.accessToken = token;
-      const { Octokit } = await import("https://esm.sh/@octokit/core");
-      const { createPullRequest } = await import("https://cdn.skypack.dev/octokit-plugin-create-pull-request@4.2.2");
-      const MyOctokit = Octokit.plugin(createPullRequest);
-      const octokit = new MyOctokit({
-        auth: token,
-      });
-      const submitButton = document.getElementById('addon-submit-button');
-      submitButton.disabled = false;
-      GitHubManager.octokit = octokit;
+      try {
+        const { Octokit } = await GitHubManager.importWithRetry([
+          "https://esm.sh/@octokit/core@7.0.6",
+          "https://cdn.jsdelivr.net/npm/@octokit/core@7.0.6/+esm",
+        ]);
+        const { createPullRequest } = await GitHubManager.importWithRetry([
+          "https://esm.sh/octokit-plugin-create-pull-request@6.0.1",
+          "https://cdn.jsdelivr.net/npm/octokit-plugin-create-pull-request@6.0.1/+esm",
+        ]);
+        const MyOctokit = Octokit.plugin(createPullRequest);
+        const octokit = new MyOctokit({
+          auth: token,
+        });
+        const submitButton = document.getElementById('addon-submit-button');
+        submitButton.disabled = false;
+        GitHubManager.octokit = octokit;
+      } catch (e) {
+        console.error(e);
+        CelestiaCloudKitManager.page.showErrorText('Failed to load GitHub components. Please reload the page and try again.');
+      }
     } else {
       githubSignInElement.parentNode.style.display = '';
     }
