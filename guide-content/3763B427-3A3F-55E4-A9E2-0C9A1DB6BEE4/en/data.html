@@ -16,7 +16,7 @@
 </style>
 <script type="text/javascript" src="{0}"></script>
 <div id="github-sign-in-button" style="display:none;"><button class="button-filled" id="github-sign-in-button-button" style="margin-top:0.4em;">Sign in with GitHub</button></div>
-<div id="addon-submission-area"><div id="addon-submission-form"></div><br><button id="addon-submit-button" disabled class="button-filled">Submit</button><p id="addon-submission-status" style="display:none;margin-top:0.5em;"></p></div>
+<div id="addon-submission-area"><div id="addon-submission-form"></div><br><button id="addon-submit-button" disabled class="button-filled">Submit</button><p id="addon-submission-status" style="display:none;margin-top:0.5em;"></p><progress id="addon-submission-progress" value="0" max="100" style="display:none;width:100%;margin-top:0.5em;"></progress></div>
 <p id="error-information-text" style="display:none;margin-top:0.5em;"></p>
 <script>"use strict";</script>
 <script>CelestiaCloudKitManager = {};</script>
@@ -96,6 +96,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
   submissionForm.innerHTML = '';
   const submitButton = document.getElementById('addon-submit-button');
   const submissionStatus = document.getElementById('addon-submission-status');
+  const submissionProgress = document.getElementById('addon-submission-progress');
   async function uploadZip() {
     let zip = new JSZip();
     for (var i = 0; i < submissionElements.length; i++) {
@@ -233,19 +234,38 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
         }
 
         submissionStatus.innerText = 'Uploading add-on...';
-        const uploadResponse = await fetch(uploadUrl, {
-          method: 'PUT',
-          headers: { 'x-ms-blob-type': 'BlockBlob' },
-          body: content,
+        await new Promise(function(resolve, reject) {
+          const xhr = new XMLHttpRequest();
+          xhr.open('PUT', uploadUrl);
+          xhr.setRequestHeader('x-ms-blob-type', 'BlockBlob');
+          submissionProgress.style.display = 'block';
+          submissionProgress.value = 0;
+          xhr.upload.onprogress = function(event) {
+            if (event.lengthComputable) {
+              const percent = Math.round((event.loaded / event.total) * 100);
+              submissionProgress.value = percent;
+              submissionStatus.innerText = `Uploading add-on... ${percent}%`;
+            }
+          };
+          xhr.onload = function() {
+            if (xhr.status >= 200 && xhr.status < 300) {
+              resolve();
+            } else {
+              reject(new Error(`Failed to upload add-on: ${xhr.status}`));
+            }
+          };
+          xhr.onerror = function() {
+            reject(new Error('Failed to upload add-on: network error'));
+          };
+          xhr.send(content);
         });
-        if (!uploadResponse.ok) {
-          throw new Error(`Failed to upload add-on: ${uploadResponse.status}`);
-        }
+        submissionProgress.style.display = 'none';
 
         submissionStatus.innerText = 'Creating pull request...';
         GitHubManager.submitByCreatePullRequest(filename, downloadUrl, submissionStatus);
       } catch (e) {
         submissionStatus.style.display = 'none';
+        submissionProgress.style.display = 'none';
         submitButton.disabled = false;
         CelestiaCloudKitManager.page.showError(e);
       }
