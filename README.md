@@ -17,8 +17,8 @@ For example: `addon-rich-description` folder includes localization for rich desc
 In the folder find the page you want to translate. The folder names in `addon-rich-description` are the IDs for add-ons. The folder names in `guide-content` are the IDs for articles.
 
 ```
-https://celestia.mobi/resources/item?item=87D5FBAB-5722-70A9-6D4C-F4FD22EA87BC
-https://celestia.mobi/resources/guide?guide=211275CC-D79A-9C81-A2DF-6047DD4AC35D
+https://celestia.mobi/resources/item/87D5FBAB-5722-70A9-6D4C-F4FD22EA87BC
+https://celestia.mobi/resources/guide/211275CC-D79A-9C81-A2DF-6047DD4AC35D
 ```
 
 The above example's add-on ID is `87D5FBAB-5722-70A9-6D4C-F4FD22EA87BC`. The article page's ID is `211275CC-D79A-9C81-A2DF-6047DD4AC35D`.
