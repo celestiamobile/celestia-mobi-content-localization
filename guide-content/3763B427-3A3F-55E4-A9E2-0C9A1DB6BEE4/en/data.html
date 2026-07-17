@@ -228,8 +228,8 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
         }
         const presignData = await presignResponse.json();
         const uploadUrl = presignData.uploadUrl || (presignData.info && presignData.info.uploadUrl);
-        const blobName = presignData.blobName || (presignData.info && presignData.info.blobName);
-        if (!uploadUrl || !blobName) {
+        const downloadUrl = presignData.downloadUrl || (presignData.info && presignData.info.downloadUrl);
+        if (!uploadUrl || !downloadUrl) {
           throw new Error('Malformed upload URL response');
         }
 
@@ -262,7 +262,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
         submissionProgress.style.display = 'none';
 
         submissionStatus.innerText = 'Creating pull request...';
-        GitHubManager.submitByCreatePullRequest(filename, blobName, submissionStatus);
+        GitHubManager.submitByCreatePullRequest(filename, downloadUrl, submissionStatus);
       } catch (e) {
         submissionStatus.style.display = 'none';
         submissionProgress.style.display = 'none';
@@ -573,7 +573,7 @@ CelestiaCloudKitManager.onDataFetched = function(categories) {
       submissionStatus.innerText = 'GitHub is not logged in';
       return;
     }
-    const path = `pending_zip_blob/${filename}`;
+    const path = `pending_zip_url/${filename}`;
     const pr = await GitHubManager.octokit.createPullRequest({
       owner: "celestiamobile",
       repo: "celestia-addon-validator",
