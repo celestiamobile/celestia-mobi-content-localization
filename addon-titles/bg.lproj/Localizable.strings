@@ -97,6 +97,9 @@
 // English: Kepler-113
 //"04675D5D-D43F-4E50-839A-786C69F61059" = "Kepler-113";
 
+// English: BD+14 4559
+//"0473A2A9-F001-45DF-9F9D-DE8ABF782DEC" = "BD+14 4559";
+
 // English: 2 Pallas
 "0483CF05-AE7D-BC53-74E4-F4A0E38FD09D" = "2 Палада";
 
@@ -1923,6 +1926,9 @@
 
 // English: Minor Planets: 601 to 700
 //"477BFD3C-D483-4A3A-8060-E8192471CFA2" = "Minor Planets: 601 to 700";
+
+// English: OGLE-2016-BLG-0613L
+//"47982859-4EFB-49A8-B4C3-CE041A39AE41" = "OGLE-2016-BLG-0613L";
 
 // English: Landsat 4 to 5
 //"47AB05C9-DE23-4D1C-8E56-7D6A877C7342" = "Landsat 4 to 5";
