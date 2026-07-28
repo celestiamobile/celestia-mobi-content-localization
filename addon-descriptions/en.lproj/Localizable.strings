@@ -433,8 +433,8 @@
 // English: K2-18, aka TOI-5555, is a red dwarf located about 124.02 light years from the solar system. Two planets are currently known to orbit this star: and inner non-transiting sub-Neptune mass planet and and outer transiting sub-Neptune residing in it's host's habitable zone. K2-18 b has been the target of several atmospheric studies over the years, current consensus lines K2-18 b up with other sub-Neptunes of its size and mass, with an atmosphere comprised of a high volatile content and relative low hydrogen content.
 "12081D7E-DBF1-4B35-887E-6CF36FE1A0FE" = "K2-18, aka TOI-5555, is a red dwarf located about 124.02 light years from the solar system. Two planets are currently known to orbit this star: and inner non-transiting sub-Neptune mass planet and and outer transiting sub-Neptune residing in it's host's habitable zone. K2-18 b has been the target of several atmospheric studies over the years, current consensus lines K2-18 b up with other sub-Neptunes of its size and mass, with an atmosphere comprised of a high volatile content and relative low hydrogen content.";
 
-// English: Barnard's Star is a red dwarf 5.96 light-years away in the constellation Ophiuchus; it is the second-nearest star system to Sol, and has the highest proper motion of any star. It hosts a system of four close-orbiting sub-Earth mass planets; previously, it was subject to multiple claims of planets that were later disproven.
-"1211AB61-65B4-4C84-8EEC-B094C4041935" = "Barnard's Star is a red dwarf 5.96 light-years away in the constellation Ophiuchus; it is the second-nearest star system to Sol, and has the highest proper motion of any star. It hosts a system of four close-orbiting sub-Earth mass planets; previously, it was subject to multiple claims of planets that were later disproven.";
+// English: 668643 (2012 DR₃₀) is a large centaur and trans-Neptunian object with a highly eccentric orbit that brings it to the inner regions of the Oort cloud. Measuring about 185–188 km in diameter, it has the largest semi-major axis of any known minor planet that is not a comet. It is discovered from the Purple Mountain Observatory in China on 6 February 2008
+"1211AB61-65B4-4C84-8EEC-B094C4041935" = "668643 (2012 DR₃₀) is a large centaur and trans-Neptunian object with a highly eccentric orbit that brings it to the inner regions of the Oort cloud. Measuring about 185–188 km in diameter, it has the largest semi-major axis of any known minor planet that is not a comet. It is discovered from the Purple Mountain Observatory in China on 6 February 2008";
 
 // English: Kepler-1638 is a Sun-like star about 5,203 light-years away in the constellation Cygnus. It has a single superterran planet, currently listed (as of 2021) as a potentially habitable world
 "12364306-2FAD-553A-46E5-2610CC5066A3" = "Kepler-1638 is a Sun-like star about 5,203 light-years away in the constellation Cygnus. It has a single superterran planet, currently listed (as of 2021) as a potentially habitable world";
@@ -2229,6 +2229,9 @@
 
 // English: Adds 2000 stars in 91 different OB Associations in the Milky Way Galaxy.
 "5209E230-E5EA-3E89-CCCA-7634E2D41CA9" = "Adds 2000 stars in 91 different OB Associations in the Milky Way Galaxy.";
+
+// English: Gamma Piscium, also known as HIP 114971 and HD 219615, is a single G9III red clump giant star about 138 light-years away in the constellation Pisces. In 2014, a super-Jupiter with a minimum mass of approximately 1.34 times that of Jupiter was discovered orbiting this star via the radial velocity method, with an orbital period of about 555 days and a semi-major axis of 1.32 AU.
+"527C2FB4-D981-42BA-A3A2-5AB40829E7F7" = "Gamma Piscium, also known as HIP 114971 and HD 219615, is a single G9III red clump giant star about 138 light-years away in the constellation Pisces. In 2014, a super-Jupiter with a minimum mass of approximately 1.34 times that of Jupiter was discovered orbiting this star via the radial velocity method, with an orbital period of about 555 days and a semi-major axis of 1.32 AU.";
 
 // English: NGTS-30, also known as TOI-4862, is a G-type star located 762.9 light-years from Earth, a warm Jupiter orbits it with a period of 98.3 days.
 "52C4469A-266C-4BB5-B580-3FF5F316B682" = "NGTS-30, also known as TOI-4862, is a G-type star located 762.9 light-years from Earth, a warm Jupiter orbits it with a period of 98.3 days.";
@@ -4774,8 +4777,8 @@
 // English: Kepler-109, aka KOI-123, is a G-type main sequence star located about 1570.1 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.
 "B5D8E84E-666F-486B-A030-30302DDB7A20" = "Kepler-109, aka KOI-123, is a G-type main sequence star located about 1570.1 lightyears from the solar system. Two sub-Neptunes are known to orbit this star.";
 
-// English: This addon adds a night texture for Io, showing its lava lakes.
-"B5ECBBD4-A256-C334-B119-ECE0D347D85E" = "This addon adds a night texture for Io, showing its lava lakes.";
+// English: This add-on adds a night map of Io, showing its glowing lava lakes.
+"B5ECBBD4-A256-C334-B119-ECE0D347D85E" = "This add-on adds a night map of Io, showing its glowing lava lakes.";
 
 // English: Kepler-95, also known as KOI-122, is a G-type main sequence star located 1472.22 light-years away from Earth. In 2014, a Neptune sized celestial body was discovered with a mass approximately 13 times that of Earth
 "B5F1F502-8325-448C-B25F-F754EDFE7494" = "Kepler-95, also known as KOI-122, is a G-type main sequence star located 1472.22 light-years away from Earth. In 2014, a Neptune sized celestial body was discovered with a mass approximately 13 times that of Earth";
@@ -4842,6 +4845,9 @@
 
 // English: HD 152843 is a spectral type G0 star about 352 light-years away, with two Neptune-sized objects orbiting it
 "B8E65D48-D667-4DDE-B92A-AD5CF816B974" = "HD 152843 is a spectral type G0 star about 352 light-years away, with two Neptune-sized objects orbiting it";
+
+// English: Eta Ceti (η Cet), also known as 31 Ceti or HD 6805, is a single K-type giant star approximately 123.9 light-years away in the constellation Cetus. It is a red clump giant with a mass of about 1.7 M☉. In 2014, two massive planetary companions were discovered orbiting Eta Ceti via the radial velocity method. The system's two planets are in or near a 2:1 mean-motion resonance.
+"B8FF2AA9-D08F-4344-B515-9875DED67481" = "Eta Ceti (η Cet), also known as 31 Ceti or HD 6805, is a single K-type giant star approximately 123.9 light-years away in the constellation Cetus. It is a red clump giant with a mass of about 1.7 M☉. In 2014, two massive planetary companions were discovered orbiting Eta Ceti via the radial velocity method. The system's two planets are in or near a 2:1 mean-motion resonance.";
 
 // English: PSR J0737-3039 is the first known double pulsar ever discovered. Located around 3,588 light-years away in the constellation Puppis, it is the only binary neutron star system known (as of 2024) where both component stars are pulsars. Both pulsars orbit each other once every 2.45 hours and is expected to merge in a powerful kilonova event in the next 85 million years
 "B8FFE7D5-0162-4673-8000-8E1B51C3BCFD" = "PSR J0737-3039 is the first known double pulsar ever discovered. Located around 3,588 light-years away in the constellation Puppis, it is the only binary neutron star system known (as of 2024) where both component stars are pulsars. Both pulsars orbit each other once every 2.45 hours and is expected to merge in a powerful kilonova event in the next 85 million years";
@@ -5671,6 +5677,9 @@
 // English: An interesting view of the amount of water on Earth.\nThe biggest blue sphere represents all the water on Earth, in all things, including you.\nThe middle blue sphere represents liquid fresh water (groundwater, lakes, swamp water and rivers).\nThe smaller blue sphere represents all the fresh water present in rivers and lakes, which is most of the water that humans and life on Earth need.
 "D7F38579-C851-940D-E713-EA61BB43C824" = "An interesting view of the amount of water on Earth.\nThe biggest blue sphere represents all the water on Earth, in all things, including you.\nThe middle blue sphere represents liquid fresh water (groundwater, lakes, swamp water and rivers).\nThe smaller blue sphere represents all the fresh water present in rivers and lakes, which is most of the water that humans and life on Earth need.";
 
+// English: TOI-5624, also known as TIC 53498154, is a single G9-type main-sequence star located approximately 330.7 light-years away in the constellation Ursa Major. The system hosts five confirmed exoplanets, four of which are transiting sub-Neptunes discovered via the transit method, with masses measured through radial velocity follow-up. The planetary radii are measured to high precision (<1.7%), second only to the TRAPPIST-1 system among known multi-planet systems.
+"D8324BAD-D455-4810-90BF-FB2764B5DD5B" = "TOI-5624, also known as TIC 53498154, is a single G9-type main-sequence star located approximately 330.7 light-years away in the constellation Ursa Major. The system hosts five confirmed exoplanets, four of which are transiting sub-Neptunes discovered via the transit method, with masses measured through radial velocity follow-up. The planetary radii are measured to high precision (<1.7%), second only to the TRAPPIST-1 system among known multi-planet systems.";
+
 // English: 16 Cygni is a triple star system about 69 light-years away in the constellation Cygnus, with a Jovian planet in a highly eccentric orbit around star B. This planet was discovered in 1996, making it one of the earliest exoplanet discoveries.
 "D8325AFD-FDE2-8EC0-B7E4-44936061B678" = "16 Cygni is a triple star system about 69 light-years away in the constellation Cygnus, with a Jovian planet in a highly eccentric orbit around star B. This planet was discovered in 1996, making it one of the earliest exoplanet discoveries.";
 
@@ -6457,8 +6466,8 @@
 // English: K2-14, also known as EPIC 201635569, is a red dwarf star located 1,199.368 light-years away from Earth, and it has a planet slightly smaller than Saturn with an orbital period of only 8.36 days
 "F4789817-39B7-40E8-9D92-BFEDF42451BF" = "K2-14, also known as EPIC 201635569, is a red dwarf star located 1,199.368 light-years away from Earth, and it has a planet slightly smaller than Saturn with an orbital period of only 8.36 days";
 
-// English: This addon adds an XYZV trajectory for Amalthea (Jupiter V), covering the period 2002-2029, with the aim of making the flybys performed by the Galileo in 2002-Nov-05 and Juno in 2028-Jan-10 more accurate. It also includes a topography map of Amalthea as an alternative surface.
-"F4870A41-6C75-4A65-B9B5-9F6C16528CA6" = "This addon adds an XYZV trajectory for Amalthea (Jupiter V), covering the period 2002-2029, with the aim of making the flybys performed by the Galileo in 2002-Nov-05 and Juno in 2028-Jan-10 more accurate. It also includes a topography map of Amalthea as an alternative surface.";
+// English: 20461 Dioretsa is a centaur and damocloid on a retrograde orbit from the outer Solar System. It was discovered on 8 June 1999, by members of the LINEAR team near Socorro, New Mexico, United States. The highly eccentric unusual object measures approximately 14 km in diameter. Its name is an anadrome (or reverse) of the word \"asteroid\".
+"F4870A41-6C75-4A65-B9B5-9F6C16528CA6" = "20461 Dioretsa is a centaur and damocloid on a retrograde orbit from the outer Solar System. It was discovered on 8 June 1999, by members of the LINEAR team near Socorro, New Mexico, United States. The highly eccentric unusual object measures approximately 14 km in diameter. Its name is an anadrome (or reverse) of the word \"asteroid\".";
 
 // English: HAT-P-9, also known formally as Tevel, is an F-type main sequence star about 1,504 light-years away in the constellation Auriga. In 2008, a superjovian planet called Alef was discovered via transit method, where it received its formal name given by Israel during the second NameExoWorlds campaign in 2019
 "F4BB73EE-45F7-45F1-BF16-A71B963A044E" = "HAT-P-9, also known formally as Tevel, is an F-type main sequence star about 1,504 light-years away in the constellation Auriga. In 2008, a superjovian planet called Alef was discovered via transit method, where it received its formal name given by Israel during the second NameExoWorlds campaign in 2019";
