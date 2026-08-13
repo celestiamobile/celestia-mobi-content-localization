@@ -6118,6 +6118,9 @@
 // English: HAT-P-3, also known as Dombay and TOI-1419, is a binary star system consisting of a K-type main-sequence star and a red dwarf about 440.6 light-years away in the constellation Ursa Major. A single Jovian planet orbits so close to the system's primary star that its year lasts for only 2.9 Earth-days
 "E6508077-3441-8CB1-C9EC-9F653494B6D2" = "HAT-P-3, also known as Dombay and TOI-1419, is a binary star system consisting of a K-type main-sequence star and a red dwarf about 440.6 light-years away in the constellation Ursa Major. A single Jovian planet orbits so close to the system's primary star that its year lasts for only 2.9 Earth-days";
 
+// English: HD 179949, also known as Gumala, is a single F8V-type main-sequence star about 88 light-years away in the constellation Sagittarius. A hot Jupiter with a 3.09-day orbital period was discovered via the radial velocity method in 2000, whose planet has a mass of approximately 0.92 times that of Jupiter.
+"E6635466-661C-4C04-AA8B-4396676EEF85" = "HD 179949, also known as Gumala, is a single F8V-type main-sequence star about 88 light-years away in the constellation Sagittarius. A hot Jupiter with a 3.09-day orbital period was discovered via the radial velocity method in 2000, whose planet has a mass of approximately 0.92 times that of Jupiter.";
+
 // English: This addon adds 7 periodic comets as part of a periodic comets catalog.
 "E6AD8A0D-D529-470E-9C3C-418F3FEC5FB2" = "This addon adds 7 periodic comets as part of a periodic comets catalog.";
 
