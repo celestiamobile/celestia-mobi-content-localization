@@ -541,6 +541,9 @@
 // English: HAT-P-8
 "16F166A5-95EE-476E-A6E8-7E17EC3E7E5C" = "HAT-P-8";
 
+// English: Iota Antliae
+"1716197A-8FF8-45D2-B364-03789889A5F1" = "Iota Antliae";
+
 // English: C/2023 A3 (Tsuchinshan–ATLAS)
 "1726BFEB-C111-4A01-9952-6FA0EABBBB9C" = "C/2023 A3 (Tsuchinshan–ATLAS)";
 
@@ -4920,6 +4923,9 @@
 
 // English: Microlensing Source Stars
 "BAC6A2D3-7286-47A6-AF52-21BC84436D9C" = "Microlensing Source Stars";
+
+// English: KMT-2021-BLG-1253L
+"BACB744B-692F-4549-A52A-5D7EF3247385" = "KMT-2021-BLG-1253L";
 
 // English: Imaging X-ray Polarimetry Explorer
 "BAF07CD7-7C82-5059-2706-3A1E3332AB97" = "Imaging X-ray Polarimetry Explorer";

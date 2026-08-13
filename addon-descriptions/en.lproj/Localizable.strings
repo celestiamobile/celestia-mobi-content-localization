@@ -541,6 +541,9 @@
 // English: HAT-P-8, also known as TOI-5960, is a triple star system of an F-type main sequence star and two red dwarf stars about 694.19 light-years away in the constellation Pegasus. The larger star (component A) has a superjovian planet about 6.48 million km away, completing an orbit once every 3.08 days
 "16F166A5-95EE-476E-A6E8-7E17EC3E7E5C" = "HAT-P-8, also known as TOI-5960, is a triple star system of an F-type main sequence star and two red dwarf stars about 694.19 light-years away in the constellation Pegasus. The larger star (component A) has a superjovian planet about 6.48 million km away, completing an orbit once every 3.08 days";
 
+// English: Iota Antliae, also known as HR 4273 and HD 94890, is a K-type giant star about 207.57 light-years away from Earth, located in the constellation Antlia. It's been confirmed that this star has two super-Jupiters.
+"1716197A-8FF8-45D2-B364-03789889A5F1" = "Iota Antliae, also known as HR 4273 and HD 94890, is a K-type giant star about 207.57 light-years away from Earth, located in the constellation Antlia. It's been confirmed that this star has two super-Jupiters.";
+
 // English: Comet Tsuchinshan–ATLAS, also known as C/2023 A3, is one of the brightest comets of the 21st century. It reached peak magnitude of –4.9, and remained visible to the naked eye from September and October 2024. Today, it is dubbed as the \"Great Comet of 2024\"
 "1726BFEB-C111-4A01-9952-6FA0EABBBB9C" = "Comet Tsuchinshan–ATLAS, also known as C/2023 A3, is one of the brightest comets of the 21st century. It reached peak magnitude of –4.9, and remained visible to the naked eye from September and October 2024. Today, it is dubbed as the \"Great Comet of 2024\"";
 
@@ -4920,6 +4923,9 @@
 
 // English: This addon includes the source stars of three planetary microlensing events; that is, the stars that the lensing stars passed in front of, leading to the discovery of them and their planets. The source stars have the same names as the lensing stars, but ending in S instead of L. They are all red clump yellow/orange giants about 10 times the size of the Sun.\n\nList of stars included in the addon:\n- MOA-2007-BLG-192S\n- OGLE-2005-BLG-169S\n- OGLE-2005-BLG-390S
 "BAC6A2D3-7286-47A6-AF52-21BC84436D9C" = "This addon includes the source stars of three planetary microlensing events; that is, the stars that the lensing stars passed in front of, leading to the discovery of them and their planets. The source stars have the same names as the lensing stars, but ending in S instead of L. They are all red clump yellow/orange giants about 10 times the size of the Sun.\n\nList of stars included in the addon:\n- MOA-2007-BLG-192S\n- OGLE-2005-BLG-169S\n- OGLE-2005-BLG-390S";
+
+// English: KMT-2021-BLG-1253L is a red dwarf star, located approximately 21,700 light-years from Earth in the constellation Sagittarius. This star hosts a Neptune-sized planet.
+"BACB744B-692F-4549-A52A-5D7EF3247385" = "KMT-2021-BLG-1253L is a red dwarf star, located approximately 21,700 light-years from Earth in the constellation Sagittarius. This star hosts a Neptune-sized planet.";
 
 // English: The Imaging X-ray Polarimetry Explorer (IXPE) is a space observatory with three identical telescopes designed to measure the polarization of cosmic X-rays. The observatory, which was launched 2021-Dec-9 on a Falcon 9, is an international collaboration between NASA and the Italian Space Agency (ASI)
 "BAF07CD7-7C82-5059-2706-3A1E3332AB97" = "The Imaging X-ray Polarimetry Explorer (IXPE) is a space observatory with three identical telescopes designed to measure the polarization of cosmic X-rays. The observatory, which was launched 2021-Dec-9 on a Falcon 9, is an international collaboration between NASA and the Italian Space Agency (ASI)";
