@@ -637,6 +637,9 @@
 // English: Luyten's Star is a red dwarf about 12.36 light-years away in the constellation Canis Minor. This system has four confirmed orbiting planets, one of which (Luyten b) is located on the star's habitable zone
 "1A03FAC1-7986-349B-DC02-F090801AB7D4" = "Luyten's Star is a red dwarf about 12.36 light-years away in the constellation Canis Minor. This system has four confirmed orbiting planets, one of which (Luyten b) is located on the star's habitable zone";
 
+// English: Mu Leonis, also known as Rasalas, is a single K2 IIIb giant star about 124 light-years away in the constellation Leo. A giant planet with a minimum mass of approximately 2.4 times that of Jupiter was discovered orbiting this star via the radial velocity method in 2014, with an orbital period of 358 days at a semi-major axis of 1.1 AU.
+"1A08FBE8-C9D5-4ADF-96F9-F33657CA7C13" = "Mu Leonis, also known as Rasalas, is a single K2 IIIb giant star about 124 light-years away in the constellation Leo. A giant planet with a minimum mass of approximately 2.4 times that of Jupiter was discovered orbiting this star via the radial velocity method in 2014, with an orbital period of 358 days at a semi-major axis of 1.1 AU.";
+
 // English: The INTErnational Gamma-Ray Astrophysics Laboratory (INTEGRAL) is a European space telescope for observing gamma rays, launched into a high Earth orbit in 2002. Despite its many mechanical failures and the launches of its successors (e.g. Fermi, Swift, etc.), it successfully continued observing the universe until 2025
 "1A1FEB05-A523-C17A-0E49-E0179AAC3051" = "The INTErnational Gamma-Ray Astrophysics Laboratory (INTEGRAL) is a European space telescope for observing gamma rays, launched into a high Earth orbit in 2002. Despite its many mechanical failures and the launches of its successors (e.g. Fermi, Swift, etc.), it successfully continued observing the universe until 2025";
 
