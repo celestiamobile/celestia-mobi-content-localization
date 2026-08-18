@@ -2101,6 +2101,9 @@
 // English: An addon that has a barycenter with every spectral type of brown dwarf and main sequence star ranging from Y9 to L0 for the brown dwarves and M9V to O0V.
 "4D023002-8F85-44E8-96D2-812D97057DE2" = "An addon that has a barycenter with every spectral type of brown dwarf and main sequence star ranging from Y9 to L0 for the brown dwarves and M9V to O0V.";
 
+// English: Kepler-1663 is a single M-type main-sequence star about 1,100 light-years away in the constellation Cygnus . A sub-Neptune with a 17.6-day orbital period was discovered via the transit method in 2020, whose planet has a radius of approximately 3.3 times that of Earth . The planet's mass has not been determined .
+"4D045556-B2F2-4F9B-A32C-5F4D53BEB542" = "Kepler-1663 is a single M-type main-sequence star about 1,100 light-years away in the constellation Cygnus . A sub-Neptune with a 17.6-day orbital period was discovered via the transit method in 2020, whose planet has a radius of approximately 3.3 times that of Earth . The planet's mass has not been determined .";
+
 // English: Kepler-124, also known as KOI-241, is a K-type main sequence star about 1,387 light-years away in the constellation Draco. In 2014, a total of three terrestrial planets were discovered, all of which are located within 0.18 AU from their star, or only about 1/3 the average perihelion distance of Mercury to the Sun
 "4D1B3F81-B2AF-4E47-A0C7-B33C7E16E31D" = "Kepler-124, also known as KOI-241, is a K-type main sequence star about 1,387 light-years away in the constellation Draco. In 2014, a total of three terrestrial planets were discovered, all of which are located within 0.18 AU from their star, or only about 1/3 the average perihelion distance of Mercury to the Sun";
 
