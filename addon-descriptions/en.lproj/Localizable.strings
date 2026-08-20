@@ -6412,6 +6412,9 @@
 // English: The Millennium Falcon in orbit above Tatooine
 "F0FF25C4-CD08-51E4-D92E-5A15201E06B9" = "The Millennium Falcon in orbit above Tatooine";
 
+// English: KMT-2023-BLG-1118L is a microlensing system in the constellation Sagittarius. Bayesian analysis suggests the host is likely an M or K-type dwarf, orbited by either a super-Jupiter (about 2.86 times the mass of Jupiter)The planet was discovered in 2026 and orbits beyond the snow line.
+"F10C0973-9B9D-41D1-AF7B-DD1D53DF3CBD" = "KMT-2023-BLG-1118L is a microlensing system in the constellation Sagittarius. Bayesian analysis suggests the host is likely an M or K-type dwarf, orbited by either a super-Jupiter (about 2.86 times the mass of Jupiter)The planet was discovered in 2026 and orbits beyond the snow line.";
+
 // English: K2-138 is a K-type main sequence star located about 660.44 lightyears from the solar system. the star hosts a series of planets: one super-Earth (b= 1.49 Re, 3.10 Me) and five mini-Neptunes (c= 2.299 Re, 6.31 Me | d= 2.39 Re, 7.92 Me | e= 3.39 Re, 12.97 Me | f= 2.904 Re, 1.63 Me | g= 3.013 Re, 4.32 Me). all of the five inner planets of the system are either in or near a 3:2 resonance with the planet in front of them. K2-138 g breaks this pattern by being further out than its companions
 "F10C2654-5AA1-4563-8826-95915DB0B685" = "K2-138 is a K-type main sequence star located about 660.44 lightyears from the solar system. the star hosts a series of planets: one super-Earth (b= 1.49 Re, 3.10 Me) and five mini-Neptunes (c= 2.299 Re, 6.31 Me | d= 2.39 Re, 7.92 Me | e= 3.39 Re, 12.97 Me | f= 2.904 Re, 1.63 Me | g= 3.013 Re, 4.32 Me). all of the five inner planets of the system are either in or near a 3:2 resonance with the planet in front of them. K2-138 g breaks this pattern by being further out than its companions";
 
