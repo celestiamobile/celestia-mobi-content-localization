@@ -105,7 +105,7 @@
     <a href="#image">image<small>3</small></a>
     <a href="#texture">texture<small>4</small></a>
     <a href="#celscript">celscript<small>2</small></a>
-    <a href="#gl">gl<small>19</small></a>
+    <a href="#gl">gl<small>20</small></a>
   </nav>
   <h2 id="celestia">celestia <span class="badge">146 methods</span></h2>
   <p>Top-level scripting object — find/select objects, configure rendering, manage time, audio, and event handlers.</p>
@@ -563,7 +563,7 @@
 
     <div class="returns-label">returns</div>
     <ul class="params returns">
-    <li><span class="ppos">ret 1</span> <span class="ptype">string</span> <span class="pdesc">&quot;fuzzy&quot;, &quot;point&quot;, or &quot;disc&quot;.</span></li>
+    <li><span class="ppos">ret 1</span> <span class="ptype">string</span> <span class="pdesc">&quot;fuzzy&quot;, &quot;point&quot;, &quot;disc&quot;, or &quot;psf&quot;. The &quot;psf&quot; value selects Point Spread Function star rendering.</span> <span class="psince"><a href="https://github.com/CelestiaProject/Celestia/commit/dd7314393a164c8ba242a29f3fe418980817eb71" target="_blank" rel="noopener" title="The psf value was added in commit dd7314393a164c8ba242a29f3fe418980817eb71">psf since <code>dd73143</code></a></span></li>
     </ul>
     </div>
     <div class="method">
@@ -1279,9 +1279,9 @@
     </div>
     <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">setstarstyle(…)</span><span class="since" title="Available in Celestia 1.5.1 or later">since 1.5.1</span></div>
-      <div class="desc">Set the star drawing style: `"fuzzy"`, `"point"`, or `"disc"`.</div>
+      <div class="desc">Set the star drawing style: <code>&quot;fuzzy&quot;</code>, <code>&quot;point&quot;</code>, <code>&quot;disc&quot;</code>, or <code>&quot;psf&quot;</code>. The <code>&quot;psf&quot;</code> style uses Point Spread Function rendering.</div>
     <ul class="params">
-    <li><span class="ppos">arg 1</span> <span class="pname">style</span> <span class="ptype">string</span> <span class="pdesc">&quot;fuzzy&quot;, &quot;point&quot;, or &quot;disc&quot;.</span></li>
+    <li><span class="ppos">arg 1</span> <span class="pname">style</span> <span class="ptype">string</span> <span class="pdesc">&quot;fuzzy&quot;, &quot;point&quot;, &quot;disc&quot;, or &quot;psf&quot;.</span> <span class="psince"><a href="https://github.com/CelestiaProject/Celestia/commit/dd7314393a164c8ba242a29f3fe418980817eb71" target="_blank" rel="noopener" title="The psf value was added in commit dd7314393a164c8ba242a29f3fe418980817eb71">psf since <code>dd73143</code></a></span></li>
     </ul>
 
     </div>
@@ -1425,7 +1425,7 @@
     </div>
     <div class="method">
       <div class="sig"><span class="scope">celestia</span>:<span class="name">takescreenshot(<i>0…2 args</i>)</span><span class="since" title="Available in Celestia 1.5.1 or later">since 1.5.1</span></div>
-      <div class="desc">Save a screenshot to the configured script-screenshot directory using the filename pattern <code>screenshot-{tag-}{NNNNNN}.{filetype}</code>.</div>
+      <div class="desc">Save a screenshot to the directory configured by <code>ScriptScreenshotDirectory</code> in <code>celestia.cfg</code>, using the filename pattern <code>screenshot-{tag-}{NNNNNN}.{filetype}</code>. The configured directory must be writable by the Celestia process. For a sandboxed macOS or Mac Catalyst app, use a writable location inside the app container, such as <code>~/Library/Containers/&lt;bundle-id&gt;/Data/Documents/</code>, or a location outside the container to which the user has granted security-scoped access. Ordinary filesystem permissions do not override the app sandbox. If the image cannot be written, this method returns <code>false</code>.</div>
     <ul class="params">
     <li><span class="ppos">arg 1</span> <span class="pname">filetype</span> <span class="ptype">string</span> <span class="pdef">default: "png"</span> <span class="pdesc">File extension/format. Defaults to <code>"png"</code>.</span></li>
     <li><span class="ppos">arg 2</span> <span class="pname">tag</span> <span class="ptype">string</span> <span class="pdesc">Optional filename tag inserted before the numeric counter. Characters outside <code>[A-Za-z0-9]</code> are replaced with <code>_</code>, and the tag is truncated to 16 characters.</span></li>
@@ -1982,7 +1982,7 @@
     </div>
     <div class="method">
       <div class="sig"><span class="scope">object</span>:<span class="name">getinfo()</span><span class="since" title="Available in Celestia 1.5.1 or later">since 1.5.1</span></div>
-      <div class="desc">Return a Lua table of metadata (name, radius, oblateness, magnitude, etc.).</div>
+      <div class="desc">Return a Lua table of metadata (name, radius, oblateness, magnitude, etc.). For bodies, the albedo fields include <code>albedo</code>, <code>geomAlbedo</code>, <code>bondAlbedo</code>, and <code>sphAlbedo</code>; <code>sphAlbedo</code> replaced the former <code>reflectivity</code> field in <a href="https://github.com/CelestiaProject/Celestia/commit/5de360f418eed8747630a97a341c9317071d5280" target="_blank" rel="noopener">commit <code>5de360f</code></a>.</div>
 
     <div class="returns-label">returns</div>
     <ul class="params returns">
@@ -2140,7 +2140,7 @@
       <div class="sig"><span class="scope">object</span>:<span class="name">setatmosphere(…)</span><span class="since" title="Available in Celestia 1.5.1 or later">since 1.5.1</span></div>
       <div class="desc">Override atmosphere parameters for the body. Takes a single options table; unknown keys are warned but ignored.</div>
     <ul class="params">
-    <li><span class="ppos">arg 1</span> <span class="pname">options</span> <span class="ptype">table</span> <span class="pdesc">Supported keys: <code>height</code> (number), <code>mie</code> (number), <code>miescaleheight</code> (number), <code>mieasymmetry</code> (number), <code>rayleigh</code> (3-number table), <code>absorption</code> (3-number table), <code>lowercolor</code> (3-number table), <code>uppercolor</code> (3-number table), <code>skycolor</code> (3-number table), <code>sunsetcolor</code> (3-number table).</span></li>
+    <li><span class="ppos">arg 1</span> <span class="pname">options</span> <span class="ptype">table</span> <span class="pdesc">Supported keys: <code>height</code> (number), <code>mie</code> (number), <code>miescaleheight</code> (number), <code>mieasymmetry</code> (number), <code>rayleighscaleheight</code> (number), <code>rayleigh</code> (3-number table), <code>absorption</code> (3-number table), <code>lowercolor</code> (3-number table), <code>uppercolor</code> (3-number table), <code>skycolor</code> (3-number table), <code>sunsetcolor</code> (3-number table).</span> <span class="psince"><a href="https://github.com/CelestiaProject/Celestia/commit/8b23eb6f0d324d6d01eb3ba0374558eb982f210c" target="_blank" rel="noopener" title="The rayleighscaleheight key was added in commit 8b23eb6f0d324d6d01eb3ba0374558eb982f210c">rayleighscaleheight since <code>8b23eb6</code></a></span></li>
     </ul>
 
     </div>
@@ -2964,7 +2964,7 @@
     </ul>
     </div>
 
-  <h2 id="gl">gl / glu <span class="badge">19 methods</span></h2>
+  <h2 id="gl">gl / glu <span class="badge">20 methods</span></h2>
   <p>Low-level OpenGL drawing primitives (subset; for overlay rendering). Most calls live on the global <code>gl</code> table; <code>LookAt</code> and <code>Ortho2D</code> are exposed on the <code>glu</code> table instead.</p>
     <div class="method">
       <div class="sig"><span class="scope">gl</span>.<span class="name">Begin(...)</span><span class="since" title="Available in Celestia 1.5.1 or later">since 1.5.1</span></div>
@@ -3088,6 +3088,14 @@
     <li><span class="ppos">arg 2</span> <span class="pname">right</span> <span class="ptype">number</span></li>
     <li><span class="ppos">arg 3</span> <span class="pname">bottom</span> <span class="ptype">number</span></li>
     <li><span class="ppos">arg 4</span> <span class="pname">top</span> <span class="ptype">number</span></li>
+    </ul>
+
+    </div>
+    <div class="method">
+      <div class="sig"><span class="scope">gl</span>.<span class="name">PointSize(...)</span><span class="since"><a href="https://github.com/CelestiaProject/Celestia/commit/ee086396c002e74c81e2561ce98c75a868d93018" target="_blank" rel="noopener" title="Introduced in commit ee086396c002e74c81e2561ce98c75a868d93018">since <code>ee08639</code></a></span></div>
+      <div class="desc">Set the rasterized size used by subsequent <code>GL_POINTS</code> draws.</div>
+    <ul class="params">
+    <li><span class="ppos">arg 1</span> <span class="pname">size</span> <span class="ptype">number</span> <span class="punit">pixels</span></li>
     </ul>
 
     </div>
