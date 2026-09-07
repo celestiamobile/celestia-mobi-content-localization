@@ -3133,8 +3133,8 @@
 // English: The Goa'uld Fleet from MGM's Stargate series.
 "7547B5D2-0619-42CA-BA22-3A45137892CC" = "The Goa'uld Fleet from MGM's Stargate series.";
 
-// English: Luna-1 was a soviet space probe intended to impact the Moon. It was launched on January 2, 1959, but failed to impact the Moon, passing 6,000 km away a few days later. But it became the first space probe in a heliocentric orbit.
-"755519F3-5213-F6BD-A583-FE5C4F67AF56" = "Luna-1 was a soviet space probe intended to impact the Moon. It was launched on January 2, 1959, but failed to impact the Moon, passing 6,000 km away a few days later. But it became the first space probe in a heliocentric orbit.";
+// English: Luna 1, also known as Mechta, was the first spacecraft to flyby the Moon, reach Earth's escape velocity and enter a heliocentric orbit. Launched by USSR in 1959-Jan-02, initially conceived as a lunar impactor, a malfunction in the ground-based control system caused an error in the upper stage rocket's burn time, and the spacecraft missed the Moon by approximately 6,000 km.
+"755519F3-5213-F6BD-A583-FE5C4F67AF56" = "Luna 1, also known as Mechta, was the first spacecraft to flyby the Moon, reach Earth's escape velocity and enter a heliocentric orbit. Launched by USSR in 1959-Jan-02, initially conceived as a lunar impactor, a malfunction in the ground-based control system caused an error in the upper stage rocket's burn time, and the spacecraft missed the Moon by approximately 6,000 km.";
 
 // English: GJ 1289 is a red dwarf located about 27.28 lightyears from the solar system. A single sub-Neptune mass planet was detected around this star with an orbital period of 111.74 days.
 "756B2E3A-172A-43A5-B763-DEBF1BB76B3E" = "GJ 1289 is a red dwarf located about 27.28 lightyears from the solar system. A single sub-Neptune mass planet was detected around this star with an orbital period of 111.74 days.";
@@ -5686,6 +5686,9 @@
 // English: MOA-2011-BLG-293L is a distant Sun-like star about 25,114 light-years away in the constellation Sagittarius. Situated within the Galactic Core, it has a massive superjovian planet with a year slightly longer than Earth's
 "D5F06E7A-D4D6-4C8D-9EBC-BD42719A2401" = "MOA-2011-BLG-293L is a distant Sun-like star about 25,114 light-years away in the constellation Sagittarius. Situated within the Galactic Core, it has a massive superjovian planet with a year slightly longer than Earth's";
 
+// English: GJ 2049, also known as HIP 30256 and LHS 1840, is a solitary M1V-type red dwarf star located in the constellation Canis Major, approximately 87.67 light-years from Earth. Two planets of this star were discovered using the radial velocity method.
+"D5F1BC49-516D-48C7-A0F9-AD40435DE72E" = "GJ 2049, also known as HIP 30256 and LHS 1840, is a solitary M1V-type red dwarf star located in the constellation Canis Major, approximately 87.67 light-years from Earth. Two planets of this star were discovered using the radial velocity method.";
+
 // English: WASP-152, also known as K2-29, is a binary star system consisting of a G-type main-sequence star and a K-type main-sequence star, about 585.1 light-years away from Earth, and it is known that Component A has a Jupiter-sized gas giant, very close to the star, is a hot Jupiter that can complete an orbit in less than 4 days
 "D5F7B792-00AE-4517-97B4-FB027211593A" = "WASP-152, also known as K2-29, is a binary star system consisting of a G-type main-sequence star and a K-type main-sequence star, about 585.1 light-years away from Earth, and it is known that Component A has a Jupiter-sized gas giant, very close to the star, is a hot Jupiter that can complete an orbit in less than 4 days";
 
@@ -6592,8 +6595,8 @@
 // English: TIC 4672985 is a binary system comprised of a G-type main sequence star and a red dwarf located about 823.77 light years from the solar system. The primary star hosts a transiting super-Jupiter/sub-Brown Dwarf with an orbital period 69 days.
 "F5B2A252-4DA3-4D06-9FD2-15295D3ED58B" = "TIC 4672985 is a binary system comprised of a G-type main sequence star and a red dwarf located about 823.77 light years from the solar system. The primary star hosts a transiting super-Jupiter/sub-Brown Dwarf with an orbital period 69 days.";
 
-// English: Luna-2 is a soviet space probe launched on September 12, 1959 for the purpose of impacting the Moon. The probe impacted the Moon on September 13, 1959 and became the first man-made artifact to impact another celestial body.
-"F5C7FE4B-21D4-3ABB-7304-3ABDE7239BEE" = "Luna-2 is a soviet space probe launched on September 12, 1959 for the purpose of impacting the Moon. The probe impacted the Moon on September 13, 1959 and became the first man-made artifact to impact another celestial body.";
+// English: Luna 2 was a Soviet lunar impactor launched on 1959-Sept-12. On Sept-13, it impacted the lunar surface east of Mare Imbrium, thereby becoming the first artificial object to make contact with another celestial body.
+"F5C7FE4B-21D4-3ABB-7304-3ABDE7239BEE" = "Luna 2 was a Soviet lunar impactor launched on 1959-Sept-12. On Sept-13, it impacted the lunar surface east of Mare Imbrium, thereby becoming the first artificial object to make contact with another celestial body.";
 
 // English: 2MASS J16222521-2405139, also known as Oph 162225-240515 and Ophiuchi 11, is a binary system composed of two brown dwarfs, located in the constellation Scorpius, approximately 472.9 light-years from the Solar System. Component A has a mass of about 57 times that of Jupiter, component B has a mass of 21 times that of Jupiter, and they are separated by 420 astronomical units.
 "F5F56C36-4182-408C-B49D-27302E56F004" = "2MASS J16222521-2405139, also known as Oph 162225-240515 and Ophiuchi 11, is a binary system composed of two brown dwarfs, located in the constellation Scorpius, approximately 472.9 light-years from the Solar System. Component A has a mass of about 57 times that of Jupiter, component B has a mass of 21 times that of Jupiter, and they are separated by 420 astronomical units.";
