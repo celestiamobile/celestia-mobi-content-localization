@@ -6148,6 +6148,9 @@
 // English: Part 3 of the Minor Planet Catalog, from 400 Ducrosa to 599 Luisa.
 "E5589315-611A-4BB3-8550-F9A01C58962B" = "Part 3 of the Minor Planet Catalog, from 400 Ducrosa to 599 Luisa.";
 
+// English: The Escape and Plasma Acceleration and Dynamics Explorers (EscaPADE) is a low-cost NASA mission consisting of two spacecraft, Blue and Gold, to study the Martian magnetosphere and its interaction with the solar wind. Both probes were launched from a New Glenn rocket on 13 November 2025, and waited for nearly a year in Earth-Sun L2 point before cruising to Mars, which is expected to arrive at the Red Planet by 2027
+"E5645A4F-43EB-4BCB-9D6B-000CFF1A2E33" = "The Escape and Plasma Acceleration and Dynamics Explorers (EscaPADE) is a low-cost NASA mission consisting of two spacecraft, Blue and Gold, to study the Martian magnetosphere and its interaction with the solar wind. Both probes were launched from a New Glenn rocket on 13 November 2025, and waited for nearly a year in Earth-Sun L2 point before cruising to Mars, which is expected to arrive at the Red Planet by 2027";
+
 // English: This addon adds an alternative texture from Europa, seen through radio waves.
 "E59443D7-DFFB-413F-B78E-CC0CFE27DC6F" = "This addon adds an alternative texture from Europa, seen through radio waves.";
 
