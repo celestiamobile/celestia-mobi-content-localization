@@ -3418,6 +3418,9 @@
 // English: Adds a 3D model for the Gusev Crater, the landing site of the first of NASA's Mars Exploration Rovers, Spirit, which operated from 2004 to 2010
 "7F98A89C-EB9F-7AA6-0510-43698EC82F94" = "Adds a 3D model for the Gusev Crater, the landing site of the first of NASA's Mars Exploration Rovers, Spirit, which operated from 2004 to 2010";
 
+// English: Kepler-123, also known as KOI-238 and KIC 7219825, is a single F-type main-sequence star about 7,430 light-years away in the constellation Cygnus. Two sub-Neptune-sized planets were discovered via the transit method in 2014: Kepler-123 b has an orbital period of 17.23 days and a radius of approximately 2.94 R🜨, while Kepler-123 c has an orbital period of 26.70 days and a radius of approximately 1.48 R🜨.
+"7F9FBA3C-5976-4A9E-8685-94EC6258B422" = "Kepler-123, also known as KOI-238 and KIC 7219825, is a single F-type main-sequence star about 7,430 light-years away in the constellation Cygnus. Two sub-Neptune-sized planets were discovered via the transit method in 2014: Kepler-123 b has an orbital period of 17.23 days and a radius of approximately 2.94 R🜨, while Kepler-123 c has an orbital period of 26.70 days and a radius of approximately 1.48 R🜨.";
+
 // English: This addon enhances Pluto's moon Charon, including: \n\n- 3D model based on New Horizons data. \n- Four textures: New Horizons data (default), Hubble data, enhanced colors and topography (alternative surfaces).
 "7FDFE2E0-4608-45D0-B661-FFF0606B4973" = "This addon enhances Pluto's moon Charon, including: \n\n- 3D model based on New Horizons data. \n- Four textures: New Horizons data (default), Hubble data, enhanced colors and topography (alternative surfaces).";
 
@@ -5487,6 +5490,9 @@
 
 // English: Wolf 1061 is a red dwarf about 14.05 light-years away in the constellation Ophiuchus. A total of three confirmed planets, one terran and two superterrans, were found orbiting the star, one of which was considered as potentially habitable
 "CD7C9BBA-C079-58AD-A618-81BDBF2AA04E" = "Wolf 1061 is a red dwarf about 14.05 light-years away in the constellation Ophiuchus. A total of three confirmed planets, one terran and two superterrans, were found orbiting the star, one of which was considered as potentially habitable";
+
+// English: GJ 3378, also known as LHS 1805, is a single M4V-type red dwarf star located approximately 25.2 light-years (7.73 parsecs) away in the constellation Camelopardalis. A potentially habitable super-Earth, GJ 3378 b, was confirmed orbiting this star via the radial velocity method in 2026. The planet has a minimum mass of approximately 2.3 times that of Earth and an orbital period of 21.45 days, placing it within the star's habitable zone where liquid water could exist.
+"CDA0C1FB-FB2F-439C-A667-F023AF524290" = "GJ 3378, also known as LHS 1805, is a single M4V-type red dwarf star located approximately 25.2 light-years (7.73 parsecs) away in the constellation Camelopardalis. A potentially habitable super-Earth, GJ 3378 b, was confirmed orbiting this star via the radial velocity method in 2026. The planet has a minimum mass of approximately 2.3 times that of Earth and an orbital period of 21.45 days, placing it within the star's habitable zone where liquid water could exist.";
 
 // English: GOES-R is the fourth-generation series of weather satellites under NASA/NOAA's Geostationary Operational Environmental Satellites program (1975-Present). Three satellites of this series (designated as 16, 17, 18 and 19) are launched from 2016-2024. They are planned to replace the old GOES-N fleet
 "CDA94824-30CD-4B71-A6CE-687F677496EB" = "GOES-R is the fourth-generation series of weather satellites under NASA/NOAA's Geostationary Operational Environmental Satellites program (1975-Present). Three satellites of this series (designated as 16, 17, 18 and 19) are launched from 2016-2024. They are planned to replace the old GOES-N fleet";
