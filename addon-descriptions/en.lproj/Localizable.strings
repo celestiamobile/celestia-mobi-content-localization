@@ -5137,6 +5137,9 @@
 // English: HD 37124, aka Gliese 209, is a G-type main sequence star located about 103.18 lightyears from the solar system. Three gas giants, all of similar masses to each other, are currently known to orbit this star.
 "C0101058-6C84-46AF-924A-D09E1C300F57" = "HD 37124, aka Gliese 209, is a G-type main sequence star located about 103.18 lightyears from the solar system. Three gas giants, all of similar masses to each other, are currently known to orbit this star.";
 
+// English: TOI-771, also known as TIC 277634430, is a red dwarf star located approximately 82.68 light-years from Earth in the constellation Carina. This star hosts two super-Earths.
+"C0149037-0532-4734-9CD9-08F07909C051" = "TOI-771, also known as TIC 277634430, is a red dwarf star located approximately 82.68 light-years from Earth in the constellation Carina. This star hosts two super-Earths.";
+
 // English: This addon adds, as an alternative surface, a topographic map of our Moon, showing relief formations, surface elevations and impact craters. Based on LRO data.
 "C05F4A30-9033-D7C7-B3D2-9143B440A8B1" = "This addon adds, as an alternative surface, a topographic map of our Moon, showing relief formations, surface elevations and impact craters. Based on LRO data.";
 
