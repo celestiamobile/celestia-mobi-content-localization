@@ -559,7 +559,7 @@
 // English: C/2023 A3 (Tsuchinshan–ATLAS)
 "1726BFEB-C111-4A01-9952-6FA0EABBBB9C" = "C/2023 A3 (Цучиншан-АТЛАС)";
 
-// English: ExoMars (Trace Gas Orbiter)
+// English: ExoMars: Trace Gas Orbiter
 "1741217B-FE6F-10F9-3965-C60D9EC18863" = "Екзомарс (орбитален апарат)";
 
 // English: HAT-P-7
@@ -2944,7 +2944,7 @@
 // English: Gliese 163
 "6D246200-3F52-4540-B291-A8DE5862401D" = "Глийзе 163";
 
-// English: ExoMars (Rosalind Franklin)
+// English: ExoMars: Rosalind Franklin
 "6D5753D0-64DE-AFEE-DA54-345FDBA38D19" = "Екзомарс (Розалинд Франклин)";
 
 // English: Toutatis-1
@@ -5046,6 +5046,9 @@
 
 // English: Qatar-5
 "BC4329AB-FC4D-47EE-A730-248AC4E05252" = "Катар-5";
+
+// English: SOLAR-1
+//"BC841495-16FE-4049-967C-9199C0E99DCB" = "SOLAR-1";
 
 // English: SN 1987A
 "BCB7E87F-C22B-0C02-5A77-38FD8F79CCAD" = "SN 1987A";
