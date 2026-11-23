@@ -2,10 +2,10 @@
 "00AF3056-5512-42F3-A6CC-3B66CF6203EC" = "Потвърдени (O)";
 
 // English: Centaurs
-//"04625752-0A61-4D42-B392-A93991FB0425" = "Centaurs";
+//"04625752-0A61-4D42-B392-A93991FB0425" = "Кентаври";
 
 // English: Comet Catalog
-//"067D4F18-4F37-4EB1-8161-FA65A07A95E0" = "Comet Catalog";
+//"067D4F18-4F37-4EB1-8161-FA65A07A95E0" = "Каталог с комети";
 
 // English: Scripts
 "09877309-D214-43E2-AE37-C9F716D5EF78" = "Скриптове";
@@ -74,7 +74,7 @@
 "56FF5D9F-44F1-CE1D-0615-5655E3C851EF" = "Галактики";
 
 // English: Periodic Comets
-//"578031A4-95F6-4EE5-A0EC-59D230134B4C" = "Periodic Comets";
+//"578031A4-95F6-4EE5-A0EC-59D230134B4C" = "Периодични комети";
 
 // English: Others
 "5A6E1D18-F280-CB5D-5622-C925B6E9B6E1" = "Други";
@@ -110,13 +110,13 @@
 "79907B53-C287-F6BC-01EB-B7D9B8A02161" = "Планети и системи";
 
 // English: Non-periodic Comets
-//"79E5EBE6-C72B-4A3D-B8C3-FFE8E0574C5B" = "Non-periodic Comets";
+//"79E5EBE6-C72B-4A3D-B8C3-FFE8E0574C5B" = "Непериодични комети";
 
 // English: Confirmed (L)
 "7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "Потвърдени (L)";
 
 // English: Minor Planet Catalog
-//"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "Minor Planet Catalog";
+//"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "Каталог на малките планети";
 
 // English: Star Wars
 "8237336C-8075-19CF-C43E-61EC0E3E86DF" = "Междузвездни войни";
@@ -158,13 +158,13 @@
 "9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "Астероиден пояс";
 
 // English: Interstellar Objects
-//"A924895F-0C4C-4DBE-828B-2407CC1BEDD9" = "Interstellar Objects";
+//"A924895F-0C4C-4DBE-828B-2407CC1BEDD9" = "Междузвездни обекти";
 
 // English: Confirmed (H)
 "B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "Потвърдени (H)";
 
 // English: Centaurs and TNOs
-//"B1CF7032-F4A3-40BF-8915-40E7C6D88833" = "Centaurs and TNOs";
+//"B1CF7032-F4A3-40BF-8915-40E7C6D88833" = "Кинтаври и ТНО";
 
 // English: Solar System
 "B2E44BE0-9DF7-FAB9-92D4-F8D323D31250" = "Слънчева система";
@@ -191,7 +191,7 @@
 "BFFEC5E4-B6C3-BABA-C56B-D756D5DA08FE" = "Земята и Луната";
 
 // English: Confirmed (I and J)
-//"C2940B92-708D-42F7-BF2B-989DEB70F7DB" = "Confirmed (I and J)";
+//"C2940B92-708D-42F7-BF2B-989DEB70F7DB" = "Потвърдени (I и J)";
 
 // English: Earth Science
 "C2C12342-EBE2-BDEA-791F-F087404B16E2" = "Научни спътници";
@@ -224,7 +224,7 @@
 "DFD5BBCD-3A98-48AF-8E08-B2EC3FAA0AAE" = "Потвърдени (D, E и F)";
 
 // English: Celestia Worldbuilding Project
-//"E6A49276-8FF9-466F-83C5-DD9B7D05E8CA" = "Celestia Worldbuilding Project";
+//"E6A49276-8FF9-466F-83C5-DD9B7D05E8CA" = "Проект Celestia Worldbuilding";
 
 // English: ArcBuilder Universe
 "E6E0C8D7-8F9E-EE24-1C54-D6F57B0EEF6F" = "Вселената АркБилдър";
@@ -233,7 +233,7 @@
 "F3536B74-5564-4BD4-874A-95B26833D0C1" = "Старгейт";
 
 // English: Navigation Satellites
-//"F8A5B429-0B42-424E-B5EC-21A711147F1B" = "Navigation Satellites";
+//"F8A5B429-0B42-424E-B5EC-21A711147F1B" = "Навигационни сателити";
 
 // English: Near-Earth Objects
 "FF1B03B8-4A0D-49D7-89AA-4DCF74FF95FB" = "Близкоземни астрономически обекти";
