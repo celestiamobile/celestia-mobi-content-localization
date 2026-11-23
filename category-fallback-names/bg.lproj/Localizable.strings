@@ -38,7 +38,7 @@
 "4C984847-1232-385B-793B-0E0700ED883E" = "Космически апарати: Пилотирани и снабдителни мисии";
 
 // English: Comets: Periodic
-//"578031A4-95F6-4EE5-A0EC-59D230134B4C" = "Comets: Periodic";
+//"578031A4-95F6-4EE5-A0EC-59D230134B4C" = "Комети: Периодични";
 
 // English: Solar System: Others
 "5A6E1D18-F280-CB5D-5622-C925B6E9B6E1" = "Слънчева система: Други";
@@ -62,13 +62,13 @@
 "79907B53-C287-F6BC-01EB-B7D9B8A02161" = "Измислени: Планети и системи";
 
 // English: Comets: Non-periodic
-//"79E5EBE6-C72B-4A3D-B8C3-FFE8E0574C5B" = "Comets: Non-periodic";
+//"79E5EBE6-C72B-4A3D-B8C3-FFE8E0574C5B" = "Комети: Непериодични";
 
 // English: Exoplanets: L
 "7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "Екзопланети: L";
 
 // English: Asteroids: Minor Planet Catalog
-//"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "Asteroids: Minor Planet Catalog";
+//"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "Астероиди: Каталог на малките планети";
 
 // English: Fictional: Star Wars
 "8237336C-8075-19CF-C43E-61EC0E3E86DF" = "Измислени: Междузвездни войни";
@@ -107,7 +107,7 @@
 "9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "Астероиди: Основен пояс";
 
 // English: Solar System: Interstellar Objects
-//"A924895F-0C4C-4DBE-828B-2407CC1BEDD9" = "Solar System: Interstellar Objects";
+//"A924895F-0C4C-4DBE-828B-2407CC1BEDD9" = "Слънчева система: Междузвездни обекти";
 
 // English: Exoplanets: H
 "B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "Екзопланети: H";
@@ -131,7 +131,7 @@
 "BFFEC5E4-B6C3-BABA-C56B-D756D5DA08FE" = "Слънчева система: Земята и Луната";
 
 // English: Exoplanets: I and J
-//"C2940B92-708D-42F7-BF2B-989DEB70F7DB" = "Exoplanets: I and J";
+//"C2940B92-708D-42F7-BF2B-989DEB70F7DB" = "Екзопланети: I и J";
 
 // English: Spacecraft: Earth Science
 "C2C12342-EBE2-BDEA-791F-F087404B16E2" = "Космически апарати: Научни спътници";
@@ -158,7 +158,7 @@
 "DFD5BBCD-3A98-48AF-8E08-B2EC3FAA0AAE" = "Екзопланети: D, E и F";
 
 // English: Fictional: Celestia Worldbuilding Project
-//"E6A49276-8FF9-466F-83C5-DD9B7D05E8CA" = "Fictional: Celestia Worldbuilding Project";
+//"E6A49276-8FF9-466F-83C5-DD9B7D05E8CA" = "Измислени: Проект Celestia Worldbuilding";
 
 // English: Fictional: ArcBuilder Universe
 "E6E0C8D7-8F9E-EE24-1C54-D6F57B0EEF6F" = "Измислени: Вселената „ArcBuilder“";
@@ -167,7 +167,7 @@
 "F3536B74-5564-4BD4-874A-95B26833D0C1" = "Измислени: Старгейт";
 
 // English: Spacecraft: Navigation Satellites
-//"F8A5B429-0B42-424E-B5EC-21A711147F1B" = "Spacecraft: Navigation Satellites";
+//"F8A5B429-0B42-424E-B5EC-21A711147F1B" = "Космически апарати: Навигационни сателити";
 
 // English: Asteroids: Near-Earth Objects
 "FF1B03B8-4A0D-49D7-89AA-4DCF74FF95FB" = "Астероиди: Близкоземни астрономически обекти";
