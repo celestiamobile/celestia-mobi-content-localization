@@ -2,10 +2,10 @@
 "00AF3056-5512-42F3-A6CC-3B66CF6203EC" = "Това са потвърдените звездни системи с планети, чиито имена започват с O";
 
 // English: These are rocky/icy bodies that orbits the Sun between Jupiter and Neptune. They usually have characteristics of both asteroids and comets
-//"04625752-0A61-4D42-B392-A93991FB0425" = "Това са скалисто-ледени тела, които обикалят около Слънцето между Юпитер и Нептун. Те обикновено притежават характеристики както на астероиди, така и на комети";
+"04625752-0A61-4D42-B392-A93991FB0425" = "Това са скалисто-ледени тела, които обикалят около Слънцето между Юпитер и Нептун. Те обикновено притежават характеристики както на астероиди, така и на комети";
 
 // English: A large catalog containing approximately 4,000 known comets
-//"067D4F18-4F37-4EB1-8161-FA65A07A95E0" = "В тази категория ще намерите голям каталог, който съдържа приблизително 4 000 известни комети";
+"067D4F18-4F37-4EB1-8161-FA65A07A95E0" = "В тази категория ще намерите голям каталог, който съдържа приблизително 4 000 известни комети";
 
 // English: Scripts that make full use of Celestia's potentials.
 "09877309-D214-43E2-AE37-C9F716D5EF78" = "В тази категория ще намерите скриптове, които използват пълния потенциал на „Celestia“.";
@@ -74,7 +74,7 @@
 "56FF5D9F-44F1-CE1D-0615-5655E3C851EF" = "В тази категория ще намерите допълнителни галактики и подобренията на тези, които са включени в „Celestia“. Тъй като галактиките все още не поддържат използването на триизмерни модели, подобренията в момента са класифицирани като мъглявини";
 
 // English: These are comets that have orbital periods less than 200 years in length. This include Encke-type, Jupiter-family, Halley-type, and Chiron-type comets
-//"578031A4-95F6-4EE5-A0EC-59D230134B4C" = "Това са комети, чиито орбитални периоди са по-кратки от 200 години. Към тях спадат кометите от типа на Енке, от семейството на Юпитер, от типа на Халей и от типа на Хирон";
+"578031A4-95F6-4EE5-A0EC-59D230134B4C" = "Това са комети, чиито орбитални периоди са по-кратки от 200 години. Към тях спадат кометите от типа на Енке, от семейството на Юпитер, от типа на Халей и от типа на Хирон";
 
 // English: A collection of Solar System addons that does not fit in any specific subcategory
 "5A6E1D18-F280-CB5D-5622-C925B6E9B6E1" = "Това са добавките за Слънчевата система, които не са подходящи другите подкатегории";
@@ -110,13 +110,13 @@
 "79907B53-C287-F6BC-01EB-B7D9B8A02161" = "Това са различните измислени космически кораби, които не са част от научнофантастична поредица.";
 
 // English: These are all the comets that have orbital periods greater than 200 years in length. This include long-period, near-parabolic, and hyperbolic (Oort cloud) comets
-//"79E5EBE6-C72B-4A3D-B8C3-FFE8E0574C5B" = "Това са всички комети, чиито орбитални периоди са по-дълги от 200 години. Към тях спадат дългопериодичните, почти параболичните и хиперболичните комети (от облака на Оорт)";
+"79E5EBE6-C72B-4A3D-B8C3-FFE8E0574C5B" = "Това са всички комети, чиито орбитални периоди са по-дълги от 200 години. Към тях спадат дългопериодичните, почти параболичните и хиперболичните комети (от облака на Оорт)";
 
 // English: These are the confirmed star systems with planets that have names starting with L
 "7A498EF6-BA5B-4734-A6D6-3041DE91B01A" = "Това са потвърдените звездни системи с планети, чиито имена започват с L";
 
 // English: A catalog containing approximately 5000 minor planets (MBAs, NEOs, TNOs and centaurs). ~1600 objects have 3D models derived from light curve inversion.
-//"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "В тази категория ще намерите каталог, съдържащ приблизително 5 000 малки планети (АОП, БАО, TNO и кентаври). Около 1 600 обекта разполагат с триизмерни модели, получени чрез инверсия на кривата на блясъка.";
+"7ECCF5CD-1EAB-4EC0-A4A2-9CCCEBBBDEC1" = "В тази категория ще намерите каталог, съдържащ приблизително 5 000 малки планети (АОП, БАО, TNO и кентаври). Около 1 600 обекта разполагат с триизмерни модели, получени чрез инверсия на кривата на блясъка.";
 
 // English: A long time ago in a galaxy far, far away....
 "8237336C-8075-19CF-C43E-61EC0E3E86DF" = "Преди много години в една далечна галактика...";
@@ -158,13 +158,13 @@
 "9ED44B8D-5FD9-4F9B-8B31-99F13FE54367" = "Това са астероидите, които се намират в астероидния пояс.";
 
 // English: These are all the asteroids/comets that have entered the Solar System from interstellar space
-//"A924895F-0C4C-4DBE-828B-2407CC1BEDD9" = "Това са всички астероиди и комети, които са навлезли в Слънчевата система от междузвездното пространство";
+"A924895F-0C4C-4DBE-828B-2407CC1BEDD9" = "Това са всички астероиди и комети, които са навлезли в Слънчевата система от междузвездното пространство";
 
 // English: These are the confirmed star systems with planets that have names starting with H
 "B15857BC-ADB9-4E42-87F6-465DA2D2D881" = "Това са потвърдените звездни системи с планети, чиито имена започват с H";
 
 // English: These are all the rocky and icy bodies found within the outer Solar System
-//"B1CF7032-F4A3-40BF-8915-40E7C6D88833" = "Това са всички скалисти и ледени тела, намиращи се във външната Слънчева система";
+"B1CF7032-F4A3-40BF-8915-40E7C6D88833" = "Това са всички скалисти и ледени тела, намиращи се във външната Слънчева система";
 
 // English: This category contains addons that enhances the view of every major celestial body in the Solar System, i.e. the planets and the moons themselves
 "B2E44BE0-9DF7-FAB9-92D4-F8D323D31250" = "В тази категория ще намерите добавките, които подобряват външния вид на всички големи небесни тела в Слънчевата система, например планетите и техните спътници";
@@ -191,7 +191,7 @@
 "BFFEC5E4-B6C3-BABA-C56B-D756D5DA08FE" = "Земята е третата планета в Слънчевата система и единствената във Вселената, която поддържа живот. Тя е голяма скалиста планета с един естествен спътник - Луната, което е най-отдалечното място в Слънчевата система към 2022 година, на което е стъпвал човешки крак";
 
 // English: These are the confirmed star systems with planets that have names starting with I and J
-//"C2940B92-708D-42F7-BF2B-989DEB70F7DB" = "Това са потвърдените звездни системи с планети, чиито имена започват с I и J";
+"C2940B92-708D-42F7-BF2B-989DEB70F7DB" = "Това са потвърдените звездни системи с планети, чиито имена започват с I и J";
 
 // English: These are spacecraft that mapped, do science, sometimes military, and monitor the ever-changing weather in high altitudes
 "C2C12342-EBE2-BDEA-791F-F087404B16E2" = "Това са космическите апарати, които извършват наблюдателна, разузнавателна и метеорологична дейност";
@@ -224,7 +224,7 @@
 "DFD5BBCD-3A98-48AF-8E08-B2EC3FAA0AAE" = "Това са потвърдените звездни системи с планети, чиито имена започват с D, E и F";
 
 // English: A massive worldbuilding project set in the Triangulum Galaxy made by various add-on developers using Celestia since 2020
-//"E6A49276-8FF9-466F-83C5-DD9B7D05E8CA" = "Това е мащабен проект за изграждане на измислени светове, разположен в галактиката Триъгълник, създаван от различни разработчици на добавки за „Celestia“ от 2020 година насам";
+"E6A49276-8FF9-466F-83C5-DD9B7D05E8CA" = "Това е мащабен проект за изграждане на измислени светове, разположен в галактиката Триъгълник, създаван от различни разработчици на добавки за „Celestia“ от 2020 година насам";
 
 // English: \"For over ten thousand years the ArcWays have slumbered, lost to the ages and buried under the sediments of time on many worlds. But now they are rediscovered and utilized by Humanity, and a united stellar neighborhood is the ultimate result. And such a League of Worlds will be needed, for as old as the ArcWays are, they contain a terrible force billions of years older, and it will not rest once awakened\" -- J. M. Dollan, 2007 --
 "E6E0C8D7-8F9E-EE24-1C54-D6F57B0EEF6F" = "„Повече от десет хиляди години „ArcWays“ спяха, изгубени във вековете и погребани под утайките на времето в много светове. Но сега те са преоткрити и използвани от човечеството, а обединеният звезден квартал е крайният резултат. И такава Лига от светове ще бъде необходима, тъй като колкото и стари да са „ArcWays“, те съдържат ужасна сила, милиарди години по-стара, и тя няма да успокои, след като бъде събудена.“ - Дж. М. Долан, 2007 година";
@@ -233,7 +233,7 @@
 "F3536B74-5564-4BD4-874A-95B26833D0C1" = "Старгейт са военни научнофантастични серии, разпространявани от МГМ, които се развиват около устройството Старгейт, което осигурява почти мигновено пътуване в космоса, без да са необходими космически кораби.";
 
 // English: These are the spacecraft that provide real-time geopositioning and navigation across the globe via GPS/GNSS networks
-//"F8A5B429-0B42-424E-B5EC-21A711147F1B" = "Това са космическите апарати, които осигуряват геопозициониране и навигация в реално време по целия свят чрез мрежите GPS и GNSS";
+"F8A5B429-0B42-424E-B5EC-21A711147F1B" = "Това са космическите апарати, които осигуряват геопозициониране и навигация в реално време по целия свят чрез мрежите GPS и GNSS";
 
 // English: A near-Earth object (NEO) is any small Solar System body whose orbit brings it into proximity with Earth.
 "FF1B03B8-4A0D-49D7-89AA-4DCF74FF95FB" = "Това са близкоземните астрономически обекти (БАО), които имат орбити близо до Земята .";
