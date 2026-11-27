@@ -1,134 +1,134 @@
 // English: Rubin Observatory's first candidate, 2026 ED₁₃₈
-"0468C42A-480D-44FE-A568-4652890506AA" = "Първият кандидат на обсерваторията Рубин: 2026 ED₁₃₈";
+"0468C42A-480D-44FE-A568-4652890506AA" = "Rubin Observatory's first candidate, 2026 ED₁₃₈";
 
 // English: Discoveries span 3,759 star systems
-"06720596-C2D4-B873-D446-70D48B3E7F2C" = "Откритията обхващат 3 759 звездни системи";
+"06720596-C2D4-B873-D446-70D48B3E7F2C" = "Discoveries span 3,759 star systems";
 
 // English: Write CEL and CELX scripts to run in Celestia
-"105B2DE9-9D99-C9C0-478F-171BB21ED979" = "Пишете скриптове CEL и CELX за изпълнение в Celestia";
+"105B2DE9-9D99-C9C0-478F-171BB21ED979" = "Write CEL and CELX scripts to run in Celestia";
 
 // English: Explore with the full Celestia data set in your browser
-"13867212-3685-4D11-8068-B990C0C6EFFE" = "Изследвайте с пълния набор от данни на Celestia във вашия браузър";
+"13867212-3685-4D11-8068-B990C0C6EFFE" = "Explore with the full Celestia data set in your browser";
 
 // English: Still exploring after 5 shuttle servicing missions
-"14AED8EE-A9BD-49CC-8A8C-9A55E84063EF" = "Все още работи след 5 сервизни мисии на совалките";
+"14AED8EE-A9BD-49CC-8A8C-9A55E84063EF" = "Still exploring after 5 shuttle servicing missions";
 
 // English: ESA begins an 8-year journey to the icy moons
-"211275CC-D79A-9C81-A2DF-6047DD4AC35D" = "ЕКА започва 8-годишно пътуване към ледените луни";
+"211275CC-D79A-9C81-A2DF-6047DD4AC35D" = "ESA begins an 8-year journey to the icy moons";
 
 // English: A project to texture every known exoplanet
-"2132DADC-F417-E3BB-929B-3E6809477F4B" = "Проект за създаване на текстури за всяка известна екзопланета";
+"2132DADC-F417-E3BB-929B-3E6809477F4B" = "A project to texture every known exoplanet";
 
 // English: Japan's first lunar lander retired after contact loss
-"2865EF98-E00E-429D-B138-D7D935A672D2" = "Първият лунен спускаем апарат на Япония е изведен от експлоатация след загуба на връзка";
+"2865EF98-E00E-429D-B138-D7D935A672D2" = "Japan's first lunar lander retired after contact loss";
 
 // English: Propulsion failure prevents a lunar landing
-"3ED58D25-0C97-4512-9D1D-7EB3DEF388CE" = "Повреда в задвижването възпрепятства кацане на Луната";
+"3ED58D25-0C97-4512-9D1D-7EB3DEF388CE" = "Propulsion failure prevents a lunar landing";
 
 // English: SLS debuts on an uncrewed mission to the Moon
-"4843133F-E135-651F-8819-9C60C91108EE" = "SLS дебютира в безпилотна мисия до Луната";
+"4843133F-E135-651F-8819-9C60C91108EE" = "SLS debuts on an uncrewed mission to the Moon";
 
 // English: NASA tests asteroid deflection with a kinetic impact
-"4B4A6963-C463-CF47-81ED-B25AD3B864C4" = "НАСА тества отклоняване на астероид чрез кинетичен удар";
+"4B4A6963-C463-CF47-81ED-B25AD3B864C4" = "NASA tests asteroid deflection with a kinetic impact";
 
 // English: First spacecraft 1 light-day from Earth
-"5579479D-99E3-4802-A08A-2267AFD82416" = "Първият космически апарат на 1 светлинен ден от Земята";
+"5579479D-99E3-4802-A08A-2267AFD82416" = "First spacecraft 1 light-day from Earth";
 
 // English: First crewed Moon mission since 1972
-"63B1B825-7FD1-42BF-8EF2-30A553A5364F" = "Първата пилотирана мисия до Луната от 1972 година насам";
+"63B1B825-7FD1-42BF-8EF2-30A553A5364F" = "First crewed Moon mission since 1972";
 
 // English: Potentially the brightest comets since 1965
-"66BFE39D-47F4-4F56-923C-437976473B82" = "Потенциално най-ярките комети от 1965 година насам";
+"66BFE39D-47F4-4F56-923C-437976473B82" = "Potentially the brightest comets since 1965";
 
 // English: Chandrayaan-3 makes India the fourth nation to land
-"6C1BE571-3CB8-4E9B-9215-DA7BC6FFF768" = "Chandrayaan-3 превръща Индия в четвъртата държава с успешно кацане";
+"6C1BE571-3CB8-4E9B-9215-DA7BC6FFF768" = "Chandrayaan-3 makes India the fourth nation to land";
 
 // English: 2022 EB5 discovered 2 hours before impact near Iceland
-"6D4AAA02-607D-DE61-DE81-61A3335F955E" = "2022 EB5 е открит 2 часа преди навлизането си в атмосферата близо до Исландия";
+"6D4AAA02-607D-DE61-DE81-61A3335F955E" = "2022 EB5 discovered 2 hours before impact near Iceland";
 
 // English: Set the date to the mission's active period
-"6E1BB6B2-178D-F3DF-0C25-E7DE6741CBB5" = "Задайте датата към активния период на мисията";
+"6E1BB6B2-178D-F3DF-0C25-E7DE6741CBB5" = "Set the date to the mission's active period";
 
 // English: Lua-based scripting API reference for Celestia
-"6F7D2F2A-BD35-924D-D068-2B7E61022445" = "Справочник за скриптовия API на базата на Lua за Celestia";
+"6F7D2F2A-BD35-924D-D068-2B7E61022445" = "Lua-based scripting API reference for Celestia";
 
 // English: Choose how you move relative to objects
-"7013117F-362E-7138-59BB-B9ED52ADECF1" = "Изберете как се движите спрямо обектите";
+"7013117F-362E-7138-59BB-B9ED52ADECF1" = "Choose how you move relative to objects";
 
 // English: Connect a gamepad and customize its controls
-"72B827A7-7164-6A3E-2557-4C164E14E95C" = "Свържете контролер и персонализирайте управлението му";
+"72B827A7-7164-6A3E-2557-4C164E14E95C" = "Connect a gamepad and customize its controls";
 
 // English: Double gravity assist on the way to Jupiter
-"7BC89DB4-893A-45A3-9B27-B24C83BD85FD" = "Двойна гравитационна маневра по пътя към Юпитер";
+"7BC89DB4-893A-45A3-9B27-B24C83BD85FD" = "Double gravity assist on the way to Jupiter";
 
 // English: 8 crew members and 2 backups selected
-"7DF151B3-3D68-EA68-45C8-72D3C1A51435" = "Избрани са 8 членове на екипажа и 2 резерви";
+"7DF151B3-3D68-EA68-45C8-72D3C1A51435" = "8 crew members and 2 backups selected";
 
 // English: Closest approach in 50,000 years
-"83986AFF-1BFE-2DE9-0B41-9D59D147D507" = "Най-близко приближаване от 50 000 години";
+"83986AFF-1BFE-2DE9-0B41-9D59D147D507" = "Closest approach in 50,000 years";
 
 // English: The third known interstellar object in the Solar System
-"85C0B69E-FBFC-4A58-9B11-1BC666ED1C7D" = "Третият известен междузвезден обект в Слънчевата система";
+"85C0B69E-FBFC-4A58-9B11-1BC666ED1C7D" = "The third known interstellar object in the Solar System";
 
 // English: Create, test, and share your own Celestia add-on
-"8EC3F332-AC7F-4E6D-B6EB-055AD131C968" = "Създавайте, тествайте и споделяйте собствените си добавки за Celestia";
+"8EC3F332-AC7F-4E6D-B6EB-055AD131C968" = "Create, test, and share your own Celestia add-on";
 
 // English: First image of the Milky Way's central black hole
-"92DB1F10-899E-E5E4-D997-19EA8018AA8F" = "Първото изображение на централната черна дупка на Млечния път";
+"92DB1F10-899E-E5E4-D997-19EA8018AA8F" = "First image of the Milky Way's central black hole";
 
 // English: Farthest crewed flight from Earth
-"96BA8300-9631-4943-A33A-AD0D2E5AC410" = "Най-далечният пилотиран полет от Земята";
+"96BA8300-9631-4943-A33A-AD0D2E5AC410" = "Farthest crewed flight from Earth";
 
 // English: Second uncrewed flight to the ISS ends successfully
-"99D012D7-27E8-D664-48BB-18C03C082AF3" = "Вторият безпилотен полет до МКС завърши успешно";
+"99D012D7-27E8-D664-48BB-18C03C082AF3" = "Second uncrewed flight to the ISS ends successfully";
 
 // English: Run scripts, save bookmarks, and open Celestia links
-"A0AB3F01-E616-3C49-0934-0583D803E9D0" = "Изпълнявайте скриптове, запазвайте отметки и отваряйте връзките към Celestia";
+"A0AB3F01-E616-3C49-0934-0583D803E9D0" = "Run scripts, save bookmarks, and open Celestia links";
 
 // English: IAU invites names for 20 exoplanetary systems
-"B0B3F307-A97A-9012-08B4-C2F19B20AF8B" = "МАС кани за предложения за имена на 20 екзопланетни системи";
+"B0B3F307-A97A-9012-08B4-C2F19B20AF8B" = "IAU invites names for 20 exoplanetary systems";
 
 // English: Uncrewed replacement will extend the ISS stay to a year
-"B8EF9369-FBDA-9E2A-5D67-46DED6B7BDFA" = "Безпилотна замяна ще удължи престоя на МКС до една година";
+"B8EF9369-FBDA-9E2A-5D67-46DED6B7BDFA" = "Uncrewed replacement will extend the ISS stay to a year";
 
 // English: Touch, mouse, keyboard, gamepad, and joystick
-"BE1B5023-46B6-1F10-F15F-3B3F02F30300" = "Докосване, мишка, клавиатура, контролер и джойстик";
+"BE1B5023-46B6-1F10-F15F-3B3F02F30300" = "Touch, mouse, keyboard, gamepad, and joystick";
 
 // English: Voyager's project scientist steps down after 50 years
-"C7C92C55-8321-758A-AF1B-B49A64CC6E63" = "Научният ръководител на проекта Voyager се оттегля след 50 години";
+"C7C92C55-8321-758A-AF1B-B49A64CC6E63" = "Voyager's project scientist steps down after 50 years";
 
 // English: Use your own Celestia data and configuration files
-"CA57806B-690B-CE4C-2173-B0B6079544FF" = "Използвайте собствени файлове с данни и конфигурации за Celestia";
+"CA57806B-690B-CE4C-2173-B0B6079544FF" = "Use your own Celestia data and configuration files";
 
 // English: 4 astronauts chosen for a crewed lunar flyby
-"CCC152D6-5496-AEE4-58D1-BFAD11905100" = "Избрани са 4 астронавти за пилотирано прелитане на Луната";
+"CCC152D6-5496-AEE4-58D1-BFAD11905100" = "4 astronauts chosen for a crewed lunar flyby";
 
 // English: Celestia has no affiliation with star-naming services
-"CEBBED14-9BDB-EF17-02E8-C8503EB3AE03" = "Celestia няма връзка с услуги за наименуване на звезди";
+"CEBBED14-9BDB-EF17-02E8-C8503EB3AE03" = "Celestia has no affiliation with star-naming services";
 
 // English: Views from the world's largest digital camera
-"D05707AB-99FE-4693-A623-0DE1CA68DE85" = "Снимки от най-голямата цифрова камера в света";
+"D05707AB-99FE-4693-A623-0DE1CA68DE85" = "Views from the world's largest digital camera";
 
 // English: Install add-ons and scripts on your device
-"D1A96BFA-00BB-0089-F361-10DD886C8A4F" = "Инсталирайте добавки и скриптове на устройството си";
+"D1A96BFA-00BB-0089-F361-10DD886C8A4F" = "Install add-ons and scripts on your device";
 
 // English: A new view of galaxies, nebulae and exoplanets
-"D631521A-E9AA-1E31-4101-8F6E10C239BB" = "Нов изглед към галактики, мъглявини и екзопланети";
+"D631521A-E9AA-1E31-4101-8F6E10C239BB" = "A new view of galaxies, nebulae and exoplanets";
 
 // English: India's first Mars orbiter falls silent after 8 years
-"E1E38949-6C14-8FAE-BC25-61F0D44139CF" = "Първият орбитален апарат на Индия за Марс спира да предава след 8 години";
+"E1E38949-6C14-8FAE-BC25-61F0D44139CF" = "India's first Mars orbiter falls silent after 8 years";
 
 // English: First expansion module docks 13 hours after launch
-"E3B6869A-9336-394D-7B60-B3CC1DF1E6D4" = "Първият разширителен модул се скачи 13 часа след изстрелването";
+"E3B6869A-9336-394D-7B60-B3CC1DF1E6D4" = "First expansion module docks 13 hours after launch";
 
 // English: 2024 RW₁ detected 14 hours before impact
-"E5E18212-C38C-44E2-9BCB-03911D2B6561" = "2024 RW₁ е засечен 14 часа преди да удари Земята";
+"E5E18212-C38C-44E2-9BCB-03911D2B6561" = "2024 RW₁ detected 14 hours before impact";
 
 // English: Dust-covered solar panels will end the Mars mission
-"F1BDF26E-A0C3-2CF1-2CC7-C70CAE011594" = "Запрашени слънчеви панели ще сложат край на мисията до Марс";
+"F1BDF26E-A0C3-2CF1-2CC7-C70CAE011594" = "Dust-covered solar panels will end the Mars mission";
 
 // English: First G5 geomagnetic storm since 2003
-"F43764E4-7E10-4B7F-990C-259DFF63A9BA" = "Първата геомагнитна буря от клас G5 от 2003 г. насам";
+"F43764E4-7E10-4B7F-990C-259DFF63A9BA" = "First G5 geomagnetic storm since 2003";
 
 // English: Explore space in your browser with a smaller download
-"FFB76B69-1ADA-8F27-AD06-B0880F7EF43C" = "Изследвайте космоса във вашия браузър с по-малък размер за изтегляне";
+"FFB76B69-1ADA-8F27-AD06-B0880F7EF43C" = "Explore space in your browser with a smaller download";
